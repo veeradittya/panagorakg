@@ -246,18 +246,42 @@ For the **top 50 holdings**, review:
 
 ### Phase 3: News & Market Intelligence (depth 1-2)
 
-For the **top 50 holdings**, search for:
+Use **all three intelligence sources** — do not rely on just one:
 
+#### Source A: Web Search (primary for recency)
+For each of the **top 50 holdings**, run web searches for:
 1. **Recent news** (last 90 days) from tier-1 sources:
    - Reuters, Bloomberg, Financial Times, Wall Street Journal
    - CNBC, MarketWatch, Barron's
    - Industry-specific: Semiconductor Engineering, Ars Technica, etc.
-
 2. **Analyst reports** and consensus estimates
-
 3. **Regulatory actions**: SEC enforcement, FTC investigations, DOJ antitrust
-
 4. **Geopolitical factors**: Trade restrictions, tariffs, sanctions
+
+#### Source B: Your Own Training Knowledge (primary for depth)
+You (Claude) have extensive knowledge about these companies from your training data. **Use it aggressively.** For each holding:
+- Supply chain relationships (who makes what for whom)
+- Competitive dynamics (who competes with whom and why)
+- Historical context (past crises, regulatory actions, management changes)
+- Industry structure (oligopolies, barriers to entry, platform dynamics)
+- Cross-company executive connections (shared board members, alumni networks)
+- Known risk factors that may not appear in recent news
+
+**Important:** Your training knowledge is the richest source for relationship mapping (Phase 4). A web search won't tell you that TSMC fabricates chips for both NVIDIA and Apple, or that Jensen Huang and Lisa Su are cousins — but you know this. Use it.
+
+Mark edges derived purely from training knowledge with `"source": "claude_knowledge"` in metadata and `"confidence": "high"` if you are certain, `"medium"` if plausible but unverified by a recent source.
+
+#### Source C: Bing News RSS (for automated scraping)
+For systematic coverage beyond manual web search, you can fetch news via Bing News RSS:
+```
+https://www.bing.com/news/search?q={company_name}&format=rss
+```
+This returns XML with `<item>` blocks containing `<title>`, `<link>`, `<pubDate>`. The `<link>` is a Bing tracking URL — extract the real publisher URL from the `url=` query parameter:
+```
+http://www.bing.com/news/apiclick.aspx?...url=https%3a%2f%2fwww.reuters.com%2f...
+→ decode: https://www.reuters.com/...
+```
+Use this for the top 50 holdings to ensure you don't miss recent developments. Set `last_seen_at` for any entity mentioned in articles from the last 48 hours.
 
 ### Phase 4: Relationship Mapping (edges)
 
