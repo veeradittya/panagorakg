@@ -390,9 +390,35 @@ For each market event, determine which portfolio holdings are **materially affec
 - Every edge must have both `source_label` and `target_label` matching existing nodes
 - No orphan nodes (every node must have at least 1 edge)
 
-### Data Freshness
-- Set `last_seen_at` to current timestamp for any entity mentioned in news from the last 48 hours
-- Leave `last_seen_at` as `null` for entities only found in SEC filings
+### Data Freshness & Heat Signals
+
+The dashboard has a **HEAT toggle** that highlights entities with recent activity. This is driven entirely by the `last_seen_at` field on nodes. Getting this right is critical for the visualization to be useful.
+
+**Rules for setting `last_seen_at`:**
+
+1. **Set to current ISO timestamp** (`new Date().toISOString()`) for any entity that:
+   - Appears in a news article published within the last **48 hours**
+   - Is named in an SEC filing (8-K) filed within the last **48 hours**
+   - Is directly referenced in a prediction market event that traded >$100K in the last **24 hours**
+   - Had a material price move (>5% in a day) within the last **48 hours**
+   - Was mentioned in an earnings call or analyst report within the last **48 hours**
+
+2. **Set to null** for entities only found in:
+   - Annual SEC filings (10-K) older than 48 hours
+   - Historical data or background research
+   - Static relationships (e.g., "TSMC fabricates NVIDIA chips" — always true, not news)
+
+3. **Propagate heat to 1st-order connections**: If a node is hot (has `last_seen_at` within 48hrs), the dashboard automatically gives a lighter glow to its direct neighbors. You do NOT need to set `last_seen_at` on neighbors — just on the primary entity mentioned in the news. The visualization handles the propagation.
+
+**How heat appears on the dashboard:**
+- Nodes with `last_seen_at` within 48 hours glow **pulsing red** (`#ff3333`) when HEAT is toggled on
+- Their 1st-order neighbors glow a dimmer red (`#661111`)
+- The pulse is a smooth sinusoidal animation (2.5s period)
+- Without HEAT toggle, hot nodes appear **white and 30% larger** than normal nodes
+
+**Why this matters:** A portfolio manager looking at the graph should immediately see which parts of their portfolio are "in the news right now" — an earnings miss at NVIDIA, a regulatory action against Meta, an oil price spike affecting energy holdings. The heat signal is the difference between a static org chart and a live intelligence dashboard.
+
+**Be aggressive with heat tagging.** If you're unsure whether something qualifies, tag it. It's better to highlight too many entities than to miss a material development. The user can always toggle HEAT off.
 
 ---
 
