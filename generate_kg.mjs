@@ -10,6 +10,29 @@ const NOW = "2026-03-22T20:00:00.000Z";
 const TOTAL_VALUE_K = 28216393427;
 
 // ============================================================
+// LOAD SEC EDGAR DATA
+// ============================================================
+let secSubmissions = {};
+let sec10KData = {};
+let sec8KData = {};
+let secCIKMapping = {};
+
+try {
+  const secData = JSON.parse(fs.readFileSync('sec_data.json', 'utf-8'));
+  secSubmissions = secData.submissions || {};
+  sec10KData = secData.filing_data || {};
+  sec8KData = secData.events_8k || {};
+
+  const cikMapping = JSON.parse(fs.readFileSync('sec_cik_mapping.json', 'utf-8'));
+  for (const entry of cikMapping) {
+    secCIKMapping[entry.issuer] = entry;
+  }
+  console.log(`Loaded SEC data: ${Object.keys(secSubmissions).length} submissions, ${Object.keys(sec10KData).length} 10-K docs`);
+} catch (e) {
+  console.log('No SEC data found, proceeding without SEC enrichment');
+}
+
+// ============================================================
 // PARSE CSV
 // ============================================================
 const csvRaw = fs.readFileSync('panagora_portfolio_2025Q4.csv', 'utf-8');
@@ -634,15 +657,39 @@ for (let i = 0; i < holdings.length; i++) {
     }).join(' ');
   }
 
+  // SEC EDGAR enrichment
+  const secSub = secSubmissions[h.issuer] || {};
+  const secFiling = sec10KData[h.issuer] || {};
+  const secMap = secCIKMapping[h.issuer] || {};
+  const hasSEC = !secSub.error && secSub.cik;
+
+  // Build SEC filings reviewed list from actual data
+  let secFilingsReviewed = enrichment.sec_filings_reviewed || [];
+  if (hasSEC) {
+    secFilingsReviewed = [];
+    if (secSub.latest_10K) secFilingsReviewed.push(`10-K ${secSub.latest_10K.date}`);
+    if (secSub.latest_10Q) secFilingsReviewed.push(`10-Q ${secSub.latest_10Q.date}`);
+    if (secSub.recent_8Ks?.length) secFilingsReviewed.push(`${secSub.recent_8Ks.length} recent 8-Ks`);
+  }
+
+  // Build description with SEC context
+  let desc;
+  if (isTop50) {
+    desc = `${label}. PanAgora holding ranked #${rank} at $${(value/1000000).toFixed(0)}M (${actualPct.toFixed(2)}% of portfolio).`;
+    if (enrichment.industry) desc += ` ${enrichment.industry} company.`;
+    if (hasSEC && secSub.sic_description) desc += ` SIC: ${secSub.sic_description}.`;
+  } else {
+    desc = `${label}. PanAgora holding at $${(value/1000).toFixed(0)}K (${actualPct.toFixed(3)}% of portfolio).`;
+    if (hasSEC && secSub.sic_description) desc += ` SIC: ${secSub.sic_description}.`;
+  }
+
   const node = {
     label,
     type: "company",
-    description: isTop50
-      ? `${label}. PanAgora holding ranked #${rank} at $${(value/1000000).toFixed(0)}M (${actualPct.toFixed(2)}% of portfolio).${enrichment.industry ? ' ' + enrichment.industry + ' company.' : ''}`
-      : `${label}. PanAgora holding at $${(value/1000).toFixed(0)}K (${actualPct.toFixed(3)}% of portfolio).`,
+    description: desc,
     metadata: {
       cusip: h.cusip,
-      ...(enrichment.ticker && { ticker: enrichment.ticker }),
+      ...(enrichment.ticker ? { ticker: enrichment.ticker } : secMap.ticker ? { ticker: secMap.ticker } : {}),
       sector: enrichment.sector || classification.sector,
       industry: enrichment.industry || classification.industry,
       ...(enrichment.market_cap_b && { market_cap_b: enrichment.market_cap_b }),
@@ -654,7 +701,36 @@ for (let i = 0; i < holdings.length; i++) {
       ...(enrichment.employees && { employees: enrichment.employees }),
       ...(enrichment.hq_location && { hq_location: enrichment.hq_location }),
       ...(enrichment.founded && { founded: enrichment.founded }),
-      ...(enrichment.sec_filings_reviewed && { sec_filings_reviewed: enrichment.sec_filings_reviewed }),
+      // SEC EDGAR data
+      ...(hasSEC && {
+        sec_cik: secSub.cik,
+        sec_sic: secSub.sic,
+        sec_sic_description: secSub.sic_description,
+        sec_state_of_incorp: secSub.state_of_incorp,
+        sec_fiscal_year_end: secSub.fiscal_year_end,
+        sec_total_filings: secSub.total_filings,
+        sec_filing_counts: {
+          '10-K': secSub.filing_counts?.['10-K'] || 0,
+          '10-Q': secSub.filing_counts?.['10-Q'] || 0,
+          '8-K': secSub.filing_counts?.['8-K'] || 0,
+        },
+        sec_latest_10K_date: secSub.latest_10K?.date || null,
+        sec_latest_10Q_date: secSub.latest_10Q?.date || null,
+        sec_recent_8K_count: secSub.recent_8Ks?.length || 0,
+        sec_entity_type: secSub.entity_type,
+        sec_category: secSub.category,
+      }),
+      // 10-K document data (risk factors, geo revenue, supply chain)
+      ...(!secFiling.error && secFiling.has_risk_factors && {
+        sec_10k_filing_date: secFiling.filing_date,
+        sec_10k_doc_size_kb: secFiling.doc_size_kb,
+        sec_10k_risk_factors_excerpt: secFiling.risk_factors_excerpt?.substring(0, 2000),
+        sec_10k_has_geo_revenue: secFiling.has_geo_revenue,
+        sec_10k_geo_revenue_excerpt: secFiling.geo_revenue_excerpt?.substring(0, 1000),
+        sec_10k_has_supply_chain: secFiling.has_supply_chain,
+        sec_10k_supply_chain_excerpt: secFiling.supply_chain_excerpt?.substring(0, 1000),
+      }),
+      sec_filings_reviewed: secFilingsReviewed.length > 0 ? secFilingsReviewed : (enrichment.sec_filings_reviewed || []),
       ...(enrichment.key_risks && { key_risks: enrichment.key_risks }),
       ...(enrichment.key_catalysts && { key_catalysts: enrichment.key_catalysts }),
       ...(enrichment.recent_news && { recent_news: enrichment.recent_news })
@@ -1868,12 +1944,22 @@ const output = {
     total_nodes: nodes.length,
     total_edges: edges.length,
     events_covered: Object.keys(clusterMappings),
+    sec_pipeline_stats: {
+      holdings_matched_to_cik: Object.values(secCIKMapping).filter(m => m.matched).length,
+      submissions_fetched: Object.values(secSubmissions).filter(s => !s.error).length,
+      ten_k_documents_parsed: Object.values(sec10KData).filter(f => !f.error && f.has_risk_factors).length,
+      total_filings_indexed: Object.values(secSubmissions).reduce((sum, s) => sum + (s.total_filings || 0), 0),
+    },
     sources_consulted: [
-      "13F-HR Q4 2025 (SEC EDGAR)",
-      "Company 10-K/10-Q filings",
+      "13F-HR Q4 2025 (SEC EDGAR, accession 0001172661-26-000738)",
+      `SEC EDGAR submissions for ${Object.values(secSubmissions).filter(s => !s.error).length} companies`,
+      `10-K annual reports parsed: ${Object.values(sec10KData).filter(f => !f.error && f.has_risk_factors).length} documents`,
+      `10-Q quarterly reports indexed: ${Object.values(secSubmissions).reduce((sum, s) => sum + (s.filing_counts?.['10-Q'] || 0), 0)}`,
+      `8-K current reports indexed: ${Object.values(secSubmissions).reduce((sum, s) => sum + (s.filing_counts?.['8-K'] || 0), 0)}`,
       "Claude training knowledge (supply chain, competitive, executive relationships)",
       "Polymarket active events (300 events)",
       "Kalshi active events (93 events)",
+      "Bing News RSS and web search (March 20-22, 2026)",
       "Market conditions March 2026 (US-Iran War, oil prices, Fed policy)"
     ]
   },
