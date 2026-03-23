@@ -1,0 +1,322 @@
+# SOUTHERN FIRST BANCSHARES — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 1090009
+# SIC: National Commercial Banks
+# Source: https://www.sec.gov/Archives/edgar/data/1090009/000120677426000084/sfst4554191-10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+5
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+30 
+Item 1B. 
+Unresolved Staff Comments 
+44 
+Item 1C. 
+Cybersecurity 
+44 
+Item 2. 
+Properties 
+46 
+Item 3. 
+Legal Proceedings 
+46 
+Item 4. 
+Mine Safety Disclosures 
+46 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities 
+46 
+Item 6. 
+[Reserved] 
+48 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+49 
+Item 7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+68 
+Item 8. 
+Financial Statements and Supplementary Data 
+69 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+113 
+Item 9A. 
+Controls and Procedures 
+113 
+Item 9B. 
+Other Information 
+114 
+Item 9C. 
+Disclosures Regarding Foreign Jurisdictions that Prevent Inspections 
+114 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+114 
+Item 11. 
+Executive Compensation 
+114 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters 
+114 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+114 
+Item 14. 
+Principal Accounting Fees and Services 
+114 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+115 
+SIGNATURES 
+119 
+2 
+Table of Contents 
+CAUTIONARY NOTE REGARDING 
+FORWARD-LOOKING STATEMENTS 
+This Annual Report on Form 10-K contains statements which
+constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities
+Exchange Act of 1934, as amended (the Exchange Act ). Forward-looking statements may relate to our financial condition, results
+of operation, plans, business strategy, objectives, or future performance. These statements are based on many assumptions and estimates
+and are not guarantees of future performance. Our actual results may differ materially from those anticipated in any forward-looking statements,
+as they will depend on many factors about which we are unsure, including many factors which are beyond our control. The words may, 
+would, could, should, will, seek to, strive, focus, 
+expect, anticipate, forecasts, predict, project, potential, 
+believe, continue, assume, intend, plan, and estimate, 
+as well as similar expressions, are meant to identify such forward-looking statements. Potential risks and uncertainties that could cause
+our actual results to differ from those anticipated in any forward-looking statements include, but are not limited to, those described
+below under Item 1A. Risk Factors and the following: 
+Restrictions or conditions imposed by our regulators on our
+operations; 
+Increases in competitive pressure in the banking and financial
+services industries; 
+Changes in access to funding or increased regulatory requirements
+with regard to funding, which could impair our liquidity; 
+Changes in deposit flows, which may be negatively affected
+by a number of factors, including rates paid by competitors, general interest rate levels, regulatory capital requirements, returns available
+to clients on alternative investments and general economic or industry conditions; 
+Credit losses as a result of declining real estate values,
+increasing interest rates, increasing unemployment, changes in payment behavior or other factors; 
+Credit losses due to loan concentration; 
+Changes in the amount of our loan portfolio collateralized
+by real estate and weaknesses in the real estate market; 
+Our ability to successfully execute our business strategy;
+Our ability to attract and retain key personnel; 
+The success and costs of expansion into potential new markets;
+Risks with respect to future mergers or acquisitions, including
+our ability to successfully expand and integrate the businesses and operations that we acquire and realize the anticipated benefits of
+the mergers or acquisitions; 
+Changes in the interest rate environment which could reduce
+anticipated or actual margins; 
+Changes in political, economic, legislative, or regulatory
+conditions, including new governmental initiatives affecting the financial services industry and potential disruptions resulting from
+U.S. federal government funding lapses, shutdowns, or related fiscal policy uncertainty; 
+Changes in economic conditions resulting in, among other things,
+a deterioration in credit quality; 
+Changes occurring in business conditions and inflation; 
+Increased cybersecurity risk, including potential business
+disruptions or financial losses; 
+Changes in technology; 
+The adequacy of the level of our allowance for credit losses
+and the amount of loan loss provisions required in future periods; 
+Examinations by our regulatory authorities, including the
+possibility that the regulatory authorities may, among other things, require us to increase our allowance for credit losses or write-down
+assets; 
+Changes in U.S. monetary policy, the level and volatility
+of interest rates, the capital markets and other market conditions that may affect, among other things, our liquidity and the value of
+our assets and liabilities; 
+Any increase in FDIC assessments which will increase our cost
+of doing business; 
+3 
+Table of Contents 
+Risks associated with complex and changing regulatory environments,
+including, among others, with respect to data privacy, artificial intelligence ( AI ), information security, climate change
+or other environmental, social and governance matters, and labor matters, relating to our operations; 
+The rate of delinquencies and amounts of loans charged-off;
+The rate of loan growth in recent years and the lack of seasoning
+of a portion of our loan portfolio; 
+Our ability to maintain appropriate levels of capital and
+to comply with our capital ratio requirements; 
+Adverse changes in asset quality and resulting credit risk-related
+losses and expenses; 
+Changes in accounting standards, rules and interpretations
+and the related impact on our financial statements; 
+Risks associated with actual or potential litigation or investigations
+by customers, regulatory agencies or others; 
+Adverse effects of failures by our vendors to provide agreed
+upon services in the manner and at the cost agreed; 
+The potential effects of events beyond our control that may
+have a destabilizing effect on financial markets and the economy, such as epidemics and pandemics; war, terrorism, or other geopolitical
+conflicts or instability, including the war in Ukraine, conflicts in the Middle East, instability or sanctions affecting Venezuela, and
+tensions between China and Taiwan; disruptions in our customers supply chains or transportation networks; essential utility outages;
+trade disputes and related tariffs; and disruptions caused by widespread cybersecurity incidents; and 
+Other risks and uncertainties detailed in this Annual Report
+on Form 10-K and, from time to time, in our other filings with the Securities and Exchange Commission ( SEC ). 
+If any of these risks or uncertainties materialize, or if
+any of the assumptions underlying such forward-looking statements proves to be incorrect, our results could differ materially from those
+expressed in, implied or projected by, such forward-looking statements. For information with respect to factors that could cause actual
+results to differ from the expectations stated in the forward-looking statements, see Risk Factors under Part I, Item 1A
+of this Annual Report on Form 10-K. We urge investors to consider all of these factors carefully in evaluating the forward-looking statements
+contained in this Annual Report on Form 10-K. We make these forward-looking as of the date of this document and we do not intend, and
+assume no obligation, to update the forward-looking statements or to update the reasons why actual results could differ from those expressed
+in, or implied or projected by, the forward-looking statements, except as required by applicable law. 
+4 
+Table of Contents 
+PART I 
+Item 1. Business 
+General 
+Southern First Bancshares, Inc. (the Company )
+was incorporated in March 1999 under the laws of South Carolina and is a bank holding company registered under the Bank Holding Company
+Act of 1956 (the BHCA ). Our primary business is to serve as the holding company for Southern First Bank (the Bank ),
+a South Carolina state bank. The Bank is a commercial bank with eight retail offices located in the Greenville, Columbia, and Charleston
+markets of South Carolina, three retail offices in the Raleigh, Greensboro, and Charlotte markets of North Carolina and one retail office
+in Atlanta, Georgia. In addition, we opened our Dream Mortgage Center, a loan production office, located in Columbia, South Carolina during
+2023 and expect to open a retail office in Cary, North Carolina in late 2026. 
+The Bank is primarily engaged in the business of accepting
+demand deposits and savings deposits insured by the Federal Deposit Insurance Corporation (the FDIC ), and providing commercial,
+consumer and mortgage loans to the general public. 
+Unless the context requires otherwise, references to the Company, 
+we, us, our, or similar references mean Southern First Bancshares, Inc. and its subsidiaries. 
+Our Competitive Strengths 
+We believe that the following business strengths have been
+instrumental to the success of our core operations. We believe these attributes will enable us to continue profitable growth, while remaining
+fundamentally sound and driving value to our shareholders. 
+Simple and Efficient ClientFIRST Model. We operate
+our Bank using a simple and efficient style of banking that is focused on providing core banking products and services to our clients
+through a team of talented and experienced bankers. We refer to this model as ClientFIRST and it is structured to deliver
+superior client service via relationship teams, which provide each client with a specific banker contact and a consistent
+support team responsible for all of the client s banking needs. We believe this model results in a consistent and superior level
+of professional service that provides us with a distinct competitive advantage by enabling us to build and maintain long-term relationships
+with desirable clients, enhancing the quality and stability of our funding and lending operations and positioning us to take advantage
+of future growth opportunities in our existing markets. We also believe that this client focused culture has led to our successful expansion
+into new markets in the past, and will enable us to be successful if we seek to expand into new markets in the future. 
+Our ClientFIRST model focuses on achieving cost efficiencies
+by diligently managing the growth of our number of employees and banking offices. We believe that the identification of talented bankers
+will drive our growth strategy, as opposed to a more general desire to enter a specific geography or market. This strategy translates
+into a smaller number of brick-and-mortar offices relative to our size and compared to peer banks, but larger overall deposit balances
+in our offices as compared to peers. As a result, our offices average approximately $263.7 million in total deposits. We believe this
+style of banking allows us to deliver exceptional client service, while achieving lower efficiency ratios relative to certain of our local
+competitors, as evidenced by our 64.0% efficiency ratio for the year ended December 31, 2025. 
+We continue to make significant investments in our IT systems
+and technology offerings to our clients that we believe will continue to drive low-cost deposit growth. We believe that our current mobile
+banking, on-line banking and cash management offerings are industry-leading solutions amongst community banks, and we plan to continue
+to invest in the latest technology solutions to enable us to meet the evolving needs of our clients and maintain this competitive advantage
+over other community banks. 
+Attractive South Carolina, North Carolina, and Georgia
+Markets. We have eight banking offices located in Greenville, Columbia and Charleston, South Carolina, which are the three largest
+markets in South Carolina; three banking offices located in Charlotte, Raleigh and Greensboro, North Carolina, which are some of the largest
+markets in North Carolina; and one banking office located in Atlanta, Georgia, which is the largest market in Georgia. The following table
+illustrates our market share, by insured deposits as of the dates indicated, in these seven markets: 
+5 
+Table of Contents 
+Market (1) 
+Total Offices 
+Our Market Deposits at June 30, 2025 
+Total
+Market Deposits (2) 
+(Dollars in thousands) 
+Greenville 
+4 
+$ 1,776,590 
+$ 25,997,019 
+Charleston 
+3 
+705,445 
+23,087,727 
+Atlanta 
+1 
+469,667 
+245,973,642 
+Columbia 
+1 
+299,541 
+26,826,159 
+Raleigh 
+1 
+220,782 
+101,609,204 
+Greensboro 
+1 
+128,479 
+16,232,272 
+Charlotte 
+1 
+55,991 
+477,339,169 
+(1) Represents the metropolitan statistical area ( MSA )
+for each market. 
+(2) The total market deposits data displayed are as of June 30,
+2025 as reported by the FDIC. 
+Greenville. The city of Greenville is located in Greenville
+County, South Carolina approximately midway between Atlanta and Charlotte on the heavily traveled I-85 business corridor. The Greenville-Anderson-Greer
+MSA is the most populous market in South Carolina with an estimated population of 996,680 as reported for 2024. The median household income
+for the Greenville-Anderson-Greer MSA was $75,881 for 2024. A large and diverse metropolitan area, the Greenville-Anderson-Greer MSA is one
+of the southeast region s premier areas for business, serving as headquarters for Michelin and Current Lighting (formerly Hubbell
+Lighting) as well as hosting significant operations for BMW and Lockheed Martin. 
+Charleston . The city of Charleston is located in Charleston
+County, South Carolina. The Charleston-North Charleston MSA is the third most populous market in the state with an estimated population
+of 869,940 for 2024. Charleston is home to the deepest port in the Southeast and boasts top companies in the aerospace, biomedical and
+technology fields such as Boeing, the Medical University of South Carolina (MUSC) and Blackbaud. The median household income for the Charleston-North
+Charleston MSA was approximately $90,307 for 2024. One of our retail offices in the Charleston market is located in the city of Mount
+Pleasant, which is located just north of Charleston in Charleston County and ranks as the fourth largest city in South Carolina. 
+Columbia . The city of Columbia is located in Richland
+County, South Carolina and its surrounding suburban areas expand into adjoining Lexington County. Columbia is the state capital, the largest
+city in the state and the home of the University of South Carolina and Fort Jackson, the Army s largest Initial Entry Training Center.
+The Columbia MSA is the second most populous market in the state with an estimated population of 870,193 for 2024. The median household
+income for the Columbia MSA was $70,788 for 2024. 
+Raleigh . The city of Ral
+
+## GEOGRAPHIC REVENUE
+to further develop existing client relationships and expand our
+client base. 
+Data related to the estimated population and median household
+income for each of the markets presented above is from the United States Census Bureau online database. 
+Experienced Management Team, Dedicated Board of Directors
+and Talented Employees. Our senior management team is led by R. Arthur Seaver, Jr., Calvin C. Hurst, Christian J. Zych, Julie
+A. Fairchild, Wesley C. Wilbanks, and Silvia T. King, whose biographies are included below. 
+R. Arthur Art Seaver, Jr . has served
+as the Chief Executive Officer of our Company and our Bank since 1999. He has over 35 years of banking experience. From 1986 until 1992,
+Mr. Seaver held various positions with The Citizens & Southern National Bank of South Carolina. From 1992 until February 1999, he
+was with Greenville National Bank, which was acquired by Regions Bank in 1998. He was the Senior Vice President in lending and was also
+responsible for managing Greenville National Bank s deposit strategies prior to leaving to form the Bank. Mr. Seaver is a 1986 graduate
+of Clemson University with a bachelor s degree in Financial Management and a 1999 graduate of the BAI Graduate School of Community
+Bank Management. 
+Calvin C. Hurst has served as Chief Banking Officer
+of our Company and our Bank since March 2019 and as President since August 2022. Mr. Hurst has over 15 years of banking experience. From
+2006 to 2008, Mr. Hurst served as a commercial underwriter for RBC Bank, and from 2008 to 2015 he served as commercial relationship manager
+for PNC Bank. Before joining Southern First, Mr. Hurst served as regional vice president for TD Bank. Mr. Hurst is a 2005 graduate of
+Furman University, with a Bachelor s degree in Business Administration and Economics. 
+Christian J. Zych has served as Chief Financial Officer
+of our Company and our Bank since May 2024. Prior to joining us, Mr. Zych held various roles at United Community Bank, most recently serving
+as Director of Corporate Development and Investor Relations for over a decade. He has 30 years of experience in the banking industry,
+including financial management and analysis, formulation and execution
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the Bank s capital and surplus and, as to all affiliates combined, to 20% of the Bank s
+capital and surplus. Furthermore, within the foregoing limitations as to amount, each covered transaction must meet specified collateral
+requirements. The Bank is forbidden to purchase low quality assets from an affiliate. 
+Section 23B of the Federal Reserve Act, among other things,
+prohibits an institution from engaging in certain transactions with certain affiliates unless the transactions are on terms substantially
+the same, or at least as favorable to such institution or its subsidiaries, as those prevailing at the time for comparable transactions
+with nonaffiliated companies. If there are no comparable transactions, a bank s (or one of its subsidiaries ) affiliate transaction
+must be on terms and under circumstances, including credit standards, that in good faith would be offered to, or would apply to, nonaffiliated
+companies. These requirements apply to all transactions subject to Section 23A as well as to certain other transactions. 
+The affiliates of a bank include any holding company of the
+bank, any other company under common control with the bank (including any company controlled by the same shareholders who control the
+bank), any subsidiary of the bank that is itself a bank, any company in which the majority of the directors or trustees also constitute
+a majority of the directors or trustees of the bank or holding company of the bank, any company sponsored and advised on a contractual
+basis by the bank or an affiliate, and any mutual fund advised by a bank or any of the bank s affiliates. Regulation W generally
+excludes all non-bank and non-savings association subsidiaries of banks from treatment as affiliates, except to the extent that the Federal
+Reserve decides to treat these subsidiaries as affiliates. 
+The Bank is also subject to certain restrictions on extensions
+of credit to executive officers, directors, certain principal shareholders, and their related
+
+---
+Doc size: 2048KB (capped at 2MB)

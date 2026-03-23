@@ -1,0 +1,14 @@
+# ZTO EXPRESS CAYMAN INC — 20-F Annual Report
+# Filed: 2025-04-17
+# CIK: 1677250
+# SIC: Trucking & Courier Services (No Air)
+# Source: https://www.sec.gov/Archives/edgar/data/1677250/000141057825000774/zto-20241231x20f.htm
+
+## BUSINESS DESCRIPTION
+(Not extracted)
+
+## RISK FACTORS
+ Risks Related to Our Corporate Structure. We face various legal and operational risks and uncertainties associated with being based in or having the majority of our operations in China and the complex and evolving PRC laws and regulations. For example, we face risks associated with regulatory approvals on offerings conducted overseas by and foreign investment in China-based issuers, the use of VIEs, anti-monopoly regulatory actions, and oversight on cybersecurity and data privacy, as well as the lack of PCAOB inspection on our auditors, which may impact our ability to conduct certain businesses, accept foreign investments, or remain listed on a United States or other foreign exchange. These risks could result in a material adverse change in our operations and the value of our ADSs, significantly limit or completely hinder our ability to continue to offer securities to investors, or cause the value of such securities to significantly decline. For a detailed description of risks related to doing business in China, see Item 3. 
+
+---
+Document size: 5178 KB

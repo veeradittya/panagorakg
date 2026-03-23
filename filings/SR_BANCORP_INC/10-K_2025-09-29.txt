@@ -1,0 +1,284 @@
+# SR BANCORP INC — 10-K Annual Report
+# Filed: 2025-09-29
+# CIK: 1951276
+# SIC: Savings Institutions, Not Federally Chartered
+# Source: https://www.sec.gov/Archives/edgar/data/1951276/000119312525223165/srbk-20250630.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+23 
+Item 1B. 
+Unresolved Staff Comments 
+33 
+Item 1C. 
+Cybersecurity 
+33 
+Item 2. 
+Properties 
+35 
+Item 3. 
+Legal Proceedings 
+36 
+Item 4. 
+Mine Safety Disclosures 
+36 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities 
+37 
+Item 6. 
+[Reserved] 
+37 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+38 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+51 
+Item 8. 
+Financial Statements and Supplementary Data 
+51 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+51 
+Item 9A. 
+Controls and Procedures 
+51 
+Item 9B. 
+Other Information 
+52 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+52 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+53 
+Item 11. 
+Executive Compensation 
+53 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+53 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+53 
+Item 14. 
+Principal Accountant Fees and Services 
+53 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+54 
+Item 16. 
+Form 10-K Summary 
+54 
+ii 
+PAR T I Item 1 . Business. General SR Bancorp, Inc. SR Bancorp, Inc. ( SR Bancorp or the Company ) is a Maryland chartered company and the holding company for Somerset Regal Bank (the Bank ). SR Bancorp s primary business activity is the ownership of the outstanding common stock of Somerset Regal Bank. SR Bancorp does not own or lease any property but instead uses the premises, equipment and other property of Somerset Regal Bank with the payment of appropriate rental fees, as required by applicable law and regulations, under the terms of an expense allocation agreement. At June 30, 2025, SR Bancorp had total assets of $1.08 billion, deposits of $846.0 million and total stockholders' equity of $193.8 million. The Company became the holding company for Somerset Regal Bank as part of the mutual-to-stock conversion of Somerset Savings Bank, SLA as described below. In the future, SR Bancorp may acquire or organize other entities or operating subsidiaries; however, there are no current plans, arrangements, agreements or understandings, written or oral, to do so. Our website address is www.somersetregalbank.com. We make available on our website, free of charge, our annual report on Form 10-K, quarterly reports on Form 10-Q and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. Information on our website is not to be considered a part of this document. Somerset Regal Bank. Somerset Regal Bank was formed through the combination on September 19, 2023 of Somerset Bank and Regal Bank, two New Jersey chartered institutions. The Bank operates from 14 branches in Essex, Hunterdon, Hudson, Livingston, Middlesex, Morris, Somerset and Union counties in the northern and central New Jersey. The Bank offers a variety of deposit and loan products to individuals and small businesses, most of which are located in our primary market. Completed Stock Offering On September 19, 2023, Somerset Savings Bank, SLA converted from the mutual to stock form of organization and SR Bancorp completed its stock offering. SR Bancorp sold 9,055,172 shares of its common stock at a price of $10.00 per share, which included 760,364 shares sold to Somerset Regal Bank s Employee Stock Ownership Plan. Additionally, the Company contributed 452,758 shares and $905,517 in cash to the Somerset Regal Charitable Foundation, Inc., a charitable foundation formed in connection with the conversion. Upon the completion of the conversion and offering, 9,507,930 shares of SR Bancorp common stock were outstanding. Merger with Regal Bancorp, Inc. and Regal Bank On September 19, 2023, SR Bancorp acquired Regal Bancorp, Inc. Immediately following that acquisition, Regal Bank, the wholly-owned subsidiary of Regal Bancorp, was merged with and into Somerset Savings Bank, which was renamed Somerset Regal Bank (collectively, the Merger ). In connection with the Merger, Regal Bancorp s shareholders received $23.00 in cash for each share of Regal Bancorp common stock they owned. The aggregate cost of the Merger was approximately $69.5 million. The acquisition of Regal Bancorp and Regal Bank expanded our market presence into Essex, Morris and Union Counties, New Jersey and enhanced our market presence in Somerset County, New Jersey. The Merger increased the combined banks deposit base and its loan portfolio, provided Somerset Savings Bank with greater commercial lending expertise and access to commercial loan customers and provided Regal Bank with greater residential lending expertise and access to residential loan customers. 
+1 
+Market Area The Bank, which was formed in 1887, serves Essex, Hunterdon, Middlesex, Morris, Somerset and Union counties in New Jersey through its 14 full-service branch locations. The markets served by Somerset Regal Bank encompass a broad geographic area in central and northern New Jersey. The market areas served by Somerset Regal Bank have highly developed and diverse economies. Pharmaceutical, life sciences, financial services, technology and transportation and logistics companies are among the largest employment sectors in the counties served by Somerset Regal Bank. Population and household data indicate that the market areas served by Somerset Regal Bank s branches are a mix of urban and suburban markets. Middlesex County is the most populous county with a total population of 890,000, while Hunterdon County is the least populous county with a total population of 132,000. Income measures show that the counties of Hunterdon, Morris and Somerset are relatively affluent markets, with household and per capita income measures that are well above the comparable U.S. and New Jersey measures. Comparatively, household and per capita income measures for Essex County are the lowest among the primary area counties, which were also lower than the comparable New Jersey measures and similar to the comparable U.S. measures. A comparison of household income distribution measures provides another indication of the relative affluence of Hunterdon, Morris and Somerset Counties, which maintained significantly higher percentages of households with incomes above $100,000 compared to the U.S and New Jersey. None of the primary market area counties maintained a lower percentage of households with incomes above $100,000 compared to the U.S, while Essex, Middlesex and Union Counties maintained a lower percentage of households with incomes above $100,000 compared to New Jersey. At June 30, 2025, Somerset Regal Bank maintained its largest balance of deposits in Somerset County, where it maintains its headquarters and maintains its largest branch presence. Based on June 30, 2025 deposit data, Somerset Regal Bank s $364.6 million of deposits provided for a 2.1% market share of bank and thrift deposits in Somerset County, which was the nineth largest market share out of 20 financial institutions in the market. Competition We face significant competition for deposits and loans. Our most direct competition for deposits has historically come from the many financial institutions operating in our market area, including commercial banks, savings banks, savings and loan associations and credit unions, and from other financial service companies such as brokerage firms and insurance companies. Several large holding companies operate banks in our market area, and these institutions are significantly larger than us and, therefore, have significantly greater resources. We also face competition for investors funds from money market funds, mutual funds and other corporate and government securities. Our competition for loans comes primarily from financial institutions in our market area and from other financial service providers, such as mortgage companies and mortgage brokers. Competition for loans also comes from non-depository financial service companies entering the mortgage market, such as insurance companies, securities companies, financial technology companies and specialty finance companies. We expect competition to remain intense in the future as a result of legislative, regulatory and technological changes and the continuing trend toward consolidation of the financial services industry. Technological advances, for example, have lowered barriers to entry, allowed banks to expand their geographic reach by providing services over the internet and made it possible for non-depository institutions, including financial technology companies, to offer products and services that traditionally have been provided by banks. Competition for deposits and the origination of loans could limit our growth in the future. 
+2 
+Lending Activities We offer a variety of loans, including residential, commercial real estate, multi-family, commercial and industrial and consumer loans. Historically, we have had a significant portion of our loan portfolio concentrated in residential loans, including one- to four-family residential loans. Our merger with Regal Bank greatly expanded our commercial loan portfolio and commercial lending capabilities. At June 30, 2025, residential mortgage loans comprised 53.4% of our total loan portfolio and commercial loans comprised 45.0%, which largely consisted of multi-family loans. In the future, we intend to continue to concentrate on ways to compete for a greater share of commercial loan originations in our primary market area. Loan Portfolio Composition. The following table sets forth the composition of our loan portfolio by type of loan at the dates indicated. 
+At June 30, 
+2025 
+2024 
+Amount 
+Percent 
+Amount 
+Percent 
+(In thousands) 
+Owner occupied commercial real estate loans 
+$ 
+55,127 
+6.89 
+% 
+$ 
+59,968 
+8.16 
+% 
+Other commercial real estate loans 
+72,542 
+9.07 
+% 
+75,782 
+10.31 
+% 
+Multi-family loans 
+219,934 
+27.48 
+% 
+180,364 
+24.54 
+% 
+Commercial and industrial loans 
+12,253 
+1.53 
+% 
+12,522 
+1.70 
+% 
+Total commercial loans 
+359,856 
+44.97 
+% 
+328,636 
+44.71 
+% 
+Residential mortgage loans 
+427,345 
+53.40 
+% 
+394,723 
+53.70 
+% 
+Consumer and other loans 
+13,038 
+1.63 
+% 
+11,658 
+1.59 
+% 
+Total loans 
+800,239 
+100.00 
+% 
+735,017 
+100.00 
+% 
+Allowance for credit losses 
+(5,362 
+) 
+(5,229 
+) 
+Net deferred loan origination fees 
+2,289 
+2,071 
+Loans, net 
+$ 
+797,166 
+$ 
+731,859 
+Contractual Maturities. The following tables set forth the contractual maturities of our total loan portfolio at June 30, 2025. Demand loans, loans having no stated repayment schedule or maturity, and overdraft loans reported as being due in one year or less. The tables present contractual maturities and do not reflect repricing or the effect of prepayments. Actual maturities may differ. 
+Owner Occupied Commercial Real Estate 
+Other Commercial Real Estate 
+Multi- Family 
+Commercial and Industrial 
+Residential Mortgage 
+Consumer and Other 
+Total 
+(In thousands) 
+Amounts due in: 
+One year or less 
+$ 
+54 
+$ 
+886 
+$ 
+3,460 
+$ 
+3,258 
+$ 
+204 
+$ 
+7,310 
+$ 
+15,172 
+After one through five years 
+860 
+5,554 
+23,193 
+4,505 
+5,515 
+781 
+40,408 
+After five through 15 years 
+17,464 
+29,320 
+77,491 
+2,253 
+76,195 
+4,265 
+206,988 
+More than 15 years 
+36,749 
+36,782 
+115,790 
+2,237 
+345,431 
+682 
+537,671 
+Total 
+$ 
+55,127 
+$ 
+72,542 
+$ 
+219,934 
+$ 
+12,253 
+$ 
+427,345 
+$ 
+13,038 
+$ 
+800,239 
+3 
+Fixed Versus Adjustable-Rate Loans. The following tables sets forth our fixed and adjustable-rate loans at June 30, 2025 that are contractually due after June 30, 2026. 
+Due After June 30, 2026 
+Fixed 
+Adjustable 
+Total 
+(In thousands) 
+Owner occupied commercial real estate loans 
+$ 
+$ 
+55,073 
+$ 
+55,073 
+Other commercial real estate loans 
+71,656 
+71,656 
+Multi-family loans 
+216,474 
+216,474 
+Commercial and industrial loans 
+8,995 
+8,995 
+Total commercial loans 
+$ 
+$ 
+352,198 
+$ 
+352,198 
+Residential mortgage loans 
+330,434 
+96,707 
+427,141 
+Consumer and other loans 
+3,096 
+2,632 
+5,728 
+Total loans 
+$ 
+333,530 
+$ 
+451,537 
+$ 
+785,067 
+One- to Four Family-Residential Mortgage Loans . We offer fixed- and adjustable-rate residential mortgage loans with terms of up to 30 years. We offer adjustable-rate mortgage loans with interest rates and payments that adjust annually after an initial fixed period of three, five or six years. Interest rates and payments on our adjustable-rate loans generally are adjusted to a rate equal to a percentage above the U.S. Treasury Security Index. The maximum amount by which the interest rate may be increased or decreased is generally 2.0% per adjustment period and the lifetime interest rate cap is generally 6.0% over the initial interest rate of the loan. Borrower demand for adjustable-rate loans compared to fixed-rate loans is a function of the level of interest rates, the expectations of changes in the level of interest rates, and the difference between the interest rates and loan fees offered for fixed-rate mortgage loans as compared to the interest rates and loan fees for adjustable-rate loans. The relative amount of fixed-rate and adjustable-rate mortgage loans that can be originated at any time is largely determined by the demand for each in a competitive environment. The loan fees, interest rates and other provisions of mortgage loans are determined based on our own pricing criteria and competitive market conditions. While one- to four-family residential real estate loans are normally originated with up to 30-year terms, such loans typically remain outstanding for substantially shorter periods because borrowers often prepay their loans in full either upon sale of the property pledged as security or upon refinancing the original loan. Therefore, average loan maturity is a function of, among other factors, the level of purchase and sale activity in the real estate market, prevailing interest rates and the interest rates payable on outstanding loans. It is our general policy not to make high loan-to-value loans (defined as loans with a loan-to-value ratio of 80% or more) without private mortgage insurance. We require all properties securing mortgage loans to be appraised by a board-approved independent appraiser. We require title insurance on all first mortgage loans, and borrowers must obtain hazard insurance. Additionally, we require flood insurance for loans on properties located in a flood zone and may require such insurance on properties not located in a flood zone. Generally, adjustable-rate loans will better insulate banks from interest rate risk as compared to fixed-rate mortgages. An increased monthly mortgage payment required of adjustable-rate loan borrowers in a rising interest rate environment, however, could cause an increase in delinquencies and defaults. To mitigate this risk, we adhere to strict underwriting guidelines by initially qualifying a borrower
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the bank s capital funds if secured by collateral meeting the requirements of the New Jersey Banking Act. The New Jersey Banking Act imposes conditions and limitations on the liabilities to a bank of its directors and executive officers and of corporations and partnerships controlled by such persons, that are comparable in many respects to the conditions and limitations imposed on the loans and extensions of credit to insiders and their related interests under federal law, as discussed below. The New Jersey Banking Act also provides that a bank that is in compliance with the Federal Reserve s Regulation O, as discussed below, is deemed to be in compliance with such provisions of the New Jersey Banking Act. 
+16 
+Dividends. Under the New Jersey Banking Act, a stock bank may not pay a cash dividend unless, following the payment, the bank s capital stock will be unimpaired, and the bank will have a surplus of no less than 50% of its capital stock or, if not, the payment of the dividend will not reduce the surplus of the bank. Federal law may also limit the amount of dividends that may be paid by a New Jersey chartered nonmember bank. See Federal Bank Regulation Prompt Corrective Regulatory Action below. Minimum Capital Requirements. Regulations of the NJDBI impose on New Jersey chartered depository institutions minimum capital requirements generally similar to those imposed by the FDIC on insured state banks. See Federal Bank Regulation Capital Requirements . Examination and Enforcement. The NJDBI examines all state chartered commercial banks. The NJDBI has authority to enforce applicable law and prevent practices that may cause harm to an institution, including the issuance of cease and desist orders and civil money penalties and removal of directors, officers and employees. The NJDBI also has authority to appoint a conservator or receiver for a bank under certain circumstances such as insolvency or unsafe or unsound condition to transact business. Federal Bank
+
+---
+Doc size: 2034KB (capped at 2MB)

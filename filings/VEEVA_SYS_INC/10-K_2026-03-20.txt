@@ -1,0 +1,14 @@
+# VEEVA SYS INC — 10-K Annual Report
+# Filed: 2026-03-20
+# CIK: 1393052
+# SIC: Services-Prepackaged Software
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1393052/000139305226000014/veev-20260131.htm)
+
+## RISK FACTORS (Item 1A)
+13 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment" contextRef="c-1" decimals="INF" name="us-gaap:NumberOfReportableSegments" format="ixt-sec:numwordsen" scale="0" id="f-1151">one one 456 iso4217:USD xbrli:shares iso4217:USD xbrli:shares xbrli:pure veev:reporting_unit veev:vote veev:segment veev:product_area 0001393052 2025-02-01 2026-01-31 0001393052 2025-07-31 0001393052</xbrli:iden
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

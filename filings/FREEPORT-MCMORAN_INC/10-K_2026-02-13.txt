@@ -1,0 +1,14 @@
+# FREEPORT-MCMORAN INC — 10-K Annual Report
+# Filed: 2026-02-13
+# CIK: 831259
+# SIC: Metal Mining
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/831259/000083125926000012/fcx-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+48
+
+## GEOGRAPHIC REVENUE
+segment" contextRef="c-1" decimals="0" name="us-gaap:NumberOfReportableSegments" scale="0" id="f-2072">5 http://fasb.org/us-gaap/2024#DirectOperatingCosts iso4217:USD xbrli:shares xbrli:pure iso4217:USD xbrli:shares fcx:division utr:lb utr:oz fcx:metricTon iso4217:IDR iso4217:USD fcx:project fcx:state fcx:site fcx:well fcx:platform fcx:fatality <xbrli:unit i
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Major Customers and Affiliated Companies. Sales to MMC, PTFI&#8217;s joint venture partner in PT Smelting, totaled $ 1.7 &#160;billion in 2025, $ 4.4 &#160;billion in 2024 and $ 2.0 &#160;billion in 2023

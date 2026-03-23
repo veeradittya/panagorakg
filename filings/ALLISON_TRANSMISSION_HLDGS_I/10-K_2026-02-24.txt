@@ -1,0 +1,136 @@
+# ALLISON TRANSMISSION HLDGS I — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 1411207
+# SIC: Motor Vehicle Parts & Accessories
+# Source: https://www.sec.gov/Archives/edgar/data/1411207/000119312526065627/alsn-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+18 
+Item 1B. 
+Unresolved Staff Comments 
+35 
+Item 1C. 
+Cybersecurity 
+35 
+Item 2. 
+Properties 
+38 
+Item 3. 
+Legal Proceedings 
+38 
+Item 4. 
+Mine Safety Disclosures 
+38 
+PART II. 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+39 
+Item 6. 
+[Reserved] 
+40 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+41 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+56 
+Item 8. 
+Financial Statements and Supplementary Data 
+57 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+102 
+Item 9A. 
+Controls and Procedures 
+102 
+Item 9B. 
+Other Information 
+103 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+103 
+PART III. 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+104 
+Item 11. 
+Executive Compensation 
+104 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+104 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+104 
+Item 14. 
+Principal Accountant Fees and Services 
+105 
+PART IV. 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+106 
+Item 16. 
+Form 10-K Summary 
+110 
+Signatures 
+111 
+2 
+Table of Contents 
+Cautionary Note Regarding Forward-Looking Statements This Annual Report on Form 10-K contains forward-looking statements. The words believe, expect, anticipate, intend, estimate and other expressions that are predictions of or indicate future events and trends and that do not relate to historical matters identify forward-looking statements. You should not place undue reliance on these forward-looking statements. Although forward-looking statements reflect management s good faith beliefs, reliance should not be placed on forward-looking statements because they involve known and unknown risks, uncertainties and other factors, which may cause actual results, performance or achievements to differ materially from anticipated future results, performance or achievements expressed or implied by such forward-looking statements. Forward-looking statements speak only as of the date the statements are made. We undertake no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events, changed circumstances or otherwise. These forward-looking statements are subject to numerous risks and uncertainties, including, but not limited to: the significant costs we are expected to incur in connection with the integration of the Off-Highway Drive & Motion Systems business (the Acquired Off-Highway Business ) of Dana Incorporated ("Dana"); our ability to successfully integrate the Acquired Off-Highway Business and its operations in the expected time frame; our ability to realize all of the anticipated benefits from the integration of the Acquired Off-Highway Business and its operations and to effectively manage our expanded operations; our participation in markets that are competitive; our ability to prepare for, respond to and successfully achieve our objectives relating to technological and market developments, competitive threats and changing customer needs, including with respect to electric hybrid and fully electric commercial vehicles; increases in cost, disruption of supply or shortage of labor, freight, raw materials, energy or components used to manufacture or transport our products or those of our customers or suppliers, including as a result of geopolitical risks, natural disasters, extreme weather events, wars and public health crises such as pandemics; global economic volatility; general economic and industry conditions, including the risk of prolonged inflation and recession; labor strikes, work stoppages or similar labor disputes, which could significantly disrupt our operations or those of our principal customers or suppliers; the highly cyclical industries in which certain of our end users operate; uncertainty in the global regulatory and business environments in which we operate; the concentration of our net sales in our top five customers and the loss of any one of these; cybersecurity risks to our operational systems, security systems or infrastructure owned by us or our third-party vendors and suppliers; the failure of markets outside North America to increase adoption of fully automatic transmissions; the success of our research and development efforts, the outcome of which is uncertain; U.S. and foreign defense spending; risks associated with our international operations, including acts of war and increased trade protectionism and tariffs; the discovery of defects in our products, resulting in delays in new model launches, recall campaigns and/or increased warranty costs and reduction in future sales or damage to our brand and reputation; our ability to identify, consummate and effectively integrate acquisitions and collaborations; and risks related to our indebtedness. Important factors that could cause actual results to differ materially from our expectations are disclosed under Part I, Item 1A., Risk Factors in this Annual Report on Form 10-K. All written and oral forward-looking statements attributable to us, or persons acting on our behalf, are expressly qualified in their entirety by these cautionary statements as well as other cautionary statements that are made from time to time in our other United States Securities and Exchange Commission ("SEC") filings or public communications. You should evaluate all forward-looking statements made in this Annual Report on Form 10-K in the context of these risks and uncertainties. Certain Trademarks This Annual Report on Form 10-K includes trademarks, such as Allison Transmission, eGen Flex, eGen Power, FracTran, ReTran and Walker Die Casting, which are protected under applicable intellectual property laws and are our property and/or the property of our subsidiaries. This report also contains trademarks, service marks, copyrights and trade names of other companies, which are the property of their respective owners. We do not intend our use or display of other companies trademarks, service marks, copyrights or trade names to imply a relationship with, or endorsement or sponsorship of us by, any other companies. Solely for convenience, our trademarks and trade names referred to in this report may appear without the or TM symbols, but such references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensor to these trademarks and trade names. 
+3 
+Table of Contents 
+PART I. ITEM 1. Business Overview Allison Transmission Holdings, Inc. and its subsidiaries ( Allison, we, us or our ) is a global leader in high-performance mobility and work solutions built for the needs of the modern industrial world. The business was founded in 1915 and has been headquartered in Indianapolis, Indiana since inception. Allison is traded on the New York Stock Exchange under the symbol ALSN . We have a global presence by serving customers in North America, Asia, Europe, South America, and Africa, with approximately 76% of our revenues being generated in North America in 2025. We serve customers through an independent network of approximately 1,500 independent distributor and dealer locations worldwide as of December 31, 2025. On January 1, 2026, we completed the acquisition of the Acquired Off-Highway Business, expanding our portfolio of drivetrain and propulsion solutions and broadening our participation in off-highway end markets. As a result of this acquisition, we now operate a broader range of technologies and products and serve a more diverse global customer base across on-highway, off-highway, and defense applications. Unless otherwise expressly provided herein, the information disclosed in this Part I, Item 1 is provided as of and/or for the year ended December 31, 2025 and, accordingly, does not give effect to the acquisition of the Acquired Off-Highway Business. Our Business We are the world s largest manufacturer of fully automatic transmissions for medium- and heavy-duty commercial vehicles and medium- and heavy-tactical U.S. defense vehicles, and subsequent to the acquisition of the Acquired Off-Highway Business, a leading provider of drivetrain and propulsion solutions for off-highway applications. Allison products are used in a wide variety of applications, including on-highway vehicles (distribution, refuse, construction, fire and emergency), buses (primarily school, transit and coach), motorhomes, off-highway vehicles and equipment (energy, mining, construction and agriculture) and defense vehicles (tactical wheeled and tracked). We believe the Allison brand is one of the most recognized in our industry as a result of the performance, reliability and fuel efficiency of our propulsion solutions and is associated with high quality, durability, vocational value, technological leadership and superior customer service. We introduced the world s first fully automatic transmission for commercial vehicles over 75 years ago. Since that time, we have driven the trend in North America and other parts of the world towards increasing automaticity by targeting a diverse range of commercial vehicle vocations. Allison products are optimized for the unique performance requirements of end users, which typically vary by vocation. Our products are highly engineered, requiring advanced manufacturing processes, and employ complex software algorithms for our propulsion system controls to maximize end user performance. As a result of our acquisition of the Acquired Off-Highway Business, we now offer an expanded portfolio of drivetrain, motion and propulsion solutions, providing complementary product breadth and an enhanced ability to support customers across multiple end markets. The Acquired Off-Highway Business has historically served end markets with demand characteristics that differ from our traditional on-highway markets, contributing to a more diversified portfolio. Following our acquisition of the Acquired Off-Highway Business, we continue to operate under the Allison name, but our operations are now comprised of two business units: Allison Transmission and Allison Off-Highway 
+4 
+Table of Contents 
+Drive & Motion Systems. Business unit leadership is located globally, reflecting the international nature of our operations and the importance of local market insights, sourcing, production and customer support. Our Industry Commercial vehicles typically employ one of three transmission types: manual, automated manual or fully automatic. Manual transmissions and automated manual transmissions ("AMT") are the most prevalent transmission types used in Class 8 tractors in North America. Manual transmissions are the most prevalent in medium- and heavy-duty commercial vehicles, generally, outside North America. Manual transmissions utilize a disconnect clutch causing power to be interrupted during each gear shift resulting in energy loss-related inefficiencies and less work being accomplished for a given amount of fuel consumed. In long-distance trucking, this power interruption is not a significant factor, as the manual transmission provides its highest degree of fuel economy during steady-state cruising. However, steady-state cruising is only one part of the duty cycle. When the duty cycle requires a high degree of start and stop activity or speed transients, as is common in many vocations as well as in urban environments, we believe manual transmissions result in reduced performance, lower fuel efficiency, lower average speed for a given amount of fuel consumed and inferior ride quality. Moreover, the clutches must be replaced regularly, resulting in increased maintenance expense and vehicle downtime. Manual transmissions also require a skilled driver to operate the disconnect clutch when launching the vehicle and shifting gears. AMTs are manual transmissions that feature automated operation of the disconnect clutch. Fully automatic transmissions utilize technology that smoothly shifts gears instead of a disconnect clutch, thereby delivering uninterrupted power to the wheels during gear shifts and requiring minimal driver input. These transmissions deliver superior acceleration, higher productivity, increased fuel efficiency, reduced operating costs, less driveline shock and smoother shifting relative to both manual transmissions and AMTs in vocations with a high degree of start and stop activity, as well as in urban environments. Emerging technologies in commercial-duty propulsion solutions include electric hybrid and fully electric propulsion solutions in certain end markets and are in part driven by efforts to reduce fuel consumption, noise and greenhouse gas emissions. Fully electric powertrains differ from electric hybrid powertrains because they only have a battery for energy storage and exclusively power the wheels using electric motors. In contrast, electric hybrids may use multiple energy storage sources including diesel and hydrogen and may drive the wheels exclusively with electric motors or in parallel with an internal combustion engine. While both emerging technologies are gaining use in automotive markets and electric hybrids and fully electric propulsion solutions have gained use in the bus market, fully electric propulsion solutions remain in a developmental phase in the medium- and heavy-duty commercial vehicle market. Our Served Markets We sell our propulsion solutions globally for use in medium- and heavy-duty on-highway commercial vehicles, off-highway vehicles and equipment and defense vehicles. In addition to the sale of propulsion solutions, we also sell branded replacement parts, support equipment, aluminum die cast components and other products necessary to service the installed base of vehicles utilizing our solutions. The following table provides a summary of our business by end market for the fiscal year ended December 31, 2025. 
+5 
+Table of Contents 
+ON-HIGHWAY 
+OFF-HIGHWAY 
+END MARKET 
+NORTH AMERICA 
+OUTSIDE NORTH AMERICA 
+GLOBAL 
+DEFENSE 
+SERVICE PARTS, SUPPORT EQUIPMENT & OTHER 
+2025 NET SALES (DOLLARS IN MILLIONS) 
+$ 
+1,540 
+$ 
+507 
+$ 
+53 
+$ 
+267 
+$ 
+643 
+% OF TOTAL 
+51% 
+17% 
+2% 
+9% 
+21% 
+Construction Day Cab Tractors Distribution Emergency Motorhome Refuse School, transit, shuttle and coach buses Utility 
+Agriculture Construction Distribution Emergency Mining Refuse School, transit, shuttle and coach buses Specialty Wheeled defense platforms Utility 
+Construction Energy Mining Specialty vehicle 
+Global tracked combat platforms North America wheeled platforms 
+Aluminum die cast components Extended transmission coverage Remanufactured propulsion solutions Royalties Saleable engineering Service parts Support equipment Transmission fluids 
+Refer to "Note 19. Concentration of Risk
+
+## GEOGRAPHIC REVENUE
+le to us, or persons acting on our behalf, are expressly qualified in their entirety by these cautionary statements as well as other cautionary statements that are made from time to time in our other United States Securities and Exchange Commission ("SEC") filings or public communications. You should evaluate all forward-looking statements made in this Annual Report on Form 10-K in the context of these risks and uncertainties. Certain Trademarks This Annual Report on Form 10-K includes trademarks, such as Allison Transmission, eGen Flex, eGen Power, FracTran, ReTran and Walker Die Casting, which are protected under applicable intellectual property laws and are our property and/or the property of our subsidiaries. This report also contains trademarks, service marks, copyrights and trade names of other companies, which are the property of their respective owners. We do not intend our use or display of other companies trademarks, service marks, copyrights or trade names to imply a relationship with, or endorsement or sponsorship of us by, any other companies. Solely for convenience, our trademarks and trade names referred to in this report may appear without the or TM symbols, but such references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensor to these trademarks and trade names. 
+3 
+Table of Contents 
+PART I. ITEM 1. Business Overview Allison Transmission Holdings, Inc. and its subsidiaries ( Allison, we, us or our ) is a global leader in high-performance mobility and work solutions built for the needs of the modern industrial world. The business was founded in 1915 and has been headquartered in Indianapolis, Indiana since inception. Allison is traded on the New York Stock Exchange under the symbol ALSN . We have a global presence by serving customers in North America, Asia, Europe, South America, and Africa, with approximately 76% of our revenues being generated in North America in 2025. We serve customers through an independent network of approximately 1,500 independent distributor and dealer locations worldwide as of December 31, 2025. On January 1
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

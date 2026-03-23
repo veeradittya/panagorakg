@@ -1,0 +1,100 @@
+# INTELLIA THERAPEUTICS INC — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1652130
+# SIC: In Vitro & In Vivo Diagnostic Substances
+# Source: https://www.sec.gov/Archives/edgar/data/1652130/000119312526076550/ntla-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+6
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+32 
+Item 1B. 
+Unresolved Staff Comments 
+75 
+Item 1C. 
+Cybersecurity 
+75 
+Item 2. 
+Properties 
+76 
+Item 3. 
+Legal Proceedings 
+76 
+Item 4. 
+Mine Safety Disclosures 
+77 
+PART II 
+Item 5. 
+Market for the Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+78 
+Item 6. 
+[Reserved] 
+79 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+80 
+Item 7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+86 
+Item 8. 
+Financial Statements and Supplementary Data 
+87 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+87 
+Item 9A. 
+Controls and Procedures 
+87 
+Item 9B. 
+Other Information 
+89 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+89 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+90 
+Item 11. 
+Executive Compensation 
+90 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+90 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+90 
+Item 14. 
+Principal Accounting Fees and Services 
+90 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+91 
+Item 16. 
+Form 10-K Summary 
+91 
+Signatures 
+2 
+Forward-looking Information This Annual Report on Form 10-K contains forward-looking statements which are made pursuant to the safe harbor provisions of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). These statements may be identified by such forward-looking terminology as may, should, expects, intends, plans, anticipates, believes, estimates, predicts, potential, continue or the negative of these terms or other comparable terminology. Our forward-looking statements are based on a series of expectations, assumptions, estimates and projections about our company, are not guarantees of future results or performance and involve substantial risks and uncertainty. We may not actually achieve the plans, intentions or expectations disclosed in these forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in these forward-looking statements. Our business and our forward-looking statements involve substantial known and unknown risks and uncertainties, including the risks and uncertainties inherent in our statements regarding: our ability to execute our clinical study strategy for lonvoguran ziclumeran ( lonvo-z, also referred to as NTLA-2002), our program for the treatment of hereditary angioedema ( HAE ), including the ability to successfully complete our global HAELO Phase 3 study, generate results supporting the potential of lonvo-z to achieve lifelong control of HAE attacks after a one-time treatment, report topline data from the HAELO Phase 3 trial by mid-2026, the ability to file a biologics license application ( BLA ) or comparable marketing application in the second half of 2026 and potentially launch lonvo-z in the U.S. in the first half of 2027, or the success of such program; our ability to execute our clinical study strategy for nexiguran ziclumeran ( nex-z, also referred to as NTLA-2001), our program for the treatment of transthyretin ( ATTR ) amyloidosis, including the ability to resume dosing and screening in the MAGNITUDE Phase 3 clinical trial by resolving the clinical hold placed by the U.S. Food and Drug Administration ( FDA ) on the Investigational New Drug ( IND ) application for the MAGNITUDE Phase 3 trial, resume the MAGNITUDE-2 Phase 3 trial following the removal of the prior clinical hold, and the ability to successfully complete this study, or the success of such program; our ability to manufacture or obtain materials for our preclinical and clinical studies, and our product candidates; our ability to advance any product candidates into, and successfully complete, clinical studies, including clinical studies necessary for regulatory approval and commercialization, and to demonstrate to applicable regulators that the product candidates are safe and effective and that their benefits outweigh known and potential risks for the intended patient population; our ability to advance our genome editing and therapeutic delivery capabilities, including our therapeutic delivery capabilities for tissues other than the liver; the scope of protection we are able to develop, establish and maintain for intellectual property rights, including patents, trade secrets and license rights, covering our product candidates and technology; our ability to operate, including commercializing products, without infringing or breaching the proprietary or contractual rights of others; the issuance or enforcement of, and compliance with, regulatory requirements and guidance regarding preclinical and clinical studies relevant to genome editing and our product candidates; the market acceptance, pricing and reimbursement of our product candidates, if approved; estimates of our expenses, future revenues, capital requirements and our needs for additional financing; the potential benefits of strategic agreements, such as collaborations, co-development and co-commercialization, acquisitions, dispositions, mergers, joint ventures, and investment agreements, and our ability to establish and maintain strategic arrangements under favorable terms; our ability to acquire and maintain relevant intellectual property licenses and rights, and the scope and terms of such rights; our ability to use a modular platform capability or other strategies to efficiently discover and develop product candidates, including by applying learnings from one program to other programs; our ability to research, develop or maintain a pipeline of product candidates; 
+3 
+developments relating to our licensors, licensees, third parties and ventures from which we derive or license rights, as well as collaborators, competitors and our industry; and other risks and uncertainties, including those listed under the caption Risk Factors. All of our express or implied forward-looking statements are as of the date of this Annual Report on Form 10-K only. In each case, actual results may differ materially from such forward-looking information. We can give no assurance that such expectations or forward-looking statements will prove to be correct. An occurrence of or any material adverse change in one or more of the risk factors or risks and uncertainties referred to in this Annual Report on Form 10-K or included in our other public disclosures or our other periodic reports or other documents or filings filed with or furnished to the Securities and Exchange Commission (the SEC ) could materially and adversely affect our business, prospects, financial condition and results of operations. Except as required by law, we do not undertake or plan to update or revise any such forward-looking statements to reflect actual results, changes in plans, assumptions, estimates or projections or other circumstances affecting such forward-looking statements occurring after the date of this Annual Report on Form 10-K, even if such results, changes or circumstances make it clear that any forward-looking information will not be realized. Any public statements or disclosures by us following this Annual Report on Form 10-K that modify or impact any of the forward-looking statements contained in this Annual Report on Form 10-K will be deemed to modify or supersede such statements in this Annual Report on Form 10-K. Summary of the Material Risks Associated with Our Business Our investigational new drug ( IND ) application for the MAGNITUDE Phase 3 clinical trial for patients with transthyretin ( ATTR ) amyloidosis with cardiomyopathy ( ATTR-CM ) has been placed on clinical hold by the United States Food and Drug Administration ( FDA ). We will need to resolve the clinical hold with the FDA in order to resume dosing and screening in MAGNITUDE. We also need to resume and successfully complete the MAGNITUDE-2 Phase 3 clinical trial in patients with hereditary ATTR amyloidosis with polyneuropathy ( ATTRv-PN ). Our business may be adversely affected if the clinical hold is not resolved in a timely manner or at all, or if other regulatory or patient safety concerns lead to additional delays. We cannot guarantee that we will be able to address the FDA s concerns in order to resolve the clinical hold on the IND for the MAGNITUDE clinical trial. CRISPR genome editing technology has only recently been clinically validated for human therapeutic use. The approaches we are taking to discover and develop novel therapeutics using CRISPR systems are unproven and may never lead to marketable products. If we are unable to develop viable product candidates, achieve regulatory approval for any such product candidate or market and sell any resulting product, we may never achieve profitability. Clinical development involves a lengthy and expensive process, with an uncertain outcome. We may incur additional costs or experience delays in completing, or ultimately be unable to complete, the development and commercialization of any product candidates. Results, including data from our preclinical and clinical studies, are not necessarily predictive of our other ongoing and future preclinical and clinical studies, and they do not guarantee or indicate the likelihood of approval of any potential product candidate by the FDA or any other regulatory agency. If we cannot replicate the positive results from any of our preclinical or clinical activities and studies, we may be unable to successfully develop, obtain regulatory approval for and commercialize any potential product candidate. Negative public opinion and increased regulatory scrutiny of CRISPR use, genome editing or gene therapy may damage public perception of the safety of our product candidates and adversely affect our ability to conduct our business or obtain regulatory approvals for such product candidates. Even if we obtain regulatory approval of any product candidates, such candidates may not gain market acceptance among physicians, patients, hospitals, third party payors and others in the medical community. We could be unsuccessful in obtaining or maintaining adequate patent protection for one or more of our products or product candidates or asserting and defending our intellectual property rights that protect our products and technologies. We have licensed intellectual property from third parties for use in our programs, and termination or modification of any of these licenses could result in the loss of those intellectual property rights, which could harm our business. We have never generated any revenue from product sales and our ability to generate revenue from product sales and become profitable depends significantly on our success in a number of areas. 
+4 
+We have incurred net losses in each period since our inception, anticipate that we will continue to incur net losses in the future and may never achieve profitability. In vivo genome editing products and ex vivo engineered cell therapies based on CRISPR genome editing technology are novel, complex and difficult to manufacture. We could experience manufacturing problems that result in delays in the development, approval or commercialization of our product candidates or otherwise harm our business. Our technological advancements and any potential for revenue may be derived in part from our collaborations, including, for example, with Regeneron Pharmaceuticals, Inc. ( Regeneron ), and if the collaboration or co-development agreements related to a material collaboration were to be terminated or materially altered in an adverse manner, our business, financial condition, results of operations and prospects would be harmed. Our internal computer systems, or those of our collaborators or other contractors or consultants, may fail or suffer security breaches or compromises, which could result in a material disruption of our operations and development efforts. We face significant competition in an environment of rapid technological change. The possibility that our competitors may achieve regulatory approval before we do or develop therapies that are more advanced or effective than ours may harm our business and financial condition or our ability to successfully market or commercialize our product candidates. The price of our common stock historically has been volatile, which may affect the price at which you could sell any shares of our common stock. 
+5 
+PA RT I Item 1. Business Overview Intellia Therapeutics, Inc. ( we, us, our, Intellia, or the Company ) is a leading biopharmaceutical company focused on revolutionizing medicine leveraging CRISPR gene editing and other core technologies. Our mission is to transform the lives of people with severe diseases by developing and commercializing potentially curative treatments. With deep scientific, technical and clinical development experience, we aim to reset the standard for medicine by durably treating the root causes of disease. For over a decade, Intellia has applied its proprietary technologies and expertise, including CRISPR-based gene editing technologies, oligonucleotides, and lipid nanoparticles ( LNPs ), to develop novel, first-in-class product candidates. This includes the development of lonvoguran ziclumeran ( lonvo-z, also referred to as NTLA-2002) for the treatment of hereditary angioedema ( HAE ) and nexiguran ziclumeran ( nex-z, also referred to as NTLA-2001) for the treatment of transthyretin ( ATTR ) amyloidosis. These lead product candidates are the first in vivo genome editing product candidates into Phase 3 development. These systemically administered CRISPR-based candidates are designed to address diseases with high unmet need with a single intravenous ( IV ) infusion that is administered in an outpatient setting. Lonvo-z and nex-z are currently in Phase 3 clinical development, and we are preparing for the planned commercial launch of lonvo-z in the first half of 2027. In order to treat and potentially cure a broader range of severe diseases, we and our collaboration partners are advancing the development of additional clinical and preclinical product candidates. Throughout our history, we have leveraged collaborations to expand and accelerate the development of product candidates. Our current relationships include our collaboration with Regeneron Pharmaceuticals, Inc. ( Regeneron ) and other research collaborations focused on the development of product candidates. Strategy Our strategy is to (1) advance the clinical development of our lead CRISPR-based product candidates, (2) build and leverage a fully integrated commercial-stage infrastructure, (3) expand our pipeline utilizing our expertise and proprietary technologies, and (4) collaborate with partners to expand our technology reach and maximize
+
+## GEOGRAPHIC REVENUE
+2024-01-01 2024-12-31 0001652130 ntla:OtherResearchAndDevelopmentMember 2025-01-01 2025-12-31 0001652130 ntla:OperatingLossCarryforwardIndefinitelyBeginsToExpireInTwoThousandThirtyFourMember us-gaap:DomesticCountryMember 2025-12-31 0001652130 us-gaap:AdditionalPaidInCapitalMember 2024-12-31 0001652130 ntla:WinterStreetLeaseMember 2022-02-01 2022-02-28 0001652130 ntla:SparingVisionMember 2025-01-01 2025-12-31 0001652130 ntla:TwoThousandAndSixteenEmployeeStockPurchasePlanMember 2023-12-31 0001652130 ntla:AvencellMember 2025-01-01 2025-12-31 0001652130 us-gaap:StateAndLocalJurisdictionMember 2025-12-31 0001652130 us-gaap:FairValueInputsLevel2Member us-gaap:CorporateDebtSecuritiesMember us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0001652130 ntla:TwoThousandAndSixteenEmployeeStockPurchasePlanMember 2024-01-01 2024-12-31 0001652130 ntla:AmendedTwoThousandTwentyTwoSalesAgreementMember srt:MinimumMember 2024-02-01 2024-02-29 0001652130 ntla:OperatingLossCarryforwardIndefinitelyBeginsToExpireInTwoThousandThirtyFourMember us-gaap:StateAndLocalJurisdictionMember 2024-12-31 0001652130 us-gaap:CommonStockMember 2024-12-31 0001652130 2023-12-31 0001652130 us-gaap:OperatingSegmentsMember 2024-01-01 2024-12-31 0001652130 ntla:RegeneronPharmaceuticalsIncMember ntla:TwoThousandTwentyStockPurchaseAgreementMember 2020-05-30 2020-05-30 0001652130 ntla:FinancialInstitutionDebtSecuritiesMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2024-12-31 0001652130 us-gaap:RestrictedStockUnitsRSUMember ntla:MarketAwardsMember 2025-12-31 0001652130 ntla:AmendedTwoThousandTwentyTwoSalesAgreementMember srt:MaximumMember 2024-02-01 2024-02-29 0001652130 us-gaap:SoftwareDevelopmentMember 2024-12-31 0001652130 ntla:SparingVisionMember 2024-12-31 0001652130 2026-02-13 0001652130 us-gaap:SoftwareDevelopmentMember 2025-12-31 0001652130 us-gaap:CommonStockMember ntla:AtTheMarketOfferingsMember ntla:TwoThousandTwentyTwoSalesAgreementMember 2024-01-01 2024-12-31 0001652130 us-gaap:GeneralAndAdministrativeExpenseMember 2025-01-01 2025-12-31 0001652130 ntla:AmendedTwoThousandTwentyTwoSalesAgreementMember 2023-01-01 2023-12-31 0001652130 ntla:FinancialInsti
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of AvenCell. In December 2021, we entered into a licensing and collaboration agreement with Kyverna Therapeutics, Inc. ( Kyverna ), a cell therapy company engineering a new class of therapies for autoimmune and inflammatory diseases, for the development of an allogeneic CD19 CAR-T cell therapy for the treatment of a variety of B cell-mediated autoimmune diseases. We granted Kyverna rights to our proprietary ex vivo CRISPR/Cas9-based allogeneic platform for the development of KYV-201, an allogeneic CD19 CAR-T cell investigational candidate for the treatment of select autoimmune diseases. Kyverna will lead and fund preclinical and clinical development for KYV-201 and we will be eligible to receive certain development and commercial milestone payments, as well as low-to-mid-single-digit royalties on potential future sales. We may also exercise an option to lead U.S. commercialization for KYV-201 under a co-development and co-commercialization agreement. If we elect to co-develop and 
+11 
+co-commercialize KYV-201, we would be subject to paying an opt-in fee of $5.0 million and share in 50% of development costs and future net profit and/or loss arising from commercializing KYV-201 in the U.S. Kyverna would retain all rights outside of the U.S., and we would receive low-to-mid-single-digit royalties on net sales generated outside of the U.S. Acquisition of Rewrite Therapeutics Inc. ( Rewrite ) On February 2, 2022, we entered into an Agreement and Plan of Merger with, inter alia, Rewrite (the Rewrite Merger Agreement ). Under the Rewrite Merger Agreement, we agreed to pay Rewrite s former stockholders and option holders (the Rewrite Holders ) (a) upfront consideration in an aggregate amount of approximately $45.0 million payable in cash, excluding customary purchase price adjustments, and (b) up to an additional $155.0 million in milestone payments, including $55.0 million upon the achievement of certain pre-specified research milestones and $100.0 million upon achieve
+
+---
+Doc size: 2035KB (capped at 2MB)

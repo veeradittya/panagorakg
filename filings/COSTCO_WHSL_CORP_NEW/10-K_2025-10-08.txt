@@ -1,0 +1,14 @@
+# COSTCO WHSL CORP NEW — 10-K Annual Report
+# Filed: 2025-10-08
+# CIK: 909832
+# SIC: Retail-Variety Stores
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm)
+
+## RISK FACTORS (Item 1A)
+9 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment> us-gaap:ProductMember 2024-09-02 2025-08-31 0000909832 us-gaap:ProductMember 2023-09-04 2024-09-01 0000909832 us-gaap:ProductMember 2022-08-29 2023-09-03 0000909832 us-gaap:MembershipMember 2024-09-02 2025-08-31 0000909832 us-gaap:MembershipMember 2023-09-04 2024-09-01 0000909832 <xbrli
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

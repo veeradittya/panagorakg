@@ -1,0 +1,381 @@
+# DOMINION ENERGY INC — 10-K Annual Report
+# Filed: 2026-02-23
+# CIK: 715957
+# SIC: Electric Services
+# Source: https://www.sec.gov/Archives/edgar/data/715957/000119312526063120/d-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+25 
+1B. 
+Unresolved Staff Comments 
+34 
+1C. 
+Cybersecurity 
+35 
+2. 
+Properties 
+36 
+3. 
+Legal Proceedings 
+41 
+4. 
+Mine Safety Disclosures 
+41 
+Information about our Executive Officers 
+41 
+Part II 
+5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+42 
+6. 
+[Reserved] 
+42 
+7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+43 
+7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+63 
+8. 
+Financial Statements and Supplementary Data 
+65 
+9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+158 
+9A. 
+Controls and Procedures 
+158 
+9B. 
+Other Information 
+160 
+9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+160 
+Part III 
+10. 
+Directors, Executive Officers and Corporate Governance 
+161 
+11. 
+Executive Compensation 
+161 
+12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+161 
+13. 
+Certain Relationships and Related Transactions, and Director Independence 
+161 
+14. 
+Principal Accountant Fees and Services 
+161 
+Part IV 
+15. 
+Exhibits and Financial Statement Schedules 
+162 
+16. 
+Form 10-K Summary 
+167 
+2 
+Glossary of Terms 
+T he following abbreviations or acronyms used in this Form 10-K are defined below: 
+Abbreviation or Acronym 
+Definition 
+2017 Tax Reform Act 
+An Act to Provide for Reconciliation Pursuant to Titles II and V of the Concurrent Resolution on the Budget for Fiscal Year 2018 (previously known as The Tax Cuts and Jobs Act) enacted on December 22, 2017 
+2021 Triennial Review 
+Virginia Commission review of Virginia Power s earned return on base rate generation and distribution services for the four successive 12-month test periods beginning January 1, 2017 and ending December 31, 2020 
+2023 Biennial Review 
+Virginia Commission review of Virginia Power s earned return on base rate generation and distribution services for the two successive 12-month test periods beginning January 1, 2021 and ending December 31, 2022 and prospective rate base setting for the succeeding annual periods beginning January 1, 2024 and ending December 31, 2025 
+2024 Series A JSNs 
+Dominion Energy s 2024 Series A Enhanced Junior Subordinated Notes due 2055 
+2024 Series B JSNs 
+Dominion Energy s 2024 Series B Enhanced Junior Subordinated Notes due 2054 
+2024 Series C JSNs 
+Dominion Energy s 2024 Series C Enhanced Junior Subordinated Notes due 2055 
+2025 Biennial Review 
+Virginia Commission review of Virginia Power s earned return on base rate generation and distribution services for the two successive 12-month test periods beginning January 1, 2023 and ending December 31, 2024 and prospective rate base setting for the succeeding annual periods beginning January 1, 2026 and ending December 31, 2027 
+2025 Series A JSNs 
+Dominion Energy s 2025 Series A Junior Subordinated Notes due 2056 
+2025 Series B JSNs 
+Dominion Energy s 2025 Series B Junior Subordinated Notes due 2056 
+2026 Proxy Statement 
+Dominion Energy 2026 Proxy Statement, File No. 001-08489 
+2027 Biennial Review 
+Future Virginia Commission review of Virginia Power s earned return on base rate generation and distribution services for the two successive 12-month test periods beginning January 1, 2025 and ending December 31, 2026 and prospective rate base setting for the succeeding annual periods beginning January 1, 2028 and ending December 31, 2029 
+ABO 
+Accumulated benefit obligation 
+AEP 
+The legal entity American Electric Power Company, Inc., one or more of its consolidated subsidiaries, or the entirety of American Electric Power Company, Inc. and its consolidated subsidiaries 
+AES 
+The legal entity The AES Corporation, one or more of its consolidated subsidiaries, or the entirety of The AES Corporation and its consolidated subsidiaries 
+AFUDC 
+Allowance for funds used during construction 
+Align RNG 
+Align RNG, LLC, a joint venture between Dominion Energy and Smithfield Foods, Inc. 
+Altavista 
+Altavista biomass power station 
+AOCI 
+Accumulated other comprehensive income (loss) 
+ARO 
+Asset retirement obligation 
+Atlantic Coast Pipeline 
+Atlantic Coast Pipeline, LLC, a limited liability company owned by Dominion Energy and Duke Energy 
+Atlantic Coast Pipeline Project 
+A previously proposed approximately 600-mile natural gas pipeline running from West Virginia through Virginia to North Carolina which would have been owned by Dominion Energy and Duke Energy 
+bcf 
+Billion cubic feet 
+Bear Garden 
+A 622 MW combined-cycle, natural gas-fired power station in Buckingham County, Virginia 
+Bedford 
+A 70 MW solar generation facility in Chesapeake, Virginia 
+BHE 
+The legal entity, Berkshire Hathaway Energy Company, one or more of its consolidated subsidiaries (including Eastern Energy Gas Holdings, LLC, Northeast Midstream Partners, LP and Cove Point effective November 2020), or the entirety of Berkshire Hathaway Energy Company and its consolidated subsidiaries 
+Birdseye 
+Birdseye Renewable Energy, LLC 
+BLS Industry Average OSHA Recordable Rate 
+An average of the OSHA Recordable Rate published by the Bureau of Labor Statistics for electric power generation, transmission and distribution (NAICS code 2211) and natural gas distribution (NAICS code 2212) 
+BOEM 
+U.S. Department of Interior s Bureau of Ocean Energy Management 
+Brunswick County 
+A 1,376 MW combined-cycle, natural gas-fired power station in Brunswick County, Virginia 
+CAA 
+Clean Air Act 
+CAISO 
+California ISO 
+Canadys Station 
+A proposed 2.2 GW advanced class combined cycle natural gas-fired power station in Colleton County, South Carolina, to be jointly owned by DESC and Santee Cooper 
+CAO 
+Chief Accounting Officer 
+CCR 
+Coal combustion residual 
+CCRO 
+Customer credit reinvestment offset 
+CEA 
+Commodity Exchange Act 
+CEO 
+Chief Executive Officer 
+CERCLA 
+Comprehensive Environmental Response, Compensation and Liability Act of 1980, also known as Superfund 
+3 
+Abbreviation or Acronym 
+Definition 
+CFIUS 
+The Committee on Foreign Investment in the U.S. 
+CFO 
+Chief Financial Officer 
+CH 4 
+Methane 
+Chesterfield Energy Reliability Center 
+A proposed 944 MW simple-cycle, natural gas-fired power station in Chesterfield County, Virginia 
+CNG 
+Consolidated Natural Gas Company 
+CO 2 
+Carbon dioxide 
+CODM 
+Chief Operating Decision Maker 
+Community Energy Act 
+House Bill 2346, known as the Community Energy Act, which was signed into law in the Commonwealth of Virginia in May 2025 
+Companies 
+Dominion Energy and Virginia Power, collectively 
+Contracted Energy 
+Contracted Energy operating segment 
+Cooling degree days 
+Units measuring the extent to which the average daily temperature is greater than 65 degrees Fahrenheit, or 75 degrees Fahrenheit in DESC s service territory, calculated as the difference between 65 or 75 degrees, as applicable, and the average temperature for that day 
+Cove Point 
+Cove Point LNG, LP (formerly known as Dominion Energy Cove Point LNG, LP) 
+CPCN 
+Certificate of Public Convenience and Necessity 
+CVOW Commercial Project 
+A proposed 2.6 GW wind generation facility 27 miles off the coast of Virginia Beach, Virginia in federal waters adjacent to the CVOW Pilot Project and associated interconnection facilities in and around Virginia Beach, Virginia 
+CVOW Pilot Project 
+A 12 MW wind generation facility 27 miles off the coast of Virginia Beach, Virginia in federal waters 
+CWA 
+Clean Water Act 
+DECP Holdings 
+The legal entity DECP Holdings, Inc., which held Dominion Energy s noncontrolling interest in Cove Point (through September 2023) 
+DES 
+Dominion Energy Services, Inc. 
+DESC 
+The legal entity, Dominion Energy South Carolina, Inc., one or more of its consolidated entities or operating segment, or the entirety of Dominion Energy South Carolina, Inc. and its consolidated entities 
+Dodd-Frank Act 
+The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 
+DOE 
+U.S. Department of Energy 
+Dominion Energy 
+The legal entity, Dominion Energy, Inc., one or more of its consolidated subsidiaries (other than Virginia Power) or operating segments, or the entirety of Dominion Energy, Inc. and its consolidated subsidiaries 
+Dominion Energy Direct 
+A dividend reinvestment and open enrollment direct stock purchase plan 
+Dominion Energy South Carolina 
+Dominion Energy South Carolina operating segment 
+Dominion Energy Virginia 
+Dominion Energy Virginia operating segment 
+Dominion Privatization 
+Dominion Utility Privatization, LLC, a joint venture between Dominion Energy and Patriot 
+DSM 
+Demand-side management 
+DSM Riders 
+Rate adjustment clauses, designated Riders C1A, C2A, C3A and C4A, associated with the recovery of costs related to certain Virginia DSM programs in approved DSM cases 
+Dth 
+Dekatherm 
+Duke Energy 
+The legal entity, Duke Energy Corporation, one or more of its consolidated subsidiaries, or the entirety of Duke Energy Corporation and its consolidated subsidiaries 
+Eagle Solar 
+Eagle Solar, LLC, a wholly-owned subsidiary of Dominion Generation, Inc. 
+East Ohio 
+The East Ohio Gas Company (a subsidiary of Enbridge effective March 2024) 
+East Ohio Transaction 
+The sale by Dominion Energy to Enbridge of all issued and outstanding capital stock in Dominion Energy Questar Corporation and its consolidated subsidiaries, which following a reorganization included East Ohio and Dominion Energy Gas Distribution, LLC, pursuant to a purchase and sale agreement entered into on September 5, 2023, which was completed on March 6, 2024 
+Enbridge 
+The legal entity, Enbridge Inc., one or more of its consolidated subsidiaries (including Enbridge Elephant Holdings, LLC, Enbridge Parrot Holdings, LLC and Enbridge Quail Holdings, LLC), or the entirety of Enbridge Inc. and its consolidated subsidiaries 
+EPA 
+U.S. Environmental Protection Agency 
+EPACT 
+Energy Policy Act of 2005 
+EPS 
+Earnings per common share 
+ERISA 
+Employee Retirement Income Security Act of 1974 
+ESA 
+Endangered Species Act 
+Excess Tax Benefits 
+Benefits of tax deductions in excess of the compensation cost recognized for stock-based compensation 
+FASB 
+Financial Accounting Standards Board 
+FCC 
+Federal Communications Commission 
+FERC 
+Federal Energy Regulatory Commission 
+4 
+Abbreviation or Acronym 
+Definition 
+FirstEnergy 
+The legal entity FirstEnergy Corp., one or more of its consolidated subsidiaries, or the entirety of FirstEnergy Corp. and its consolidated subsidiaries 
+Fitch 
+Fitch Ratings Ltd. 
+FTRs 
+Financial transmission rights 
+GAAP 
+U.S. generally accepted accounting principles 
+GENCO 
+South Carolina Generating Company, Inc. 
+GHG 
+Greenhouse gas 
+Green Mountain 
+Green Mountain Power Corporation 
+Greensville County 
+A 1,605 MW combined-cycle, natural gas-fired power station in Greensville County, Virginia 
+GTSA 
+Virginia Grid Transformation and Security Act of 2018 
+GW 
+Gigawatt 
+Heating degree days 
+Units measuring the extent to which the average daily temperature is less than 65 degrees Fahrenheit, or 60 degrees Fahrenheit in DESC s service territory, calculated as the difference between 65 or 60 degrees, as applicable, and the average temperature for that day 
+Hopewell 
+Polyester biomass power station 
+Idaho Commission 
+Idaho Public Utilities Commission 
+IRA 
+An Act to Provide for Reconciliation Pursuant to Title II of Senate Concurrent Resolution 14 of the 117th Congress (also known as the Inflation Reduction Act of 2022) enacted on August 16, 2022 
+IRS 
+Internal Revenue Service 
+ISO 
+Independent system operator 
+ISO-NE 
+ISO New England 
+Jones Act 
+The Coastwise Merchandise Statute (commonly known as the Jones Act) 46 U.S.C. 55102 regulating U.S. maritime commerce 
+kV 
+Kilovolt 
+LNG 
+Liquefied natural gas 
+LTIP 
+Long-term incentive program 
+Massachusetts Municipal 
+Massachusetts Municipal Wholesale Electric Company 
+mcfe 
+Thousand cubic feet equivalent 
+MD&A 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+MGD 
+Million gallons per day 
+Millstone 
+Millstone nuclear power station 
+Millstone 2019 power purchase agreements 
+Power purchase agreements with Eversource Energy and The United Illuminating Company for Millstone to provide nine million MWh per year of electricity for ten years 
+MMBtu 
+Metric Million British thermal unit 
+Moody s 
+Moody s Investors Service 
+MW 
+Megawatt 
+MWh 
+Megawatt hour 
+N 2 O 
+Nitrous oxide 
+Natural Gas Rate Stabilization Act 
+Legislation effective February 2005 designed to improve and maintain natural gas service infrastructure to meet the needs of customers in South Carolina 
+NAV 
+Net asset value 
+NEIL 
+Nuclear Electric Insurance Limited 
+NERC 
+North American Electric Reliability Corporation 
+NND Project 
+V.C. Summer Units 2 and 3 nuclear development project under which DESC and Santee Cooper undertook to construct two Westinghouse AP1000 Advanced Passive Safety nuclear units in Jenkinsville, South Carolina 
+North Anna 
+North Anna nuclear power station 
+North Carolina Commission 
+North Carolina Utilities Commission 
+NO X 
+Nitrogen oxide 
+NRC 
+U.S. Nuclear Regulatory Commission 
+NYSE 
+New York Stock Exchange 
+OBBBA 
+An Act to Provide for Reconciliation Pursuant to Title II of House Concurrent Resolution 14 of the 119th Congress (also known as the One Big Beautiful Bill Act) enacted on July 4, 2025 
+October 2014 hybrids 
+Dominion Energy s 2014 Series A Enhanced Junior Subordinated Notes due 2054 
+ODEC 
+Old Dominion Electric Cooperative 
+Ohio Commission 
+Public Utilities Commission of Ohio 
+Order 1000 
+Order issued by FERC adopting requirements for electric transmission planning, cost allocation and development 
+5 
+Abbreviation or Acronym 
+Definition 
+OSHA Recordable Rate 
+Number of recordable cases, as defined by the Occupational Safety and Health Administration, a division of the U.S. Department of Labor, for every 100 employees over the course of a year 
+OSWP 
+OSW Project LLC, a limited liability company owned by Virginia Power and Stonepeak 
+ozone season 
+The period May 1 through September 30, as determined on a federal level 
+Patriot 
+Patriot Utility Privatizations, LLC, a joint venture between Foundation Infrastructure Partners, LLC and John Hancock Life Insurance Company (U.S.A.) and affiliates 
+PFAS 
+Per- and polyfluorinated substances, a group of widely used chemicals that break down very slowly over time in the environment 
+PHMSA 
+Pipeline and Hazardous Materials Safety Administration 
+PJM 
+PJM Interconnection, LLC 
+PSD 
+Prevention of significant deterioration 
+PSNC 
+Public Service Company of North Carolina, Incorporated (a subsidiary of Enbridge effective September 2024) 
+PSNC Transaction 
+The sale by Dominion Energy to Enbridge of all of its membership interests in Fall North Carolina Holdco LLC and its consolidated subsidiaries, which following a reorganization included PSNC, pursuant to a purchase and sale agreement entered into on September 5, 2023, which was completed on September 30, 2024 
+Pumpkinseed 
+A 60 MW solar generation facility in Emp
+
+## GEOGRAPHIC REVENUE
+5-01-01 2025-12-31 0000715957 us-gaap:NonUsMember d:VirginiaElectricAndPowerCompanyMember 2024-01-01 2024-12-31 0000715957 d:FederalProductionAndOtherCreditsMember us-gaap:LatestTaxYearMember us-gaap:DomesticCountryMember 2025-01-01 2025-12-31 0000715957 us-gaap:CorporateAndOtherMember us-gaap:CaliforniaFranchiseTaxBoardMember 2023-06-30 0000715957 d:DominionEnergyVirginiaMember us-gaap:OperatingSegmentsMember 2025-12-31 0000715957 d:UsEquitySecuritiesMember us-gaap:PensionPlansDefinedBenefitMember us-gaap:FairValueInputsLevel12And3Member 2024-12-31 0000715957 d:VirginiaElectricAndPowerCompanyMember d:ConstructNewTechnologyBoulevardTransmissionLinesSubstationAndRelatedProjectsInHenricoCountyVirginiaMember 2025-01-01 2025-12-31 0000715957 srt:OfficeBuildingMember 2023-01-01 2023-12-31 0000715957 d:ElectricFuelAndOtherEnergyRelatedPurchasesMember d:VirginiaElectricAndPowerCompanyMember us-gaap:NondesignatedMember us-gaap:CommodityContractMember 2023-01-01 2023-12-31 0000715957 d:VirginiaElectricAndPowerCompanyMember d:CvowCommercialProjectExcludingFinancingCostsMember 2024-10-01 2024-10-31 0000715957 d:VirginiaElectricAndPowerCompanyMember us-gaap:CommodityContractMember 2025-01-01 2025-12-31 0000715957 us-gaap:InterestRateSwapMember 2020-06-01 2020-06-30 0000715957 us-gaap:RetainedEarningsMember 2024-01-01 2024-12-31 0000715957 d:IncomeLossFromDiscontinuedOperationsMember 2023-01-01 2023-12-31 0000715957 d:UnrecognizedPensionAndOtherPostretirementBenefitCostsMember 2025-12-31 0000715957 d:ForwardSaleAgreementMember d:February2025At-The-MarketProgramMember 2025-09-30 0000715957 d:InterestRateNoncurrentDerivativeContractMember 2025-12-31 0000715957 us-gaap:PensionPlansDefinedBenefitMember us-gaap:FairValueInputsLevel1Member us-gaap:CorporateDebtSecuritiesMember 2025-12-31 0000715957 d:DESCMember d:FirstMortgageBondsThreePointTwoTwoToSixPointDue2028To2065Member srt:MaximumMember 2025-12-31 0000715957 d:OSWPMember us-gaap:VariableInterestEntityNotPrimaryBeneficiaryMember 2025-12-31 0000715957 d:VirginiaElectricAndPowerCompanyMember d:NonregulatedElectricitySalesMember 2024-01-01 2024-12-31 0000715957 us-gaap:MaterialReconcilingItemsMember 2025-01-01 2025-12-31 000071
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

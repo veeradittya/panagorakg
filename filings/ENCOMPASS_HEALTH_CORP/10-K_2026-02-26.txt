@@ -1,0 +1,20 @@
+# ENCOMPASS HEALTH CORP — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 785161
+# SIC: Services-Hospitals
+# Source: https://www.sec.gov/Archives/edgar/data/785161/000078516126000081/ehc-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors ii PART I Item 1. Business 1 Item 1A. Risk Factors 18 Item 1B. Unresolved Staff Comments 41 Item 1C. Cybersecurity 42
+
+## GEOGRAPHIC REVENUE
+eral conditions in the economy and capital markets, including any disruption, instability, or uncertainty related to armed conflict or an act of terrorism, a governmental impasse over approval of the United States federal budget or an increase to the debt ceiling, rising interest rates, an international trade war, or a sovereign debt crisis could adversely affect our financial results or condition, including access to the capital markets and interest expense on new or existing debt. Our debt and the associated restrictive covenants could have negative consequences for our business and limit our ability to execute aspects of our business plan successfully. The price of our common stock could adversely affect our willingness and ability to repurchase shares. We may be unable or unwilling to continue to declare and pay dividends on our common stock. The cautionary statements referred to in this section also should be considered in connection with any subsequent written or oral forward-looking statements that may be issued by us or persons acting on our behalf. We undertake no duty to update these forward-looking statements, even though our situation may change in the future. Furthermore, we cannot guarantee future results, events, levels of activity, performance, or achievements. iii PART I Item 1. Business Overview of the Company General We are the nation s largest owner and operator of inpatient rehabilitation hospitals in terms of patients treated, revenues, and number of hospitals. We provide specialized rehabilitative treatment, using advanced technology and intensive therapy, on an inpatient basis for patients recovering from a major injury or illness and seeking to regain functional ability, independence and quality of life. We operate hospitals in 39 states and Puerto Rico, with concentrations in Florida and Texas. As of December 31, 2025, we operated 173 inpatient rehabilitation hospitals. We are committed to delivering high-quality, cost-effective patient care. For 2025, we were named America s Most Awarded Leader in Inpatient Rehabilitation by Newsweek and Statista and ranked among Fortune s World s Most Admired Companies and Forbes Most Trusted Companie
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

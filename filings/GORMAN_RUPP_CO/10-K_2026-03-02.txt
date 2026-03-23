@@ -1,0 +1,130 @@
+# GORMAN RUPP CO — 10-K Annual Report
+# Filed: 2026-03-02
+# CIK: 42682
+# SIC: Pumps & Pumping Equipment
+# Source: https://www.sec.gov/Archives/edgar/data/42682/000119312526084820/grc-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+6 
+ITEM 1B. 
+Unresolved Staff Comments 
+11 
+ITEM 1C. 
+Cybersecurity 
+11 
+ITEM 2. 
+Properties 
+12 
+ITEM 3. 
+Legal Proceedings 
+13 
+ITEM 4. 
+Mine Safety Disclosures 
+14 
+* 
+Information about our Executive Officers 
+14 
+PART II 
+ITEM 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+15 
+ITEM 6. 
+[Reserved] 
+16 
+ITEM 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+17 
+ITEM 7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+25 
+ITEM 8. 
+Financial Statements and Supplementary Data 
+26 
+ITEM 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+54 
+ITEM 9A. 
+Controls and Procedures 
+54 
+ITEM 9B. 
+Other Information 
+56 
+ITEM 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+56 
+PART III 
+ITEM 10. 
+Directors, Executive Officers and Corporate Governance 
+56 
+ITEM 11. 
+Executive Compensation 
+56 
+ITEM 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+57 
+ITEM 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+57 
+ITEM 14. 
+Principal Accounting Fees and Services 
+57 
+PART IV 
+ITEM 15. 
+Exhibits and Financial Statement Schedules 
+57 
+Exhibit Index 
+59 
+ITEM 16. 
+Form 10-K Summary 
+60 
+Signatures 
+61 
+* 
+Included pursuant to the instructions to Item 401 of Regulation S-K. 
+2 
+Table of Contents 
+PART I Cautionary Note Regarding Forward-Looking Statements In connection with the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, The Gorman-Rupp Company provides the following cautionary statement: this Annual Report on Form 10-K contains various forward-looking statements based on assumptions concerning The Gorman-Rupp Company s operations, future results and prospects. These forward-looking statements are based on current expectations about important economic, political, and technological factors, among others, and are subject to risks and uncertainties, which could cause the actual results or events to differ materially from those set forth in or implied by the forward-looking statements and related assumptions. Such uncertainties include, but are not limited to, our estimates of future earnings and cash flows, general economic conditions and supply chain conditions and any related impact on costs and availability of materials, retention of supplier and customer relationships and key employees, the ability to service and repay indebtedness, and the anticipated results of our National Pump Company facility optimization efforts. Other factors include, but are not limited to: company specific risk factors including (1) loss of key personnel; (2) intellectual property security; (3) growth through acquisitions; (4) the Company s indebtedness and how it may impact the Company s financial condition and the way it operates its business; (5) impairment in the value of intangible assets, including goodwill; (6) defined benefit pension plan settlement expense; (7) LIFO inventory method; and (8) family ownership of common equity; and general risk factors including (9) continuation of the current and projected future business environment (10) highly competitive markets; (11) availability and costs of raw materials and labor; (12) cybersecurity threats; (13) artificial intelligence risk and challenges that can impact our business; (14) compliance with, and costs related to, a variety of import and export laws and regulations; (15) the impact of U.S. trade policy, including resulting tariffs; (16) environmental compliance costs and liabilities; (17) exposure to fluctuations in foreign currency exchange rates; (18) conditions in foreign countries in which The Gorman-Rupp Company conducts business; (19) changes in our tax rates and exposure to additional income tax liabilities; and (20) risks described from time to time in our reports filed with the Securities and Exchange Commission. Except to the extent required by law, we do not undertake and specifically decline any obligation to review or update any forward-looking statements or to publicly announce the results of any revisions to any of such statements to reflect future events or developments or otherwise. ITEM 1. BU SINESS The Gorman-Rupp Company ( Registrant , Gorman-Rupp , the Company , we or our ) was incorporated in Ohio in 1934. The Company designs, manufactures and globally sells pumps and pump systems for use in water, wastewater, construction, dewatering, industrial, petroleum, original equipment, agriculture, fire suppression, heating, ventilating and air conditioning ( HVAC ), military and other liquid-handling applications. PRODUCTS The Company operates in one business segment, the manufacture and sale of pumps and pump systems. The following table sets forth, for the years 2023 through 2025, the total net sales, income before income taxes and year-end total assets of the Company. 
+(Dollars in thousands) 
+2025 
+2024 
+2023 
+Net sales 
+$ 
+682,389 
+$ 
+659,667 
+$ 
+659,511 
+Income before taxes 
+69,164 
+50,493 
+43,961 
+Total assets 
+860,055 
+858,469 
+890,358 
+The Company s product line consists of pump models ranging in size from 1/4 to nearly 15 feet and ranging in rated capacity from less than one gallon per minute to nearly one million gallons per minute. The types of pumps which the Company produces include self-priming centrifugal, standard centrifugal, magnetic drive centrifugal, axial and mixed-flow, vertical turbine line shaft, submersible, high-pressure booster, rotary gear, rotary vein, diaphragm, bellows and oscillating. The pumps have drives that range from fractional horsepower electric motors up to much larger electric motors or internal combustion engines capable of producing several thousand horsepower. Many of the larger units comprise encased, 
+3 
+Table of Contents 
+fully-integrated water and wastewater pumping stations. In certain cases, units are designed for the inclusion of customer-supplied drives. The Company s larger pumps are sold principally for use in the construction, industrial, water and wastewater handling fields; for flood control; for boosting low residential water pressure; for pumping refined petroleum products, including the ground refueling of aircraft; for fluid control in HVAC applications; and for various agricultural purposes. The Company s pumps are also utilized for dewatering purposes. Additionally, pumps manufactured for fire suppression are used for sprinkler back-up systems, stand pipes, fog systems and deluge systems at hotels, banks, factories, airports, schools, public buildings, data centers, and hundreds of other types of facilities throughout the world. Many of the Company s smallest pumps are sold to customers for incorporation into such products as food processing, chemical processing, medical applications, computer cooling, waste treatment, HVAC equipment, appliances and solar heating. MARKETING The Company s pumps are marketed in the United States and internationally through a broad network of distributors, through manufacturers representatives (for sales to certain original equipment manufacturers), through third-party distributor catalogs, direct sales, retailers, and e-commerce. The Company regularly seeks alliances with distributors and other partners to further enhance marketing opportunities. Export sales are made primarily through foreign distributors and representatives. The Company has long-standing relationships with many of the leading independent distributors in the markets it serves and provides specialized training programs to distributors on a regular basis. During 2025, 2024 and 2023, there were no shipments to any foreign country nor to any single customer that exceeded 10% of total net sales. Gorman-Rupp continued to actively pursue international business opportunities and, in 2025, shipped its pumps to approximately 140 countries around the world. COMPETITION The pump industry is highly fragmented and therefore Gorman-Rupp competes with a large number of businesses. Numerous pump competitors exist as subsidiaries, divisions or departments within significantly larger corporations. The Company also faces increased competition from foreign-sourced pumps in most of the Company s domestic markets. Most commercial and industrial pumps are specifically designed and engineered for a particular customer s application. The Company believes that proper application, product performance, and quality of delivery and service are its principal methods of competition, and attributes its success to its continued emphasis in these areas. In the sale of products and services, the Company benefits from its large base of previously installed products, which periodically require replacement parts due to the critical application and nature of the products and the conditions under which they operate. PURCHASING AND PRODUCTION Substantially all of the materials, supplies, components and accessories used by the Company in the fabrication of its products, including all castings (for which most patterns are made and owned by the Company), structural steel, bar stock, motors, solenoids, engines, seals, and plastic and elastomeric components are purchased by the Company from other suppliers and manufacturers. The Company purchases motor components for its large submersible pumps, and motors and engines for its pump systems, from a limited number of suppliers. The Company does not purchase materials under long-term contracts and is not dependent upon a single source for any materials, supplies, components or accessories which are of material importance to its business. The other production operations of the Company consist of the machining of castings, the cutting, shaping and welding of bar stock and structural members, the design and assembly of electrical control panels, the manufacture of some small motors and a few minor components, and the assembling, painting and testing of its products. The majority of the Company s products are tested prior to shipment. 
+4 
+Table of Contents 
+HUMAN CAPITAL As of December 31, 2025, the Company employed approximately 1,415 persons, of whom approximately 740 were hourly employees. The majority of the Company s manufacturing operations take place in the United States, as evidenced by 87% of its employees being in the Company s U.S. locations and 13% of its employees being in its international locations. Our approach is to develop talent from within and supplement with external hires. We invest resources to develop the talent needed to remain a leading designer and manufacturer of pumps and pump systems. We provide our employees with training opportunities and educational benefits to assist in the expansion of their careers and skills. This approach has resulted in a deep understanding among our employee base of our business, products, and customers. We believe that our average tenure of 12 years, as of the end of 2025, reflects both the strong engagement of our employees and our positive workplace culture. Approximately 7% of our employees operate under a collective bargaining agreement, which expires within the next twelve months. The Company has never experienced a work stoppage. We provide competitive compensation and benefits programs to help meet the needs of our employees. In addition to salaries, these programs (which vary by country and region) include profit sharing, a 401(k) plan, medical insurance and benefits, health savings accounts, paid time off, and tuition assistance, among others. Certain domestic employees hired prior to January 1, 2008, participate in a defined benefit plan. Employees hired after this date, in eligible locations, participate in an enhanced 401(k) plan instead of the defined benefit plan. To create performance incentives and to encourage employees to voluntarily invest in the Company s Common Shares, we have made the purchase of common shares convenient, in some cases with partial cash matching contributions from the Company, and in all cases without brokers fees or commissions, under an Employee Stock Purchase Plan, a 401(k) Plan and a Dividend Reinvestment Plan. Because our business involves the manufacturing of products, many of our employees are unable to work from home. For certain positions, we do provide hybrid work from home options. The health and safety of our workforce is fundamental to the success of our business. We provide our employees upfront and ongoing safety training to ensure that safety policies and procedures are effectively communicated and implemented. We also provide personal protective equipment to those employees who need it to perform their job functions safely. We have experienced personnel on-site at each of our manufacturing locations who are tasked with environmental, health and personal safety education and compliance. We are committed to upholding fundamental human rights and believe that all human beings should be treated with dignity, fairness and respect. This commitment is outlined in our Human Rights Policy which applies to all employees worldwide including part time and temporary workers. We communicate our expectation that suppliers also adhere to our Human Rights Policy through our Supplier Code of Conduct. We strive to promote opportunities in the workplace, engage with our communities, and encourage our suppliers to treat their employees in a manner that respects human rights. We utilize an on-line platform to provide training to all employees worldwide in key areas such as harassment and discrimination prevention, human rights, and our code of conduct. We also internally publicize the availability of an anonymous ethics hotline through which any employee may report any ethics, safety or other employment concerns. OTHER ASPECTS Although the Company owns a number of patents, several of which are important to its business, the Company does not consider its business to be materially dependent upon any one or more patents. The Company s patents, trademarks and other intellectual property are adequate for its business purposes. AVAILABLE INFORMATION The Company maintains a website accessible through its internet address of www.gormanrupp.com. Gorman-Rupp makes available free of charge on or through www.gormanrupp.com its Annual Report to Shareholders, its annual Proxy Statement, its annual report on Form 10-K, its quarterly reports on Form 10-Q, and its current reports on Form 8-K, and any amendments to those reports, as soon as reasonably practicable after those reports (and any amendments) are electronically filed with or furnished to the Securities and Exchange Commission ( Commission ). However, the information contained on the Company s website is not a part of this Form 10-K or any other report filed with or furnished to the Commission. 
+5 
+Table of Contents 
+A paper copy of the Company s Form 10-K is also available free
+
+## GEOGRAPHIC REVENUE
+ducts as food processing, chemical processing, medical applications, computer cooling, waste treatment, HVAC equipment, appliances and solar heating. MARKETING The Company s pumps are marketed in the United States and internationally through a broad network of distributors, through manufacturers representatives (for sales to certain original equipment manufacturers), through third-party distributor catalogs, direct sales, retailers, and e-commerce. The Company regularly seeks alliances with distributors and other partners to further enhance marketing opportunities. Export sales are made primarily through foreign distributors and representatives. The Company has long-standing relationships with many of the leading independent distributors in the markets it serves and provides specialized training programs to distributors on a regular basis. During 2025, 2024 and 2023, there were no shipments to any foreign country nor to any single customer that exceeded 10% of total net sales. Gorman-Rupp continued to actively pursue international business opportunities and, in 2025, shipped its pumps to approximately 140 countries around the world. COMPETITION The pump industry is highly fragmented and therefore Gorman-Rupp competes with a large number of businesses. Numerous pump competitors exist as subsidiaries, divisions or departments within significantly larger corporations. The Company also faces increased competition from foreign-sourced pumps in most of the Company s domestic markets. Most commercial and industrial pumps are specifically designed and engineered for a particular customer s application. The Company believes that proper application, product performance, and quality of delivery and service are its principal methods of competition, and attributes its success to its continued emphasis in these areas. In the sale of products and services, the Company benefits from its large base of previously installed products, which periodically require replacement parts due to the critical application and nature of the products and the conditions under which they operate. PURCHASING AND PRODUCTION Substantially all of the materials, supplies, components and accessories use
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer that exceeded 10% of total net sales. Gorman-Rupp continued to actively pursue international business opportunities and, in 2025, shipped its pumps to approximately 140 countries around the world. COMPETITION The pump industry is highly fragmented and therefore Gorman-Rupp competes with a large number of businesses. Numerous pump competitors exist as subsidiaries, divisions or departments within significantly larger corporations. The Company also faces increased competition from foreign-sourced pumps in most of the Company s domestic markets. Most commercial and industrial pumps are specifically designed and engineered for a particular customer s application. The Company believes that proper application, product performance, and quality of delivery and service are its principal methods of competition, and attributes its success to its continued emphasis in these areas. In the sale of products and services, the Company benefits from its large base of previously installed products, which periodically require replacement parts due to the critical application and nature of the products and the conditions under which they operate. PURCHASING AND PRODUCTION Substantially all of the materials, supplies, components and accessories used by the Company in the fabrication of its products, including all castings (for which most patterns are made and owned by the Company), structural steel, bar stock, motors, solenoids, engines, seals, and plastic and elastomeric components are purchased by the Company from other suppliers and manufacturers. The Company purchases motor components for its large submersible pumps, and motors and engines for its pump systems, from a limited number of suppliers. The Company does not purchase materials under long-term contracts and is not dependent upon a single source for any materials, supplies, components or accessories which are of material importance to its business. The other production operations of the Company consist of the m
+
+---
+Doc size: 2048KB (capped at 2MB)

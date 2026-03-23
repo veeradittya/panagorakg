@@ -1,0 +1,14 @@
+# MICROSOFT CORP — 10-K Annual Report
+# Filed: 2025-07-30
+# CIK: 789019
+# SIC: Services-Prepackaged Software
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)
+
+## RISK FACTORS (Item 1A)
+&#160; 16 &#160; &#160; &#160; &#160; &#160; &#160; Item 1B. &#160;
+
+## GEOGRAPHIC REVENUE
+SegmentReportingCodmIndividualTitleAndPositionOrGroupOrCommitteeNameExtensibleEnumeration" contextRef="C_7102029d-8d6c-44c5-b166-04cf41443b1e">http://fasb.org/srt/2024#ChiefExecutiveOfficerMember 0000789019 srt:MaximumMember us-gaap:ComputerEquipmentMember 2025-06-30 0000789019 us-gaap:EarliestTaxYearMember msft:FederalAndStateMember 2024-07-01 2025-06-30 0000789019 srt:MinimumMember msft:IssuanceOfLongTermDebtThirteenMember 2024-07-01 2025-06-30 <xbrli:context id="C_847d5557-5bb7-4239-9e32-99405b55e9
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

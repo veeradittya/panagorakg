@@ -1,0 +1,374 @@
+# IDT CORP — 10-K Annual Report
+# Filed: 2025-09-29
+# CIK: 1005731
+# SIC: Telephone Communications (No Radiotelephone)
+# Source: https://www.sec.gov/Archives/edgar/data/1005731/000149315225016071/form10-k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors. 
+18 
+Item
+1B. 
+Unresolved Staff Comments. 
+41 
+Item
+1C. 
+Cybersecurity. 
+41 
+Item
+2. 
+Properties. 
+42 
+Item
+3. 
+Legal Proceedings. 
+42 
+Item
+4. 
+Mine Safety Disclosures. 
+42 
+Part II 
+43 
+Item
+5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+43 
+Item
+6. 
+[Reserved] 
+45 
+Item
+7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+45 
+Item
+7A. 
+Quantitative and Qualitative Disclosures about Market Risks. 
+57 
+Item
+8. 
+Financial Statements and Supplementary Data. 
+57 
+Item
+9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+57 
+Item
+9A. 
+Controls and Procedures. 
+58 
+Item
+9B. 
+Other Information. 
+60 
+Item
+9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+60 
+Part III 
+60 
+Item
+10. 
+Directors, Executive Officers and Corporate Governance. 
+60 
+Item
+11. 
+Executive Compensation. 
+60 
+Item
+12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+60 
+Item
+13. 
+Certain Relationships and Related Transactions, and Director Independence. 
+60 
+Item
+14. 
+Principal Accountant Fees and Services. 
+60 
+Part IV 
+60 
+Item
+15. 
+Exhibit and Financial Statement Schedules. 
+60 
+Item
+16. 
+Form 10-K Summary. 
+62 
+Signatures 
+63 
+i 
+Part
+I 
+As
+used in this Annual Report, unless the context otherwise requires, the terms the Company, IDT, we, 
+us, and our refer to IDT Corporation, a Delaware corporation, and its subsidiaries, collectively. Each reference
+to a fiscal year in this Annual Report refers to the fiscal year ending in the calendar year indicated (for example, fiscal 2025 refers
+to the fiscal year ended July 31, 2025). 
+Item
+1. Business. 
+OVERVIEW 
+IDT
+is a provider of fintech and communications solutions focused on certain under-served consumer and B2B markets. Our offerings were built
+around, and continue to leverage, a common core of strategic assets, and we seek to maximize the synergies among them to achieve exceptional
+growth and profitability. 
+IDT s
+key businesses are: 
+National
+Retail Solutions (NRS ): Operates a leading point-of-sale, or POS, terminal-based platform for independent retailers in the United
+States including convenience stores, bodegas, liquor, small-format grocery, and tobacco stores. NRS purpose-built integrated
+POS hardware and software solutions enable these stores to operate more effectively. Through its payment processing offerings, NRS
+enables these retailers to accept and process credit, debit, and electronic benefit transfer payments. NRS nationwide network
+of customer-facing screens and its transaction data and analytics provide advertisers and marketers with unprecedented reach into urban,
+multi-cultural consumer markets across the United States.; 
+BOSS
+Money: Provides fintech-based services featuring cross-border money transfers to customers in the United States. BOSS Money makes
+it easy and convenient to share resources with friends and family in 50 destination countries in Latin America and the Caribbean, Africa,
+Europe, and Asia. BOSS Money transactions are initiated predominantly through its digital channel including the popular BOSS Money
+and BOSS Revolution apps, and also through its nationwide network of licensed BOSS Money retail agents who accept cash payments; 
+net2phone:
+Provides businesses with AI-powered communications solutions that analyse, inform, and manage communications for enhanced productivity.
+net2phone s offerings include unified communications as a service (UCaaS), contact center as a service (CCaaS), and autonomous
+agentic solutions, net2phone Coach and net2phone AI Agent. net2phone s services are available worldwide with a focus on North
+and South America; 
+IDT
+Digital Payments: Provides prepaid digital offerings including mobile airtime top-up, mobile data bundles, digital gift cards,
+eSIMs and other offerings directly to consumers through BOSS retail and digital channels. (Mobile airtime top-up, or simply
+mobile top-up, enables customers to transfer airtime and bundles of airtime, messaging, and data to international and domestic mobile
+accounts.) IDT Digital Payments B2B prepaid-as-a-service platform, Zendit, enables businesses, entrepreneurs, and developers
+to offer prepaid digital offerings; 
+BOSS
+Revolution : Provides international long-distance voice calling marketed primarily to immigrant communities in the United States
+and Canada. BOSS Revolution is provisioned through the popular BOSS Revolution app and prepaid hard cards sold by a nationwide
+network of over 30,000 BOSS Revolution retail agents; and 
+IDT
+Global : Provides wholesale international voice and SMS termination and outsourced traffic management solutions to telecoms worldwide.
+Through its IDT Express branded self-provisioning portal, IDT Global also serves small and medium businesses. 
+IDT
+also operates other, smaller businesses and offerings including early-stage business initiatives and mature businesses in harvest mode. 
+Our
+headquarters is located at 520 Broad Street, Newark, New Jersey 07102. The main telephone number at our headquarters is (973) 438-1000
+and our corporate website s home page is www.idt.net. 
+SEGMENT
+REPORTING 
+We
+have four reportable business segments: (1) National Retail Solutions, or NRS; (2) Fintech; (3) net2phone; and (4) Traditional Communications. 
+The
+NRS segment, which contributed revenue of $128.8 million in fiscal 2025 and $103.1 million in fiscal 2024 (10.5% and 8.6% of our total
+revenues, respectively) comprises our NRS business. 
+1 
+The
+Fintech segment, which contributed revenue of $154.6 million in fiscal 2025 and $120.7 million in fiscal 2024 (12.6% and 10.0% of our
+total revenues, respectively), comprises our BOSS Money remittance business and other, significantly smaller, financial services businesses. 
+The
+net2phone segment, which contributed revenue of $87.9 million in fiscal 2025 and $82.3 million in fiscal 2024 (7.1% and 6.8% of our total
+revenues, respectively), offers AI-driven communications solutions to businesses primarily in North and South America. 
+The
+Traditional Communications segment, which contributed revenue of $860.2 million in fiscal 2025 and $899.6 million in fiscal 2024 (69.8%
+and 74.6% of our total revenues, respectively) includes IDT Digital Payments, BOSS Revolution, and IDT Global, as well as other small
+businesses and offerings including early-stage business initiatives and mature businesses in harvest mode. 
+Financial
+information by segment is presented in Note 2 to our Consolidated Financial Statements in Item 8 to Part II of this Annual Report. 
+We
+make available free of charge our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments
+to these reports, and all beneficial ownership reports on Forms 3, 4 and 5 filed by directors, officers and beneficial owners of more
+than 10% of our equity through the investor relations page of our website (http://ir.idt.net/) as soon as reasonably practicable after
+such material is electronically filed with the Securities and Exchange Commission. Our website also contains information not incorporated
+into this Annual Report on Form 10-K or our other filings with the Securities and Exchange Commission. 
+KEY
+EVENTS IN OUR HISTORY 
+1990
+Howard S. Jonas, our founder, launches International Discount Telephone to provide international call re-origination services. 
+1996
+We successfully complete an initial public offering of our common stock. 
+2000
+We complete the sale of a stake in our net2phone subsidiary, a pioneer in the development and commercialization of Voice over
+Internet Protocol, or VoIP, technologies and services, to AT&T for approximately $1.1 billion in cash. We subsequently repurchased
+net2phone from AT&T. 
+2001
+Our common stock is listed on the New York Stock Exchange, or NYSE. 
+2007
+We complete the sale of IDT Entertainment to Liberty Media for $220.0 million in cash, stock and other considerations. 
+2008
+We launch BOSS Revolution, a pay-as-you-go international calling service. BOSS Revolution has since become our flagship brand,
+and the BOSS Revolution platform has expanded to include payment offerings. 
+2009
+We spin-off our CTM Media Holdings subsidiary to our stockholders. CTM Media Holdings was subsequently renamed IDW Media Holdings,
+Inc. 
+2011
+We spin-off our Genie Energy Ltd. subsidiary to our stockholders. Genie Energy s common stock is listed on the NYSE with
+the ticker symbol GNE . 
+2013
+We spin-off our subsidiary, Straight Path Communications, Inc., or Straight Path, including its wireless spectrum holdings, to
+our stockholders. Straight Path was purchased in February 2018 by Verizon Communications Inc. 
+We introduce our BOSS Revolution app for Android and iOS. 
+We launch our BOSS Money international remittance service. 
+2015
+net2phone launches its UCaaS offering in the United States. 
+2016
+We spin-off our Zedge subsidiary to our stockholders. Zedge s stock is listed on the NYSE American with the ticker symbol
+ZDGE . 
+We launch NRS to provide POS-based services to independent retailers in the United States. 
+2017
+We introduce our BOSS Money app for Android and iOS. 
+2 
+2018
+We spin-off our Rafael Holdings, Inc. subsidiary to our stockholders. Rafael Holdings stock is listed on the NYSE with
+the ticker symbol RFL . 
+2019
+NRS launches NRS PAY, enabling retailers to accept credit cards and other forms of digital payment. 
+2022
+net2phone acquires Integra CCS, or Integra, a CCaaS provider operating in the Americas and Europe. 
+2024
+We initiate payment of a regular quarterly dividend to holders of our Common Stock. 
+2025
+net2phone launches net2phone AI Agent, a customizable, AI-powered offering delivering exceptional customer experiences across
+sales, support and administrative tasks, and Coach, an AI-driven workforce intelligence and coaching platform. 
+NRS surpasses 37,000 active terminals operating at over 32,000 independent retailers. 
+BOSS Money handles 2.3 million remittances for customers in May, 2025. 
+OUR
+STRATEGY 
+We
+are a fintech and communications solutions provider with synergistic offerings focused on underserved, fragmented consumer and B2B markets.
+Many of our offerings leverage one or more of our core strategic assets assets that we have carefully built during the thirty-five
+years since our inception. These assets include: 
+Our
+popular BOSS consumer brands (BOSS Money and BOSS Revolution) and our leading B2B brands NRS, NRS Pay, NRS Digital Media, NRS Insights,
+net2phone, IDT Global and Zendit; 
+Our
+nationwide network of over 32,000 independent retailers who operate NRS POS-based platform and approximately 25,000 BOSS Revolution
+and BOSS Money retailers who utilize our digital retailer platform; 
+Our
+customer base of more than seven million people, predominantly first and second-generation immigrants within the U.S.; 
+Our
+global technology infrastructure and high-capacity transaction platforms; 
+Extensive
+VoIP and cloud services expertise; and 
+Our
+staff of approximately 2,400 dedicated personnel working in over 30 countries on five continents including in-house technology and
+product development teams. 
+The
+development of each of our current high margin growth businesses NRS, BOSS Money, and net2phone - has been principally organic
+and financed with the cash flows generated by our mature businesses. Consequently, we have avoided debt financing and dilutive capital
+raises. Today, each of these high-margin growth businesses is cash-flow positive, and in combination with our efforts to maximize the
+cash generation of our lower margin, mature offerings, have enabled us to improve our consolidated bottom-line performance in recent
+years, to further strengthen our balance sheet, and to return value to stockholders through purchases of our Class B common stock and
+payment of a quarterly dividend. We expect that this trend will continue as the three high-margin businesses steadily become larger contributors
+to our top and bottom-line results. 
+We
+seek to accelerate and extend this rotation by developing new offerings organically and through acquisitions that leverage our balance
+sheet. Broadly speaking, these efforts are focused on, but not limited to, our POS, fintech and AI businesses, and typically involve
+development or application of new technologies, expansion to new markets, or both. 
+BUSINESS
+DESCRIPTION 
+National
+Retail Solutions 
+NRS
+generated $128.8 million in revenues and income from operations of $27.8 million in fiscal 2025, as compared with revenues of $103.1
+million and income from operations of $21.6 million in fiscal 2024. 
+NRS
+operates a network of POS terminals at independent retailers throughout the United States and has a small but growing presence in Canada.
+The NRS solutions include integrated hardware and software tools that enable these retailers to operate more efficiently and compete
+more effectively against larger retail chains. 
+The
+POS terminal s hardware includes a cash register, barcode scanner, retailer and customer-facing hi-definition screens, a receipt
+printer, and a credit card reader. NRS integrated, proprietary software is offered to retailers as a service and provides operational
+tools including inventory management, sales tracking, price book management, and other useful features. NRS technology teams continuously
+enhance the software and develop new features to better serve existing customers and facilitate expansion into additional retail market
+segments. 
+3 
+The
+primary market for NRS POS terminals is the independently owned convenience, bodega, liquor, grocery, and tobacco stores, many
+of which primarily serve foreign-born communities in urban areas. 
+NRS
+continues to increase the number of POS terminals active in its network. As of July 31, 2025, the NRS POS network included approximately
+37,200 terminals, an increase from 32,100 a year earlier. We believe that our network of NRS retailers comprises the largest POS network
+serving independent convenience store retailers in the U.S. by a significant margin. 
+NRS
+markets through three channels: 
+wholesale
+distributors; 
+dedicated
+sales agents including exclusive agents and BOSS agents; and 
+in-house
+telemarketing. 
+NRS
+generates revenue from a portfolio of services for both retailers and third parties. The majority of revenue is generated by recurring
+services including: 
+Merchant Services. 
+Merchant services revenue is generated by enabling retailers to accept and process payments made by credit cards, debit cards, electronic
+benefits transfer and other forms of electronic payment. The NRS offering is attractive to retailers for several reasons: 
+For new customers / retailers,
+NRS incentivizes retailers to also enroll in NRS payment processing by reducing the cost of the NRS POS hardware; 
+NRS payment processing
+pricing model is straightforward and easily understood. NRS does not charge hidden fees a freq
+
+## GEOGRAPHIC REVENUE
+bol RFL . 
+2019
+NRS launches NRS PAY, enabling retailers to accept credit cards and other forms of digital payment. 
+2022
+net2phone acquires Integra CCS, or Integra, a CCaaS provider operating in the Americas and Europe. 
+2024
+We initiate payment of a regular quarterly dividend to holders of our Common Stock. 
+2025
+net2phone launches net2phone AI Agent, a customizable, AI-powered offering delivering exceptional customer experiences across
+sales, support and administrative tasks, and Coach, an AI-driven workforce intelligence and coaching platform. 
+NRS surpasses 37,000 active terminals operating at over 32,000 independent retailers. 
+BOSS Money handles 2.3 million remittances for customers in May, 2025. 
+OUR
+STRATEGY 
+We
+are a fintech and communications solutions provider with synergistic offerings focused on underserved, fragmented consumer and B2B markets.
+Many of our offerings leverage one or more of our core strategic assets assets that we have carefully built during the thirty-five
+years since our inception. These assets include: 
+Our
+popular BOSS consumer brands (BOSS Money and BOSS Revolution) and our leading B2B brands NRS, NRS Pay, NRS Digital Media, NRS Insights,
+net2phone, IDT Global and Zendit; 
+Our
+nationwide network of over 32,000 independent retailers who operate NRS POS-based platform and approximately 25,000 BOSS Revolution
+and BOSS Money retailers who utilize our digital retailer platform; 
+Our
+customer base of more than seven million people, predominantly first and second-generation immigrants within the U.S.; 
+Our
+global technology infrastructure and high-capacity transaction platforms; 
+Extensive
+VoIP and cloud services expertise; and 
+Our
+staff of approximately 2,400 dedicated personnel working in over 30 countries on five continents including in-house technology and
+product development teams. 
+The
+development of each of our current high margin growth businesses NRS, BOSS Money, and net2phone - has been principally organic
+and financed with the cash flows generated by our mature businesses. Consequently, we have avoided debt financing and dilutive capital
+raises. Today, each of these high-margin growth businesses is cash-flow positive, and
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers, from a revenue perspective, vary from quarter to quarter, our five largest IDT Global customers
+collectively accounted for 4.2% and 4.7% of our total revenues in fiscal 2025 and fiscal 2024, respectively. Our IDT Global customers
+with the five largest receivables balances collectively accounted for 8.0% and 1.6% of our total gross trade accounts receivable on July
+31, 2025, and 2024, respectively. This concentration of revenues and receivables increases our exposure to non-payment by our larger
+customers, and we may experience significant write-offs if any of our large customers fail to pay their outstanding balances, which could
+adversely affect our cash flow and profitability. 
+We
+rely on highly skilled personnel and, if we are unable to retain or motivate key personnel, hire qualified personnel, or maintain our
+corporate culture, we may not be able to grow effectively. 
+We
+believe that our corporate culture fosters innovation, creativity, and teamwork. Our performance largely depends on the talents and efforts
+of highly skilled individuals. Our future success depends on our continuing ability to identify, hire, develop, motivate, and retain
+highly skilled personnel for all areas of our organization, in particular our technology and software engineering organization. Competition
+for qualified technology and engineering employees is intense, and our compensation arrangements may not always be successful in attracting
+new employees and retaining and motivating our existing employees. Our continued ability to compete effectively depends on our ability
+to attract new employees and to retain and motivate our existing employees. 
+New
+and existing technologies could affect our ability to track the results of ads and/or could block ads online, which would harm our business. 
+A
+significant portion of our revenues are derived from customers acquired in connection with the display of advertisements online. Technologies
+have been developed to make track
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,278 @@
+# LINDBLAD EXPEDITIONS HLDGS I — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1512499
+# SIC: Transportation Services
+# Source: https://www.sec.gov/Archives/edgar/data/1512499/000143774926005873/lindb20251231c_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+19 
+Item 1B. 
+Unresolved Staff Comments 
+35 
+Item 1C. 
+Cybersecurity 
+35 
+Item 2. 
+Properties 
+38 
+Item 3. 
+Legal Proceedings 
+37 
+Item 4. 
+Mine Safety Disclosures 
+37 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities 
+38 
+Item 6. 
+Reserved 
+39 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+40 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+51 
+Item 8. 
+Financial Statements and Supplementary Data 
+51 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+52 
+Item 9A. 
+Controls and Procedures 
+52 
+Item 9B. 
+Other Information 
+55 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+55 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+55 
+Item 11. 
+Executive Compensation 
+55 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters 
+55 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+56 
+Item 14. 
+Principal Accountant Fees and Services 
+56 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+57 
+Item 16. 
+Form 10-K Summary 
+59 
+Signatures 
+60 
+PART I 
+Cautionary Note Regarding Forward-Looking Statements and Risk Factor Summaries 
+Any statements in this Annual Report on Form 10-K (the Form 10-K ) about our expectations, beliefs, plans, objectives, prospects, financial condition, assumptions or future events or performance are not historical facts and are forward-looking statements as that term is defined under the federal securities laws. These statements are often, but not always, made through the use of words or phrases such as believe, anticipate, should, intend, plan, will, expects, estimates, projects, positioned, strategy, outlook and similar words. You should read the statements that contain these types of words carefully. Such forward-looking statements are subject to a number of risks, uncertainties and other factors that could cause actual results to differ materially from what is expressed or implied in such forward-looking statements. There may be events in the future that we are not able to predict accurately or over which we have no control. Potential risks and uncertainties include, but are not limited to: 
+adverse general economic and/or geopolitical factors that, negatively impact the ability or desire of people to travel; 
+loss of business due to competition; 
+unscheduled disruptions in our business due to travel restrictions, weather events, mechanical failures, pandemics or other events; 
+increases in fuel prices, changes in fuel consumed and availability of fuel supply in the geographies in which we operate or in general; 
+the loss of key employees, our inability to recruit or retain qualified shoreside and shipboard employees and increased labor costs; 
+the impact of delays or cost overruns with respect to anticipated or unanticipated drydock, maintenance, modifications or other required construction related to any of our vessels; 
+management of our growth and our ability to execute our planned growth, including our ability to successfully close merger and acquisition transactions and integrate acquisitions; 
+our ability to maintain our relationships with National Geographic and/or World Wildlife Fund; 
+compliance with new and existing laws and regulations, including environmental regulations and travel advisories and restrictions; 
+our substantial indebtedness and our ability to remain in compliance with the financial and/or operating covenants in such arrangements; 
+the impact of material litigation, enforcement actions, claims, fines or penalties on our business; 
+the impact of severe weather conditions, including climate change, on our business; 
+adverse publicity regarding the travel and cruise industry in general; 
+the result of future financing efforts; and 
+those risks discussed herein in Item 1A. Risk Factors. 
+We urge you not to place undue reliance on these forward-looking statements, which speak only as of the date of this report. We do not undertake any obligation to release publicly any revisions to such forward-looking statements to reflect events or uncertainties after the date hereof or to reflect the occurrence of unanticipated events. 
+Unless the context otherwise requires, in this Form 10-K, Company, Lindblad, we, us, our, and ours refer to Lindblad Expeditions Holdings, Inc., and its subsidiaries. 
+1
+Item 1. 
+Business 
+Overview 
+Lindblad has been providing marine expedition adventures and active travel experiences globally to its guests since 1979. Our expedition sailing and land-based adventure travel experiences foster a spirit of exploration and discovery through itineraries that feature up-close encounters with wildlife, nature, history and culture, and promote guest empowerment, human connections and interactivity. Our mission is to offer life-enhancing adventures around the world and pioneering innovative ways to allow our guests to connect with exotic and remote places. Our brands include Lindblad Expeditions, Natural Habitat, Inc. ( Natural Habitat ), Off the Beaten Path, LLC ( Off the Beaten Path ), DuVine Cycling + Adventure Company ( DuVine ), Classic Journeys, LLC ( Classic Journeys ), and Thomson Group, consisting of Wineland-Thomson Adventures, LLC ( Thomson Safaris ), Nature Discovery Ltd ( Nature Discovery ), Thomson Safaris Ltd ( Thomson Safaris Tanzania ), and Ngorongoro Safari Lodge Ltd ( Gibb s Farm ). 
+Segments 
+Lindblad Segment 
+The Lindblad segment consists primarily of ship-based expeditions aboard customized, nimble and intimately-scaled vessels that are designed for discovery, enabling us to venture where larger cruise ships cannot, thereby allowing Lindblad to offer up-close experiences in the planet s wild and remote places and capitals of culture. Many of these expeditions involve travel to remote places with limited infrastructure and ports, such as Antarctica and the Arctic, or places that are best accessed by a ship, such as the Gal pagos Islands, Alaska and Baja California s Sea of Cortez and foster active engagement by guests. Each expedition ship is fully equipped with state-of-the-art tools for in-depth exploration. 
+We choose to visit geographic areas based upon many factors, including weather, marine conditions, migration patterns and various natural phenomena and are continually expanding our travel offerings. In the northern hemisphere summer months, we primarily visit the High Arctic regions of the world, Alaska, the Canadian Maritimes, Europe, and in the northern hemisphere winter months, we primarily travel to Antarctica, South America, Costa Rica, Baja California, Panama and the Caribbean. The Gal pagos Islands are a year-round destination offering a diverse variety of marine, land and airborne wildlife. 
+Our offerings appeal to a wide range of travelers, both individuals and families, with affluent individuals in the U.S. aged 50 years or older representing our largest demographic category. We lead life-enhancing expeditions helping curious travelers experience the world from a new perspective. The quality of our offerings has enabled us to achieve and maintain premium pricing in the market instead of pursuing the type of discounting offered by most cruise lines that are focused on the broader market. Our product offering, value proposition and differentiated pricing approach have enabled us to historically achieve high net yields and occupancy rates. 
+We have a longstanding relationship with the National Geographic Society, which began in 2004, and was founded on a shared interest in exploration, research, technology and conservation. This relationship includes co-selling, co-marketing and branding arrangements with National Geographic Partners, LLC ( National Geographic ) whereby our owned vessels carry the National Geographic name and National Geographic sells our expeditions through their internal travel divisions. In November 2023, this strategic partnership with National Geographic was expanded and extended through 2040. Under the new agreement, the two companies have extended their industry-defining 20-year relationship, allowing the brand to reach new worldwide audiences through compelling new market opportunities and long-term, mutually beneficial growth strategies. We collaborate with National Geographic on expedition planning and to enhance the guest experience by having National Geographic experts, including photographers, writers, marine biologists, naturalists, field researchers and film crews, join our expeditions. Guests have the ability to interact with these experts through lectures, excursions, dining and other experiences throughout their expedition. 
+Lindblad Expeditions Ships 
+We currently operate a fleet of 12 owned expedition vessels, along with 10 seasonal chartered ships (with several other vessels contracted for future expeditions), to provide our signature marine-based adventures to over 40 destinations on six continents, offering itineraries that last from five to over 30 days. The small size of our vessels allows them to reach places inaccessible to larger ships. They are designed with a variety of public areas that offer views for passing landscape and observing wildlife and large dining rooms and lounges that form part of the social hubs of the ships, featuring presentation space for exploration recaps. 
+2
+We have extensive experience operating in the Gal pagos Islands, Alaska, Antarctica and the Arctic, with the Lindblad family having been among the first to bring non-scientist travelers to these regions. We operate four vessels providing itineraries in the Gal pagos Islands throughout the year. We operate three polar vessels that serve primarily in Antarctica during the northern hemisphere winter, in the Arctic and Europe during the northern hemisphere summer and various destinations during the intermediate months. We operate four ships in Alaska during the summer months that then primarily travel south along the North American Pacific coastline to Baja California s Sea of Cortez, Costa Rica and Panama for the winter. We also operate a blue water ship that sails itineraries in Antarctica, Europe, the Mediterranean Sea, the South Pacific and Asia. We continue to search for, and evaluate, distinctive locations to present new and exciting expedition itineraries for our guests. 
+In addition to our owned and operated ships, we deploy chartered vessels for various seasonal offerings and continually seek to optimize our charter fleet to balance our inventory with demand and maximize yields. We use our charter inventory as a mechanism to both increase travel options for our existing and prospective guests and also to test demand for certain areas and seasons to understand the potential for longer term deployments and additional vessel needs . We currently charter vessels for seasonal itineraries in the Amazon, Cambodia and Vietnam, the Caribbean, Egypt, the Mediterranean Sea, and Scotland. 
+The following table presents summary information concerning the ships we currently operate and their primary traditional geographic operations: 
+Vessel Name 
+Date Built 
+Guest Capacity 
+Cabins 
+Primary Areas of Operation 
+Flag 
+National Geographic Delfina 
+2007, renovated in 2025 
+16 
+8 
+Gal pagos Islands 
+Ecuador 
+National Geographic Endeavour II 
+2005, renovated in 2016 
+96 
+50 
+Gal pagos Islands 
+Ecuador 
+National Geographic Endurance 
+2020 
+138 
+75 
+Arctic, Antarctic, Greenland, Iceland, Northwest Passage and Norway 
+Bahamas 
+National Geographic Explorer 
+1982, rebuilt in 2008 
+148 
+81 
+Arctic, Antarctica, Canada, Europe and Patagonia/South America 
+Bahamas 
+National Geographic Gemini 
+2001, renovated in 2025 
+48 
+27 
+Gal pagos Islands 
+Ecuador 
+National Geographic Islander II 
+1991, renovated in 2022 
+48 
+24 
+Gal pagos Islands 
+Ecuador 
+National Geographic Orion 
+2003 
+102 
+53 
+South Pacific and Asia 
+Bahamas 
+National Geographic Quest 
+2017 
+100 
+50 
+Alaska, California Coast, Canada, the Pacific Northwest, Costa Rica and Panama 
+U.S.A. 
+National Geographic Resolution 
+2021 
+138 
+75 
+Arctic, Antarctica, Greenland, Iceland, Northwest Passage, Norway and Patagonia 
+Bahamas 
+National Geographic Sea Bird 
+1981 
+62 
+31 
+Alaska, Baja California and the Pacific Northwest 
+U.S.A. 
+National Geographic Sea Lion 
+1982 
+62 
+31 
+Alaska, Baja California, the Pacific Northwest and Belize 
+U.S.A. 
+National Geographic Venture 
+2018 
+100 
+50 
+Alaska, California Coast and Baja California 
+U.S.A. 
+Aqua Blu* 
+1968, renovated in 2019 
+26 
+14 
+Indonesia 
+Indonesia 
+Charaidew II* 
+2019 
+34 
+17 
+India 
+India 
+Connect* 
+2026 
+120 
+30 
+Germany, France, the Netherlands and the Slovak Republic 
+U.K. 
+Delfin II* 
+2009 
+28 
+14 
+Amazon 
+Peru 
+Delfin III* 
+2015 
+42 
+21 
+Amazon 
+Peru 
+Jahan* 
+2011 
+48 
+24 
+Vietnam and Cambodia 
+Vietnam 
+Lord of the Glens* 
+1985, renovated in 2016 
+48 
+26 
+Scotland 
+U.K. 
+Oberoi Philae* 
+1996, renovated in 2015 
+42 
+22 
+Egypt 
+Egypt 
+Sea Cloud II* 
+1998 
+88 
+44 
+Mediterranean Sea 
+Malta 
+Sun Goddess* 
+2020 
+60 
+30 
+Egypt 
+Egypt 
+__________ 
+* Chartered Vessel 
+3
+In 2026, the Company is retiring its National Geographic Sea Bird and National Geographic Sea Lion vessels following their Alaska expedition season and will be sailing the Greg Mortimer for Alaska itineraries in 2027 through 2029. 
+For voyages beginning in 2027, we have added an additional charter vessel, the Evolve . The Evolve , to be constructed in 2026, will be a brand-new, state-of-the-art European river ship, with cutting-edge technology, luxurious amenities and wrap-around picture windows sailing through the heart of storied European destinations. Joining our growing collection of charter vessels, the Evolve will comfortably transport 120-guests for expeditions exploring along the Danube, including Germany, Austria, and the Slovak Republic. 
+Land Experiences Segment 
+The Land Experiences segment consists of our primarily land-based adventure brands, providing tours, trips, safaris and journeys centered around nature and culture. The majority of these are active, immersive experiences, featuring unique itineraries across the globe and travel in intimate, small groups. 
+Natural Habitat 
+Natural Habitat Adventures specializes in conservation-focused travel, offering transformative experiences that immerse guests in the beauty and wonder of the natural world. Their journeys highlight wild habitats, incredible wildlife, and the communities that call these places home. With exclusive access to private wildlife reserves, remote areas of national parks, and uniquely situated lodges and camps, Natural Habitat ensures exceptional opportunities for wildlife viewing in pristine environments. 
+As the world s first 100% carbon-offset travel company, Natural Habitat demonstrates a deep commitment to sustainable to
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of Land Experiences guest ticket revenue for 2025, 2024 and 2023, respectively. Agent outreach efforts are focused primarily on consortiums, or travel agent networks, which target affluent travelers. The three consortiums with which we have preferred partner agreements are Virtuoso, Signature and Ensemble. Preferred status provides their agents with financial incentives to book their customers on our expeditions and provides us the opportunity for enhanced marketing to their agents and end-user customers. Our agent and affinity sales teams meet annually with hundreds of highly-targeted agents, at consortium conferences and training seminars, and in-person at agency offices, to provide hands-on training, support and product knowledge. 
+We have a broad and diverse marketing mix across multiple media platforms and channels, allowing us to effectively communicate our product offerings to past guests and prospective guests. We continually optimize our media mix to reach our target demographic. The majority of our annual global marketing spend is focused on consumer-direct channels. Our detailed brochures and websites present comprehensively our expedition and tour offerings. We invest significantly in digital media as part of our guest acquisition efforts with particular focus in paid search. 
+We operate several websites related to our businesses and brands. These include, www.expeditions.com for our Lindblad expedition sailing offerings, www.nathab.com for our Natural Habitat nature adventures, www.offthebeatenpath.com for our Off the Beaten Path guided travel adventures, www.duvine.com for our DuVine cycling adventures and www.classicjourneys.com for our Classic Journeys handcrafted luxury walking tours. We also have a number of websites dedicated to the Thomson Group businesses, including www.thomsonsafaris.com for our Tanzania safaris offerings, www.thomsontreks.com for our luxury Kilimanjaro treks, www.gibbsfarm.com for our Gibbs Farm lodge, www.naturediscovery.
+
+---
+Doc size: 2044KB (capped at 2MB)

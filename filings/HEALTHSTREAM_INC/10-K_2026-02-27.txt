@@ -1,0 +1,127 @@
+# HEALTHSTREAM INC — 10-K Annual Report
+# Filed: 2026-02-27
+# CIK: 1095565
+# SIC: Services-Computer Programming, Data Processing, Etc.
+# Source: https://www.sec.gov/Archives/edgar/data/1095565/000143774926005916/hstm20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+11 
+Item 1B. 
+Unresolved Staff Comments 
+25 
+Item 1C. 
+Cybersecurity 
+25 
+Item 2. 
+Properties 
+26 
+Item 3. 
+Legal Proceedings 
+26 
+Item 4. 
+Mine Safety Disclosures 
+26 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+27 
+Item 6. 
+Reserved 
+29 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+29 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+38 
+Item 8. 
+Financial Statements and Supplementary Data 
+39 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+66 
+Item 9A. 
+Controls and Procedures 
+66 
+Item 9B. 
+Other Information 
+66 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+66 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+67 
+Item 11. 
+Executive Compensation 
+67 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+67 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+67 
+Item 14. 
+Principal Accounting Fees and Services 
+67 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+68 
+Item 16. 
+Form 10-K Summary 
+69 
+Signatures 
+70 
+Table of Contents 
+PART I 
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the "Securities Act"), Section 21E of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. Such forward-looking statements include, among others, those statements including the words expects, anticipates, intends, believes, could, may, will, should, plans, potential, predicts, projects, would, and continue, and similar language or the negative of such terms or other comparable terminology. Forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause our actual results, performance, or achievements to be materially different from future results, performance, or achievements expressed or implied by the forward-looking statements included herein. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in the section Risk Factors in Item 1A of this Annual Report on Form 10-K and elsewhere in this document. In addition, factors that we are not currently aware of, or that we currently deem immaterial, could harm our future operating results. You should carefully review the risks described in other documents HealthStream files from time to time with the Securities and Exchange Commission (the "SEC"). You are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date of this Annual Report on Form 10-K. HealthStream undertakes no obligation to publicly release any revisions to the forward-looking statements to reflect future events or circumstances after the date of this document. 
+Item 1. Business 
+OVERVIEW AND HISTORY 
+HealthStream s focus is and has always been on improving the quality of healthcare through the development and support of the dedicated individuals who deliver care. Like healthcare itself, our mission remains constant, but how we accomplish that mission continues to evolve and improve over time. Originally, we pioneered the use of online learning to hospitals, which began with courses specifically tailored to educate healthcare professionals and meet hospitals' required regulatory needs, and we remain a leading innovator in those areas today. Since our inception, the scope of HealthStream s Software-as-a-Service (SaaS) solutions has expanded well beyond our governance, risk, and compliance (GRC) offerings to include a diverse ecosystem of applications that optimize and support the healthcare workforce and the students preparing to enter that workforce. Today, we are characterized by our single platform strategy, which is designed to create interoperability among the various applications in our ecosystem through our proprietary hStream technology platform. Increasingly, our hStream technology platform extends artificial intelligence (AI) capabilities to the applications it powers and serves as the system of record on which healthcare workforce AI relies. We believe that our single platform strategy, as represented by hStream, is the best way to realize our mission of improving the quality of care by developing the people who deliver care, and the best way to create value for our shareholders in the process. 
+For healthcare organizations our primary customers HealthStream s solutions help to effectively onboard, retain, engage, educate, manage, and develop workforce talent; meet rigorous GRC requirements; optimize staff scheduling and capacity management; and automate the management of medical staff credentialing, privileging, and enrollment. 
+For healthcare professionals and students our primary end users HealthStream s solutions help them to professionally develop their knowledge and skills, manage and fulfill their required continuing education and certifications, manage their schedules, including swapping and filling shifts, engage with peers, provide personalized competency development, and optimize their career pathways. Additionally, our emerging Career Networks provide value directly to healthcare professionals and students, enabling them to evolve their professional identity, skills, portfolio, and career over time. 
+For both healthcare organizations and healthcare professionals and students, HealthStream s solutions are generally accessed through SaaS application suites that are increasingly enhanced through our hStream technology platform, including through the functionality it offers and the data it originates and enriches. Our learning, credentialing, and scheduling application suites are designed to help solve the most critical problems facing the healthcare workforce today. This is achieved through a combination of established and cutting-edge technologies, such as initiative and workflow management capabilities; proprietary taxonomy engines; dynamic engagement models; AI and machine learning (ML) driven clinical assessments; physical-based simulations; healthcare-specific benchmarks; and automated license monitoring and validation. 
+HealthStream s success in offering one of the largest, most diverse ecosystem of workforce solutions in healthcare has made it a thought leader and barometer of innovation for the industry. From its roots in originating online learning for healthcare organizations to the Company's more recent release of "Competency Suite" the first AI/ML-driven clinical competency development system, HealthStream continues to believe that the key to quality patient care lies in the people who deliver care. To that end, we are solely dedicated to providing solutions for the healthcare workforce and for those about to enter it. 
+The Company was incorporated in 1990. It began providing its SaaS-based workforce solutions in 1999, its provider solutions in 2012, and launched the hStream technology platform in 2018. Since January 2023, the Company s operations have been streamlined around a consolidated, enterprise approach, and since January 1, 2023, the Company has had a single reportable segment and presents financial information on a single segment basis. HealthStream is headquartered in Nashville, Tennessee and had 1,139 full-time and 21 part-time employees as of December 31, 2025. 
+1
+Table of Contents 
+INDUSTRY BACKGROUND 
+According to the Centers for Medicare & Medicaid Services (CMS), spending in the healthcare industry reached over $5.3 trillion in 2024, or 18.0% of the U.S. gross domestic product. The growth in 2024 was an increase of 7.2% over the prior year and reflected growth in non-price factors, such as increased use and intensity of healthcare goods and services, influencing strong growth in both Medicare and private health insurance spending. Hospital care expenditures reached over $1.6 trillion in 2024 accounting for over 30% of the $5.3 trillion healthcare industry. Hospital care expenditures increased 3.4% over 2023, driven by strong growth in spending for hospital care by all major payors and the factors discussed above. According to the Bureau of Labor Statistics, as of January 2025, approximately 23 million professionals are employed in the healthcare and social assistance sector of the domestic economy, with approximately 5.8 million employed in acute-care hospitals and, according to CMS, approximately 6.9 million employed in other healthcare organizations throughout the continuum of care, the primary target markets for our products. Organizations in the continuum of care employ approximately 3.2 million employees in post-acute care facilities and over 0.9 million employees in health and human services facilities. Despite the number of individuals currently employed in healthcare, leaders in the industry routinely cite recruitment and retention of the clinical workforce among the more pressing concerns facing healthcare today, as a shortage of staffing for qualified and competent caregivers continues to create both fiscal and quality challenges for the organizations who provide care. 
+All of the approximately 5.8 million hospital-based healthcare professionals that work in the nation s approximately 6,100 inpatient hospitals that are registered with Medicare are required by federal and state mandates and accrediting bodies to complete training in a number of areas. This training includes safety training mandated by both the Occupational Safety and Health Administration (OSHA) and The Joint Commission (an independent, not-for-profit organization that accredits and certifies healthcare organizations and programs in the United States), as well as training on patient information confidentiality required under the Health Insurance Portability and Accountability Act of 1996 (HIPAA). 
+In hospitals, staffing issues and personnel shortages have contributed to the need for more effective and efficient workflows, including scheduling and capacity management as well as credentialing and privileging. Staffing shortages have also increased the need for facility-based workforce development as well as additional assessment and competency-based training. The ongoing nursing shortage, for example, is resulting in skill gaps and rising costs. The National Center for Health Workforce Analysis (2025) projects a 3% shortage of RNs nationwide and an 11% shortage in nonmetro areas in 2038. The demand for full-time LPNs is projected to grow faster than supply between 2023 and 2038, resulting in a 30% shortage. We believe that offering training and education and other engagement solutions for hospital personnel is increasingly being utilized as a retention and recruitment incentive. We also believe that offering training to nursing schools and nursing students can help address personnel shortages and lead to more efficient and effective transition from school to employment. 
+Many healthcare professionals use continuing education to keep abreast of clinical and other industry developments as well as to meet licensing and certification requirements. Continuing education is required for nurses, emergency medical services personnel, first responder personnel, radiologic personnel, and physicians, among many other healthcare professionals. Pharmaceutical and medical device companies must also provide their medical industry sales representatives with training mandated for the healthcare industry and training for new products. Such companies also provide support and content for education and training of audiences that use their products in healthcare organizations. 
+The healthcare education and training industry is highly fragmented, varies significantly in delivery methods (i.e., online products, live events, written materials, and technology-enabled manikins for simulation-based training), and is composed of a wide variety of entities competing for customers. The sheer volume of healthcare information available to satisfy continuing education needs, rapid advances in medical developments, and the time constraints that healthcare professionals face can make it difficult to quickly and efficiently access the continuing education content most relevant to an individual s practice or profession. Historically, healthcare professionals have received continuing education and training through offline publications, such as medical journals or by attending conferences and seminars. Other healthcare workers and pharmaceutical and medical device manufacturers sales and internal regulatory personnel usually fulfill their training requirements using external vendors or internal training departments. While these approaches satisfy the ongoing education and training requirements, they are typically costly and inconvenient. In addition, live courses are often limited in the breadth of offerings and do not provide an automated method for tracking training completion. The effectiveness of these traditional methods, both from a business and compliance standpoint, is difficult to track and measure. 
+Provider data management has become more complex and arduous for healthcare organizations. Credentialing and privileging is now a continuous, evidence-driven analysis of professional competency and provider performance that requires automatic monitoring of licenses, sanctions, and exclusions, as well as a broad scope of review at initial credentialing and re-credentialing. In addition, provider enrollment processes have compounded in difficulty. For example, a single provider may need to enroll annually with some 30 to 40 payers, with each payer application often taking two to four hours to complete. 
+Healthcare organizations continue to operate under ongoing pressure to reduce costs as a result of actual and potential reductions in reimbursement rates and increased focus on cost containment consistent with participation of patients in managed care programs, among other factors. In addition, many care settings, including hospitals, surgery centers, telehealth companies, outpatient centers, and skilled nursing facilities, have experienced and may continue to experience rising operating costs and increased pressure to measure and report on the outcomes of the dollars spent on training. Our products and services are designed to meet these needs by reducing healthcare organizations costs of training while improving learning outcomes, enhancing reporting capabilities, and supporting customers business objectives. 
+2
+Table of Contents 
+HEALTHSTREAM S SOLUTIONS 
+HealthStream s clinical workforce products, services, and operations are organized and managed under our One HealthStream approach. Through this One HealthStream approach, we collectively help healthcare organizations mee
+
+## GEOGRAPHIC REVENUE
+he Occupational Safety and Health Administration (OSHA) and The Joint Commission (an independent, not-for-profit organization that accredits and certifies healthcare organizations and programs in the United States), as well as training on patient information confidentiality required under the Health Insurance Portability and Accountability Act of 1996 (HIPAA). 
+In hospitals, staffing issues and personnel shortages have contributed to the need for more effective and efficient workflows, including scheduling and capacity management as well as credentialing and privileging. Staffing shortages have also increased the need for facility-based workforce development as well as additional assessment and competency-based training. The ongoing nursing shortage, for example, is resulting in skill gaps and rising costs. The National Center for Health Workforce Analysis (2025) projects a 3% shortage of RNs nationwide and an 11% shortage in nonmetro areas in 2038. The demand for full-time LPNs is projected to grow faster than supply between 2023 and 2038, resulting in a 30% shortage. We believe that offering training and education and other engagement solutions for hospital personnel is increasingly being utilized as a retention and recruitment incentive. We also believe that offering training to nursing schools and nursing students can help address personnel shortages and lead to more efficient and effective transition from school to employment. 
+Many healthcare professionals use continuing education to keep abreast of clinical and other industry developments as well as to meet licensing and certification requirements. Continuing education is required for nurses, emergency medical services personnel, first responder personnel, radiologic personnel, and physicians, among many other healthcare professionals. Pharmaceutical and medical device companies must also provide their medical industry sales representatives with training mandated for the healthcare industry and training for new products. Such companies also provide support and content for education and training of audiences that use their products in healthcare organizations. 
+The healthcare education and training industr
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer, including through acquisitions or consolidations; 
+a negative change in the financial condition or creditworthiness of our customers; 
+failure of the market for our products and services to grow to a sufficient size or at a sufficient rate; and 
+inability to hire sufficient number of qualified employees to execute and support the growth of the Company. 
+If any of these risks are realized, our business, and our competitive position in the industry, could suffer. 
+In addition, our ability to effectively execute on our One HealthStream strategy is dependent upon various factors, including our ability to achieve anticipated operational efficiencies and to effectively implement the operational changes associated with this strategy without adversely impacting the services we provide. In the event that we are unable to effectively execute on this strategy, our business and financial results may be adversely affected. 
+The development and use of AI or the failure to adequately or appropriately develop and use AI, including generative AI and agentic AI, may result in reputational harm, liability, and adverse financial results, and could impact our value proposition. 
+We are investing in AI, including generative AI and agentic AI technologies, in certain aspects of our products, services, and internal operations. AI technology and services are a highly competitive and rapidly evolving market. If we are unable to successfully innovate, compete effectively, or differentiate our AI-enabled offerings relative to competitors, or if competitors or customers deploy AI technologies more rapidly or effectively than we do, our market position could be adversely affected. 
+AI-powered features may produce inaccurate, biased, or unexpected outputs, and may not perform as anticipated. While we are taking a deliberate and measured approach to the development and deployment of AI-enabled features, we cannot guarantee that these measures will prevent all errors, biases,
+
+---
+Doc size: 1781KB (capped at 2MB)

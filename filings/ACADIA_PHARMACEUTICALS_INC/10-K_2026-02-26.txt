@@ -1,0 +1,97 @@
+# ACADIA PHARMACEUTICALS INC — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1070494
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1070494/000119312526072519/acad-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business . 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors . 
+26 
+Item 1B. 
+Unresolved Staff Comments. 
+64 
+Item 1C. 
+Cybersecurity. 
+64 
+Item 2. 
+Properties . 
+66 
+Item 3. 
+Legal Proceedings . 
+66 
+Item 4. 
+Mine Safety Disclosures . 
+67 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+68 
+Item 6. 
+[Reserved] 
+69 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+69 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk. 
+81 
+Item 8. 
+Financial Statements and Supplementary Data. 
+81 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure. 
+81 
+Item 9A. 
+Controls and Procedures . 
+81 
+Item 9B 
+Other Information. 
+84 
+Item 9C 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. 
+84 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance. 
+85 
+Item 11. 
+Executive Compensation . 
+85 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+85 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence. 
+85 
+Item 14. 
+Principal Accountant Fees and Services. 
+85 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules . 
+86 
+Item 16. 
+Form 10-K Summary 
+90 
+i 
+PART I FORWARD-LOOKING STATEMENTS This report and the information incorporated herein by reference contain forward-looking statements that involve a number of risks and uncertainties, as well as assumptions that, if they never materialize or prove incorrect, could cause our results to differ materially from those expressed or implied by such forward-looking statements. Although our forward-looking statements reflect the good faith judgment of our management, these statements can only be based on facts and factors currently known by us. Consequently, forward-looking statements are inherently subject to risks and uncertainties, and actual results and outcomes may differ materially from results and outcomes discussed in the forward-looking statements. In addition, statements that we believe and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this report, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and you are cautioned not to unduly rely upon these statements. Forward-looking statements can be identified by the use of forward-looking words such as aims, anticipates, believes, continue, could, estimates, expects, hopes, intends, may, plans, potential predicts, pro forma, projects, seeks, should, will, would, or other similar words (including their use in the negative), or by discussions of future matters such as the benefits to be derived from our products and our product candidates, the potential market opportunities for our products and our drug candidates, our strategy for the commercialization of our products, our plans for exploring and developing our products for additional indications, the commercialization of DAYBUE or trofinetide in jurisdictions other than the United States (U.S.), our plans and timing with respect to seeking regulatory approvals, the potential commercialization of any of our product candidates that receive regulatory approval, the progress, timing, results or implications of clinical trials and other development milestones and activities involving our products and our product candidates, our strategy for discovering, developing and, if approved, commercializing our product candidates, our existing and potential future collaborations, our estimates of future payments, revenues and profitability, our estimates regarding our capital requirements, future expenses and needs for additional financing, possible changes in legislation, and other statements that are not historical. These statements include but are not limited to statements under the captions Business, Risk Factors, and Management s Discussion and Analysis of Financial Condition and Results of Operations as well as other sections in this report. You should be aware that the occurrence of any of the events discussed under the caption Risk Factors and elsewhere in this report could substantially harm our business, results of operations and financial condition and cause our results to differ materially from those expressed or implied by our forward-looking statements. If any of these events occurs, the trading price of our common stock could decline and you could lose all or a part of the value of your shares of our common stock. The cautionary statements made in this report are intended to be applicable to all forward-looking statements wherever they may appear in this report. We urge you not to place undue reliance on these forward-looking statements, which speak only as of the date of this report. We undertake no obligation to update any forward-looking statements made in this report to reflect events or circumstances after the date of this report or to reflect new information or the occurrence of unanticipated events, except as required by law. Summary of Risk Factors We face risks and uncertainties related to our business, many of which are beyond our control. In particular, risks associated with our products and business include: Our prospects are highly dependent on the successful commercialization of our products. To the extent we cannot establish, maintain or increase sales of our products, our business, financial condition and results of operations may be materially adversely affected and the price of our common stock may decline. Our products may not gain maximal acceptance among physicians, patients, caregivers and the medical community, thereby limiting our potential to generate revenues. Our ability to generate product revenues will be diminished if coverage for our products from commercial or government payors is not provided, is decreased or if patients have unacceptably high out-of-pocket requirements. 
+1 
+Our products are subject to ongoing regulatory requirements that could cause us significant expense and delay or limit our ability to generate sales revenues. We rely on a limited network of third-party distributors and pharmacies to market and sell our products. If this approach ceases to be effective, commercialization of our products may be adversely affected, and our products may not be profitable. Drug development is a long, expensive and unpredictable process with a high risk of failure, and there is no guarantee that our products or product candidates will be successful in ongoing or future clinical trials or obtain regulatory approval. The regulatory approval processes in the EU and outside North America are lengthy, time consuming and inherently unpredictable, and, if we do not obtain regulatory approval of trofinetide outside North America, we will not be able to market trofinetide outside North America, which will limit our trofinetide commercial revenues. Expanded access or compassionate use programs could subject us to additional risks. Delays, suspensions, variations and terminations in our clinical trials for our product candidates could result in increased costs to us and delay our ability to generate product revenues. If we are unable to attract, retain, and motivate key management, research and development, and sales and marketing personnel, our drug development programs, our research and discovery efforts, and our commercialization plans may be delayed and we may be unable to successfully commercialize our products, or develop our product candidates. If we fail to develop, acquire or in-license other product candidates or products, our business and prospects would be limited. Even if we obtain rights to other product candidates or products, we will incur a variety of costs and may never realize the anticipated benefits. We may require additional financing in the future to fund our operations. If we cannot raise additional financing in the future, we may be unable to fund our business plan and our future research, development, commercial and manufacturing efforts. We expect that our results of operations will fluctuate, which may make it difficult to predict our future performance from period to period. Changes in tax laws or regulations that are applied adversely to us or our customers may have a material adverse effect on our business, cash flow, financial condition or results of operations. Our ability to use net operating loss carryforwards and certain other tax attributes to offset future taxable income or taxes may be limited. Tax authorities could reallocate our taxable income among our subsidiaries, which could increase our overall tax liability. Unfavorable global economic conditions could adversely affect our business, financial condition or results of operations. International trade policies, including tariffs, sanctions and trade barriers may adversely affect our business, financial condition, results of operations and prospects. We or the third parties upon whom we depend may be adversely affected by catastrophic events, such as earthquakes, fires or other natural disasters and our business continuity and disaster recovery plans may not adequately protect us from a serious disaster. We have incurred, and expect to continue to incur, significant costs as a result of laws, regulations and standards relating to various aspects of our business, including corporate governance, work force initiatives and other matters, and failure to comply with such laws, regulations and standards could adversely affect our business. Our business involves the use of hazardous materials, and we and our third-party manufacturers and suppliers must comply with environmental, health and safety laws and regulations, which can be expensive and restrict how we do, or interrupt our, business . 
+2 
+Item 1. B usiness. Company Overview We are a biopharmaceutical company focused on turning scientific promise into meaningful innovation that makes the difference for underserved neurological and rare disease communities around the world. We have two core franchises in neurological and rare diseases. Our neurological disease franchise is anchored by the commercial product NUPLAZID (pimavanserin), which is the first and only drug approved by the U.S. Food and Drug Administration (FDA) for the treatment of hallucinations and delusions associated with Parkinson s disease psychosis (PDP). Our rare disease franchise is anchored by the commercial product DAYBUE, which is the first and only drug approved for the treatment of Rett syndrome. Net product sales from these two commercial products totaled $1,071.5 million for 2025, compared with $957.8 million for 2024. In addition to these commercial products, we have a portfolio of product candidates and research programs that are designed to address significant unmet medical needs in neurological and rare diseases. In order to achieve significant long-term growth, we plan to develop our current portfolio, expand our pipeline of early- and late-stage product candidates and expand into areas of rare disease that are adjacent to our existing franchises, including through strategic business development, and make use of our internal capabilities and knowledge. Our most advanced current product candidate is remlifanserin (formerly ACP-204) for the treatment of Alzheimer s disease psychosis (ADP) and Lewy Body Dementia Psychosis (LBDP). In November 2023, we initiated a Phase 2 study evaluating the efficacy and safety of remlifanserin for the treatment of hallucinations and delusions associated with ADP. We initiated an additional Phase 2 study of remlifanserin in LBDP in September 2025. In the fourth quarter of 2025, we initiated a Phase 2 study of ACP-211 for the treatment of major depressive disorder (MDD). We have several product candidates in earlier stages of development for the treatment of neurological and rare diseases. These include ACP-711 for the treatment of essential tremor, with a Phase 2 study expected to begin in the fourth quarter of 2026 or the first quarter of 2027; and ACP-271 for the treatment of tardive dyskinesia and Huntington s disease, for which a Phase 1 study is planned for the first quarter of 2026. Until September 2025 we had been developing the product candidate ACP-101 (intranasal carbetocin) for the treatment of hyperphagia in Prader-Willi syndrome (PWS), a neuro-rare disease. In September 2025, we announced top-line results from our COMPASS PWS study, a Phase 3 study evaluating the efficacy and safety of ACP-101 for the treatment of hyperphagia in PWS. In the study, ACP-101 did not demonstrate a statistically significant improvement over placebo on the study s primary endpoint, change from baseline to Week 12 on the Hyperphagia Questionnaire for Clinical Trials (HQ-CT), nor was there separation from placebo on any secondary endpoint. As a result, we do not intend to investigate ACP-101 any further. Corporate Information We were originally incorporated in Vermont in 1993 as Receptor Technologies, Inc. We reincorporated in Delaware in 1997. Our global headquarters are in San Diego, California. We also have substantial operations in Princeton, New Jersey and European headquarters in Zug, Switzerland. We maintain a website at www.acadia.com , to which we regularly post copies of our press releases as well as additional information about us. Our filings with the Securities and Exchange Commission (SEC) are available free of charge through our website as soon as reasonably practicable after being electronically filed with or furnished to the SEC. Interested persons can subscribe on our website to email alerts that are sent automatically when we issue press releases, file or furnish our reports with the SEC or post certain other information to our website. Information contained in our website does not constitute a part of this report or our other filings with the SEC. We own or have rights to various trademarks, copyrights and trade names used in our business, including Acadia , NUPLAZID and DAYBUE . Our logos and trademarks are the property of Acadia Pharmaceuticals Inc. All other brand names or trademarks appearing in this report are the property of their respective holders. Use or display by us of other parties trademarks, trade dress, or products in this report is not intended to, and does not, imply a relationship with, or endorsement or sponsorship of us, by the trademark or trade dress owners. 
+3 
+Our Strategy Our strategy is to build a strong foundation for growth with multiple innovative commercial products and product candidates that address high unmet medical ne
+
+## GEOGRAPHIC REVENUE
+mentExpenseMember 2023-01-01 2023-12-31 0001070494 acad:SanDiegoMember srt:MinimumMember 2023-01-01 2023-12-31 0001070494 acad:EmployeeStockPurchasePlanMember 2023-01-01 2023-12-31 0001070494 us-gaap:DomesticCountryMember acad:OperatingLossCarryforwardsExpiringTwoThousandAndThirtySevenMember 2024-12-31 0001070494 acad:FleetProgramMember us-gaap:LetterOfCreditMember 2025-12-31 0001070494 acad:NeurenPharmaceuticalsLimitedMember acad:LicenseAgreementsMember srt:MaximumMember srt:NorthAmericaMember 2023-07-31 0001070494 us-gaap:CostOfSalesMember 2024-01-01 2024-12-31 0001070494 us-gaap:StateAndLocalJurisdictionMember 2025-01-01 2025-12-31 0001070494 us-gaap:AdditionalPaidInCapitalMember 2022-12-31 0001070494 us-gaap:CommonStockMember 2025-01-01 2025-12-31 0001070494 acad:EmployeeStockPurchasePlanRightsMember 2024-01-01 2024-12-31 0001070494 acad:OperatingLossCarryforwardsExpiringTwoThousandAndTwentySixMember us-gaap:StateAndLocalJurisdictionMember 2025-12-31 0001070494 us-gaap:MoneyMarketFundsMember 2025-12-31 0001070494 acad:RevenueConcentrationRiskMember us-gaap:SalesRevenueNetMember acad:CustomerBMember 2025-01-01 2025-12-31 0001070494 us-gaap:MachineryAndEquipmentMember srt:MinimumMember 2025-12-31 0001070494 us-gaap:MoneyMarketFundsMember 2024-12-31 0001070494 acad:CorporateOfficeSpaceLeaseAgreementMember stpr:CA 2020-02-29 0001070494 us-gaap:FairValueInputsLevel1Member 2024-12-31 0001070494 acad:CustomerBMember acad:AccountsReceivableConcentrationRiskMember us-gaap:AccountsReceivableMember 2024-01-01 2024-12-31 0001070494 us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember 2023-01-01 2023-12-31 0001070494 2023-01-01 2023-12-31 0001070494 us-gaap:SalesMember acad:LicenseAgreementsMember acad:SanionaMember srt:MaximumMember 2024-11-30 0001070494 acad:ExclusivityDeedMember acad:NeurenPharmaceuticalsLimitedMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2018-05-01 2018-05-31 0001070494 acad:RevenueConcentrationRiskMember us-gaap:SalesRevenueNetMember acad:CustomerAMember 2024-01-01 2024-12-31 0001070494 acad:TwentyThousandTwentyFourEquityIncentivePlanMember 2025-12-31 0001070494 us-gaap:CommonStockMember 2025-12-31 0001070494 acad:Eq
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

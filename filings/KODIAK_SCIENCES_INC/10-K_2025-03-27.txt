@@ -1,0 +1,179 @@
+# KODIAK SCIENCES INC — 10-K Annual Report
+# Filed: 2025-03-27
+# CIK: 1468748
+# SIC: Biological Products, (No Diagnostic Substances)
+# Source: https://www.sec.gov/Archives/edgar/data/1468748/000095017025046098/kod-20241231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+22 
+Item 1B. 
+Unresolved Staff Comments 
+68 
+Item 1C. 
+Cybersecurity 
+68 
+Item 2. 
+Properties 
+69 
+Item 3. 
+Legal Proceedings 
+69 
+Item 4. 
+Mine Safety Disclosures 
+69 
+PART II. 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholders Matters and Issuer Purchases of Equity Securities 
+70 
+Item 6. 
+Reserved 
+70 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+71 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+82 
+Item 8. 
+Financial Statements and Supplementary Data 
+82 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosures 
+107 
+Item 9A. 
+Controls and Procedures 
+107 
+Item 9B. 
+Other Information 
+107 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+107 
+PART III. 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+108 
+Item 11. 
+Executive Compensation 
+108 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholders Matters 
+108 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+108 
+Item 14. 
+Principal Accountant Fees and Services 
+108 
+PART IV. 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+109 
+Item 16. 
+Form 10-K Summary 
+111 
+Signatures 
+112 
+i 
+S PECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, or Exchange Act. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends affecting the financial condition of our business. Forward-looking statements should not be read as a guarantee of future performance or results and will not necessarily be accurate indications of the times at, or by, which such performance or results will be achieved. Forward-looking statements are based on information available at the time those statements are made and/or management s good faith beliefs as of that time with respect to future events, and are subject to risks and uncertainties that could cause actual performance or results to differ materially from those expressed in or suggested by the forward-looking statements. 
+Forward-looking statements include all statements that are not historical facts. In some cases, you can identify forward-looking statements by terms such as may, might, will, objective, intend, should, could, can, would, expect, believe, anticipate, project, target, design, estimate, predict, potential, plan , hope or the negative of these terms, or similar expressions and comparable terminology intended to identify forward-looking statements. These statements reflect our current views with respect to future events and are based on assumptions and subject to risks and uncertainties, including those set forth under the section of this Annual Report on Form 10-K titled Part I, Item 1A Risk Factors and elsewhere in this Annual Report. Forward-looking statements include, but are not limited to, statements about: 
+the success, cost and timing of our development activities, preclinical studies, clinical trials and regulatory filings; 
+our ability to obtain funding for our operations, including funding necessary to develop, manufacture and commercialize our product candidates; 
+the translation of our preclinical results and data and early clinical trial results in particular relating to safety, efficacy and durability into future clinical trials in humans; 
+the continued durability, efficacy and safety of our product candidates; 
+the portfolio of clinical trials planned for submission in our Biologics License Application, or BLA, of tarcocimab tedromer (formerly KSI-301, also known as tarcocimab); 
+the scope, progress, results and costs of developing any product candidates we have or may develop, and conducting preclinical studies and clinical trials; 
+the number, size and design of clinical trials that regulatory authorities may require to obtain marketing approval, including the order and number of clinical studies required to support a BLA in retinal vein occlusion, or RVO, diabetic retinopathy, or DR, and wet age-related macular degeneration, or wet AMD, or any of our current or future product candidates, including the sufficiency of a single additional pivotal study of tarcocimab tedromer and a single BLA for wet AMD, RVO and DR together; 
+our and Lonza s ability to successfully execute on our manufacturing development plan; 
+our expectations regarding chemistry manufacturing and controls, or CMC, requirements of the United States Food and Drug Administration, or FDA, and other regulatory bodies to support any BLA submission and potential commercial launch; 
+our expectations regarding enhancements and benefits of new formulations of tarcocimab, KSI-501, KSI-101 or other ABC Platform derived molecules; 
+the timing or likelihood of regulatory filings and approvals, including the potential to achieve FDA approval of any product candidates; 
+our ability to obtain and maintain regulatory approval of our product candidates, and any related restrictions, limitations and/or warnings in the label of any approved product candidate; 
+the rate and degree of market acceptance of our product candidates; 
+the size and growth potential of the markets for our product candidates, if approved for commercial use, and our ability to serve those markets; 
+the pricing and reimbursement of our product candidates, if approved; 
+the success of competing products or platform technologies that are or may become available; 
+our plans and ability to establish sales, marketing and distribution infrastructure to commercialize any product candidates for which we obtain approval; 
+ii 
+our expectation as to the concentration of retinal specialists in the United States and its impact on our sales and marketing plans; 
+our expectations regarding our ability to enter into manufacturing-related commitments, and the timing thereof; 
+future agreements with third parties in connection with the commercialization of our product candidates; 
+our ability to contract with third-party suppliers and manufacturers and their ability to perform adequately; 
+the expected potential benefits of strategic collaboration agreements and our ability to attract collaborators with development, regulatory and commercialization expertise; 
+the scope of protection we are able to establish and maintain for intellectual property rights covering our product candidates and technology; 
+potential claims relating to our intellectual property and third-party intellectual property; 
+existing regulations and regulatory developments in the United States and foreign countries; 
+the impact of the unfavorable U.S. and global economic conditions on our business and operations, the business and operations of our collaborators, and on the global economy; 
+the accuracy of our estimates regarding the sufficiency of our cash resources, expenses, future revenue, capital requirements and needs for additional financing, as well as, our ability to continue as a going concern; 
+our financial performance; 
+our aspirational goals and objectives related to our human capital resources and workforce objectives; and 
+our ability to attract and retain key managerial, scientific and medical personnel. 
+All forward-looking statements are based on information available to us on the date of this Annual Report on Form 10-K and we will not update any of the forward-looking statements after the date of this Annual Report on Form 10-K, except as required by law. Our actual results could differ materially from those discussed in this Annual Report on Form 10-K. The forward-looking statements contained in this Annual Report on Form 10-K, and other written and oral forward-looking statements made by us from time to time, are subject to certain risks and uncertainties that could cause actual results to differ materially from those anticipated in the forward-looking statements, and you should not regard these statements as a representation or warranty by us or any other person that we will achieve our objectives and plans in any specified time frame, or at all. Factors that might cause such a difference include, but are not limited to, those discussed in the following discussion and within the section of this Annual Report on Form 10-K titled Part I, Item 1A Risk Factors . 
+In addition, statements that we believe and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this Annual Report on Form 10-K, and although we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted a thorough inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements. 
+All brand names or trademarks appearing in this Annual Report are the property of their respective holders. Unless the context requires otherwise, references in this Annual Report to Kodiak the Company, we, us, and our refer to Kodiak Sciences Inc. and its subsidiaries. 
+Kodiak , Kodiak Sciences , ABC , ABC Platform , ABCD and the Kodiak logo are registered trademarks or trademarks of Kodiak Sciences Inc. in various global jurisdictions. 
+iii 
+R ISK FACTOR SUMMARY 
+Investing in our common stock involves numerous risks, including the risks described in Part I, Item 1A Risk Factors of this Annual Report on Form 10-K, any one of which could materially adversely affect our business, financial condition, results of operations, and prospects. These risks include, among others, the following: 
+We are in the clinical stage of drug development and have a very limited operating history and no products approved for commercial sale, which may make it difficult to evaluate our current business and predict our future success and viability. 
+We have incurred significant net losses in each period since our inception and anticipate that we will continue to incur significant and increasing net losses for the foreseeable future. 
+Our financial condition raises substantial doubt about our ability to continue as a going concern. 
+If we fail to obtain additional financing, we may be unable to complete the development and, if approved, commercialization of our product candidates. 
+Drug development is a highly uncertain undertaking and involves a substantial degree of risk. We have never generated any revenue from product sales, and we may never generate revenue or be profitable. 
+Our prospects are heavily dependent on our tarcocimab, KSI-501 and KSI-101 product candidates, which are currently in clinical development for multiple indications. 
+The failure of pivotal studies of tarcocimab to meet their primary efficacy endpoints may lead us to pause, change or discontinue development of other product candidates based on our ABC Platform. 
+Our plan for the development of tarcocimab, KSI-501 or KSI-101 may be unsuccessful. 
+Research and development of biopharmaceutical products is inherently risky. We cannot give any assurance that any of our product candidates will receive regulatory, including marketing, approval, which is necessary before they can be commercialized. 
+Due to the significant resources required for the development of our product candidates, and depending on our ability to access capital, we must prioritize development of certain product candidates. Moreover, we may expend our limited resources on product candidates that do not yield a successful product and fail to capitalize on product candidates or indications that may be more profitable or for which there is a greater likelihood of success. 
+We may encounter substantial delays in our clinical trials, or may not be able to conduct or complete our clinical trials on the timelines we expect, if at all. 
+Our clinical trials may fail to demonstrate substantial evidence of the durability, efficacy and safety of our product candidates, which would prevent, delay or limit the scope of regulatory approval and commercialization. 
+We face significant competition in an environment of rapid technological and scientific change, and there is a possibility that our competitors may retain their market share with existing drugs, or achieve regulatory approval before us or develop therapies that are safer, more advanced or more effective than ours, which may negatively impact our ability to successfully market or commercialize any product candidates we may develop and ultimately harm our financial condition. 
+The regulatory approval processes of the FDA, EMA and comparable foreign regulatory authorities are lengthy, time consuming, and inherently unpredictable. If we are ultimately unable to obtain regulatory approval for our product candidates, we will be unable to generate product revenue and our business will be substantially harmed. 
+We expect to rely on third parties to conduct many aspects of our clinical trials and some aspects of our research and preclinical testing, and those third parties may not perform satisfactorily, including failing to meet deadlines for the completion of such trials, research or testing. 
+We contract with third parties for the manufacture of materials for our product candidates and preclinical studies and clinical trials and for commercialization of any product candidates that we may develop. This reliance on third parties carries and may increase the risk that we will not have sufficient quantities of such materials, product candidates or any medicines that we may develop and commercialize, or that such supply will not be available to us at an acceptable cost, which could delay, prevent or impair our development or commercialization efforts. 
+iv 
+If we are unable to obtain and maintain patent protection for any product candidates we develop or for our ABC Platform, our competitors could develop and commercialize products or technology similar or identical to ours, and our ability to successfully commercialize any product candidates we may develop, and our technology may be adversely affected. 
+We are highly dependent on our key personnel, and if we are not successful in attracting, motivating and retaining highly qualified personnel, we may not be able to successfully implement our business strategy. 
+v 
+PART I 
+ITEM 1. BUSINESS 
+Overview 
+Since its founding in 2009, Kodiak Sciences Inc. ( Kodiak, the Company, we or our ) has developed a new technology platform, the Antibody Biopolymer Conjugate ( ABC ) Platform, for retinal medicines. Our goal is to prevent and treat the major causes of blindness by developing and commercializing next-generation therapeutics to address multip
+
+## GEOGRAPHIC REVENUE
+and DR together; 
+our and Lonza s ability to successfully execute on our manufacturing development plan; 
+our expectations regarding chemistry manufacturing and controls, or CMC, requirements of the United States Food and Drug Administration, or FDA, and other regulatory bodies to support any BLA submission and potential commercial launch; 
+our expectations regarding enhancements and benefits of new formulations of tarcocimab, KSI-501, KSI-101 or other ABC Platform derived molecules; 
+the timing or likelihood of regulatory filings and approvals, including the potential to achieve FDA approval of any product candidates; 
+our ability to obtain and maintain regulatory approval of our product candidates, and any related restrictions, limitations and/or warnings in the label of any approved product candidate; 
+the rate and degree of market acceptance of our product candidates; 
+the size and growth potential of the markets for our product candidates, if approved for commercial use, and our ability to serve those markets; 
+the pricing and reimbursement of our product candidates, if approved; 
+the success of competing products or platform technologies that are or may become available; 
+our plans and ability to establish sales, marketing and distribution infrastructure to commercialize any product candidates for which we obtain approval; 
+ii 
+our expectation as to the concentration of retinal specialists in the United States and its impact on our sales and marketing plans; 
+our expectations regarding our ability to enter into manufacturing-related commitments, and the timing thereof; 
+future agreements with third parties in connection with the commercialization of our product candidates; 
+our ability to contract with third-party suppliers and manufacturers and their ability to perform adequately; 
+the expected potential benefits of strategic collaboration agreements and our ability to attract collaborators with development, regulatory and commercialization expertise; 
+the scope of protection we are able to establish and maintain for intellectual property rights covering our product candidates and technology; 
+potential claims relating to our intellectual property and th
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+sole sourced raw materials could materially harm our ability to manufacture our product candidates until a new source of supply, if any, could be identified and qualified. We may be unable to find a sufficient alternative supply channel in a reasonable time or on commercially reasonable terms. Any performance failure on the part of our suppliers could delay the development and potential commercialization of our product candidates, including limiting supplies necessary for clinical trials and regulatory approvals, which would have a material adverse effect on our business. 
+We may depend on collaborations with third parties for the research, development and commercialization of certain of the product candidates we may develop. If any such collaborations are not successful, we may not be able to realize the market potential of those product candidates. 
+We may seek third-party collaborators for the research, development and commercialization of certain of the product candidates we may develop. Our likely collaborators for any other collaboration arrangements include large and mid-size pharmaceutical companies, regional and national pharmaceutical companies, biotechnology companies and academic institutions. If we enter into any such arrangements with any third parties, we will likely have shared or limited control over the amount and timing of resources that our collaborators dedicate to the development or potential commercialization of any product candidates we may seek to develop with them. Our ability to generate revenue from these arrangements with commercial entities will depend on our collaborators abilities to successfully perform the functions assigned to them in these arrangements. We cannot predict the success of any collaboration that we enter into. 
+Collaborations involving our product candidates we may develop, pose the following risks to us: 
+collaborators generally have significant discretion in determining the efforts and resources that they will apply
+
+---
+Doc size: 2048KB (capped at 2MB)

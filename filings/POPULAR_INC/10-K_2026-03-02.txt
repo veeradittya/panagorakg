@@ -1,0 +1,20 @@
+# POPULAR INC — 10-K Annual Report
+# Filed: 2026-03-02
+# CIK: 763901
+# SIC: State Commercial Banks
+# Source: https://www.sec.gov/Archives/edgar/data/763901/000119312526085756/d17859d10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+(Not extracted)
+
+## GEOGRAPHIC REVENUE
+us-gaap:OtherLiabilitiesMember 2025-12-31 0000763901 bpop:IncomeTaxJurisdictionPuertoRicoMember 2025-01-01 2025-12-31 0000763901 us-gaap:ForeignCountryMember 2025-01-01 2025-12-31 0000763901 us-gaap:DomesticCountryMember 2025-01-01 2025-12-31 0000763901 us-gaap:StateAndLocalJurisdictionMember 2025-01-01 2025-12-31 0000763901 us-gaap:ForeignTaxJurisdictionOtherMember 2025-01-01 2025-12-31 0000763901 bpop:TaxYear2014ToTaxYear2023Member 2024-01-01 2024-12-31 0000763901 us-gaap:TaxYear2024Member 2024-01-01 2024-12-31 0000763901 country:US us-gaap:StateAndLocalJurisdictionMember 2025-01-01 2025-12-31 0000763901 bpop:OtherCountriesMember us-gaap:ForeignTaxJurisdictionOtherMember 2025-01-01 2025-12-31 0000763901 country:US us-gaap:DomesticCountryMember 2025-01-01 2025-12-31 0000763901 country:PR us-gaap:CommercialPortfolioSegmentMember us-gaap:CommercialAndIndustrialSectorMember us-gaap:DoubtfulMember 2025-12-31 0000763901 country:PR us-gaap:CommercialPortfolioSegmentMember us-gaap:CommercialAndIndustrialSectorMember 2024-01-01 2024-12-31 0000763901 country:US us-gaap:CommercialPortfolioSegmentMember us-gaap:SpecialMentionMember bpop:CommercialRealEstateNonOwnerOccupiedMember 2025-12-31 0000763901 country:US us-gaap:ConsumerPortfolioSegmentMember us-gaap:CreditCardReceivablesMember 2025-12-31 0000763901 country:US us-gaap:PassMember us-gaap:ConsumerPortfolioSegmentMember us-gaap:CreditCardReceivablesMember 2025-12-31 0000763901 country:US us-gaap:ConsumerPortfolioSegmentMember us-gaap:UnlikelyToBeCollectedFinancingReceivableMember us-gaap:ConsumerOtherMember 2025-12-31 0000763901 country:US us-gaap:CommercialPortfolioSegmentMember us-gaap:CommercialAndIndustrialSectorMember 2024-01-01 2024-12-31 0000763901 country:PR us-gaap:CommercialPortfolioSegmentMember us-gaap:CommercialAndIndustrialSectorMember 2025-01-01 2025-12-31 0000763901 us-gaap:FairValueInputsLevel3Member srt:MinimumMember us-gaap:FairValueMeasurementsNonrecurringMember us-gaap:RealEstateAcquiredInSatisfactionOfDebtMember bpop:ValuationTechniqueExternalAppraisalMember 2024-01-01 2024-12-31 0000763901 us-gaap:FairValueInputsLevel3Member srt:MaximumMember us-gaap:FairValueMeasurementsNonrecurringMember us-g
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

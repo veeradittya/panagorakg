@@ -1,0 +1,14 @@
+# HOME DEPOT INC — 10-K Annual Report
+# Filed: 2026-03-18
+# CIK: 354950
+# SIC: Retail-Lumber & Other Building Materials Dealers
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)
+
+## RISK FACTORS (Item 1A)
+. 9 Item&#160;1B.
+
+## GEOGRAPHIC REVENUE
+segment"> hd:segment xbrli:pure hd:lineOfBusiness hd:creditFacility hd:tranche hd:yearOld hd:plan 0000354950 2025-02-03 2026-02-01 0000354950 2025-08-01 0000354950 2026-03-04 0000354950 2026-02-01 0000354950 2025-02-02 0000354950 2024-01-29 2025-02-02 <xbrli
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

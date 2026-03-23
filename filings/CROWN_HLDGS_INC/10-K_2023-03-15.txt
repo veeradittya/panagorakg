@@ -1,0 +1,162 @@
+# CROWN HLDGS INC — 10-K Annual Report
+# Filed: 2023-03-15
+# CIK: 23111
+# SIC: Services-Computer Programming Services
+# Source: https://www.sec.gov/Archives/edgar/data/23111/000095017023008194/ctg-20221231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+2
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+9 
+Item 1B. 
+Unresolved Staff Comments 
+15 
+Item 2. 
+Properties 
+16 
+Item 3. 
+Legal Proceedings 
+16 
+Item 4. 
+Mine Safety Disclosures 
+16 
+Part II 
+Item 5. 
+Market for Registrant&#x2019;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+17 
+Item 6. 
+[Reserved] 
+19 
+Item 7. 
+Management&#x2019;s Discussion and Analysis of Financial Condition and Results of Operations 
+20 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+29 
+Item 8. 
+Financial Statements and Supplementary Data 
+30 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+67 
+Item 9A. 
+Controls and Procedures 
+67 
+Item 9B. 
+Other Information 
+69 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+69 
+Part III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+70 
+Item 11. 
+Executive Compensation 
+74 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+89 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+90 
+Item 14. 
+Principal Accountant Fees and Services 
+91 
+Part IV 
+Item 15. 
+Exhibit and Financial Statement Schedules 
+92 
+Item 16. 
+Form 10-K Summary 
+94 
+Signatures 
+96 
+As used in this annual report on Form 10-K, references to &#x201c;CTG,&#x201d; &#x201c;the Company,&#x201d; &#x201c;the Registrant,&#x201d; &#x201c;we,&#x201d; &#x201c;us,&#x201d; or &#x201c;our&#x201d; refer to Computer Task Group, Incorporated and its subsidiaries, unless the context suggests otherwise. 
+PAR T I 
+Forward-Looking Statements 
+This annual report on Form 10-K contains forward-looking information and statements made by the management of the Company that are based on the beliefs of management as well as assumptions made by, and information currently available to, the Company, and are subject to a number of risks and uncertainties. Further, certain forward-looking statements are based upon assumptions as to future events that may not prove to be accurate. These forward-looking statements are current only as of the date of this annual report. The Company assumes no obligation to update these statements based on information from and after the date of this report. Generally, forward-looking statements include words or phrases such as &#x201c;anticipates,&#x201d; &#x201c;believes,&#x201d; &#x201c;expects,&#x201d; &#x201c;might,&#x201d; &#x201c;plans,&#x201d; &#x201c;may,&#x201d; &#x201c;will,&#x201d; &#x201c;would,&#x201d; &#x201c;should,&#x201d; &#x201c;could,&#x201d; &#x201c;seeks,&#x201d; &#x201c;estimates,&#x201d; &#x201d;anticipates,&#x201d; &#x201c;project,&#x201d; &#x201c;predict,&#x201d; &#x201c;potential,&#x201d; &#x201c;currently,&#x201d; &#x201c;continue,&#x201d; &#x201c;intends,&#x201d; &#x201c;outlook,&#x201d; and words and phrases of similar impact. The forward-looking statements include, but are not limited to, statements regarding future operations, industry trends or conditions and the business environment, and statements regarding future levels of or trends in business strategy and expectations, new business opportunities, cost control initiatives, business wins, market demand, revenue, operating expenses, capital expenditures, and financing. The forward-looking statements are made pursuant to safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Numerous factors and risks could cause actual results to differ materially from those in the forward-looking statements, including the following: 
+&#x2022; the availability to CTG of qualified professional staff 
+&#x2022; competition for clients and talent, including technical, sales and management personnel 
+&#x2022; increased bargaining power of large clients 
+&#x2022; the occurrence of cyber incidents and the Company's ability to protect confidential client data 
+&#x2022; the partial or complete loss of the revenue the Company generates from its largest client, International Business Machines Corporation (IBM) 
+&#x2022; the uncertainty of clients' implementations of cost reduction projects 
+&#x2022; the mix of work between IT Solutions and Services and Non-Strategic Technology Services, and the risk of disengaging from Non-Strategic Technology Services 
+&#x2022; currency exchange risks 
+&#x2022; risks associated with domestic and foreign operations, including uncertainty and business interruptions resulting from political changes and actions in the U.S. and abroad, such as the conflict between Russia and Ukraine and recent developments in China, and volatility in the global credit and financial markets and economy 
+&#x2022; renegotiations, nullification, or breaches of contracts with clients, vendors, subcontractors or other parties 
+&#x2022; the impact of current and future laws and government regulations, as well as repeal or modification of such, affecting the IT solutions and services industry, taxes and the Company's operations in particular 
+&#x2022; industry, economic, and political conditions, including fluctuations in demand for IT services 
+&#x2022; consolidation among the Company's competitors or clients 
+&#x2022; the need to supplement or change our IT services in response to new offerings in the industry or changes in client requirements for IT products and solutions 
+&#x2022; the risks associated with acquisitions 
+&#x2022; actions of activist shareholders 
+&#x2022; the continuing effects of the COVID-19 pandemic and the regulatory, social, and business responses thereto on the Company&#x2019;s business, operations, employees, contractors, and clients 
+&#x2022; unpredictability and severity of catastrophic events, including acts of terrorism, outbreak of war or hostilities, civil unrest, adverse climate or weather events and pandemics or other public health emergencies, as well as our response to any of the aforementioned factors, and 
+&#x2022; the risks described in Item 1A of this annual report on Form 10-K and from time to time in the Company's other reports filed with the Securities and Exchange Commission (SEC). These may be obtained through the Securities and Exchange Commission&#x2019;s Electronic Data Gathering and Analysis Retrieval System (&#x201c;EDGAR&#x201d;) at www.sec.gov. 
+1 
+Item 1. Business 
+Overview 
+CTG was incorporated in Buffalo, New York on March 11, 1966, and its corporate headquarters is located at 300 Corporate Parkway, Suite 214N, Amherst, New York 14226 (716-882-8000). CTG has operations in North and South America, Western Europe, and India. CTG&#x2019;s employees and billable subcontractors total approximately 3,200 people worldwide at December 31, 2022. During 2022, the parent, Computer Task Group, Incorporated (United States), had seventeen operating subsidiaries: 
+&#x2022; Computer Task Group of Canada, Inc. 
+&#x2022; La Societe de Tests StarDust Inc. (Canada) 
+&#x2022; Computer Task Group Belgium N.V. 
+&#x2022; CTG ITS S.A. (Belgium) 
+&#x2022; Computer Task Group IT Solutions, S.A. (Luxembourg) 
+&#x2022; Computer Task Group Luxembourg PSF S.A. 
+&#x2022; Computer Task Group (U.K.) Limited (United Kingdom) 
+&#x2022; CTG SAS (France) 
+&#x2022; StarDust SAS (France) 
+&#x2022; Computer Task Information Technology Services Private Limited (India) 
+&#x2022; CTG LATAM SAS (Colombia) 
+&#x2022; CTG Federal Systems, LLC (primarily United States) 
+&#x2022; Eleviant Technologies Inc. (United States) 
+&#x2022; Eleviant Technologies Private Limited (India) 
+&#x2022; Impiger Mobile, Inc. (United States) 
+&#x2022; Eleviant Consulting Services, Inc. (United States) 
+&#x2022; Eleviant Technologies, Inc. (Canada) 
+The Company provides information technology (&#x201c;IT&#x201d;) and related services to its clients. These services include information and technology-related solutions, including staffing as a solution. With solution services, the Company generally takes responsibility for the deliverables and some level of project and staff management, and services may include high-end advisory or business-related consulting. When providing staffing services, including managed staffing, staff augmentation, and volume staffing, personnel are provided to clients, who then, in turn, take their direction from the clients&#x2019; managers. 
+IT Solutions and Services 
+CTG is a leading provider of IT solutions and services, serving as a catalyst for our clients&#x2019; digital transformation. We increase project momentum and the speed at which our clients achieve their desired outcomes. Our solutions portfolio addresses critical challenges for clients in North America, South America, Western Europe, and India in high-growth industries. Clients we typically support are organizations with large, complex technology, information, and data requirements. Some have begun their digital transformation and are struggling to drive their desired results, while many are just starting to define their digital transformation needs and strategy. 
+CTG's Digital Transformation Solutions portfolio spans three areas that collectively address many of our clients' most pressing transformation challenges and are designed to address their unique business, technology, and operational needs. Our capabilities ensure that our clients utilize the right information technology to meet their business needs, maximize their IT systems' value, and operate efficiently and effectively. The following describes the typical services provided: 
+&#x2022; Business Process Transformation Solutions ensure clients can meet today's challenges, map to tomorrow's growth, and align their organizations' technology solutions to their business objectives. We combine strategic 
+2 
+advisory services, technologies and platforms, and implementation and integration processes to accelerate business outcomes, improve workflows, and drive efficiencies. These solutions services include Advisory, Data Strategy, Digital Workplace, Enterprise Platforms, Information Disclosure, and Regulatory and Compliance. 
+&#x2022; Technology Transformation Solutions accelerate digital transformation by keeping our clients ahead of the digital curve and delivering the sustainable business value they expect from their technology investments. CTG's Technology Transformation Solutions also help our clients stay ahead of their competition by rapidly adopting digital technologies with confidence through solutions that include Application Development, Automation, Cloud, Data Management, Enterprise Platform Implementation, and Testing. 
+&#x2022; Operations Transformation Solutions ensure our clients have the correct operations infrastructure in place to achieve the organizational agility necessary to accelerate their business velocity. Our Global Delivery Network supports our Operations Transformation Solutions, enabling cost-effective solutions delivery at optimal staffing levels to ensure exceptional customer service while reducing client costs. These solutions include Application support, IT Operations support, Cloud, and Infrastructure. 
+Non-Strategic Technology Services - Staffing 
+CTG&#x2019;s staffing services address a range of information and technology resource needs, from filling specific talent gaps to managing high-volume staffing programs. CTG recruits, retains, and manages IT talent for its clients, which are primarily large technology service providers and other companies with multiple locations and a significant need for high-volume professional IT resources. 
+Capabilities 
+Our expertise in key technologies&#x2013;what we call Digital Accelerators&#x2013;underpins our solutions and ensures our clients receive optimal value from their digital technologies and methodologies. CTG's Digital Accelerators evolve to meet market needs and address the most innovative technology platforms and thinking. These Digital Accelerators include Agile and DevOps, Internet of Things (IoT), Intelligent Automation, Data and Analytics, Cloud, and Automated Testing. 
+As the pace of change accelerates, CTG accelerates our clients' digital environment through a unique combination of Transformation Solutions, Digital Accelerators, leading industry talent, domain expertise, innovative tools and methodologies, a partner ecosystem, and a Global Delivery Network. 
+&#x2022; Industry-leading Digital and Technology Talent. CTG cultivates a workplace that attracts, develops, and retains the best digital and technology experts. Being Great Place to Work Certified validates our workplace culture that has made CTG a leading IT and digital solutions and services company for more than 50 years. 
+&#x2022; Deep Domain Expertise. CTG serves clients in high-growth sectors across the globe and brings industry experience that we leverage to build and deliver digital solutions customized for the unique challenges, requirements, and regulations companies face in each industry we serve. CTG serves clients in high-growth global sectors, such as healthcare, energy, manufacturing, financial services, technology service providers, and other general markets. 
+&#x2022; Innovative Tools and Methodologies. CTG leverages up-to-date best practices, technologies, and methodologies (e.g., Agile, SAFe, DASA, ITIL) to support our clients' need for greater speed-to-market, innovation, continuous improvement, and to support today's high-performance IT teams. CTG also builds and provides a number of proprietary tools and platforms (e.g., We Are Testers, BugTrapp) designed to meet the unique needs of our clients. 
+&#x2022; Partner Ecosystem. Given our clients' specialized and evolving needs and the accelerated pace at which new technologies emerge, we know that we must leverage industry partnerships to increase the value we provide to our clients. Our strong partner network, representing today's leading technologies, allows our clients to access and utilize today's leading technologies, coupled with our supporting solutions, methodologies, and industry experience. 
+&#x2022; Global Delivery Network. Through established operations in North and South America, Western Europe, and India, CTG's delivery centers leverage a centralized model to deliver a broad spectrum of high-quality, cost-effective services and solutions. 
+3 
+Acquisition of Eleviant 
+On September 29, 2022, CTG acquired Eleviant Technologies, an expert in mobile, cloud, web blockchain, robotic process automation (RPA) and artificial intelligence (AI) technologies. The acquisition strengthened CTG&#x2019;s digital offerings in areas such as AI, machine learning (ML), and intelligent automation while expanding capabilities in cloud migration, mobile application development, and emerging technologies, including blockchain. CTG's software-as-a-service (SaaS) offerings expand through leveraging Eleviant&#x2019;s PeopleOne intranet solution, vChat, vBots, and other platforms. In addition, CTG's Global Delivery Network capacity, agility, and flexibility increases with the addition of established Eleviant teams
+
+## GEOGRAPHIC REVENUE
+nd collaboration; vChat, a chatbot builder platform; and vBots, an RPA builder platform. The acquisition is expected to aid CTG in accelerating the growth of digital solutions sales to clients in the Americas and Europe and create new points of entry with proven technology services and solutions. Prior to acquisition, Eleviant recorded approximately $10 million of revenue annually. 
+The results of operations of Eleviant have been included in the Company&#x2019;s consolidated financial results since the date of acquisition. As the Company has determined that the acquisition is not material to its existing operations, certain disclosures, including proforma financial information, have not been included in this annual report on Form 10-K. 
+Revenue and Cost Recognition 
+The Company recognizes revenue when control of the promised good or service is transferred to clients in an amount that reflects the consideration the Company expects to be entitled to in exchange for those goods or services. For time-and-material contracts, revenue is recognized as hours are incurred and costs are expended. For contracts with progress billing schedules, primarily monthly, revenue is recognized as services are rendered to the client. Revenue for fixed-price contracts is recognized over time using an input-based approach. Over time revenue recognition best portrays 
+20 
+the Company&#x2019;s performance in transferring control of the goods or services to the client. On most fixed price contracts, revenue recognition is supported through contractual clauses that require the client to pay for work performed to date, including cost plus a reasonable profit margin, for goods or services that have no alternative use to the Company. On certain contracts, revenue recognition is supported through contractual clauses that indicate the client controls the asset, or work in process, as the Company creates or enhances the asset. On a given project, actual salary and indirect labor costs incurred are measured and compared with the total estimate of costs of such items at the completion of the project. Revenue is recognized based upon the percentage-of-completion calculation of total incurred costs
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of CTG&#x2019;s consolidated revenue in 2022. 
+5 
+Revenue Recognition and Backlog 
+The Company recognizes revenue when control of the promised good or service is transferred to clients, in an amount that reflects the consideration the Company expects to be entitled to in exchange for those goods or services. For time-and-material contracts, revenue is recognized as hours are incurred and costs are expended. For contracts with progress billing schedules, primarily monthly, revenue is recognized as services are rendered to the client. Revenue for fixed-price contracts is recognized over time using an input-based approach. Over time revenue recognition best portrays the Company&#x2019;s performance in transferring control of the goods or services to the client. On most fixed-price contracts, revenue recognition is supported through contractual clauses that require the client to pay for work performed to date, including cost plus a reasonable profit margin, for goods or services that have no alternative use to the Company. On certain contracts, revenue recognition is supported through contractual clauses that indicate the client controls the asset, or work in process, as the Company creates or enhances the asset. On a given project, actual salary and indirect labor costs incurred are measured and compared with the total estimate of costs of such items at the completion of the project. Revenue is recognized based upon the percentage-of-completion calculation of total incurred costs to total estimated costs. The Company infrequently works on fixed-price projects that include significant amounts of material or other non-labor related costs that could distort the percent complete within a percentage-of-completion calculation. The Company&#x2019;s estimate of the total labor costs it expects to incur over the term of the contract is based on the nature of the project and our experience on similar projects, and includes management judgments and estimates that affect the a
+
+---
+Doc size: 2048KB (capped at 2MB)

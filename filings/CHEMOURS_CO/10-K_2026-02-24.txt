@@ -1,0 +1,107 @@
+# CHEMOURS CO — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 1627223
+# SIC: Chemicals & Allied Products
+# Source: https://www.sec.gov/Archives/edgar/data/1627223/000119312526065201/cc-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+17 
+Item 1B. 
+Unresolved Staff Comments 
+38 
+Item 1C. 
+Cybersecurity 
+38 
+Item 2. 
+Properties 
+39 
+Item 3. 
+Legal Proceedings 
+40 
+Item 4. 
+Mine Safety Disclosures 
+40 
+Information About Our Executive Officers 
+41 
+Part II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities 
+42 
+Item 6. 
+Reserved 
+43 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+44 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+75 
+Item 8. 
+Financial Statements and Supplementary Data 
+76 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+76 
+Item 9A. 
+Controls and Procedures 
+77 
+Item 9B. 
+Other Information 
+77 
+Item 9C 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+77 
+Part III 
+Item 10. 
+Directors, Executive Officers, and Corporate Governance 
+78 
+Item 11. 
+Executive Compensation 
+78 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+78 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+78 
+Item 14. 
+Principal Accounting Fees and Services 
+78 
+Part IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+79 
+Item 16. 
+Form 10-K Summary 
+79 
+Signatures 
+83 
+1 
+Forward-looking Statements This section and other parts of this Annual Report on Form 10-K contain forward-looking statements, within the meaning of the federal securities laws, that involve risks and uncertainties. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. The words believe , expect , anticipate , plan , estimate , target , project , and similar expressions, among others, generally identify forward-looking statements , which speak only as of the date the statements were made. The matters discussed in these forward-looking statements are subject to risks, uncertainties, and other factors that could cause actual results to differ materially from those set forth in the forward-looking statements. Factors that could cause or contribute to these differences include, but are not limited to, the risks, uncertainties, and other factors discussed below and within Item 1A Risk Factors in this Annual Report on Form 10-K. Forward-looking statements are based on certain assumptions and expectations of future events that may not be accurate or realized. Forward-looking statements also involve risks and uncertainties, many of which are beyond our control. Important factors that may materially affect such forward-looking statements and projections include: fluctuations in energy and raw materials pricing; failure to develop and market new products and applications, and optimally manage product life cycles; increased competition, and increasing consolidation of our core customers; significant litigation and environmental matters, including indemnifications we were required to assume and cost-sharing arrangements into which we have entered; significant or unanticipated expenses, including, but not limited to, litigation or legal settlement expenses; our ability to manage and complete capital projects and/or planned expansions, including the start-up of capital projects; changes in relationships with our significant customers and suppliers; failure to manage process safety and product stewardship issues appropriately; global economic and capital markets conditions, such as inflation, interest and currency exchange rates, and commodity prices, as well as regulatory requirements; the effects of pandemics on customer demand for our products, our manufacturing operations, our supply chain effectiveness and efficiencies, the broader financial markets, and our financial results; currency-related risks; our current indebtedness and availability of borrowing facilities, including access to our revolving credit facilities; business or supply disruptions and security threats, such as acts of sabotage, terrorism or war, weather events, natural disasters, and cybersecurity incidents; uncertainty regarding the availability of additional financing in the future, and the terms of such financing; negative rating agency actions; changes in laws and regulations or political conditions; our ability to protect, defend, and enforce our intellectual property rights; our ability to predict, identify, and address changes in consumer preference and demand; our ability to complete potential divestitures or acquisitions and our ability to realize the expected benefits of divestitures or acquisitions if they are completed; our ability to meet our growth expectations and outlook; our ability to deliver cost savings as anticipated, whether or not on the timelines proposed; our ability to pay a dividend and the amount of any such dividend declared, disruptions in our information technology networks and systems; our ability to maintain effective internal control over financial reporting and disclosure controls and procedures; and regulatory inquiries, litigation, or liabilities that may result from the matters included in the audit committee internal review. 
+2 
+This report contains sustainability-related statements based on certain assumptions as well as estimates that are subject to a high level of uncertainty, and these statements should not necessarily be viewed as being representative of current or actual risk or performance, or forecasts of expected risk or performance. In addition, historical, current, and forward-looking environmental and social-related statements may be based on standards for measuring progress that are still developing, and internal controls and processes that continue to evolve. Forward-looking and other statements in this report may also address our corporate responsibility commitments and sustainability progress, plans, and goals, and the inclusion of such statements is not an indication that these matters are necessarily material for the purposes of complying with or reporting pursuant to the U.S. federal securities laws and regulations, even if we use the word material or materiality in this report. Additionally, there may be other risks and uncertainties that we are unable to identify at this time or that we do not currently expect to have a material impact on our business. We assume no obligation to revise or update any forward-looking statement for any reason, except as required by law. Unless the context otherwise requires, references herein to The Chemours Company , Chemours , the Company , our company , we , us , and our refer to The Chemours Company and its consolidated subsidiaries. References herein to EID refer to EIDP, Inc., formerly known as E.I. du Pont de Nemours and Company, which is our former parent company and is now a subsidiary of Corteva, Inc. ( Corteva ), a Delaware corporation, unless the context otherwise requires. References herein to DuPont refer to DuPont de Nemours, Inc., a Delaware Corporation. 
+3 
+The Chemours Company 
+PAR T I 
+Item 1. BUSINES S 
+Overview The Chemours Company (herein referred to as we , us , or our ) is a leading, global provider of performance chemicals that are key inputs in end-products and processes in a variety of industries. We deliver customized solutions with a wide range of industrial and specialty chemical products for markets, including refrigeration and air conditioning, paints and coatings, plastics, transportation, semiconductor and consumer electronics, general industrial, and oil and gas. Our principal products include refrigerants, titanium dioxide ( TiO 2 ) pigment and industrial fluoropolymer resins. We manage and report our operating results through three principal reportable segments: Thermal & Specialized Solutions, Titanium Technologies, and Advanced Performance Materials. Our Thermal & Specialized Solutions segment is a leading, global provider of refrigerants, thermal management solutions, propellants, blowing agents, and specialty solvents. Our Titanium Technologies segment is a leading, global provider of TiO 2 pigment, a premium white pigment used to deliver whiteness, brightness, opacity, and protection in a variety of applications. Our Advanced Performance Materials segment is a leading, global provider of high-end polymers and advanced materials that deliver unique attributes, including low friction coefficients, extreme temperature resistance, weather resistance, ultraviolet and chemical resistance, and electrical insulation. We operate 28 major production facilities located in eight countries and serve approximately 2,400 customers across a wide range of end-markets in approximately 110 countries. Many of our commercial and industrial relationships span decades. Our customer base includes a diverse set of companies, many of which are leaders in their respective industries. Our sales are not materially dependent on any single customer. As of December 31, 2025, no one individual customer represented more than 10% of our consolidated net sales, and one individual customer balance represented approximately 7% of our total outstanding accounts and notes receivables balance. Our world-class product portfolio enables the performance and convenience of everyday products, processes, and technologies people rely on in their daily lives, making our products and the solutions they enable both vital and essential. We are committed to creating value for our customers and stakeholders by leveraging strengths that we use to create competitive advantage: our innovation and technical expertise, our ability to operate complex manufacturing sites safely, our deep customer relationships based on trust and reliability, and our talented workforce. Every day our people bring our chemistry to life, guided by five core values that form the bedrock foundation for how we operate: (i) Safety we are committed to protecting people and the environment; (ii) Integrity we do what's right; (iii) Partnership we win through collaboration with the right internal and external partners; (iv) Ownership we are each accountable for the Company's success; (v) Respect we treat people well, include others, and value diverse perspectives. Our core values, in unison with our company vision of Trusted Chemistry, helping people live better lives and communities thrive, underpin our commitment to our stakeholders. Our values and vision cannot be separated from our business strategy. Our Strategy In 2024 we refreshed and introduced our corporate strategy, Pathway to Thrive. The strategy capitalizes on the fundamental strengths of our businesses, our incredible talent, and the competitive differentiators that make us the best owners and operators of Chemours. Pathway to Thrive provides a clear framework to create value for shareholders centered around four pillars: Operational Excellence - we run our business with a mindset of continuous improvement that allows us to adapt to changing market dynamics and challenges. Through standardization of key processes and operating best practices, we achieve consistent execution across our business and take unnecessary costs out. Enabling Growth - we strategically invest in high-return, low risk initiatives across our portfolio, prioritizing our expansion into rapidly growing end-markets, and concentrating on data center cooling, next generation refrigerant and semiconductor fabrication. We invest our capital using a disciplined capital allocation program and we expect these investment activities to be funded by organic cash flow generation and achieved cost-savings across all of our businesses. Portfolio Management - we are always assessing our performance to ensure we are strategically optimizing our existing businesses and assets. Our continued shift in focus from products to applications in higher-growth, higher-margin markets, paired with regularly revisiting the returns of our asset base with an emphasis on the specialty components of our business, will enhance shareholder value. In addition, we seek to evaluate the productivity and contributions of our existing asset footprint to ensure we have the optimal asset base for our future needs. Strengthening the Long Term - fortifying ourselves for the long-term means prioritizing key activities that are critical to our ability to deliver business performance and create value. The most critical areas are resolving legacy litigation matters, fulfilling our commitment to responsible manufacturing, and mounting successful advocacy efforts that create awareness and inform regulations and policies globally that recognize the criticality of our chemistries. 
+4 
+The Chemours Company 
+Sustainability At Chemours, our sustainability approach is grounded in our vision to deliver Trusted Chemistry that improves lives and helps communities to thrive and is tightly integrated with our Pathway to Thrive strategy. Our work in sustainability creates value for our shareholders by protecting our privilege to operate, differentiating our portfolio in a competitive market, meeting the needs of our customers, building resilience for the future, and ultimately helping to advance our Pathway to Thrive strategy. Our Trusted Chemistry vision serves as the foundation for our Corporate Responsibility Commitment ("CRC") goals. We measure and report our progress against these goals transparently in our Annual Sustainability Report to ensure accountability and impact. Chemours is firmly committed to delivering on our CRC goals while maintaining a disciplined cost structure and capital allocation strategy. This ensures we can navigate changing market conditions and continue investing in sustainable innovation and growth for the future. We understand that maintaining safe, sustainable operations has an impact on us, our communities, the environment, and our collective future. We deliver for our customers and society by designing sustainable offerings that perform at the highest level while minimizing impact on the environment and safeguarding the communities in which we operate. We are a leader in responsible manufacturing, and we value partnership and collaboration to drive change. We are committed to continue working with policymakers, our value chain, and other organizations to find solutions that meet science-based regulations and address community needs. Corporate History We began operating as an independent company on July 1, 2015 (the Separation Date ) after separating from EID (the Separation ). The Separation was completed pursuant to a separation agreement and other agreements with EID, including an employee matters agreement, a tax matters agreement, a transition services agreement, and an intellectual property cross-license agreement. These agreements, along with the Memorandum of Understanding (the MOU ) that was entered into in January 2021, govern
+
+## GEOGRAPHIC REVENUE
+than 5% of our total net sales in Titanium Technologies during 2025, include zircon (zirconium silicate), staurolite minerals, and monazite. We are a major supplier of high-quality calcined zircon in North America, primarily focused on the precision investment casting industry, foundry, specialty applications, and ceramics. Our staurolite blasting abrasives are used in a variety of surface preparation applications, including steel preparation and maintenance and paint removal. We are currently the only domestic producer of monazite, a key feed source of rare earth minerals. Our monazite is processed in the U.S., and the rare earth oxides extracted from the monazite are used in clean energy applications, such as permanent magnets for wind generation and electric vehicle batteries. Titanium Technologies Transformation Plan In the third quarter of 2023, in line with our strategic priorities for creating long-term shareholder value and building on the legacy of delivering high-quality Ti-Pure TM offerings, the Titanium Technologies segment commenced certain transformation initiatives to streamline our workforce, drive enhancements to our manufacturing processes, and optimize input costs under the Titanium Technologies Transformation Plan, which supports our Pathway to Thrive corporate strategy, and positions us as one of the lowest-cost high-quality TiO 2 pigment producers. As part of these efforts, in July 2023, we announced our decision to shut down our TiO 2 manufacturing facility in Kuan Yin, Taiwan. We fully completed the shutdown in the fourth quarter of 2023 and completed decommissioning activities in the second quarter of 2024. Dismantling and removal activities were completed in the first quarter of 2025. We made total cash payments of $14 million and $48 million associated with the Titanium Technologies Transformation Plan during the years ended December 31, 2025 and 2024, respectively, inclusive of severance payments, decommissioning, and other third-party fees. As a result of efforts taken under the Titanium Technologies Transformation Plan, we achieved cost savings of $50 million related to 2023 and $140 million related to 2024. Beginning in 2025, the c
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers and suppliers; failure to manage process safety and product stewardship issues appropriately; global economic and capital markets conditions, such as inflation, interest and currency exchange rates, and commodity prices, as well as regulatory requirements; the effects of pandemics on customer demand for our products, our manufacturing operations, our supply chain effectiveness and efficiencies, the broader financial markets, and our financial results; currency-related risks; our current indebtedness and availability of borrowing facilities, including access to our revolving credit facilities; business or supply disruptions and security threats, such as acts of sabotage, terrorism or war, weather events, natural disasters, and cybersecurity incidents; uncertainty regarding the availability of additional financing in the future, and the terms of such financing; negative rating agency actions; changes in laws and regulations or political conditions; our ability to protect, defend, and enforce our intellectual property rights; our ability to predict, identify, and address changes in consumer preference and demand; our ability to complete potential divestitures or acquisitions and our ability to realize the expected benefits of divestitures or acquisitions if they are completed; our ability to meet our growth expectations and outlook; our ability to deliver cost savings as anticipated, whether or not on the timelines proposed; our ability to pay a dividend and the amount of any such dividend declared, disruptions in our information technology networks and systems; our ability to maintain effective internal control over financial reporting and disclosure controls and procedures; and regulatory inquiries, litigation, or liabilities that may result from the matters included in the audit committee internal review. 
+2 
+This report contains sustainability-related statements based on certain assumptions as well as estimates that are subject to a high level
+
+---
+Doc size: 2048KB (capped at 2MB)

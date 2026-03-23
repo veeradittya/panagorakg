@@ -1,0 +1,155 @@
+# URBAN OUTFITTERS INC — 10-K Annual Report
+# Filed: 2025-04-01
+# CIK: 912615
+# SIC: Retail-Family Clothing Stores
+# Source: https://www.sec.gov/Archives/edgar/data/912615/000095017025048506/urbn-20250131.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+9 
+Item 1B. 
+Unresolved Staff Comments 
+17 
+Item 1C. 
+Cybersecurity 
+17 
+Item 2. 
+Properties 
+18 
+Item 3. 
+Legal Proceedings 
+19 
+Item 4. 
+Mine Safety Disclosures 
+19 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities 
+20 
+Item 6. 
+Selected Financial Data 
+21 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+22 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+33 
+Item 8. 
+Financial Statements and Supplementary Data 
+33 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+33 
+Item 9A. 
+Controls and Procedures 
+33 
+Item 9B. 
+Other Information 
+34 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+36 
+Item 11. 
+Executive Compensation 
+38 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters 
+38 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+39 
+Item 14. 
+Principal Accountant Fees and Services 
+39 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+40 
+Item 16. 
+Form 10-K Summary 
+42 
+Signatures 
+43 
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+F- 1 
+Certain matters contained in this filing with the United States Securities and Exchange Commission ( SEC ) may contain forward-looking statements and are being made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. When used in this Annual Report on Form 10-K, the words project, believe, plan, will, anticipate, expect and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any one, or all, of the following factors could cause actual financial results to differ materially from those financial results mentioned in the forward-looking statements: overall economic and market conditions (including current levels of inflation) and worldwide political events and the resultant impact on consumer spending patterns and our pricing power, the difficulty in predicting and responding to shifts in fashion trends, changes in the level of competitive pricing and promotional activity and other industry factors, the effects of the implementation of the United Kingdom's withdrawal from membership in the European Union (commonly referred to as Brexit ), including currency fluctuations, economic conditions and legal or regulatory changes, any effects of war, including geopolitical instability, impacts of the conflict in the Middle East and impacts of the war between Russia and Ukraine and from related sanctions imposed by the United States, European Union, United Kingdom and others, terrorism and civil unrest, natural disasters, severe or unseasonable weather conditions (including as a result of climate change) or public health crises (such as the coronavirus (COVID-19)), labor shortages and increases in labor costs, raw material costs and transportation costs, availability of suitable retail space for expansion, timing of store openings, risks associated with international expansion, seasonal fluctuations in gross sales, response to new concepts, our ability to integrate acquisitions, risks associated with digital sales, our ability to maintain and expand our digital sales channels, any material disruptions or security breaches with respect to our technology systems, our effective utilization of technological advancements, including in artificial intelligence, the departure of one or more key senior executives, import risks (including any shortage of transportation capacities or delays at ports), changes to U.S. and foreign trade policies (including the enactment of tariffs such as retaliatory tariffs), border adjustment taxes or increases in duties or quotas), the unexpected closing or disruption of, or any damage to, any of our distribution centers, our ability to protect our intellectual property rights, failure of our manufacturers and third-party vendors to comply with our social compliance program, risks related to environmental, social and governance activities, changes in our effective income tax rate, changes in accounting standards and subjective assumptions, regulatory changes and legal matters and other risks identified in our filings with the SEC, including those set forth in Item 1A of this Annual Report on Form 10-K for the fiscal year ended January 31, 2025. We disclaim any intent or obligation to update forward-looking statements even if experience or future changes make it clear that actual results may differ materially from any projected results expressed or implied therein. 
+Unless the context otherwise requires, all references to the Company, we, us or our refer to Urban Outfitters, Inc., together with its subsidiaries. 
+PART I 
+Item 1. B usiness 
+General 
+We are a leading lifestyle products and services company that operates a portfolio of global consumer brands primarily including the Anthropologie, Free People, FP Movement, Urban Outfitters and Nuuly brands. We have achieved compounded annual sales growth of approximately 7% over the past five years, with sales of approximately $5.6 billion during the fiscal year ended January 31, 2025. 
+We operate under three reportable segments Retail, Subscription and Wholesale. Our Retail segment includes our store and digital channels and primarily includes our Anthropologie, Free People, FP Movement and Urban Outfitters brands. We have over 54 years of experience creating and managing retail stores that offer highly differentiated collections of fashion apparel, accessories and home goods, among other things, in inviting and dynamic store settings. Our core strategy is to provide unified environments that establish emotional bonds with the customer, through Company-owned stores and franchisee-owned stores. In addition to retail stores, we offer our products and services directly to our customers through our websites, mobile applications, social media and third-party digital platforms, catalogs and customer contact centers. 
+Our Subscription segment, formerly known as the Nuuly segment, includes the Nuuly brand, which primarily offers customers a more sustainable way to explore fashion through a monthly women s apparel subscription rental service. 
+We operate a Wholesale segment under the Free People, FP Movement and Urban Outfitters brands. The Wholesale segment sells through department and specialty stores worldwide, third-party digital businesses and our Retail segment. The Wholesale segment primarily designs, develops and markets young women's contemporary casual apparel, intimates, FP Movement activewear and shoes under the Free People and FP Movement brands and the BDG and "iets frans" apparel collections under the Urban Outfitters brand. 
+Milestones in our Company s growth are as follows: 
+1970: First Urban Outfitters store opened near the University of Pennsylvania campus in Philadelphia, Pennsylvania 
+1976: Incorporated in the Commonwealth of Pennsylvania 
+1984: Free People Wholesale division established 
+1992: First Anthropologie store opened in Wayne, Pennsylvania 
+1993: Initial public offering of URBN shares on NASDAQ 
+1998: First European Urban Outfitters store opened in London; Anthropologie website launched 
+1999: Urban Outfitters website launched 
+2002: First Free People store opened in the Garden State Plaza Mall in Paramus, New Jersey 
+2004: Free People website launched 
+2008: First Terrain garden center opened in Glen Mills, Pennsylvania 
+2009: First European Anthropologie store opened in London 
+2018: First European Free People store opened in Amsterdam; Urban Outfitters Wholesale division established 
+2019: Launch of the Nuuly brand 
+2020: First FP Movement store opened in Los Angeles, California 
+Our Retail segment omni-channel strategy enhances our customers brand experience by providing a seamless approach to the customer shopping experience. All Company-owned Retail segment shopping channels are closely integrated, including retail locations, websites, mobile applications, catalogs and customer contact centers. Our investments in areas such as marketing campaigns and technology advancements are designed to generate demand for the Retail segment omni-channel and not the separate store or digital channels. We manage and analyze our performance based on a single Retail segment omni-channel rather than separate channels and believe that the Retail segment omni-channel results present the most meaningful and appropriate measure of our performance. 
+Our fiscal year ends on January 31. All references to our fiscal years refer to the fiscal years ended on January 31 in those years. For example, our fiscal 2025 ended on January 31, 2025. 
+As used in this document, unless otherwise defined, "Anthropologie" refers to our Anthropologie and Terrain brands and "Free People" refers to our Free People and FP Movement brands. 
+1 
+Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed with, or furnished to, the SEC pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our investor relations website, www.urbn.com/investor-relations , as soon as reasonably practicable after we electronically file such material with, or furnish such material to, the SEC. We will voluntarily provide electronic or paper copies (other than exhibits) of our filings free of charge upon written request. You may also obtain any materials we file with, or furnish to, the SEC on its website at www.sec.gov. 
+Retail Segment 
+Anthropologie. The Anthropologie brand tailors its merchandise and inviting store environment to sophisticated and contemporary women aged 28 to 45. The Anthropologie brand s unique and eclectic internally designed and third-party brand product assortment includes women s apparel, accessories, intimates, shoes, furniture, home decor and beauty and wellness. The brand also has a bridal collection consisting of wedding, bridesmaid and party dresses, accessories and decor. Catalogs are offered in North America that market select merchandise, most of which is also available in Anthropologie brand stores. 
+The Terrain brand is designed to appeal to women and men interested in a creative and sophisticated outdoor living and gardening experience. Terrain s product offering includes lifestyle home, garden and outdoor living products, antiques, live plants, flowers, wellness products and accessories. 
+As of January 31, 2025, we operated 239 Anthropologie stores, of which 222 were located in North America and 17 were located in Europe, and sold merchandise through franchisee-owned stores in the Middle East. Stores average approximately 7,500 square feet of selling space. Our stores are located in specialty centers, upscale street locations and enclosed malls. We plan to open approximately 15 Anthropologie stores and close approximately 2 Anthropologie stores due to lease expiration, globally, in fiscal 2026. We plan for future store growth to come from expansion domestically and internationally, which may include opening stores in new and existing markets or entering into additional franchise or joint venture agreements. Anthropologie operates websites and mobile applications in North America and Europe that capture the spirit of its brands by offering a similar yet broader selection of merchandise as found in its stores, and offers catalogs in North America that market select merchandise, most of which is also available in Anthropologie brand stores. We plan for future digital channel growth to come from expansion domestically and internationally. Anthropologie s North American Retail segment net sales accounted for approximately 42.1% of consolidated net sales for fiscal 2025. European Retail segment net sales accounted for approximately 1.6% of consolidated net sales for fiscal 2025. 
+Free People. The Free People brand focuses its product offering on private label merchandise targeted to young contemporary women aged 25 to 30 and provides a unique merchandise mix of casual women's apparel, intimates, activewear, shoes, accessories, home products, gifts and beauty and wellness. Free People brand retail stores average approximately 2,300 square feet of selling space. 
+The FP Movement brand offers performance-ready activewear, beyond-the-gym staples and wellness essentials. FP Movement brand retail stores average approximately 1,500 square feet of selling space. 
+As of January 31, 2025, we operated 230 Free People stores, of which 219 were located in North America and 11 were located in Europe. Of the 230 Free People stores open as of January 31, 2025, 63 were FP Movement brand stores, all located in the United States. Our stores are located in enclosed malls, upscale street locations and specialty centers. We plan to open approximately 36 new Free People stores (including 20 FP Movement brand stores) and close approximately 4 Free People stores due to lease expiration, globally, in fiscal 2026. We plan for future store growth to come from expansion domestically and internationally, which may include opening stores in new and existing markets or entering into franchise or joint venture agreements. Free People operates websites and mobile applications in North America and Europe that capture the spirit of its brands by offering a similar yet broader selection of merchandise as found in its stores, as well as substantially all of the Free People and FP Movement brands' wholesale offerings. Free People also offers catalogs that market select merchandise, most of which is also available in our Free People stores. We plan for future digital channel growth to come from expansion domestically and internationally. Free People s North American Retail segment net sales accounted for approximately 20.7% for fiscal 2025. European Retail segment net sales accounted for approximately 1.0% of consolidated net sales for fiscal 2025. 
+Urban Outfitters. Urban Outfitters targets young adults aged 18 to 28 through a unique merchandise mix, compelling store environment, social media and third-party digital platforms, websites and mobile applications. We have established a reputation with these young adults, who are culturally sophisticated, self-expressive and actively engaged with their peer group. The product offering includes women s and men s fashion apparel, activewear, intimates, footwear, accessories, home goods, electronics and beauty. A large portion of our merchandise is exclusive to Urban Outfitters, consisting of an assortment of products designed internally or designed in collaboration with third-party brands. Stores average approximately 8,500 square feet of selling space. Urban Outfitters stores are located in street locations in large metrop
+
+## GEOGRAPHIC REVENUE
+. 
+Exhibits and Financial Statement Schedules 
+40 
+Item 16. 
+Form 10-K Summary 
+42 
+Signatures 
+43 
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+F- 1 
+Certain matters contained in this filing with the United States Securities and Exchange Commission ( SEC ) may contain forward-looking statements and are being made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. When used in this Annual Report on Form 10-K, the words project, believe, plan, will, anticipate, expect and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any one, or all, of the following factors could cause actual financial results to differ materially from those financial results mentioned in the forward-looking statements: overall economic and market conditions (including current levels of inflation) and worldwide political events and the resultant impact on consumer spending patterns and our pricing power, the difficulty in predicting and responding to shifts in fashion trends, changes in the level of competitive pricing and promotional activity and other industry factors, the effects of the implementation of the United Kingdom's withdrawal from membership in the European Union (commonly referred to as Brexit ), including currency fluctuations, economic conditions and legal or regulatory changes, any effects of war, including geopolitical instability, impacts of the conflict in the Middle East and impacts of the war between Russia and Ukraine and from related sanctions imposed by the United States, European Union, United Kingdom and others, terrorism and civil unrest, natural disasters, severe or unseasonable weather conditions (including as a result of climate change) or public health crises (such as the coronavirus (COVID-19)), labor shortages and increases in labor costs, raw material costs and transportation costs, availability of suitable retail space for expansion, timing of store openings, risks associated with international expansion, seasonal fluctuations in gross sales, response to new concepts, our ability to integrate acquisitions, risks as
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of merchandise purchased during that time. We do not believe that the loss of any one vendor would have a material adverse effect on our business. 
+Company Operations 
+Distribution. We operate multiple distribution and fulfillment centers worldwide to support our Retail, Subscription and Wholesale segments in North America and Europe. 
+Retail Segment 
+Our Retail segment distribution and fulfillment centers receive and distribute our retail store merchandise and fulfill catalog, website and mobile application orders around the world. The primary Retail segment facilities that support our North America Retail segment operations are as follows: 
+1,000,000 square foot omni-channel fulfillment center we own in Gap, Pennsylvania; 
+291,000 square foot distribution center we own in Gap, Pennsylvania; 
+956,000 square foot omni-channel fulfillment center we own in Indiana, Pennsylvania; 
+880,000 square foot omni-channel fulfillment center we own in Kansas City, Kansas; 
+463,000 square foot fulfillment center we own in Reno, Nevada; and 
+214,500 square foot distribution center we lease in Reno, Nevada. 
+Our European Retail segment operations are supported by a 400,000 square foot omni-channel fulfillment center we own in Peterborough, England. 
+Additionally, in fiscal 2025, we began utilizing a third-party logistics provider in the Netherlands to receive and distribute merchandise. 
+Subscription Segment 
+Our Subscription segment operations are supported by the following facilities which fulfill subscription rental orders for the Nuuly brand: 
+604,000 square foot fulfillment center we lease in Raymore, Missouri, which commenced operations in the first quarter of fiscal 2025. We also lease 421,000 square feet of adjacent space within this facility through the end of fiscal 2026; and 
+309,000 square foot fulfillment center we lease in Bristol, Pennsylvania. 
+Wholesale Segment 
+Our Wholesale segment operations are predominantly supported by our omni-channel fulfillment centers
+
+---
+Doc size: 2048KB (capped at 2MB)

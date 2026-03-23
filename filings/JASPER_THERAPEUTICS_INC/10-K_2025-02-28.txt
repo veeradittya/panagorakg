@@ -1,0 +1,283 @@
+# JASPER THERAPEUTICS INC — 10-K Annual Report
+# Filed: 2025-02-28
+# CIK: 1788028
+# SIC: Biological Products, (No Diagnostic Substances)
+# Source: https://www.sec.gov/Archives/edgar/data/1788028/000121390025018384/ea0231788-10k_jasper.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+23 
+Item 1B. 
+Unresolved Staff Comments 
+83 
+Item 1C. 
+Cybersecurity 
+83 
+Item 2. 
+Properties 
+84 
+Item 3. 
+Legal Proceedings 
+84 
+Item 4. 
+Mine Safety Disclosures 
+84 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+85 
+Item 6. 
+[Reserved] 
+85 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+86 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+99 
+Item 8. 
+Financial Statements and Supplementary Data 
+F-1 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+100 
+Item 9A. 
+Controls and Procedures 
+100 
+Item 9B. 
+Other Information 
+100 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+100 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+101 
+Item 11. 
+Executive Compensation 
+114 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+125 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+128 
+PART IV 
+Item 14. 
+Principal Accountant Fees and Services 
+130 
+Item 15. 
+Exhibit and Financial Statement Schedules 
+131 
+Item 16. 
+Form 10 K Summary 
+133 
+i 
+JASPER THERAPEUTICS, INC. 
+As used in this Annual Report on Form 10-K, unless
+the context requires otherwise, references to the Company , Jasper , we , us , our ,
+and similar terms refer to Jasper Therapeutics, Inc., a Delaware corporation formerly known as Amplitude Healthcare Acquisition Corporation
+( AMHC ), and its consolidated subsidiary. References to Old Jasper refer to the private Delaware corporation
+that is now our wholly-owned subsidiary and named Jasper Tx Corp. (formerly known as Jasper Therapeutics, Inc.). 
+On September 24, 2021, we consummated the
+previously announced Business Combination (as defined below) (pursuant to the Business Combination Agreement, dated May 5, 2021, by
+and among AMHC, Ample Merger Sub, Inc. ( Merger Sub ) and Old Jasper). Pursuant to the terms of the Business Combination
+Agreement, a business combination (herein referred to as the Business Combination or Reverse
+Recapitalization for accounting purposes) between AMHC and Old Jasper was effected through the merger of Merger Sub with and
+into Old Jasper with Old Jasper surviving as AMHC s wholly-owned subsidiary. In connection with the Business Combination, AMHC
+changed its name from Amplitude Healthcare Acquisition Corporation to Jasper Therapeutics, Inc. 
+Unless otherwise noted or the context requires
+otherwise, references to our common stock refer to our voting common stock, par value $0.0001 per share. In addition, except
+as otherwise indicated, all information in this Annual Report on Form 10-K gives effect to the 1-for-10 reverse stock split of the common
+stock that was effected on January 4, 2024. 
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+Certain statements contained in this Annual Report
+on Form 10-K may constitute forward-looking statements for purposes of federal securities laws. Such statements can be identified
+by the fact that they do not relate strictly to historical or current facts. In addition, any statements that refer to projections, forecasts
+or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. The
+words anticipate, believe, contemplate, continue, 
+could, estimate, expect, intends, may, 
+might, plan, possible, potential, predict, 
+project, should, will, would and similar expressions
+(including the negative of any of the foregoing) may identify forward-looking statements, but the absence of these words does not mean
+that a statement is not forward-looking. 
+Forward-looking statements in this Annual Report
+on Form 10-K may include, for example, but are not limited to, statements about: 
+our or our management team s
+expectations, hopes, beliefs, intentions or strategies regarding the future, including those relating to the impact of the Business
+Combination on our business, financial condition, liquidity and results of operations; 
+our ability to research, discover
+and develop additional product candidates; 
+the success, cost and timing
+of our product development activities and clinical trials; 
+the potential attributes and
+benefits of our product candidates; 
+our ability to obtain and maintain
+regulatory approval for our product candidates; 
+our ability to obtain funding
+for our operations; 
+our projected financial information,
+anticipated growth rate and market opportunity; 
+our ability to maintain the
+listing of our public securities on The Nasdaq Stock Market LLC ( Nasdaq ); 
+our public securities 
+potential liquidity and trading; 
+our success in retaining or
+recruiting, or changes required in, officers, key employees or directors; 
+ii 
+our ability to grow and manage
+growth profitably; 
+the implementation, market acceptance
+and success of our business model, developments and projections relating to our competitors and industry; 
+our ability to obtain and maintain
+intellectual property protection and not infringe on the rights of others; 
+our ability to identify, in-license
+or acquire additional technology; and 
+our ability to maintain existing
+license agreements and manufacturing arrangements. 
+These forward-looking statements are based on current
+expectations and beliefs concerning future developments and their potential effects. There can be no assurance that future developments
+affecting us will be those that we have anticipated. These forward-looking statements involve a number of risks, uncertainties (some of
+which are beyond our control) or other assumptions that may cause actual results or performance to be materially different from those
+expressed or implied by these forward-looking statements. These risks and uncertainties include, but are not limited to, those factors
+described under the heading Risk Factors in this Annual Report on Form 10-K. Should one or more of these risks or uncertainties
+materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these
+forward-looking statements. There may be additional risks that we consider immaterial or which are unknown. It is not possible to predict
+or identify all such risks. Readers are cautioned not to place undue reliance on forward-looking statements because of the risks and uncertainties
+related to them and to the risk factors. We do not undertake any obligation to update or revise any forward-looking statements, whether
+as a result of new information, future events or otherwise, except as may be required under applicable securities laws. 
+iii 
+PART I 
+ITEM 1. BUSINESS 
+Overview 
+We are a clinical-stage biotechnology company
+focused on developing therapeutics targeting mast cell driven diseases such as Chronic Spontaneous Urticaria ( CSU ), Chronic
+Inducible Urticaria ( CIndU ) and Asthma. We are evaluating additional indications in mast cell driven diseases for potential
+future development and we have also historically supported development programs in diseases where targeting diseased hemopoietic stem
+cells can provide benefits, such as and stem cell transplant conditioning regimens. 
+Our
+lead product candidate, briquilimab, is a monoclonal antibody designed to block stem cell factor ( SCF ) from binding to
+and signaling through the CD117 ( c-Kit ) receptor on mast and stem cells. The SCF/c-Kit pathway is a survival signal for
+mast cells and we believe that blocking this pathway may lead to depletion of these cells throughout the body, including in the lungs
+and in the skin, which could lead to significant clinical benefit for patients with mast-cell driven diseases such as asthma and chronic
+urticarias. To that end, we are focusing on advancing a portfolio of clinical programs in mast cell driven diseases. Development highlights
+include: 
+We commenced the Phase 1b/2a BEACON study in CSU in late 2023 and in January 2025, we presented positive preliminary data as of December
+31, 2024 from the first 8 dosing cohorts in the study (10mg, 40mg, 80mg Q8W, 120mg Q8W, 120mg Q12W, 180mg Q8W, 180mg Q12W, 240mg single-dose).
+Average patient duration on study as of the cutoff date for the data presented was approximately 28 weeks. Highlights of the data are
+as follows: 
+Briquilimab demonstrated a rapid onset of clinical efficacy: 
+Clinical responses were seen as early as 1 week post-dose; and 
+Complete responses were observed as early as week 2 post-dose 
+Briquilimab drove deep and meaningful clinical responses: 
+UAS7 reductions of as much as 29 points were noted 4 weeks post-dose (120mg Q12W); and 
+100% complete responses through 8 weeks were demonstrated at the 240mg dose level 
+Dose dependent durability was observed in complete responses and well-controlled disease 
+Complete responses showed durability out to: 
+4 weeks at 120mg 
+6 weeks at 180mg 
+8 weeks at 240mg 
+Briquilimab was well tolerated and demonstrated a favorable safety profile: 
+C-kit related adverse events ( AEs ) were low frequency, transient, low-grade events; 
+The majority of AEs observed were resolved while on study prior to subsequent doses; and 
+No dose delays, missed doses or discontinuations were reported due to AEs possibly related to c-Kit blockade 
+We commenced the Phase 1b/2a SPOTLIGHT study in CIndU in early 2024.
+In October 2024, we presented positive preliminary data on the 40mg and 120mg cohorts from the study showing the following for the 6-week
+preliminary analysis period following dosing, as follows: 
+Across
+the 40mg and 120mg dosing cohorts in the study, 14 of the 15 participants (93%) achieved
+a clinical response; 
+In
+the 120mg dose cohort, 10 of 12 participants (83%) experienced a complete response, and 1
+participant experienced a partial response; and 
+Briquilimab has been well-tolerated in the study, with no serious adverse
+events ( SAEs ) and no grade 3 or higher adverse events reported 
+We commenced an Open Label Extension (the OLE ) study
+whereby the participants from BEACON and SPOTLIGHT, on study completion, may roll over to the study, to receive 180mg SC briquilimab every
+8 weeks. 
+We
+commenced a Phase 1b/2a ETESIAN study in Asthma in late 2024. 
+We
+are actively evaluating the potential for briquilimab in additional mast cell driven diseases. 
+1 
+We
+are also developing briquilimab as a one-time conditioning therapy for severe combined immunodeficiency ( SCID ) patients
+undergoing a second stem cell transplant for which we are currently conducting a Phase 1/2 clinical trial. 
+We intend to become a fully integrated discovery,
+development and commercial company in the field of mast cell therapeutics. We are developing our product candidates to be used individually
+or, in some cases, in combination with other therapeutics. Our goal is to advance our product candidates through regulatory approval and
+bring them to the commercial market based on the data from our clinical trials and communications with regulatory agencies and payor communities.
+We expect to continue to broaden our pipeline with additional mast cell indications and next-generation products by leveraging our research
+organization. 
+We have an exclusive license agreement with Amgen Inc. ( Amgen )
+for the development and commercialization of the briquilimab monoclonal antibody in all indications and territories worldwide. We also
+have an exclusive license agreement with Stanford for the right to use briquilimab in the clearance of diseased stem cells prior to the
+transplantation of hematopoietic stem cells ( HSCs ). 
+Briquilimab 
+We believe briquilimab is a unique, humanized,
+monoclonal antibody that targets the underlying biology of mast cell survival to potentially serve as a therapeutic to prevent mast cell
+driven diseases. In addition, we believe briquilimab targets a key differentiation pathway for HSCs and may be developed to improve the
+efficacy and safety of hematopoietic stem cell transplantation. Briquilimab binds to human c-Kit, the receptor for SCF, which is expressed
+on the surface of various cells, including mast cells and hematopoietic stem and progenitor cells. The interaction of SCF and c-Kit is
+required for mast cells to survive and for HSCs to remain in the bone marrow. By blocking SCF from binding to c-Kit and disrupting these
+critical signals, briquilimab leads to the depletion of mast cells in the skin and the differentiation of stem cells in the bone marrow.
+Briquilimab is designed to bind to c-Kit with a greater affinity than SCF. 
+The monoclonal antibody isotype and other modifications
+of briquilimab were chosen carefully to retain high affinity binding to the c-Kit receptor and SCF signal blockade without recruiting
+other immune cells that could lead to receptor activation, mast cell degranulation or other off-target toxicities. For example, designing
+briquilimab as an IgG1 isotype instead of an IgG2 isotype results in more potent inhibition of c-Kit, potentially increasing the effect
+on mast cell depletion. Briquilimab was also designed to be aglycosylated in order to eliminate the recruitment of other immune effector
+cells that may bring unwanted effects to any cell that expresses c-Kit. This finding and other data demonstrate that not all anti-c-Kit
+antibodies behave equally or have the same mechanism of action. 
+We are focused on advancing Briquilimab in development
+as a chronic therapy in mast cell driven diseases such as CSU, CIndU, Asthma and other mast cell driven indications currently under evaluation.
+We also currently have an ongoing study evaluating Briquilimab as a conditioning agent to clear HSCs from the bone marrow prior to re-transplant
+in patients with SCID. 
+Briquilimab as a Primary Therapeutic for Disorders
+of Mast Cells 
+Mast cells are primary cells of the immune system
+derived from HSCs in the bone marrow. Mast cells store a number of different chemical mediators such as tryptase, histamine, interleukins
+and heparin in granules found throughout the cell. When a mast cell is triggered, such as by an allergen specific to membrane-bound Immunoglobulin
+E ( IgE ) antibodies, the mast cell is activated and releases the content of the granules into the surrounding tissue. These
+chemical mediators attract other immune cells to help with any response as well as produce a local allergic reaction consisting of inflammation,
+swelling, contraction of smooth muscle and increased mucus secretion. Mast cells are usually long-lived and found at boundaries to the
+external environment such as the skin, mucosal surfaces of the gut and lungs and eye. 
+Dysfunctional regulation and activation of mast
+cells is thought to be a significant driver of multiple diseases, including urticarias, asthma, prurigo nodularis, allergic eye disease
+and others. Each of these diseases has been shown to have local concentrations of mast cells, cellul
+
+## GEOGRAPHIC REVENUE
+iven diseases. 
+Sales and Marketing 
+We do not currently have sales and marketing infrastructure
+to support commercial launch of our product candidates, if approved. We may build such capabilities in North America prior to potential
+launch of briquilimab. Outside of North America, we may rely on licensing, co-sale and co-promotion agreements with strategic partners
+for the commercialization of our product candidates. If we build a commercial infrastructure to support marketing in North America, such
+commercial infrastructure could be expected to include a targeted sales force supported by sales management, internal sales support, an
+internal marketing group and distribution support. To develop the appropriate commercial infrastructure internally, we would have to invest
+financial and management resources, some of which would have to be deployed prior to any confirmation that briquilimab will be approved. 
+Research and Development 
+We invest significantly in our research and development
+efforts, to discover and validate therapeutics while improving our processes and approach to drug making. We strive to progress candidates
+that can address unmet or underserved clinical needs and favor programs with well-validated targets and defined regulatory approval paths.
+Our R&D team has played key roles in discovering and developing a number of promising candidates over the past 20 plus years while
+at Jasper, and while at Alexion, Amgen, Arcus, AstraZeneca, Bayer, BeiGene, Bristol-Myers Squibb, Genentech, Gilead, Johnson & Johnson,
+Portola, and others. They have leveraged experience, insights and capabilities to optimize development, along with fostering collaboration
+with external partners to innovate and expand into potential additional indications. Our current development-stage portfolio consists
+of briquilimab in mast and stem cell diseases. 
+Manufacturing 
+We do not currently own or operate any manufacturing facility. We rely
+on contract manufacturing organizations to produce our drug candidates in accordance with cGMP regulations for use in our clinical studies.
+The manufacture of pharmaceuticals is subject to extensive cGMP regulations, which impose various procedura
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 1915KB (capped at 2MB)

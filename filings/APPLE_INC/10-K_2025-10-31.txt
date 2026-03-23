@@ -1,0 +1,14 @@
+# APPLE INC — 10-K Annual Report
+# Filed: 2025-10-31
+# CIK: 320193
+# SIC: Electronic Computers
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm)
+
+## RISK FACTORS (Item 1A)
+5 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment> us-gaap:CommonStockMember 2024-09-29 2025-09-27 0000320193 aapl:A0.000Notesdue2025Member 2024-09-29 2025-09-27 0000320193 aapl:A1.625NotesDue2026Member 2024-09-29 2025-09-27 0000320193 aapl:A2.000NotesDue2027Member 2024-09-29 2025-09-27 0000320193 aapl:A1.375NotesDue2029Member 2024-09-29 2025-09-27 <xbrli:ide
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

@@ -1,0 +1,33 @@
+# ENANTA PHARMACEUTICALS INC — 10-K Annual Report
+# Filed: 2025-11-19
+# CIK: 1177648
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1177648/000119312525288121/enta-20250930.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors and discussed elsewhere in this Annual Report on Form 10-K. These forward-looking statements speak only as of the date of this Annual Report on Form 10-K. Except as required by law, we assume no obligation to update or revise these forward-looking statements for any reason, even if new information becomes available in the future. You should, however, review the factors and risks we describe in the reports we will file from time to time with the SEC after the date of this Annual Report on Form 10-K. 
+ENANTA PHARMACEUTICALS, INC. ANNUAL REPORT ON FORM 10-K For the year ended September 30, 2025 INDEX 
+Item No. 
+Page 
+Summary of Principal Risk Factors 
+1 
+PART I 
+1. 
+Business 
+3 
+1A. 
+Risk Factors 
+32 
+1B.
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of liabilities as of September 30, 2025. The Series 1 nonconvertible preferred stock issued would require the payment of $2.0 million in the event of a qualifying merger or sale of the company. OMERS Agreement In April 2023, we entered into a royalty sale agreement with an affiliate of OMERS, pursuant to which we were paid a $200.0 million cash purchase price in exchange for 54.5% of our future quarterly royalty payments on net sales of MAVYRET/MAVIRET after June 30, 2023, through June 30, 2032, subject to a cap on aggregate payments equal to 1.42 times the purchase price. The $200.0 million received in April 2023 was recognized on our consolidated balance sheets as a liability which will be reduced by the payments made to OMERS over the term of the Agreement. ITEM 7A. QUANTITATIVE AND QUALITAT IVE DISCLOSURES ABOUT MARKET RISK Interest Rate Risk We had cash, cash equivalents and short-term marketable securities of $188.9 million and $248.2 million at September 30, 2025 and 2024, respectively, which consisted of cash, money market funds, and treasury notes. Interest income is sensitive to changes in the general level of interest rates; however, due to the nature of these investments, a change in market interest rates of 1% would not be expected to have a material impact on our financial condition or results of operations for either period. Foreign Exchange Risk As we continue to progress our wholly-owned programs into clinical development, we will conduct clinical trials and clinical manufacturing outside of the U.S. and thus will face exposure to movements in foreign currency exchange rates, primarily the British Pound and Euro, against the U.S. Dollar, arising from our accounts payable and accrued expenses. During fiscal 2025 and 2024, the impact of foreign currency exposure was immaterial and thus did not have a significant impact on our consolidated financial statements. Our operations may become subject to more significant fluctuations in foreign currency e
+
+---
+Doc size: 2048KB (capped at 2MB)

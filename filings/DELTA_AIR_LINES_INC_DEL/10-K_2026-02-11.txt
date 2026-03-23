@@ -1,0 +1,14 @@
+# DELTA AIR LINES INC DEL — 10-K Annual Report
+# Filed: 2026-02-11
+# CIK: 27904
+# SIC: Air Transportation, Scheduled
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/dal-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+16 Risk Factors Relating to Delta 16 Risk Factors Relating to the Airline Industry 22
+
+## GEOGRAPHIC REVENUE
+segment"> dal:segment dal:fleet 0000027904 2025-01-01 2025-12-31 0000027904 2025-06-30 0000027904 2026-01-31 0000027904 2025-12-31 0000027904 2024-12-31 0000027904 dal:PassengerAirTrafficMember 2025-12-31 0000027904 dal:PassengerAirTrafficMember 2024-12-31 <
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

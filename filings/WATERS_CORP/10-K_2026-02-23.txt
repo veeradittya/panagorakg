@@ -1,0 +1,111 @@
+# WATERS CORP — 10-K Annual Report
+# Filed: 2026-02-23
+# CIK: 1000697
+# SIC: Laboratory Analytical Instruments
+# Source: https://www.sec.gov/Archives/edgar/data/1000697/000119312526062604/d778470d10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+16 
+1B. 
+Unresolved Staff Comments 
+38 
+1C. 
+Cybersecurity 
+38 
+2. 
+Properties 
+39 
+3. 
+Legal Proceedings 
+40 
+4. 
+Mine Safety Disclosures 
+40 
+PART II 
+5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+41 
+6. 
+Reserved 
+44 
+7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+44 
+7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+58 
+8. 
+Financial Statements and Supplementary Data 
+61 
+Report of Independent Registered Public Accounting Firm (PCAOB ID 238) 
+62 
+9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+112 
+9A. 
+Controls and Procedures 
+112 
+9B. 
+Other Information 
+112 
+9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+112 
+PART III 
+10. 
+Directors, Executive Officers and Corporate Governance 
+113 
+11. 
+Executive Compensation 
+114 
+12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+115 
+13. 
+Certain Relationships and Related Transactions and Director Independence 
+115 
+14. 
+Principal Accountant Fees and Services 
+115 
+PART IV 
+15. 
+Exhibits and Financial Statement Schedules 
+116 
+16. 
+Form 10-K Summary 
+121 
+Signatures 
+122 
+Table of Contents 
+PART I Item 1: Business General Waters Corporation (the Company, we, our, or us ), a global leader in analytical instruments and software, has pioneered innovations in chromatography, mass spectrometry and thermal analysis serving life, materials and food sciences for more than 65 years. The Company primarily designs, manufactures, sells and services high-performance liquid chromatography ( HPLC ), ultra-performance liquid chromatography ( UPLC and together with HPLC, referred to as LC ) and mass spectrometry ( MS ) technology systems and support products, including chromatography columns, other consumable products and comprehensive post-warranty service plans. These systems are complementary products that are frequently employed together ( LC-MS ) and sold as integrated instrument systems using common software platforms. The Company s products are used by pharmaceutical, clinical, biochemical, industrial, nutritional safety, environmental, academic and governmental customers working in research and development, quality assurance and other laboratory applications. LC is a standard technique and is utilized in a broad range of industries to detect, identify, monitor and measure the chemical, physical and biological composition of materials, and to purify a full range of compounds. MS technology, principally in conjunction with chromatography, is employed in drug discovery and development, including clinical trial testing, the analysis of proteins in disease processes (known as proteomics ), nutritional safety analysis and environmental testing. LC-MS instruments combine a liquid phase sample introduction and separation system with mass spectrometric compound identification and quantification. In addition, the Company designs, manufactures, sells and services thermal analysis, rheometry and calorimetry instruments through its TA Instruments ( TA ) product line. These instruments are used in predicting the suitability and stability of fine chemicals, pharmaceuticals, water, polymers, metals and viscous liquids for various industrial, consumer goods and healthcare products, as well as for life science research. The Company is also a developer and supplier of advanced software-based products that interface with the Company s instruments, as well as other manufacturers instruments. Waters Corporation, organized as a Delaware corporation in 1991, is a holding company that owns all of the outstanding common stock of Waters Technologies Corporation, its operating subsidiary. Waters Corporation became a publicly traded company with its initial public offering ( IPO ) in November 1995. Since the IPO, the Company has added four significant and complementary technologies to its range of products with the acquisitions of TA Instruments in May 1996, Micromass Limited in September 1997, Wyatt Technology in May 2023 and the BDS Business (as defined below) in February 2026. Acquisition of BD Biosciences & Diagnostic Solutions Businesses On February 9, 2026, the Company completed the acquisition (the BDS Business Acquisition ) of the Biosciences and Diagnostic Solutions businesses (the BDS Business ) of Becton, Dickinson and Company ( BD ), for a total purchase price, including assumed debt, of $16.8 billion. This transformative combination establishes an innovative global leader in life sciences and diagnostics, enhancing the Company s scale, broadening its capabilities and expanding its presence across attractive end markets. Following the BDS Business Acquisition, the Company now offers products for the safe collection and transport of diagnostics specimens, and instruments and reagent systems to detect a broad range of infectious diseases, healthcare-associated infections and cancers through BD s former Life Sciences business segment, as well as immunology and cancer research solutions and related clinical diagnostics, including flow cytometry instruments and reagents, and innovative multiomics tools through BD s former Biosciences and Diagnostic Solutions business units. Following the closing of the BDS Business Acquisition, the Company has reorganized the existing and new divisions into the following four segments: Waters Analytical Sciences, Waters Biosciences, Waters Advanced Diagnostics and Waters Materials Sciences. The transaction was structured as a Reverse Morris Trust transaction. 
+1 
+Table of Contents 
+Pursuant to the BDS Business Acquisition: 
+(i) 
+BD transferred all of the rights, titles and interests to and under certain assets and liabilities relating to the BDS Business to Augusta SpinCo Corporation ( SpinCo ), a subsidiary of BD incorporated in connection with the transaction (the Spin-Off ); 
+(ii) 
+BD distributed to its shareholders all of the issued and outstanding shares of common stock, $0.01 par value per share, of SpinCo ( SpinCo Common Stock ) held by BD by way of a pro rata distribution (the Distribution ); and 
+(iii) 
+following the Distribution, a subsidiary of the Company ( Merger Sub ) was merged with and into SpinCo, with SpinCo as the surviving entity (the Merger ), and all SpinCo Common Stock was converted into the right to receive 38,541,852 shares of common stock, $0.01 par value per share, of the Company ( Company Common Stock ). As a result of the BDS Business Acquisition, SpinCo became a wholly owned subsidiary of Waters. Upon closing of the BDS Business Acquisition, BD s shareholders owned approximately 39.2% of the combined company and existing shareholders of the Company owned approximately 60.8% of the combined company. In connection with the BDS Business Acquisition, BD received a cash distribution of approximately $4.0 billion from SpinCo prior to the completion of the transaction (the SpinCo Cash Distribution ). To fund the SpinCo Cash Distribution, SpinCo incurred approximately $4.0 billion of new indebtedness substantially concurrently with the completion of the transaction, which indebtedness was assumed by Waters as a result of the transaction. Business Segments The Company s business activities, for which discrete financial information is available, are regularly reviewed and evaluated by the chief operating decision maker. Based on the evaluation of the Company s business as conducted in 2025, the Company determined that it has two operating segments: Waters and TA. The Waters operating segment is primarily in the business of designing, manufacturing, selling and servicing LC and MS instrument systems, columns and other precision chemistry consumables that can be integrated and used along with other analytical instruments. The TA operating segment is primarily in the business of designing, manufacturing, selling and servicing thermal analysis, rheometry and calorimetry instruments. The Company s two operating segments have similar economic characteristics: product processes, products and services, types and classes of customers, methods of distribution, and regulatory environments. Because of these similarities, the two segments have been aggregated into one reporting segment for financial statement purposes. Operations of the Wyatt business are part of the Waters operating segment. Following the closing of the BDS Business Acquisition in February 2026, the Company has reorganized the existing and new business units into the following four segments: Waters Analytical Sciences, Waters Biosciences, Waters Advanced Diagnostics and Waters Materials Sciences. The Company will evaluate its business activities as currently organized to determine its operating segments and reporting segments for future reporting periods. Information concerning revenues and long-lived assets attributable to each of the Company s products, services and geographic areas is set forth in Note 17 in the Notes to the Consolidated Financial Statements, which is incorporated herein by reference. Waters Products and Markets High-Performance and Ultra-Performance Liquid Chromatography HPLC is a standard technique used to identify and analyze the constituent components of a variety of chemicals and other materials. The Company believes that HPLC s performance capabilities enable it to separate, identify 
+2 
+Table of Contents 
+and quantify a high proportion of all known chemicals. As a result, HPLC is used to analyze substances in a wide variety of industries for research and development purposes, quality control and process engineering applications. The most significant end-use markets for HPLC are those served by the pharmaceutical and life science industries. In these markets, HPLC is used extensively to understand diseases, identify new drugs, develop manufacturing methods and assure the potency and purity of new pharmaceuticals. HPLC is also used in a variety of other applications, such as analyses of foods and beverages for nutritional labeling and compliance with safety regulations and the testing of water and air purity within the environmental testing industry, as well as applications in other industries, such as chemical and consumer products. Waters also has in-vitro diagnostic labelled products that are used as general-purpose instruments for clinical diagnostic applications, such as newborn screening and therapeutic drug management, in countries where these products are registered. HPLC is also used by universities, research institutions and governmental agencies, such as the United States Food and Drug Administration ( FDA ) and the United States Environmental Protection Agency ( EPA ) and their foreign counterparts that mandate safety and efficacy testing. In 2004, Waters introduced a novel technology that the Company describes as ultra-performance liquid chromatography that utilizes a packing material with small, uniform diameter particles and a specialized instrument, the ACQUITY TM UPLC TM System, to accommodate the increased pressure and narrower chromatographic bands that are generated by these small and tightly packed particles. By using the ACQUITY UPLC System, researchers and analysts are able to achieve more comprehensive chemical separations and faster analysis times in comparison with many analyses previously performed by HPLC. In addition, in using the ACQUITY UPLC System, researchers have the potential to extend the range of applications beyond that of HPLC, enabling them to uncover more levels of scientific information. While offering significant performance advantages, the ACQUITY UPLC System is also compatible with the Company s software products and the general operating protocols of HPLC. For these reasons, the Company s customers and field sales and support organizations are well positioned to utilize this innovative technology and instrument. Waters manufactures LC instruments that are offered in configurations that allow for varying degrees of automation, from component configured systems for academic teaching and research applications to fully automated systems for regulated and high sample throughput testing, and that have a variety of detection technologies, from optical-based ultra-violet absorbance, refractive index and fluorescence detectors to a suite of MS-based detectors, optimized for certain analyses. During the second half of 2023, Waters introduced the DynaPro TM ZetaStar TM instrument through its Wyatt Technology TM portfolio for nanoparticle analysis. The new instrument simultaneously enables dynamic and static light scattering and dynamic and electrophoretic light scattering measurements, all in one device. By combining multiple light scattering techniques and automatically assessing data quality and performing adaptive data capture, the ZetaStar instrument delivers both increased sensitivity and faster measurements to aid the precise development of complex biologics, using extremely low sample volumes. In 2024, the Company introduced HPLC CONNECT software, an all-in-one software platform that enables full digital synchronization between Waters high- and ultra-performance liquid chromatography (HPLC/UPLC) systems and multi-angle light-scattering instruments (MALS) from its Wyatt Technology portfolio. The software delivers ease-of-use, greater efficiency, and higher confidence for scientists performing size exclusion chromatography and MALS (SEC-MALS) analyses for complex and critical biopharmaceutical innovations, including antibody drug conjugates, other complex protein conjugates, and gene therapies. In 2025, Waters integrated the MALS instruments with its Empower Software for improved Biologics quality control and simplified regulatory compliance. Also, in 2025 Waters acquired Halo Labs an innovator of specialized imaging technologies to detect, identify, and count interfering materials (particles) in therapeutic products, such as cell, protein and gene therapies. The addition of the Halo Labs product portfolio compliments and expands our particle analysis capabilities beyond what can be achieved with Wyatt s multi-angle light scattering technology alone. 
+3 
+Table of Contents 
+The primary consumable products for LC instruments are chromatography columns. These columns are packed with separation media used in the LC testing process and are typically replaced at regular intervals. The chromatography column contains one of several types of packing material, typically stationary phase particles made from silica or polymeric resins. As a pressurized sample is introduced to the column inlet and permeates through the packed column, it is separated into its constituent components. The Company s precision chemistry consumable products also include environmental and nutritional safety testing products, including Certified Reference Materials and Proficiency Testing products. Laborato
+
+## GEOGRAPHIC REVENUE
+as newborn screening and therapeutic drug management, in countries where these products are registered. HPLC is also used by universities, research institutions and governmental agencies, such as the United States Food and Drug Administration ( FDA ) and the United States Environmental Protection Agency ( EPA ) and their foreign counterparts that mandate safety and efficacy testing. In 2004, Waters introduced a novel technology that the Company describes as ultra-performance liquid chromatography that utilizes a packing material with small, uniform diameter particles and a specialized instrument, the ACQUITY TM UPLC TM System, to accommodate the increased pressure and narrower chromatographic bands that are generated by these small and tightly packed particles. By using the ACQUITY UPLC System, researchers and analysts are able to achieve more comprehensive chemical separations and faster analysis times in comparison with many analyses previously performed by HPLC. In addition, in using the ACQUITY UPLC System, researchers have the potential to extend the range of applications beyond that of HPLC, enabling them to uncover more levels of scientific information. While offering significant performance advantages, the ACQUITY UPLC System is also compatible with the Company s software products and the general operating protocols of HPLC. For these reasons, the Company s customers and field sales and support organizations are well positioned to utilize this innovative technology and instrument. Waters manufactures LC instruments that are offered in configurations that allow for varying degrees of automation, from component configured systems for academic teaching and research applications to fully automated systems for regulated and high sample throughput testing, and that have a variety of detection technologies, from optical-based ultra-violet absorbance, refractive index and fluorescence detectors to a suite of MS-based detectors, optimized for certain analyses. During the second half of 2023, Waters introduced the DynaPro TM ZetaStar TM instrument through its Wyatt Technology TM portfolio for nanoparticle analysis. The new instrument simultaneously enables dynamic
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer for a material portion of its sales. During fiscal years 2025, 2024 and 2023, no single customer accounted for more than 2% of the Company s net sales. Sales and Service The Company has one of the largest direct sales and service organizations focused exclusively on the analytical workflows offered by the Company. Across these product technologies, using respective specialized sales and service workforces, the Company serves its customer base with 82 sales offices throughout the world as of December 31, 2025 and approximately 4,300, 4,200 and 4,300 field representatives in 2025, 2024 and 2023, respectively. This investment in sales and service personnel serves to maintain and expand the Company s installed base of instruments. The Company s sales representatives have direct responsibility for account relationships, while service representatives work in the field to install instruments, train customers and minimize instrument downtime. In-house and field-based technical support representatives work directly with customers, providing them assistance with applications and procedures on Company products. The Company provides customers with comprehensive information through various corporate and geographic-specific internet websites and product literature and also makes consumable products available through electronic ordering facilities and a dedicated catalog. Manufacturing and Distribution The Company provides high product quality by overseeing each stage of the production of its instruments, columns and chemical reagents. 
+9 
+Table of Contents 
+The Company currently assembles a portion of its LC instruments at its facility in Milford, Massachusetts, where it performs machining, assembly and testing. The Milford facility maintains quality management and environmental management systems in accordance with the requirements of ISO 9001:2015, ISO 13485:2016, ISO 45001:2018 and ISO 14001:2015, and adheres to applicable regulatory requirements (including the
+
+---
+Doc size: 2048KB (capped at 2MB)

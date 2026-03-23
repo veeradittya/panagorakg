@@ -1,0 +1,107 @@
+# MARTIN MARIETTA MATLS INC — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 916076
+# SIC: Mining & Quarrying of  Nonmetallic Minerals (No Fuels)
+# Source: https://www.sec.gov/Archives/edgar/data/916076/000119312526059193/mlm-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+BUSINESS 
+1
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+14 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+27 
+ITEM 1C. 
+CYBERSECURITY 
+28 
+ITEM 2. 
+PROPERTIES 
+29 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+33 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+33 
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS 
+33 
+PART II 
+34 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+34 
+ITEM 6. 
+RESERVED 
+35 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+36 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+65 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+66 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+109 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+109 
+ITEM 9B. 
+OTHER INFORMATION 
+110 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+110 
+PART III 
+111 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+111 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+111 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+111 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+111 
+ITEM 14. 
+PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+111 
+PART IV 
+112 
+ITEM 15. 
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+112 
+ITEM 16. 
+FORM 10-K SUMMARY 
+118 
+SIGNATURES 
+119 
+Part I Item 1 Business 
+PAR T I ITEM 1 BUSINESS General Martin Marietta Materials, Inc. (the Company or Martin Marietta) is a leading natural resource-based building materials company. The Company supplies aggregates (crushed stone, sand and gravel) through its network of approximately 400 quarries, mines and distribution yards in 28 states, Canada and The Bahamas. In 2025, aggregates generated 88% of the Company s total reportable segment gross profit. As of December 31, 2025, Martin Marietta also provides other building materials, namely, cement, ready mixed concrete, asphalt and paving services in targeted markets where the Company has a notable aggregates position. The Company s heavy-side building materials are used in infrastructure, nonresidential and residential construction projects. Aggregates are also used in agricultural, utility and environmental applications and as railroad ballast. The aggregates, cement, ready mixed concrete, asphalt and paving operations are reported collectively as the Building Materials business . The Company also operates a Specialties business (formerly known as the Magnesia Specialties business) with production facilities located in Michigan, Ohio, Nevada, North Carolina, Indiana and Pennsylvania. The Specialties business produces high-purity natural and synthetic magnesia-based products, including magnesium sulfate, magnesium oxide and magnesium hydroxide, that are used in environmental, industrial, agricultural, construction, consumer and specialty applications. The Specialties business also produces dolomitic lime, which is sold primarily to external customers for use in steel production and soil stabilization, and is also used internally as a raw material input in synthetic magnesia production. Specialties products are shipped to customers domestically and worldwide. The Company was formed in 1993 as a North Carolina corporation to succeed the operations of the materials group of the organization that is now known as Lockheed Martin Corporation. An initial public offering of a portion of the Company s common stock was completed in 1994, followed in 1996 by a tax-free exchange transaction resulting in all of the Company s common stock becoming publicly traded. Since its initial public offering, the Company has completed over 100 acquisitions, as well as a number of strategic dispositions, strengthening and expanding its aggregates-led presence in the building materials marketplace. On January 12, 2024, the Company acquired Albert Frei & Sons, Inc., a leading aggregates producer in Colorado. This acquisition added more than 60 years (at current production levels) of high-quality, hard rock reserves, strengthening the Company's aggregates platform in the Denver metropolitan area and improving service to new and existing customers. On February 9, 2024, the Company completed the sale of its South Texas cement business and certain of its related ready mixed concrete operations to CRH Americas Materials, Inc., a subsidiary of CRH plc, for $2.1 billion in cash. The divested facilities included the Hunter cement plant in New Braunfels, Texas, related cement distribution terminals and 20 ready mixed concrete plants serving the Austin and San Antonio region. This divestiture optimized the Company's portfolio and product mix and provided proceeds that were used to consummate the Blue Water Industries LLC acquisition discussed below. The transaction resulted in a pretax gain of $1.3 billion. The historical financial results of the divested operations and the gain on divestiture were reported in continuing operations for the West Group. On April 5, 2024, the Company completed the acquisition of 20 active aggregates operations in Alabama, South Carolina, South Florida, Tennessee and Virginia from affiliates of Blue Water Industries LLC (BWI Southeast) for $2.05 billion in cash. The BWI Southeast acquisition complemented Martin Marietta s existing geographic footprint in the southeast region by expanding into new growth platforms in target markets, including Tennessee and South Florida. During October 2024, the Company acquired pure aggregates assets in South Florida and Southern California. In December 2024, the Company completed an aggregates-led, bolt-on acquisition in West Texas. On July 25, 2025, the Company acquired Premier Magnesia, LLC (Premier), a privately-owned producer and distributor of magnesia-based products. Premier is the largest producer of natural magnesite and magnesium sulfate, or Epsom salt, in the United States, with facilities in Nevada, North Carolina, Indiana and Pennsylvania. This transaction expanded the Company's product portfolio and enhanced its domestic magnesia mineral reserves and chemical processing capabilities. On August 3, 2025, the Company entered into a definitive agreement with Quikrete Holdings, Inc. (QUIKRETE) for the exchange of certain assets. Under the terms of the agreement, Martin Marietta would receive aggregates facilities producing 
+Form 10-K Page 1 
+Part I Item 1 Business 
+approximately 20 million tons annually across Virginia, Missouri, Kansas and Vancouver, British Columbia, and cash proceeds. In exchange, QUIKRETE would receive the Company s Midlothian cement plant, related cement distribution terminals, Texas ready mixed concrete assets and certain nonoperating land. The aggregates facilities to be acquired will complement Martin Marietta s existing geographic footprint in its Central Division and establish new growth platforms in key target markets, including Virginia and the Pacific Northwest. The divesture of its sole cement business and remaining Texas ready mixed concrete operations will optimize the Company's portfolio and product mix and preserve balance sheet capacity to pursue pure-play aggregates opportunities. The Company s Midlothian cement plant, related cement distribution terminals and Texas ready mixed concrete plants, which are reported in the West Group, meet the criteria for classification as held for sale and their associated financial results qualify as discontinued operations. Accordingly, the Company has recast historical financial information, unless otherwise noted, to reflect this classification for all periods presented. On December 19, 2025, the Company completed an aggregates-led, bolt-on acquisition in Minnesota. Business Segment Information The Company conducts its Building Materials business for continuing operations through two reportable segments, organized by geography: the East Group and the West Group. The East Group provides aggregates and asphalt products. The West Group provides aggregates, ready mixed concrete, asphalt and paving services. The Company s Specialties business is reported as a separate segment and includes its magnesia-based products and dolomitic lime businesses. For more information on the organization and geographic areas of the Company s business segments, see Note A: Accounting Policies and Note O: Segments of the Notes to Financial Statements of the Company s consolidated financial statements, which appear in Item 8, Financial Statements and Supplementary Data of this Annual Report on Form 10-K (this Form 10-K), all of which are incorporated by reference. Building Materials Business The profitability of the Building Materials business, which serves customers in the construction marketplace, is sensitive to national, regional and local economic conditions and construction cyclicality, which are in turn affected by fluctuations in public-sector infrastructure funding; interest rates; access to capital markets; and demographic, geographic, employment and population dynamics. The heavy-side construction business is conducted outdoors, as are a significant portion of the Building Materials business operations. Therefore, weather patterns, seasonal changes and other climate-related conditions, including precipitation, flooding, hurricanes, snowstorms, extreme hot and cold temperatures, wildfires, earthquakes and droughts, can significantly affect production schedules, shipments, costs, efficiencies and profitability. Generally, the financial results for the first and fourth quarters are subject to the impacts of winter weather, while the second and third quarters are subject to the impacts of heavy precipitation and excessive heat. The Building Materials business markets its products primarily to the construction industry, with 37% of its 2025 aggregates shipments sold to customers for use in highway and other public infrastructure projects and the balance of its shipments sold primarily to customers for nonresidential and residential construction projects. The Company believes the business mix of public sector-related shipments lessens the impacts of fluctuations in nonresidential and residential, or private-sector, construction spending. Funding of public infrastructure, historically the Company s largest end-use market, is discussed in greater detail under Building Materials Business Key Considerations Public Infrastructure in Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations of this Form 10-K. The Building Materials business covers a wide geographic area. The ten-largest revenue-generating states (Texas, North Carolina, Colorado, California, Georgia, Florida, South Carolina, Arizona, Iowa and Minnesota) accounted for 76% of the Building Materials business revenues from continuing operations in 2025. The Building Materials business is accordingly affected from time to time by the economies in these regions and has been adversely affected in part by episodic recessions and weaknesses in these economies and may be affected by future economic downturns, recessions or inflationary conditions. Aggregates Aggregates, consisting of crushed stone, sand and gravel, are an engineered, granular material manufactured to specific sizes, grades and chemistry for use primarily in construction applications. The Company s operations consist primarily of open pit quarries; however, the Company is the largest operator of underground aggregates mines in the United States, with 13 active underground mines located in the East Group. 
+Form 10-K Page 2 
+Part I Item 1 Business 
+Natural aggregates sources can be found in relatively homogeneous deposits in certain areas of the United States. Proximity of quarry facilities to customers plants, construction sites or long-haul transportation corridors is an important factor in competition for the sale of aggregates products. Generally, the distance shipments travel by truck from a given quarry is limited because the cost of transporting processed aggregates to customers is high relative to the price of the product itself. The Company s distribution system mainly uses trucks, but also has access to rail and waterborne networks where the per-mile unit costs of transporting aggregates are lower. The Company s distribution network moves aggregates materials from certain domestic and offshore sources via its long-haul rail and waterborne distribution network to markets where aggregates supply is limited due to geological constraints. The Company s rail network primarily serves its Texas, Southeast and Gulf Coast markets, while the Company s locations in The Bahamas and Nova Scotia transport materials via oceangoing ships to primarily serve the East Coast and Gulf Coast markets. The Company s strategic focus includes acquiring distribution facilities and port locations to offload and sell transported material. As of December 31, 2025, the Company s aggregates distribution facilities consisted of 89 distribution yards. The Company s rail-based distribution network, coupled with the extensive use of rail service, increases the Company s dependence on and exposure to railroad performance, including track congestion, crew availability, railcar availability, locomotive availability and the ability to negotiate favorable railroad shipping contracts. The waterborne distribution network also increases the Company s exposure to certain risks, including, among other items, meeting minimum tonnage requirements of shipping contracts, demurrage costs, fuel costs, ship availability and weather disruptions. The Company has agreements with shipping companies to provide vessels to transport its aggregates to various coastal ports. The Company generally acquires contiguous property around existing quarry locations. Such parcels can serve as buffer property or additional mineral reserves, assuming the underlying geology supports economical aggregates mining. In either instance, the acquisition of additional property around an existing quarry typically allows the expansion of the quarry footprint and extension of quarry life. Some locations having limited reserves may be unable to expand. Due to the nature of the indigenous aggregates supply in the midwestern United States, a long-term capital focus for the Company is underground limestone aggregates mines. Production costs are generally higher at underground mines than surface quarries because the depth of the aggregates deposits and the access to the reserves result in higher costs related to development, explosives and depreciation costs. However, these locations often possess marketplace transportation advantages that can lead to higher average selling prices than more distant surface quarries. The construction aggregates industry has been consolidating, and the Company has actively participated in the industry s consolidation. The Company s Board of Directors and management continue to review and monitor the Company s long-
+
+## GEOGRAPHIC REVENUE
+ructureMember us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember 2025-12-31 0000916076 us-gaap:DefinedBenefitPlanEquitySecuritiesUsMidCapMember 2024-12-31 0000916076 us-gaap:GeographicDistributionDomesticMember 2025-01-01 2025-12-31 0000916076 us-gaap:DebtSecuritiesMember 2024-12-31 0000916076 mlm:WestGroupMember 2023-01-01 2023-12-31 0000916076 mlm:BlueWaterIndustriesLlcMember 2024-04-05 2024-04-05 0000916076 2025-06-30 0000916076 mlm:RestrictedStockPerformanceBasedMember 2024-01-01 2024-12-31 0000916076 us-gaap:GeographicDistributionDomesticMember 2024-01-01 2024-12-31 0000916076 us-gaap:StateAndLocalJurisdictionMember 2024-12-31 0000916076 us-gaap:CashEquivalentsMember us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember 2025-12-31 0000916076 us-gaap:CommonStockMember 2023-12-31 0000916076 us-gaap:DiscontinuedOperationsHeldforsaleMember 2024-12-31 0000916076 us-gaap:LandMember 2023-01-01 2023-12-31 0000916076 mlm:OtherStatesMember 2023-01-01 2023-12-31 0000916076 us-gaap:AccumulatedTranslationAdjustmentMember 2023-01-01 2023-12-31 0000916076 us-gaap:ParentMember 2024-12-31 0000916076 mlm:OperatingPermitsMember mlm:BuildingMaterialsBusinessMember 2024-12-31 0000916076 us-gaap:OtherNonoperatingIncomeExpenseMember 2025-01-01 2025-12-31 0000916076 us-gaap:RenewableEnergyProgramMember 2024-01-01 2024-12-31 0000916076 2024-02-09 2024-02-09 0000916076 mlm:InventoryFinishedGoodsMember srt:WeightedAverageMember 2025-01-01 2025-12-31 0000916076 us-gaap:RetainedEarningsMember 2025-01-01 2025-12-31 0000916076 2025-04-01 2025-06-30 0000916076 mlm:IncentiveStockMember 2024-12-31 0000916076 mlm:FivePointFiveZeroZeroPercentSeniorNotesDueTwentyFiftyFourMember 2024-11-04 0000916076 us-gaap:CorporateNonSegmentMember 2024-12-31 0000916076 us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember 2024-12-31 0000916076 us-gaap:MachineryAndEquipmentMember srt:MaximumMember 2025-12-31 0000916076 us-gaap:LandAndLandImprovementsMember 2025-12-31 0000916076 us-gaap:AdditionalPaidInCapitalMember 2025-12-31 0000916076 us-gaap:AccumulatedTranslationAdjustmentMember 2022-12-31 0000916076 us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedD
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer or upon a few customers. The loss of any single customer would not have a material adverse effect on the Company. Competition The nature of the Company s competition varies among its products due to the widely differing amounts of capital necessary to build and maintain production facilities. Crushed stone production from quarries or mines and sand and gravel production by dredging or otherwise are moderately capital intensive. Producing ready mixed concrete involves relatively low capital investment to build a concrete batching plant and acquire delivery trucks. Accordingly, certain market dynamics result in lower barriers to entry in some concrete markets. As a result, depending on the local market, the Company may face competition from small producers as well as large, vertically-integrated companies with facilities in many markets. The Company operates in a highly fragmented industry, including large, public companies and a significant number of small privately-held companies. In 2025, other publicly traded companies among the ten-largest U.S. aggregates producers included the following: Amrize Ltd. Arcosa, Inc. CEMEX S.A.B. de C.V. CRH plc Heidelberg Materials AG Holcim Ltd. Knife River Corporation Vulcan Materials Company Due to the localized nature of the industry resulting from the high cost of transportation relative to the price of the product, the Building Materials business primarily operates in smaller, distinct geographic areas with varying market characteristics. The Company believes that its ability to transport materials by rail and waterborne vessels has enhanced its competitive position in the building materials industry. 
+Form 10-K Page 5 
+Part I Item 1 Business 
+The Specialties business competes with various companies across different geographic and product areas principally on the basis of quality, price, technological advances and technical support for its products. While the revenues of the Specialties business in 2025 were pr
+
+---
+Doc size: 2048KB (capped at 2MB)

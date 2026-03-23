@@ -1,0 +1,227 @@
+# SENSIENT TECHNOLOGIES CORP — 10-K Annual Report
+# Filed: 2026-02-13
+# CIK: 310142
+# SIC: Industrial Organic Chemicals
+# Source: https://www.sec.gov/Archives/edgar/data/310142/000114036126005311/ef20060630_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. Business 
+5 
+General 
+5 
+Description of Business 
+5 
+Acquisition 
+5 
+Flavors & Extracts Group 
+6 
+Color Group 
+6 
+Asia Pacific Group 
+7 
+Corporate 
+7 
+Research and Development/Quality Assurance 
+7 
+Products and Application Activities 
+7 
+Raw Materials 
+8 
+Competition 
+8 
+Foreign Operations 
+8 
+Patents, Formulae, and Trademarks 
+9 
+Human Capital 
+9 
+Food Safety 
+10 
+Regulation 
+10
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+10 
+Item 1B. Unresolved Staff Comments 
+19 
+Item 1C. Cybersecurity 
+19 
+Item 2. Properties 
+21 
+Item 3. Legal Proceedings 
+21 
+Item 4. Mine Safety Disclosure 
+21 
+Information About Our Executive Officers 
+22 
+PART II 
+23 
+Item 5. Market for the Registrant s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities 
+23 
+Item 6. [Reserved] 
+23 
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+24 
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk 
+30 
+Item 8. Financial Statements and Supplementary Data 
+31 
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+57 
+Item 9A. Controls and Procedures 
+57 
+Item 9B. Other Information 
+59 
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+59 
+PART III 
+60 
+Item 10. Directors, Executive Officers of the Registrant, and Corporate Governance 
+60 
+Item 11. Executive Compensation 
+60 
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+60 
+Item 13. Certain Relationships and Related Transactions and Director Independence 
+60 
+Item 14. Principal Accountant Fees and Services 
+60 
+PART IV 
+61 
+Item 15. Exhibits and Financial Statement Schedules 
+61 
+List of Financial Statements and Financial Statement Schedule 
+61 
+Financial Statement Schedule 
+67 
+Schedule II Valuation and Qualifying Accounts 
+67 
+Item 16. Form 10-K Summary 
+67 
+EXHIBIT INDEX 
+61 
+SIGNATURES 
+68 
+3 
+FORWARD-LOOKING STATEMENTS 
+This report contains forward-looking statements that reflect management s current assumptions and estimates of future economic circumstances, industry conditions, Company performance, and financial results.
+Forward-looking statements include statements in the future tense, statements referring to any period after December 31, 2025, and statements including the terms expect, believe, anticipate, and other similar terms that express
+expectations as to future events or conditions. The Private Securities Litigation Reform Act of 1995 provides a safe harbor for such forward-looking statements. Such forward-looking statements are not guarantees of future performance and
+involve known and unknown risks, uncertainties, and other factors that could cause actual events to differ materially from those expressed in the forward-looking statements. A variety of factors could cause the Company s actual results and
+experience to differ materially from the anticipated results. These factors and assumptions include, among others, the Company s ability to manage general business, economic, and capital market conditions, including actions taken by
+customers in response to such market conditions, and the impact of recessions and economic downturns; the impact of macroeconomic and geopolitical volatility, including inflation and shortages impacting the availability and cost of raw materials,
+energy, and other supplies, disruptions and delays in the Company s supply chain, and the conflicts between Russia and Ukraine and in the Middle East; industry, regulatory, legal, and economic factors related to the Company s domestic and
+international business; the effects of tariffs, trade barriers, and disputes; the availability and cost of labor, logistics, and transportation; the pace and nature of new product introductions by the Company and the Company s customers; the
+Company s ability to anticipate and respond to changing consumer preferences, changing technologies, and changing regulations; the Company s ability to successfully implement its growth strategies; the outcome of the Company s various
+productivity-improvement and cost-reduction efforts, acquisition and divestiture activities, and Portfolio Optimization Plan; growth in markets for products in which the Company competes; industry and customer acceptance of price increases;
+actions by competitors; the Company s ability to enhance its innovation efforts and drive cost efficiencies; currency exchange rate fluctuations; and the matters discussed below under the heading Risk Factors and
+under Part II, including the critical accounting estimates set forth under the heading CRITICAL ACCOUNTING ESTIMATES within Management s Discussion and Analysis of Financial Condition and Results of Operations. Except to the extent required
+by applicable law, the Company does not undertake to publicly update or revise its forward-looking statements even if experience or future changes make it clear that any projected results expressed or implied herein will not be realized. 
+NON-GAAP FINANCIAL MEASURES 
+Within this document, the Company reports certain non-GAAP financial measures, including: (1) adjusted operating income, adjusted net earnings, and adjusted diluted earnings per share (which exclude restructuring and
+other costs, including the Portfolio Optimization Plan costs), (2) percentage changes in revenue, operating income, and diluted earnings per share on an adjusted local currency basis (which eliminate the effects that result from translating its
+international operations into U.S. dollars and restructuring and other costs, including the Portfolio Optimization Plan costs), and (3) adjusted EBITDA (which excludes restructuring and other costs, including the Portfolio Optimization Plan
+costs, and non-cash share based compensation expense). The Company has included each of these non-GAAP measures in order to provide additional information regarding our underlying operating results and comparable year-over-year performance. Such
+information is supplemental to information presented in accordance with GAAP and is not intended to represent a presentation in accordance with GAAP. These non-GAAP measures should not be considered in isolation. Rather, they should be considered
+together with GAAP measures and the rest of the information included in this report. Management internally reviews each of these non-GAAP measures to evaluate performance on a comparative period-to-period basis and to gain additional insight into
+underlying operating and performance trends. The Company believes this information can be beneficial to investors for these same purposes. These non-GAAP measures may not be comparable to similarly titled measures used by other companies. 
+Additional information related to the Company s use of non-GAAP financial measures and restructuring and other costs, including the Portfolio Optimization Plan costs, that have been excluded from the non-GAAP financial
+measures, and reconciliations of non-GAAP financial measures to the most comparable GAAP financial measures are available below in Item 7 under the section titled NON-GAAP FINANCIAL MEASURES. 
+4 
+Index 
+PART I 
+Item 1. 
+Business. 
+General 
+Sensient Technologies Corporation (the Company) was incorporated under the laws of the State of Wisconsin in 1882. Its principal executive offices are located at 777 East Wisconsin Avenue, Suite 1100, Milwaukee,
+Wisconsin 53202-5304, telephone (414) 271-6755. 
+The Company is subject to the informational and reporting requirements of the Securities Exchange Act of 1934, as amended (the Exchange Act). In accordance with the Exchange Act, the Company files annual, quarterly and
+current reports, proxy statements, and other information with the Securities and Exchange Commission (the Commission). These reports and other information may be accessed from the website maintained by the Commission at https://www.sec.gov. 
+The Company can also be reached at its website at www.sensient.com. The Company s web address is provided as an inactive textual reference only, and the contents of that website are not incorporated in or otherwise to
+be regarded as part of this report. The Company makes available free of charge on its website its proxy statement, its annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to these reports filed
+or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after such documents are electronically filed with or furnished to the Commission. Charters for the Audit, Compensation and Development,
+Nominating and Corporate Governance, and Executive Committees of the Company s Board of Directors, as well as the Company s Code of Conduct, Corporate Governance Guidelines, Policy Relating to Recovery of Erroneously Awarded Compensation, and
+Non-Employee Directors and Executive Officers Stock Ownership Guidelines are available on the Company s website. These documents are also available in print to any shareholder, free of charge, upon request. If there are any amendments to the Code
+of Conduct, or if waivers from it are granted for executive officers or directors, those amendments or waivers also will be posted on the Company s website. 
+Description of Business 
+The Company is a leading global manufacturer and marketer of colors, flavors, and other specialty ingredients. The Company uses advanced technologies and robust global supply chain capabilities to develop specialized
+solutions for food and beverages, as well as products that serve the pharmaceutical, nutraceutical, and personal care industries. The Company s customers range in size from small entrepreneurial businesses to major international manufacturers
+representing some of the world s best-known brands. 
+The Company s principal products include: 
+flavors, flavor enhancers, ingredients, extracts, bionutrients, and essential oils; 
+dehydrated vegetables and other food ingredients; 
+natural and synthetic food and beverage colors; 
+personal care colors and ingredients; 
+pharmaceutical and nutraceutical colors, excipients, and ingredients; and 
+technical colors, specialty colors, and specialty dyes and pigments. 
+For 2025, the Company s three reportable segments were the Flavors & Extracts Group and the Color Group, which are managed on a product line basis, and the Asia Pacific Group, which is managed on a geographic
+basis. The Company s corporate expenses, share-based compensation (except for share-based compensation expense associated with stock grants to certain business unit leaders) , restructuring and other
+charges, including the Portfolio Optimization Plan costs, and certain other costs are included in the Corporate & Other category as described in this report. Financial information regarding the Company s three reportable segments and the
+operations included within Corporate & Other is set forth in Note 12, Segment and Geographic Information , in the Notes to Consolidated Financial
+Statements included in this report. 
+Acquisition 
+On February 14, 2025, the Company acquired Biolie SAS , a natural color extraction business located in France. The Company paid $4.9 million in cash for this acquisition, which is net of $0.2 million in
+debt assumed. The assets acquired and liabilities assumed were recorded at their estimated fair value as of the acquisition date. The Company acquired net assets of $0.3 million, with the remaining $4.6 million allocated to goodwill. This
+business is part of the Color segment. 
+5 
+Index 
+Flavors & Extracts Group 
+The Company is a global developer, manufacturer, and supplier of flavor systems for the food, beverage, and personal care industries. The Company s flavor formulations are used in many of the world s best-known consumer
+products. Under the unified brand names of Sensient Flavors and Sensient Agricultural Ingredients, the Group is a supplier to multinational and regional companies. During 2025, the Company changed the name of its Sensient Natural Ingredients
+product line to Sensient Agricultural Ingredients to clearly distinguish it from the natural color activities within the Food & Pharmaceutical Colors product line within the Color Group. 
+The Flavors & Extracts Group produces flavor, extract, and essential oil products that impart a desired taste, texture, aroma, or other characteristics to a broad range of consumer and other products. This Group
+includes the Company s Agricultural Ingredients business, which produces dehydrated garlic, onion, and other agricultural ingredients for food processors. The main products of the Group are systems products, including flavor-delivery systems,
+taste modulation systems, and compounded and blended products. In addition, the Group has strong positions in selected ingredient products such as natural and synthetic flavors, natural extracts, and essential oils. The Group serves food and
+non-food industries. In food industries, markets include savory, beverage, and sweet flavors, as well as certain bioingredients. In non-food industries, the Group supplies essential oil products to the personal, homecare, and bioingredients
+markets. 
+Operating through its Agricultural Ingredients business, the Company believes it is the second largest producer (by sales) of dehydrated onion and garlic products in the United States. The Company is also one of the
+largest producers and distributors of chili powder, paprika, chili pepper, and parsley. The Company sells dehydrated products to food manufacturers for use as ingredients and also for repackaging under private labels for sale to the retail
+market, quick service restaurants, and to the food service industry. The dehydration technologies utilized by our Agricultural Ingredients business permit fast and effective rehydration of ingredients used in many of today s popular convenience
+foods. 
+As of December 31, 2025, the Group s principal manufacturing plants are located in California, Illinois, Michigan, Wisconsin, New Mexico, Belgium, Costa Rica, Mexico, Germany, and the United Kingdom. 
+Color Group 
+The Company is a developer, manufacturer, and supplier of colors for businesses worldwide. The Company provides natural and synthetic color systems for use in foods, beverages, pharmaceuticals, and nutraceuticals;
+colors and other ingredients such as active ingredients, solubilizers, and surface treated pigments for personal care; pharmaceutical and nutraceutical excipients, such as colors, flavors, and coatings; and technical colors for industrial
+applications. 
+The Company believes that it is one of the world s largest producers (by sales) of natural and synthetic colors, and that it is the world s largest manufacturer (by sales) of certified food colors. The Company sells its
+natural and synthetic colors to domestic and international producers of beverages, bakery products, processed foods, confections, pet foods, personal care, pharmaceuticals, and nutraceuticals. The Company also makes industrial colors and other
+dyes and pigments used in a variety of non-food applications. 
+As of December 31, 2025, the Group s principal manufacturing plants are located in Missouri, Brazil, Canada, China, France, Germany, Italy, Mexico, Peru, Turkey, and the United Kingdom. 
+The Color Group operates under the following trade names: 
+Sensient Food Colors (food and beverage colors); 
+Sensient Pharmac
+
+## GEOGRAPHIC REVENUE
+and bioingredients
+markets. 
+Operating through its Agricultural Ingredients business, the Company believes it is the second largest producer (by sales) of dehydrated onion and garlic products in the United States. The Company is also one of the
+largest producers and distributors of chili powder, paprika, chili pepper, and parsley. The Company sells dehydrated products to food manufacturers for use as ingredients and also for repackaging under private labels for sale to the retail
+market, quick service restaurants, and to the food service industry. The dehydration technologies utilized by our Agricultural Ingredients business permit fast and effective rehydration of ingredients used in many of today s popular convenience
+foods. 
+As of December 31, 2025, the Group s principal manufacturing plants are located in California, Illinois, Michigan, Wisconsin, New Mexico, Belgium, Costa Rica, Mexico, Germany, and the United Kingdom. 
+Color Group 
+The Company is a developer, manufacturer, and supplier of colors for businesses worldwide. The Company provides natural and synthetic color systems for use in foods, beverages, pharmaceuticals, and nutraceuticals;
+colors and other ingredients such as active ingredients, solubilizers, and surface treated pigments for personal care; pharmaceutical and nutraceutical excipients, such as colors, flavors, and coatings; and technical colors for industrial
+applications. 
+The Company believes that it is one of the world s largest producers (by sales) of natural and synthetic colors, and that it is the world s largest manufacturer (by sales) of certified food colors. The Company sells its
+natural and synthetic colors to domestic and international producers of beverages, bakery products, processed foods, confections, pet foods, personal care, pharmaceuticals, and nutraceuticals. The Company also makes industrial colors and other
+dyes and pigments used in a variety of non-food applications. 
+As of December 31, 2025, the Group s principal manufacturing plants are located in Missouri, Brazil, Canada, China, France, Germany, Italy, Mexico, Peru, Turkey, and the United Kingdom. 
+The Color Group operates under the following trade names: 
+Sensie
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer for a particular product line could substantially affect the sales and profitability of that line or the business unit that sells that product line, which may cause us to re-evaluate that line. Those developments could
+negatively affect our results. 
+The impact of tariffs and other trade barriers may negatively affect our results. 
+The Company has manufacturing facilities located around the world. The Company sells to customers located both inside and outside the countries in which products are manufactured. The Company also depends upon suppliers both inside and outside
+the countries in which products are manufactured. Tariffs and other trade barriers imposed by the U.S. or other countries have affected and could continue to adversely affect our manufacturing costs, our ability to source and import raw
+materials, our ability to export our products to other markets, and our ability to compete successfully against other companies that are not impacted by tariffs to the same extent as the Company. Additionally, the uncertainties created by tariffs
+and other trade barriers have also affected and could continue to affect our customers demand for our products because, for example, the customers decide to delay product launches or destock inventory due to these uncertainties. It is difficult
+to predict the effects of current or future tariffs and other trade barriers and disputes, and the Company s efforts to reduce the effects of tariffs through pricing and other measures may not be effective. We have generally taken pricing actions
+in response to the tariffs imposed by the Trump administration. The legality of such tariffs is currently in question and if it is ultimately determined that the tariffs need to be refunded, our customers may request some form of compensation for
+the tariff costs that were passed onto them. The magnitude and timing of repayment of any such amounts could adversely affect our results . Tariffs and turmoil in international t
+
+---
+Doc size: 2048KB (capped at 2MB)

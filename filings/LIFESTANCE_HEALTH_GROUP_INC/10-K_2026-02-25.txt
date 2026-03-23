@@ -1,0 +1,103 @@
+# LIFESTANCE HEALTH GROUP INC — 10-K Annual Report
+# Filed: 2026-02-25
+# CIK: 1845257
+# SIC: Services-Health Services
+# Source: https://www.sec.gov/Archives/edgar/data/1845257/000119312526071462/lfst-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+13 
+Item 1B. 
+Unresolved Staff Comments 
+36 
+Item 1C. 
+Cybersecurity 
+37 
+Item 2. 
+Properties 
+37 
+Item 3. 
+Legal Proceedings 
+37 
+Item 4. 
+Mine Safety Disclosures 
+37 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+38 
+Item 6. 
+[Reserved] 
+39 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+40 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+51 
+Item 8. 
+Financial Statements and Supplementary Data 
+52 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+52 
+Item 9A. 
+Controls and Procedures 
+52 
+Item 9B. 
+Other Information 
+54 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+55 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+56 
+Item 11. 
+Executive Compensation 
+56 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+56 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+56 
+Item 14. 
+Principal Accounting Fees and Services 
+56 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+57 
+Item 16. 
+Form 10-K Summary 
+59 
+Signatures 
+60 
+Index to the Consolidated Financial Statements 
+F- 1 
+i 
+Cautionary Note Regarding Forward-Looking Statements This Annual Report on Form 10-K contains forward-looking statements. Forward-looking statements are neither historical facts nor assurances of future performance. Instead, they are based on our current beliefs, expectations and assumptions regarding the future of our business, future plans and strategies, and other future conditions. Forward-looking statements can be identified by words such as anticipate, believe, envision, estimate, expect, intend, may, plan, predict, project, target, potential, will, would, could, should, continue, contemplate and other similar expressions, although not all forward-looking statements contain these identifying words. For example, all statements we make relating to: our ability to grow our business, expand access to our patients and our payors and invest in our platform; our plan to partner with additional hospital systems, large primary care groups and other specialist groups; our expectation that we will continue to open new centers and acquire new centers; our growth rates and financial results; our plans and objectives for future operations, growth or initiatives and strategies; and our expected market opportunity are forward-looking statements. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements we make. We have based these forward-looking statements largely on our current expectations and projections about future events and trends that we believe may affect our financial condition, results of operations, business strategy and financial needs. These forward-looking statements are subject to a number of risks, uncertainties, factors and assumptions described in Part I, Item 1A, Risk Factors and elsewhere in this Annual Report on Form 10-K. The forward-looking statements in this Annual Report on Form 10-K represent our views as of the date of this report. We undertake no obligation to publicly update any forward-looking statements whether as a result of new information, future developments or otherwise, except as required by law. Channels of Disclosure of Information We announce material information to the public through filings with the SEC, the investor relations page on our website, www.lifestance.com, press releases, public conference calls and public webcasts. The information disclosed by the foregoing channels could be deemed to be material information. As such, we encourage investors, the media and others to follow the channels listed above and to review the information disclosed through such channels. Any updates to the list of disclosure channels through which we will announce information will be posted on the investor relations page on our website. 
+ii 
+Risk Factors Summary An investment in our common stock involves risks. You should consider carefully the following risks, which are discussed more fully in "Item 1A. Risk Factors", and all of the other information contained in this Annual Report on Form 10-K before investing in our common stock. These risks include, but are not limited to, the following: if reimbursement rates paid by third-party payors are reduced or if third-party payors otherwise restrain our ability to obtain or deliver care to patients, our business could be materially harmed; we may not grow at the rates we historically have achieved or at all, even if our key metrics may imply future growth, including if we are unable to successfully execute on our growth initiatives and business strategies; if we fail to manage our growth effectively, our expenses could increase more than expected, our revenue may not increase proportionally or at all, and we may be unable to execute on our business strategy; our growth depends on our ability to recruit, acquire and retain clinicians; we operate in a competitive industry, and if we are not able to compete effectively, our business and financial performance would be harmed; our business depends on our ability to effectively invest in, implement improvements to and properly maintain the uninterrupted operation and data integrity of our information technology and other business systems; we conduct business in a heavily regulated industry and if we fail to comply with these laws and government regulations, we could incur penalties or be required to make significant changes to our operations or experience adverse publicity, which could have a material adverse effect on our business, results of operations and financial condition; we are dependent on our relationships with supported practices, which we do not own, to provide healthcare services, and our business would be harmed if those relationships were disrupted or if our arrangements with these entities became subject to legal challenges; if we are unable to adapt to healthcare reform legislation and other changes in the healthcare industry and in healthcare spending, our business could be harmed; if our or our vendors security measures fail or are breached and unauthorized access to our employees , patients or partners data is obtained, our systems may be perceived as insecure, we may incur significant liabilities, including through private litigation or regulatory action, our reputation may be harmed, and we could lose patients and partners; and our existing indebtedness could adversely affect our business and growth prospects. 
+iii 
+PAR T I Item 1 . Business Unless stated otherwise or the context otherwise requires, the terms "we," "us," "our," "our business," "LifeStance" and "our Company" and similar references refer to LifeStance Health Group, Inc. and its consolidated subsidiaries and supported practices. References to "our employees" and "our clinicians" refer collectively to employees and clinicians, respectively, of our subsidiaries and supported practices. References to "our patients" refer to the patients treated by such clinicians. Overview Our vision is a truly healthy society where mental and physical healthcare are unified to make lives better. Our mission is to help people lead healthier, more fulfilling lives by improving access to trusted, affordable and personalized mental healthcare. To fulfill this mission, we have built one of the nation s largest outpatient mental health platforms based on number of clinicians and geographic scale. We are dedicated to improving the lives of our patients by reimagining mental health through a tech-enabled in-person and virtual care delivery model built to expand access and affordability, improve outcomes and lower overall healthcare costs. We combine a personalized, digitally powered patient experience with differentiated, multidisciplinary clinical capabilities and in-network insurance relationships to fundamentally transform patient access to mental health treatment. By revolutionizing the way mental healthcare is delivered, we believe we have an opportunity to improve the lives and health of millions of individuals. We employed 8,040 licensed mental health clinicians through our subsidiaries and supported practices in 33 states as of December 31, 2025. Our clinicians offer patients a comprehensive, multidisciplinary suite of mental health services, spanning psychiatric evaluations and treatment, psychological and neuropsychological testing, and individual, family and group therapy. We treat a broad range of mental health conditions, including anxiety, depression, bipolar disorder, eating disorders, psychotic disorders and post-traumatic stress disorder. Patients can receive care virtually through our online delivery platform or in-person at one of our conveniently located centers. Through our payor relationships, including national agreements with multiple payors, patients can utilize their in-network benefits when they receive care from one of our clinicians, enhancing access and affordability. Mental illness is a large and growing crisis that creates a significant burden on the healthcare ecosystem. Nearly one in four U.S. adults will experience mental illness each year. This disease burden has a broader impact across all of healthcare healthcare costs for individuals with mental health conditions, including depression, have been shown to be approximately three and a half times higher than for people without those conditions. However, there are significant barriers to addressing this crisis: Lack of Access: Despite the large burden of mental illness in the U.S., access to mental health treatment is plagued by significant challenges. In a 2022 study of patients with serious mental illness not receiving care in the prior year, 29% reported that they did not know where to go for services, suggesting issues related to access. Even if patients are able to access a mental health professional, studies show they often face significant wait times. During this time, their underlying physical and mental health issues may worsen, potentially requiring treatment in costlier care settings like hospitals, emergency rooms and inpatient mental facilities. Lack of Affordability : The mental healthcare market remains under-reimbursed by commercial and government insurers, resulting in many clinicians only accepting cash pay for mental health services. The need to pay cash out-of-pocket for treatment reduces the likelihood that patients will receive treatment. In a 2022 study of patients with serious mental illness not receiving care in the prior year, 46% reported that they could not afford the cost of treatment, and an additional 19% reported that their health insurance did not pay enough for mental health services. Lack of Scale and Organization: Outpatient mental health is highly fragmented. We believe that independent clinicians are burdened with significant non-clinical business demands, including marketing, payor contracting, billing and collecting, and other administrative tasks, impeding their ability to focus on their patients care. A corresponding lack of resources to invest in infrastructure and technology exacerbates these burdens, even as growing regulatory and compliance requirements increase the need for them. This lack of technology further constrains access for example, through limited or no virtual capabilities while impeding the ability to effectively track patient data and outcomes as needed to ensure care is being delivered effectively. Lack of Care Coordination: Many primary care physicians and specialists are not well-equipped to identify and treat patients with mental health conditions, resulting in patients receiving treatments only once their condition has been exacerbated or not receiving treatment at all. This limited access to treatment has a significant social and economic impact. We founded LifeStance to solve these challenges. More broadly, we recognized that addressing this unmet need would require a transformation of how mental healthcare is built and delivered. We developed powerful incentives for each of our stakeholders patients, clinicians, payors and primary care and specialist physicians to align with our mission, adopt our platform and drive our 
+1 
+growth. We estimate that there are over 60 million adults in the United States with a mental health issue that our clinicians could address. We Provide Patients Access to Convenient, Affordable, High-Quality Care We are the front-door to comprehensive outpatient mental healthcare. Our clinicians offer patients a full spectrum of outpatient services to treat mental health conditions. Our in-network payor relationships improve patient access by allowing patients to access mental healthcare just as they would a primary care physician's visit without significant out-of-pocket cost or delays in receiving treatment. Our personalized, data-driven comprehensive care meets patients where they are through convenient virtual and in-person settings. We support our patients throughout their care continuum with purpose-built technological capabilities, including online assessments, digital provider communication, and seamless internal referral and follow-up capabilities. We Empower Clinicians to Improve the Lives of Their Patients We empower clinicians to focus on patient care and relationships by providing what we believe is a superior workplace environment, as well as clinical and technological capabilities to deliver high-quality care. We offer a unique employment model for clinicians in a collaborative clinical environment with clinicians employed by our subsidiaries and supported practices and we improve patient access through in-network payor contracts and primary care and specialist physician referrals. Our integrated platform and national infrastructure reduce administrative burdens for clinicians while increasing engagement and satisfaction. Our digital platform enables collaboration across the clinician team. We Reduce Costs for Payors and Their Members We partner with payors to deliver access to high-quality outpatient mental healthcare to their members at scale. Through our extensive scale, we offer payors a pathway to reduce overall cost of care in the broader healthcare system while supporting improved physical and mental health outcomes. By offering access to our services, payors also have an opportunity to reduce their employer customers significant mental health costs arising from higher employee absenteeism and lower productivity. We Enable Primary Care and Specialist Ph
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of our total revenue for the year ended December 31, 2025: UnitedHealthcare and Elevance Health, Inc., comprising 14% and 15%, respectively. Our contracts with payors are generally fee-for-services arrangements. Currently, only a small portion of 
+6 
+our contracts provide for incremental payments tied to the attainment of quality or performance metrics, and such payments comprised an immaterial portion of our revenue during the period. Our Physician Relationships We have a large base of regional referring primary care physicians, specialist physicians and other network providers. Within our markets, we partner with primary care practice groups, specialists, health systems and academic institutions to refer patients to our centers and clinicians. To build and maintain this base of partners we have a dedicated partner relationship team that works directly with these partners along with our regional operations teams. This team focuses primarily on creating awareness of our platform and services including existing and new centers as well the introduction of newly hired clinicians with appointment availability and providing defined referral pathways to help these partners and their patients timely access care. When establishing new centers, we seek to build relationships with proximally located primary care and specialty offices as well as psychiatric hospitals to raise awareness. We achieve this through in-person visits as well as offline and online marketing. Our Marketing Efforts We also use marketing strategies to develop our national brand to increase brand awareness and promote additional channels of patient recruitment. Our channel marketing strategies are online through web, social media and paid social ad campaigns and search engines, including direct-to-consumer paid search optimization. Clinicians accepting new patients can be booked for appointments directly online. We also hand out a limited number of printed brochures or other marketing materials to rai
+
+---
+Doc size: 2048KB (capped at 2MB)

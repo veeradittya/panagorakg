@@ -1,0 +1,101 @@
+# DOMINOS PIZZA INC — 10-K Annual Report
+# Filed: 2026-02-23
+# CIK: 1286681
+# SIC: Wholesale-Groceries & Related Products
+# Source: https://www.sec.gov/Archives/edgar/data/1286681/000119312526062321/dpz-20251228.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business. 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors. 
+15 
+Item 1B. 
+Unresolved Staff Comments. 
+30 
+Item 1C. 
+Cybersecurity. 
+30 
+Item 2. 
+Properties. 
+31 
+Item 3. 
+Legal Proceedings. 
+32 
+Item 4. 
+Mine Safety Disclosures. 
+32 
+Item 4A. 
+Executive Officers of the Registrant . 
+32 
+Part II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+33 
+Item 6. 
+[Reserved]. 
+34 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+35 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk. 
+52 
+Item 8. 
+Financial Statements and Supplementary Data. 
+53 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+85 
+Item 9A. 
+Controls and Procedures. 
+85 
+Item 9B. 
+Other Information. 
+86 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. 
+86 
+Part III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance. 
+87 
+Item 11. 
+Executive Compensation. 
+88 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+88 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence. 
+88 
+Item 14. 
+Principal Accountant Fees and Services. 
+88 
+Part IV 
+Item 15. 
+Exhibits and Financial Statement Schedules. 
+89 
+Item 16. 
+Form 10-K Summary. 
+99 
+SIGNATURES 
+100 
+Throughout this document, Domino s Pizza, Inc. (Nasdaq: DPZ) is referred to as the Company, Domino s, Domino s Pizza or in the first-person notations of we, us and our. In this document, we rely on and refer to information regarding the U.S. quick service restaurant, or QSR, sector and the U.S. QSR pizza category from CREST , ongoing foodservice market research (years ending December) prepared by Circana, as well as market research reports, analyst reports and other publicly-available information. Although we believe this information to be reliable, we have not independently verified it. U.S. sales information relating to the U.S. QSR sector and the U.S. QSR pizza category represent reported consumer spending obtained by Circana s CREST ongoing foodservice market research from consumer surveys. This information relates to both our Company-owned and franchised stores. 
+3 
+Part I Item 1. Business. Overview Domino s is the largest pizza company in the world with more than 22,100 locations in over 90 markets around the world as of December 28, 2025, and operates two distinct service models within its stores, with a significant business in both delivery and carryout. We are a highly recognized global brand, and we focus on value while serving neighborhoods locally through our large worldwide network of franchise owners and U.S. Company-owned stores through both the delivery and carryout service models. We have been selling quality, affordable food to our customers since 1960. We became Domino s Pizza in 1965 and opened our first franchised store in 1967. Over the past 65 years, we have built Domino s into one of the most widely-recognized consumer brands in the world. We believe our commitment to value, convenience, quality and new products continues to keep consumers engaged with the brand. We are primarily a franchisor, with approximately 99% of Domino s global stores owned and operated by our independent franchisees as of December 28, 2025. Franchising enables an individual to be a business owner and maintain control over all employment-related matters and pricing decisions, while also benefiting from the strength of the Domino s global brand and operating system with limited capital investment by us. Domino s business model is straightforward: Domino s stores handcraft and serve quality food at a competitive price, with easy ordering access and efficient service, enhanced by our technological innovations. Our hand-tossed dough is made fresh and distributed to stores around the world by us and our franchisees. Domino s generates revenues and earnings by charging royalties and fees to our franchisees. Royalties are ongoing percent-of-sales fees for use of the Domino s brand marks. We also generate revenues and earnings by selling food and other products to franchisees through our supply chain operations primarily in the U.S. and Canada and by operating a number of Company-owned stores in the U.S. Franchisees profit by selling pizza and other complementary items to their local customers. In our international markets, we generally grant geographical rights to the Domino s Pizza brand to master franchisees. These master franchisees are charged with developing their geographical area, and they may profit by sub-franchising and selling food, and to a lesser extent, other products to those sub-franchisees, as well as by running pizza stores. We believe that everyone in the system can benefit from the franchise model, including the end consumer, who can purchase Domino s menu items for themselves and their family conveniently and economically. Domino s business model can yield strong returns for our franchise owners and our Company-owned stores. It can also yield significant cash flows to us, through consistent franchise royalty and supply chain revenue streams, all within an asset-light model. We have historically returned cash to shareholders through dividend payments and share repurchases. Domino s financial results are driven largely by retail sales at our franchised and Company-owned stores. Changes in retail sales are primarily driven by same store sales growth and net store growth. We actively monitor both of these metrics, as they directly impact our revenues and profits, and we strive to consistently increase both metrics. Retail sales drive royalty payments from franchisees, as well as Company-owned store and supply chain revenues. At Domino s, we believe we have a proven business model for success that has historically driven strong returns for our shareholders. Our Hungry for MORE strategy aims to generate MORE sales, MORE stores and MORE profits. The strategic imperatives of our Hungry for MORE strategy are as follows: Most Delicious Food: We believe we have the best pizza in the industry, and our menu has even more mouthwatering options beyond pizza. We will continue to showcase the breadth of our menu, while highlighting the deliciousness of our food through our innovative marketing promotions. Operational Excellence: We are relentless in our focus on convenience, consistency and efficiency for our customers. Renowned Value: We are committed to continuing to offer competitive pricing and personalized value for our customers that is innovative and memorable. Enhanced by Best-in-Class Franchisees: Our franchisees play a vital role in driving results and excitement across the more than 90 markets in which we operate. 
+4 
+Our Industry and Competition The QSR pizza category is large, fragmented and highly competitive. In the U.S., we compete primarily against national chains Pizza Hut , Papa John s and Little Caesars Pizza as well as regional, independent and local establishments. We generally compete on the basis of product quality, location, image, service, technology, convenience and price. Our business and those of our competitors can be affected by changes in consumer tastes, economic conditions, demographic trends, geopolitical and reputational considerations, marketing, advertising, pricing and consumers disposable income. We also compete with other restaurants, as well as order and delivery aggregation companies, which have continued to grow in size and scale in recent years. We have multinational agreements with Uber Technologies, Inc. and DoorDash, Inc. to allow customers to order Domino s products through their respective marketplaces. We compete not only for customers, but also for management and hourly employees, including store team members, drivers and qualified franchisees, as well as suitable real estate sites. From 2024 through 2025, the U.S. QSR pizza category grew from $42.8 billion to $43.4 billion and is primarily comprised of dine-in, delivery and carryout, with delivery and carryout comprising the two largest segments. Carryout includes both carryout and drive-through occasions. In the U.S., we compete in the delivery and carryout segments of the QSR pizza category. The four industry leaders, including Domino s, account for approximately 61% of U.S. pizza delivery and approximately 51% of U.S. pizza carryout, with regional, independent and local establishments comprising the remainder of the category. Within the U.S. QSR pizza category, we are recognized as number one, with approximately 23.3% total market share based on consumer spending data for the year ending December 2025 (up from approximately 22.5% for the year ended December 2024). We are the market share leader in both delivery and carryout, with approximately 32.9% and 19.6% share in each segment, respectively, based on consumer spending data (Source: Circana, CREST , twelve months ended December 2025. Data of share information provided by Circana is preliminary and is based on simulated results; data is not considered final until published by Circana.) Internationally, the QSR pizza category is also fragmented and highly competitive. Outside the U.S., we compete primarily with Pizza Hut and Papa John s which have significant global presence, as well as country-specific national, regional and local pizzerias. We believe that demand for pizza delivery and pizza carryout is large and growing globally, driven by international consumers increasing emphasis on convenience, and is supported by our proven success of more than 40 years of conducting business abroad. Our Customers Our business is not dependent upon a single retail customer or small group of customers, including franchisees. No customer accounted for more than 10% of our total consolidated revenues in 2025, 2024 or 2023. As of December 28, 2025, our largest franchisee based on store count, Domino s Pizza Enterprises (DMP: ASX), operated 3,524 stores in 12 international markets, which accounted for approximately 24% of our international store count and 16% of our global store count. Revenues from this master franchisee accounted for 1.4% of our consolidated revenues in 2025. Our international franchise segment only requires a modest amount of general and administrative expenses to support its markets and does not have a cost of sales component. Therefore, the vast majority of these royalty revenues result in profits to us. Our Menu We offer a menu designed to present delicious, quality offerings to customers, while keeping it simple enough to minimize operational complexity and expedite order-taking and food preparation. Our basic menu features pizza products with varying sizes and crust types. Our typical store also offers side items including bread products, wings, boneless chicken, pastas, oven-baked sandwiches, soft drink products and desserts. During 2025, we launched our Parmesan Stuffed Crust Pizza, as well as our Spicy Chicken Bacon Ranch specialty pizza and Garlic and Cinnamon Bread Bites. International market offerings vary by country and culture, such as the Croissant Pizza in Spain and Mexico, the Chocolate Volcano Pizza in China or the Chicken Burst Pizza (double layer of chicken toppings) in India. Store Image and Operations We operate two distinct service models within our stores with a significant business in both delivery and carryout. In the U.S., delivery and carryout generally contribute meaningfully to our overall system transaction count and retail sales. The majority of our U.S. and international stores are constructed in the carryout-friendly Pizza Theater design. Many of these stores offer casual seating and enable customers to watch the preparation of their orders, but in the U.S. and many international markets, do not offer a full-service dine-in experience. As a result, our stores generally do not require expensive restaurant facilities and staffing. 
+5 
+Our Business Segments We operate, and report, three business segments: U.S. stores, international franchise and supply chain. U.S. Stores During 2025, our U.S. stores segment accounted for $1.61 billion, or 32.6%, of our consolidated revenues. Our U.S. stores segment is comprised primarily of our franchise operations, which consisted of 6,924 franchised stores located in the U.S. as of December 28, 2025. We also owned and operated a network of 262 U.S. Company-owned stores, for a total U.S. store count of 7,186 as of December 28, 2025. Directly operating Domino s stores contributes significantly to our ability to act as a credible franchisor. We also use our Company-owned stores as test sites for technological innovation and promotions, as well as operational improvements. Additionally, we also use them for training new store managers and operations team members, as well as developing prospective franchisees. While we are primarily a franchised business, we continuously evaluate our mix of U.S. Company-owned and franchised stores. As of December 28, 2025, franchised stores represented approximately 96% of our total store count within our U.S. stores segment. U.S. Franchise Profile As of December 28, 2025, our network of 6,924 U.S. franchise stores was owned and operated by 754 independent U.S. franchisees. Our franchise formula enables franchisees to benefit from our brand recognition with a relatively low initial capital investment. As of December 28, 2025, the average U.S. franchisee owned and operated approximately nine stores and had been in our franchise system for over 15 years. Additionally, 24 of our U.S. franchisees operated more than 50 stores (including our largest U.S. franchisee who operated 160 stores) and 211 of our U.S. franchisees each operated one store as of December 28, 2025. We apply rigorous standards to prospective U.S. franchisees. We generally require them to manage a store for at least one year and graduate from our franchise management school program before being granted the right to franchise. This enables us to observe the operational and financial performance of a potential franchisee prior to entering into a long-term agreement. Substantially all of our independent U.S. franchise owners started their careers with us as delivery drivers or in other in-store positions, which we believe offers advantages in terms of familiarity with our business and store operations. In addition, we generally restrict the ability of U.S. franchisees to be involved in other businesses, which we believe helps focus our franchisees attention on operating their stores. We believe these characteristics and standards are largely unique within the franchise industry and have resulted in qualified and focused franchisees operating Domino s stores. We maintain a productive relationship with our independent franchise owners through regional franchise teams, distributing materials that help franchise stores comply with our standard
+
+## GEOGRAPHIC REVENUE
+dDeferredCompensationPlanMember true 0001286681 dpz:VariableFundingNoteMember dpz:TwoThousandTwentyFiveVariableFundingNotesMember 2024-12-30 2025-12-28 0001286681 us-gaap:AccountsReceivableMember dpz:DomesticFranchiseMember dpz:USStoresMember 2024-12-29 0001286681 dpz:SupplyChainMember dpz:SupplyChainCenterMember 2024-01-01 2024-12-29 0001286681 dpz:GeneralAndAdministrativeMember us-gaap:OperatingSegmentsMember dpz:SupplyChainMember 2023-01-02 2023-12-31 0001286681 dpz:EmployeeStockPurchaseDiscountPlanMember 2024-12-29 0001286681 dpz:DecemberThirtyOne2028Member 2025-12-28 0001286681 us-gaap:RetainedEarningsMember 2023-01-02 2023-12-31 0001286681 dpz:EquityIncentivePlanMember 2024-12-30 2025-12-28 0001286681 dpz:DomesticStoresMember 2025-12-28 0001286681 dpz:CostOfSalesLaborMember us-gaap:OperatingSegmentsMember dpz:USStoresMember 2023-01-02 2023-12-31 0001286681 dpz:DomesticCompanyOwnedStoresMember us-gaap:OperatingSegmentsMember dpz:SupplyChainMember 2024-01-01 2024-12-29 0001286681 dpz:USFranchiseeMember 2023-01-02 2023-12-31 0001286681 us-gaap:ForeignCountryMember 2024-01-01 2024-12-29 0001286681 srt:ParentCompanyMember 2024-12-30 2025-12-28 0001286681 us-gaap:PropertyPlantAndEquipmentMember 2023-01-02 2023-12-31 0001286681 dpz:TwoThousandNineteenNotesMember dpz:TwoThousandNineteenRecapitalizationMember 2019-11-19 0001286681 dpz:TwoThousandAndFourEquityIncentivePlanMember 2025-12-28 0001286681 dpz:DomesticFranchiseAdvertisingMember dpz:UsFranchiseMember 2023-01-02 2023-12-31 0001286681 dpz:TwoThousandTwentyOneNotesMember dpz:TwoThousandTwentyOneRecapitalizationMember 2021-04-16 2021-04-16 0001286681 dpz:TwoThousandEighteenNotesMember dpz:TwoThousandEighteenRecapitalizationMember 2018-04-24 0001286681 dpz:DomesticFranchiseAdvertisingMember dpz:USStoresMember 2024-12-30 2025-12-28 0001286681 us-gaap:EmployeeStockOptionMember dpz:TwoThousandAndFourEquityIncentivePlanMember 2024-12-30 2025-12-28 0001286681 us-gaap:OperatingSegmentsMember dpz:InternationalFranchiseRoyaltiesAndFeesMember 2024-01-01 2024-12-29 0001286681 dpz:SupplyChainIntersegmentRevenuesMember us-gaap:OperatingSegmentsMember dpz:SupplyChainMember 2024-12-30 2025-12-28 0001286681 dpz:DomesticFranch
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of our total consolidated revenues in 2025, 2024 or 2023. As of December 28, 2025, our largest franchisee based on store count, Domino s Pizza Enterprises (DMP: ASX), operated 3,524 stores in 12 international markets, which accounted for approximately 24% of our international store count and 16% of our global store count. Revenues from this master franchisee accounted for 1.4% of our consolidated revenues in 2025. Our international franchise segment only requires a modest amount of general and administrative expenses to support its markets and does not have a cost of sales component. Therefore, the vast majority of these royalty revenues result in profits to us. Our Menu We offer a menu designed to present delicious, quality offerings to customers, while keeping it simple enough to minimize operational complexity and expedite order-taking and food preparation. Our basic menu features pizza products with varying sizes and crust types. Our typical store also offers side items including bread products, wings, boneless chicken, pastas, oven-baked sandwiches, soft drink products and desserts. During 2025, we launched our Parmesan Stuffed Crust Pizza, as well as our Spicy Chicken Bacon Ranch specialty pizza and Garlic and Cinnamon Bread Bites. International market offerings vary by country and culture, such as the Croissant Pizza in Spain and Mexico, the Chocolate Volcano Pizza in China or the Chicken Burst Pizza (double layer of chicken toppings) in India. Store Image and Operations We operate two distinct service models within our stores with a significant business in both delivery and carryout. In the U.S., delivery and carryout generally contribute meaningfully to our overall system transaction count and retail sales. The majority of our U.S. and international stores are constructed in the carryout-friendly Pizza Theater design. Many of these stores offer casual seating and enable customers to watch the preparation of their orders, but in the U.S. and many interna
+
+---
+Doc size: 2048KB (capped at 2MB)

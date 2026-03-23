@@ -1,0 +1,168 @@
+# CARGURUS INC — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 1494259
+# SIC: Services-Computer Processing & Data Preparation
+# Source: https://www.sec.gov/Archives/edgar/data/1494259/000119312526059435/carg-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+19 
+Item 1B. 
+Unresolved Staff Comments 
+43 
+Item 1C. 
+Cybersecurity 
+43 
+Item 2. 
+Properties 
+44 
+Item 3. 
+Legal Proceedings 
+44 
+Item 4. 
+Mine Safety Disclosures 
+45 
+PART II 
+46 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+46 
+Item 6. 
+[Reserved] 
+48 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+49 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+70 
+Item 8. 
+Financial Statements and Supplementary Data 
+71 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+118 
+Item 9A. 
+Controls and Procedures 
+118 
+Item 9B. 
+Other Information 
+122 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+122 
+PART III 
+123 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+123 
+Item 11. 
+Executive Compensation 
+123 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+123 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+123 
+Item 14. 
+Principal Accountant Fees and Services 
+123 
+PART IV 
+124 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+124 
+Item 16. 
+Form 10-K Summary 
+124 
+Table of Contents 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K, or Annual Report, contains forward looking statements within the meaning of the federal securities laws, which statements involve substantial risks and uncertainties. Forward looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward looking statements because they contain words such as aim, anticipates, believes, could, estimates, expects, goal, intends, may, might, plans, potential, predicts, projects, seeks, should, target, will, would, or similar expressions and the negatives of those terms. Forward-looking statements contained in this Annual Report include statements about: our future financial performance, including our expectations regarding our revenue, cost of revenue, gross profit or gross margin, operating expenses, ability to generate cash flow, and ability to achieve and maintain future profitability; our growth strategies and our ability to effectively manage any growth; the value proposition of our product offerings for dealers and consumers; the ability of our platform and offerings to increase a dealer s return on investment, create dealer efficiencies, maintain our marketplace scale, and reduce consumer friction; our evolution into a data- and intelligence-driven platform that supports dealers across their workflows and empowers consumers throughout their shopping journey; our ability to deliver quality leads at a high volume for our dealer customers and to provide the highest return on a dealer s investment; our expectations for Sell My Car (formerly Sell My Car - Top Dealer Offers) as well as our digital retailing offerings and continued investments; our ability to maintain and acquire new customers; our ability to maintain and build our brand; our belief that our partnerships with automotive lending companies provide more transparency to car shoppers and deliver highly qualified car shopper leads to participating dealers; the impact of competition in our industry and innovation by our competitors; our ability to adapt to technological change and effectively enhance, innovate, and scale our platform and offerings; our ability to overcome challenges facing the automotive industry ecosystem, including inventory supply problems, global supply chain challenges, including disruptions to pre-existing supply chains and vendor relations, changes to trade policies or tariff regulations, financial market volatility and disruption, increased interest rates, inflationary concerns, and other macroeconomic issues, including uncertain or volatile economic conditions in the U.S. and abroad; our expectations regarding cash generation and the sufficiency of our cash to fund our operations; our expectations regarding the funding of our share repurchase program; our expected returns on investments; our expectations regarding our deferred tax assets; the impact of changes in tax law and related guidance and regulations that may be implemented that could impact tax rates, our business, and our financial results; our expectations regarding our expenses generally, including general and administrative, product, technology, and development, and sales and marketing expenses; 
+1 
+Table of Contents 
+the effects of any significant disruption to, or other performance or reliability issues with, our marketplace and offerings, including as a result of network outages, cybersecurity incidents, or other security breaches, technical difficulties, system failures, or other interruptions to our systems or those of our third-party providers; our ability to adequately protect our intellectual property; our ability to attract, hire, and retain necessary qualified employees to expand our operations; our ability to realize benefits from our acquisitions and successfully implement the integration strategies in connection therewith; domestic and global economic conditions affecting us, our customers, or our dealers; our revolving credit facility; the impact of accounting pronouncements; our ability to stay abreast of, and effectively comply with, new or modified laws and regulations that currently apply or become applicable to our business and our beliefs regarding our compliance therewith; the impact of litigation and the potential impact of unasserted claims; and the future trading prices of our Class A common stock. You should not rely upon forward looking statements as predictions of future events. We have based the forward looking statements contained in this Annual Report on our current expectations and projections about future events and trends that we reasonably believe may affect our business, financial condition, operating results, and growth prospects. The outcome of the events described in these forward looking statements is subject to risks, uncertainties, and other factors described in the section titled Risk Factors and elsewhere in this Annual Report. Should one or more of these risks or other uncertainties materialize, or if underlying assumptions prove incorrect, actual outcomes may vary materially from those described or implied in the forward-looking statements. We operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward looking statements contained in this Annual Report. Further, our forward looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, or joint ventures in which we may be involved, or investments we may make. The forward looking statements made in this Annual Report speak only as of the date of this Annual Report. We undertake no obligation to update any forward looking statement made in this Annual Report to reflect events or circumstances after the date of this Annual Report or to reflect new information or the occurrence of unanticipated events, except as required by law. NOTE REGARDING TRADEMARKS CarGurus and Autolist are each a registered trademark of CarGurus, Inc., and PistonHeads is a registered trademark of CarGurus Ireland Limited in the U.K. and the European Union, or EU. All other product names, trademarks, and registered trademarks are property of their respective owners. We have omitted the and designations, as applicable, for the trademarks used in this Annual Report. 
+2 
+Table of Contents 
+PAR T I Item 1. Bu siness. Who We Are CarGurus is a multinational automotive platform helping consumers and dealers confidently buy and sell vehicles. Founded in 2006 with a mission to bring more trust and transparency to car shopping, CarGurus is the No. 1 visited automotive shopping site in the U.S. 1 with the largest selection of inventory and network of dealers 2 . CarGurus selection, trusted automotive insights, and data-driven products and solutions support each shopper s journey from online research and shopping to in-dealership decisions to empower them at every step. CarGurus provides dealers a personalized, predictive intelligence platform with software solutions that helps them run their businesses more efficiently and profitably at all stages of inventory acquisition and pricing, marketing, and conversion to sale. We operate the following marketplaces: 
+U.S., U.K., and Canada 
+U.S. 
+U.K. 
+1 Similarweb: Traffic Insights (Cars.com, Autotrader.com, TrueCar.com, CARFAX.com Listings (defined as CARFAX.com Total Visits minus Vehicle History Reports)), Q4 2025, U.S. 2 Compared to Autotrader.com, Cars.com, TrueCar.com, and CARFAX.com (Joreca as of December 31, 2025) Through our platform s evolution, our ultimate goal remains the same: to empower our customers by giving them all the technology and information they need to buy or sell any car, anywhere, at the right price, and in the right way for them. At CarGurus, we give people the power to reach their destination. Discontinued Operations and Reportable Segments During the first three quarters of the year ended December 31, 2025, we managed our business and reported earnings through two reportable segments: U.S. Marketplace: Derived revenue from marketplace services for our dealer customers within the U.S. Digital Wholesale: Primarily derived revenue from our Dealer-to-Dealer and Instant Max Cash Offer services sold on our CarOffer platform. On August 6, 2025, our Board of Directors determined, after considering all reasonably available options and a broader strategic reassessment, that it is in the best interests of our stockholders to wind down CarOffer, LLC, or CarOffer, including the CarOffer Dealer-to-Dealer and Instant Max Cash Offer products, or the CarOffer Transactions Business. Following the broader strategic reassessment, we concluded that the CarOffer Transactions Business has proven less effective in today s more volatile and unpredictable pricing environment, where dealers require more flexibility and broader automation to streamline fulfillment than the model could provide. Following the wind-down, we will continue to deliver AI-powered inventory intelligence through our insights platform and enable consumer vehicle sourcing at scale through Sell My Car (formerly Sell My Car - Top Dealer Offers) and will focus on technology and analytics that will enable smarter sourcing and pricing decisions rather than facilitating the transactions themselves. The wind-down of CarOffer was completed and the business was considered abandoned for accounting purposes as of December 31, 2025. We have presented the financial results of CarOffer as discontinued operations in our consolidated financial statements for all periods presented, except for the consolidated statements of comprehensive income, the 
+3 
+Table of Contents 
+consolidated statements of redeemable noncontrolling interest and stockholders equity, and the consolidated statements of cash flows. These statements have not been separately reclassified and discontinued operations are included within each for all periods presented. For further information, refer to Note 3 to our consolidated financial statements included elsewhere in this Annual Report. Beginning in the fourth quarter of 2025, in connection with the wind-down of CarOffer, our chief executive officer, who acts as the chief operating decision maker, or CODM, began to manage our business, make operating decisions, and evaluate operating performance based on consolidated results. Accordingly, the change led to revisions to the nature and substance of information regularly provided to and used by the CODM, and served to align our reported results with our ongoing growth strategy. As a result, beginning in the fourth quarter of 2025 we report our financial results as a single reportable segment. For further segment reporting and geographic information, refer to Note 14 to our consolidated financial statements included elsewhere in this Annual Report. Our Products and Services The product offerings described below are available through our U.S. marketplace; availability on our other marketplaces varies. Our powerful two-sided marketplace connects our large audience of car shoppers with our extensive network of dealers, anchoring our integrated suite of products (software and services). This dynamic platform supports consumers with trust, transparency, and selection throughout the car-buying process while supporting dealers with high-quality leads and connections, marketing reach, software solutions, and the data they need to make profitable decisions. We derive our revenue from (i) dealer subscription fees, (ii) advertising from au to manufacturers and other brand advertisers, and (iii) partnerships with financing services companies. Consumer Marketplace We bring our market-leading trust and transparency to support consumers across the full car-buying process from initial research to consideration and ultimately purchase. Our marketplace allows consumers to search with confidence for new and used car listings from our dealers with a conversational search experience or through filter-based search built on our proprietary deal ratings. It provides consumers with a seamless online-to-offline experience, offering the ability to complete the transaction in the way that works best for them. Research Our platform allows consumers to evaluate their options, assess pricing, and compare vehicles using consistent and transparent criteria. These criteria include expert reviews, side-by-side comparisons, user-generated content, and verified dealer ratings. Our goal is to empower consumers early in their car-buying journey with the information they need to make confident decisions. Consideration As consumers refine their preferences and evaluate specific vehicles, our platform leverages AI-powered conversational search alongside proprietary pricing and algorithms to help consumers assess value and trade-offs with confidence. Through data-driven rankings and rich listing detail, we surface the most relevant vehicles and provide transparent pricing context to enable consumers to move from exploration to informed selection. CG Discover : To support shoppers as they refine their preferences and explore listings, we offer CG Discover, or Discover, a GenAI-powered shopping assistant built for agentic expansion. Discover interprets natural-language shopper intent, engages in an interactive dialogue to clarify needs and trade-offs, and dynamically surfaces relevant vehicles from across our marketplace. Discover complements the robust suite of proprietary algori
+
+## GEOGRAPHIC REVENUE
+01-01 2025-12-31 0001494259 2025-04-01 2025-06-30 0001494259 us-gaap:RestrictedStockUnitsRSUMember 2025-12-31 0001494259 us-gaap:RevolvingCreditFacilityMember 2022-09-26 2022-09-26 0001494259 us-gaap:DomesticCountryMember 2025-12-31 0001494259 us-gaap:RetainedEarningsMember 2022-12-31 0001494259 2025-01-01 2025-09-30 0001494259 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-12-31 0001494259 us-gaap:SoftwareAndSoftwareDevelopmentCostsMember 2025-01-01 2025-12-31 0001494259 us-gaap:CommonClassAMember 2023-01-01 2023-12-31 0001494259 carg:TwoThousandSeventeenPlanMember us-gaap:CommonClassAMember srt:MaximumMember 2017-10-16 0001494259 carg:HostingArrangementsMember 2024-12-31 0001494259 us-gaap:CommonClassAMember 2024-01-01 2024-12-31 0001494259 us-gaap:SoftwareDevelopmentMember 2024-01-01 2024-12-31 carg:DealerAccount xbrli:pure carg:Segment iso4217:USD xbrli:shares xbrli:shares carg:Vote carg:Customer iso4217:USD <ix:relationship linkRole="http://www.xbrl.org/2003/role/link" arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="FNT_cc1548f9-aae9-4b5d-8094-863207b2f740" fromRefs="F_f2dcbe36-988a-4026-a0c5-0c3e14b7719b F_5ddcbd7c-2c96-453b-a6f8-2120da206e44 F_2fd73e9a-6b81-437f-82ed-ad87896dbd5e F_532ba3f7-f87b-4e21-adf4-23044118372b F_3aae6c99-f9ea-4c55-ace0-333a7173f492 F_ccb8f235-4151-48d0-b90e-988c8b9d95f0 F_bd8bb36e-0a2a-4b4e-b15a-e2607dfeb9f1 F_6594c16e-b887-41b4-a9bf-fa543eaeb958 F_2806a03b-5169-4b0e-982b-edb608045b35 F_3fcc60d8-19ec-4833-a200-25c6a936d460 F_b4b915a5-75c2-4b09-a8c0-ab908c552691 F_87c2d4d2-00db-4cec-8582-d54acd98dca8 F_9ba52055-5dc5-4b29-9759-bb87cd5f72da F_e3ad4dd6-7baf-4d2a-af60-51789706e245 F_88245639-ce6c-4998-83a0-eb35de31a2ea F_253b5446-be95-4413-b6d5-38dc0290eb6d F_8aad9ef0-b8d7-47dc-97a3-fef1bb0ecbc8 F_62c06c60-dcab-41be-a5fa-07bc2070d9f2 F_ac326f53-e15d-4c26-b370-451928631994 F_0f16a0a1-4904-48e1-8b82-36d5fe753d67 F_9c803fd3-0997-4f02-9b83-d0231b90b0f5 F_a697364f-73e9-4a32-b29e-7839e720566c F_a4e92f89-4424-490d-bbbf-255070268427 F_2dc87348-911b-4e4a-9de2-68d689bf066e F_4cf62366-fdea-4730-965f-79360d59d72d F_35ed29a1-2c50-41b7-be34-055cb9781b7b F_c0cb87e9-a572-4884-9e6a-e1932bbb6da0 F_b4fb2180-e76a-4005-92b1-d638f8b
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the outstanding stock as of such date have been excluded from this calculation because such persons or institutions may be deemed affiliates. This determination of affiliate status is not a conclusive determination for other purposes. As of February 12, 2026 , the registrant had 80,972,897 shares of Class A common stock, and 14,216,250 shares of Class B common stock, par value $0.001 per share, outstanding. DOCUMENTS INCORPORATED BY REFERENCE Portions of the registrant s definitive proxy statement for its 2026 Annual Meeting of Stockholders are incorporated by reference into Part III of this Annual Report on Form 10-K. Such proxy statement will be filed with the U.S. Securities and Exchange Commission within 120 days after the end of the fiscal year to which this report relates. Except with respect to information specifically incorporated by reference in this Form 10-K, the proxy statement is not deemed to be filed as part of this Form 10-K. 
+Table of Contents 
+Table o f Contents 
+PART I 
+3 
+Item 1. 
+Business 
+3 
+Item 1A. 
+Risk Factors 
+19 
+Item 1B. 
+Unresolved Staff Comments 
+43 
+Item 1C. 
+Cybersecurity 
+43 
+Item 2. 
+Properties 
+44 
+Item 3. 
+Legal Proceedings 
+44 
+Item 4. 
+Mine Safety Disclosures 
+45 
+PART II 
+46 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+46 
+Item 6. 
+[Reserved] 
+48 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+49 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+70 
+Item 8. 
+Financial Statements and Supplementary Data 
+71 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+118 
+Item 9A. 
+Controls and Procedures 
+118 
+Item 9B. 
+Other Information 
+122 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+122 
+PART III 
+123 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+123 
+Item 11. 
+Executive Compensation
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,29 @@
+# BAIDU INC — 20-F Annual Report
+# Filed: 2026-03-17
+# CIK: 1329099
+# SIC: Services-Computer Programming, Data Processing, Etc.
+# Source: https://www.sec.gov/Archives/edgar/data/1329099/000119312526109289/d38065d20f.htm
+
+## BUSINESS DESCRIPTION
+(Not extracted)
+
+## RISK FACTORS
+ Risks Related to our Corporate Structure for more details; 
+
+ RMB or Renminbi refers to the legal currency of Chinese mainland; 
+
+ SFO refers to the Securities and Futures Ordinance (Chapter 571 of the Laws of Hong Kong), as amended or supplemented from time to time; 
+
+ shares or ordinary shares refer to our ordinary shares, which include both Class A ordinary shares and Class B ordinary shares; 
+
+ user traffic or traffic refers generally to page views of a website, with page views measuring the number of web pages viewed by internet users over a specified period of time except that multiple page views of the same page viewed by the same user on the same day are counted only once; 
+
+ U.S. GAAP refers to generally accepted accounting principles in the United States; 
+ 1 
+
+ Table of Contents 
+
+ we, us, our, or Baidu refers to Baidu, Inc., its subsidiaries, and, in the context of describing our operations and consolidated financial information, the variable interest entities established in Chinese mainland and other consolidated affiliated entities in which we do not have any equity ownership but whose financial results have been consolidated into our consolidated financial statements based solely on contractual arrangements in accordance with U.S. GAAP. These variable interest entities include, but are not limited to, Beijing Baidu Netcom Science Technology Co., Ltd., or Baidu Netcom, Beijing Perusal Technology Co., Ltd., or Beijing Perusal, Beijing iQIYI Science & Technology Co., Ltd., or Beijing iQIYI. See 
+
+---
+Document size: 6518 KB

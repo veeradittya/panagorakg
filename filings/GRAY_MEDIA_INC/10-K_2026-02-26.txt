@@ -1,0 +1,130 @@
+# GRAY MEDIA INC — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 43196
+# SIC: Television Broadcasting Stations
+# Source: https://www.sec.gov/Archives/edgar/data/43196/000143774926005803/gtn20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+13 
+Item 1B. 
+Unresolved Staff Comments 
+27 
+Item 1C. 
+Cybersecurity 
+27 
+Item 2. 
+Properties 
+29 
+Item 3. 
+Legal Proceedings 
+29 
+Item 4. 
+Mine Safety Disclosures 
+29 
+Information About our Executive Officers 
+29 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+30 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+33 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+48 
+Item 8. 
+Financial Statements and Supplementary Data 
+49 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+98 
+Item 9A. 
+Controls and Procedures 
+98 
+Item 9B. 
+Other Information 
+99 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdiction that Prevent Inspection 
+99 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+99 
+Item 11. 
+Executive Compensation 
+99 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+100 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+101 
+Item 14. 
+Principal Accountant Fees and Services 
+101 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+102 
+Item 16. 
+Form 10-K Summary 
+108 
+Signatures 
+109 
+2 
+FORWARD-LOOKING STATEMENTS 
+This annual report on Form 10-K ( Annual Report ) contains and incorporates by reference forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Exchange Act. Forward-looking statements are all statements other than those of historical fact. When used in this annual report, the words believes, expects, anticipates, estimates, will, may, should and similar words and expressions are generally intended to identify forward-looking statements. These forward-looking statements reflect our then-current expectations and are based upon data available to us at the time the statements are made. Forward-looking statements may relate to, among other things, our strategies, expected results of operations, general and industry-specific economic conditions, future pension plan contributions, future capital expenditures, future income tax payments, future payments of interest and principal on our long-term debt, assumptions underlying various estimates and estimates of future obligations and commitments, and should be considered in context with the various other disclosures made by us about our business. Readers are cautioned that any forward-looking statements, including those regarding the intent, belief or current expectations of our management, are not guarantees of future performance, results or events and involve significant risks and uncertainties, and that actual results and events may differ materially from those contained in the forward-looking statements as a result of various factors including, but not limited to, those listed in Item 1A. of this Annual Report and the other factors described from time to time in our SEC filings. The forward-looking statements included in this Annual Report are made only as of the date hereof. We undertake no obligation to update such forward-looking statements to reflect subsequent events or circumstances. 
+PART I 
+Item 1. BUSINESS 
+On January 1, 2025, we changed our corporate name from Gray Television, Inc. to Gray Media, Inc. We will not distinguish between our prior and current corporate name and will refer to our current corporate name throughout this Annual Report. As such, in this Annual Report, unless otherwise indicated or the context otherwise requires, the words Gray, Gray Media, the Company, we, us, and our refer to Gray Media, Inc. and its consolidated subsidiaries. 
+Unless otherwise indicated, all station rank, in-market share and television household data herein are derived from reports prepared by The Nielsen Company US, LLC ( Nielsen ) and/or Comscore, Inc. ( Comscore ). While we believe this data to be accurate and reliable, we have not independently verified such data, nor have we ascertained the underlying assumptions relied upon therein and cannot guarantee the accuracy or completeness of such data. 
+General 
+We are a multimedia company headquartered in Atlanta, Georgia. We are the nation s largest owner of top-rated local television stations and digital assets in the United States. Our television stations serve 114 full-power television markets that collectively reach approximately 37% of US television households. This portfolio includes 77 markets with the top-rated television station and 97 markets with the first and/or second highest rated television station in average all-day ratings across the 113 of such markets measured by Nielsen in 2025. We also own the largest Telemundo Affiliate group with 47 markets totaling over 1.6 million Hispanic TV Households. We also own Gray Digital Media, a full-service digital agency offering national and local clients digital marketing strategies with the most advanced digital products and services. Our additional media properties include video production companies Raycom Sports, Tupelo Media Group, and PowerNation Studios, and studio production facilities Assembly Atlanta and Third Rail Studios. 
+3 
+Our operating revenues are derived primarily from broadcast and digital advertising and from retransmission consent fees. For the years ended December 31, 2025, 2024 and 2023 our total revenue was $3.1 billion, $3.6 billion and $3.3 billion, respectively. 
+Markets and Stations 
+We believe a key driver for our strong market position is our focus on strong local news and information programming. We believe that our market position and our strong local teams have enabled us to maintain more stable revenues compared to many of our peers. 
+We are diversified across our markets and network affiliations. In both 2025 and 2024, our largest market, by revenue, was Phoenix, Arizona, which contributed 5% of our total revenue. Our top 10 markets by revenue contributed approximately 25% and 26% of our total revenue in the years ended December 31, 2025 and 2024, respectively. For the year ended December 31, 2025, our CBS-affiliated channels accounted for approximately 37% of total revenue; our NBC-affiliated channels accounted for approximately 27% of total revenue; our FOX-affiliated channels accounted for approximately 14% of total revenue; and our ABC-affiliated channels accounted for approximately 11% of total revenue. We refer to CBS, NBC, ABC and FOX as the Big Four networks. 
+In each of our markets other than Atlanta, we own and operate at least one television station broadcasting a primary channel affiliated with one of the Big Four networks. Effective August 16, 2025, our Atlanta station, WANF, ceased its affiliation with the CBS Network and began operations as an independent television station. We also own additional stations in some markets, some of which also broadcast primary channels affiliated with one of the Big Four networks. Nearly all of our stations broadcast secondary digital channels that are affiliated with various networks or are independent of any network. The terms of our affiliations with broadcast networks are governed by network affiliation agreements. Each network affiliation agreement provides the affiliated station with the right to broadcast all programs transmitted by the affiliated network. Our network affiliation agreements with the Big Four broadcast networks currently expire at various dates from mid-2027 through December 31, 2028. 
+Television Industry Background 
+The Federal Communications Commission ( FCC ) grants broadcast licenses to television stations. There are only a limited number of broadcast licenses available in any one geographic area. Each commercial television station in the US is assigned to one of 210 designated market areas ( DMAs ). These markets are ranked in size according to their number of television households, with the market having the largest number of television households ranked number one (New York City). Each DMA is an exclusive geographic area consisting of all counties (and in some cases, portions of counties) in which the home-market commercial television stations receive the greatest percentage of total viewing hours. 
+Television station revenue is derived primarily from local, regional and national advertising revenue, including digital advertising revenue (together, but excluding political advertising revenue, Core ), and retransmission consent fees. Television station revenue is also derived to a much lesser extent from studio and tower space rental fees and production activities. Advertising primarily refers to advertisements broadcast by television stations, but it also includes advertisements placed on a television station s website and sponsorships of television programming and offline content such as email messages, mobile applications, and other electronic content distributed by stations. Advertising rates are typically driven by: (i) the size of a station s market; (ii) a station s overall ratings; (iii) a program s popularity among targeted viewers; (iv) the number of advertisers competing for available time; (v) the demographic makeup of the station s market; (vi) the availability of alternative advertising media in the market; (vii) the presence of effective sales forces; and (viii) the development of projects, features and programs that tie advertiser messages to programming and/or digital content on a station s website or mobile applications. 
+4 
+Because broadcast stations rely on advertising revenues, they are sensitive to cyclical changes in the economy. The sizes of advertisers budgets, which can be affected by broad economic trends, can affect the broadcast industry in general and the revenues of individual broadcast television stations. 
+Strategy 
+Our success is based on the following strategies: 
+Grow by Leveraging our Diverse National Footprint. We serve a diverse and national footprint of television stations. We currently operate in DMAs ranked between 7 and 209. We operate in many markets that we believe have the potential for significant political advertising revenue in periods leading up to elections. We are also diversified across our broadcast programming. 
+Maintain and Grow our Market Leadership Position. According to Nielsen, our owned and operated television stations achieved the #1 ranking in overall audience in 77 of our 113 markets measured by Nielsen during 2025. In addition, our stations achieved the #1 and/or #2 ranking in overall audience in 97 of our 113 markets measured by Nielsen. 
+We believe there are significant advantages in operating the #1 or #2 television broadcasting stations in a local market. Strong audience and market share allow us to enhance our advertising revenue through price discipline and leadership. We believe a top-rated local news platform is critical to capturing incremental sponsorship and political advertising revenue. Our high-quality station group allows us to generate higher operating margins, which allows us additional opportunities to reinvest in our business to further strengthen our network and local news ratings. Furthermore, we believe operating the top-ranked stations in our various markets allows us to attract and retain top talent. 
+We also believe that our local market leadership positions help us in negotiating more beneficial terms in our major network affiliation agreements, which currently expire at various dates from mid-2027 through December 31, 2028, as well as our syndicated programming and local sports programming agreements. These leadership positions also give us additional leverage to negotiate retransmission contracts with cable system operators, telephone video distributors, direct broadcast satellite ( DBS ) operators and other multichannel video programming distributors ( MVPDs ). 
+We intend to maintain our market leadership position through continued prudent investment in our local news and syndicated programs, as well as continued technological advances and workflow improvements. We expect to continue to invest in technological upgrades in the future. We believe the foregoing will help us maintain and grow our market leadership, thereby enhancing our ability to grow and further diversify our revenues and cash flows. 
+Continue to Pursue Strategic Growth and Accretive Acquisition Opportunities. Over the last 15 years, the television broadcasting industry has been characterized by a high level of acquisition activity. We believe that there are a number of television stations, and a few station groups, that have attractive operating profiles and characteristics, and that share our commitment to local news coverage in the communities in which they operate and to creating high-quality and locally driven content. On a highly selective basis, we may pursue opportunities for the acquisition of additional television stations or station groups that fit our strategic and operational objectives, and where we believe that we can improve revenue, efficiencies and cash flow through active management and cost controls. As we consider potential acquisitions, we primarily evaluate potential station audience and revenue shares and the extent to which the acquisition target would positively impact our existing station operations. We also consider the amount of leverage that an acquisition would entail and our ability to carry such additional leverage at and after the time of acquisition. Consistent with this strategy, we have completed several acquisition and divestiture transactions, including some that had a material impact on our results of operations, between late 2013 and early 2026. Furthermore, we have signed agreements to acquire additional television stations that we anticipate completing later in 2026. For more information on these transactions, see Note 3 Acquisitions and Divestitures of our audited consolidated financial statements included elsewhere herein. This note also describes the stations we acquired in 2024 and 2023 and were pending as of December 31, 2025, which we may also refer to collectively as our acquisitions, our recent acquisitions or the acquisitions. 
+5 
+Continue to Monetize Digital Spectrum. In addition to each station s primary channel, we also broadcast a number of secondary channels. Certain secondary channels are simultaneously affiliated with more than one network. Our strategy includes expanding upon our digital offerings and sales. We continuously evaluate opportunities to use spectrum for future delivery of data to mobile devices using a new transmission standard called NextGen TV. 
+Continue to Maintain Prudent Cost Management. Historically, we have closely managed costs to maintain and improve our margins. We believe that our market leadership position provides additional negotiating leverage that enables
+
+## GEOGRAPHIC REVENUE
+completeness of such data. 
+General 
+We are a multimedia company headquartered in Atlanta, Georgia. We are the nation s largest owner of top-rated local television stations and digital assets in the United States. Our television stations serve 114 full-power television markets that collectively reach approximately 37% of US television households. This portfolio includes 77 markets with the top-rated television station and 97 markets with the first and/or second highest rated television station in average all-day ratings across the 113 of such markets measured by Nielsen in 2025. We also own the largest Telemundo Affiliate group with 47 markets totaling over 1.6 million Hispanic TV Households. We also own Gray Digital Media, a full-service digital agency offering national and local clients digital marketing strategies with the most advanced digital products and services. Our additional media properties include video production companies Raycom Sports, Tupelo Media Group, and PowerNation Studios, and studio production facilities Assembly Atlanta and Third Rail Studios. 
+3 
+Our operating revenues are derived primarily from broadcast and digital advertising and from retransmission consent fees. For the years ended December 31, 2025, 2024 and 2023 our total revenue was $3.1 billion, $3.6 billion and $3.3 billion, respectively. 
+Markets and Stations 
+We believe a key driver for our strong market position is our focus on strong local news and information programming. We believe that our market position and our strong local teams have enabled us to maintain more stable revenues compared to many of our peers. 
+We are diversified across our markets and network affiliations. In both 2025 and 2024, our largest market, by revenue, was Phoenix, Arizona, which contributed 5% of our total revenue. Our top 10 markets by revenue contributed approximately 25% and 26% of our total revenue in the years ended December 31, 2025 and 2024, respectively. For the year ended December 31, 2025, our CBS-affiliated channels accounted for approximately 37% of total revenue; our NBC-affiliated channels accounted for approximately 27% of total revenue; our FOX-affiliated channels accounted for
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer represented more than 5% of our broadcast advertising revenue for the years ended December 31, 2025, 2024 or 2023, we derived a material portion of our non-political broadcast advertising revenue from advertisers in a limited number of industries, particularly the services sector, comprising financial, legal and medical advertisers, and the automotive industry. The services sector has become an increasingly important source of advertising revenue over the past few years. During the years ended December 31, 2025, 2024 and 2023 approximately 26%, 23% and 27%, respectively, of our broadcast advertising revenue (excluding political advertising revenue) was obtained from advertising sales to the services sector. During the years ended December 31, 2025, 2024 and 2023 approximately 17%, 20% and 20%, respectively, of our broadcast advertising revenue (excluding political advertising revenue) was obtained from advertising sales to automotive customers. Revenue from these industries may represent a higher percentage of total revenue in odd-numbered years due to, among other things, the increased availability of advertising time, as a result of such years being the off year of the two-year election cycle. 
+Station Network Affiliations. In addition to affiliations with ABC, CBS, NBC and FOX, our secondary channels are affiliated with numerous smaller networks and program services including, among others, the CW Network or the CW Plus Network (collectively, CW ), MY Network, the MeTV Network, Telemundo, THE365, Outlaw, and others. Certain of our secondary digital channels are affiliated with more than one network simultaneously. We also broadcast independent and local news/weather channels in some markets on both primary and secondary channels. 
+The Big Four networks dominate broadcast television in terms of the amount of viewership that their original programming attracts. The Big Three major broadcast networks of CBS, NBC and ABC provide their respective netwo
+
+---
+Doc size: 2048KB (capped at 2MB)

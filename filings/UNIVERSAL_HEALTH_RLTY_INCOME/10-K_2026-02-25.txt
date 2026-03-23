@@ -1,0 +1,99 @@
+# UNIVERSAL HEALTH RLTY INCOME — 10-K Annual Report
+# Filed: 2026-02-25
+# CIK: 352915
+# SIC: Services-General Medical & Surgical Hospitals, NEC
+# Source: https://www.sec.gov/Archives/edgar/data/352915/000119312526071676/uhs-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+14 
+Item 1B 
+Unresolved Staff Comments 
+27 
+Item 1C 
+Cybersecurity 
+27 
+Item 2 
+Properties 
+28 
+Item 3 
+Legal Proceedings 
+37 
+Item 4 
+Mine Safety Disclosure 
+37 
+PART II 
+Item 5 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+38 
+Item 6 
+[RESERVED] 
+39 
+Item 7 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+40 
+Item 7A 
+Quantitative and Qualitative Disclosures About Market Risk 
+77 
+Item 8 
+Financial Statements and Supplementary Data 
+78 
+Item 9 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+78 
+Item 9A 
+Controls and Procedures 
+78 
+Item 9B 
+Other Information 
+79 
+Item 9C 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+79 
+PART III 
+Item 10 
+Directors, Executive Officers and Corporate Governance 
+80 
+Item 11 
+Executive Compensation 
+80 
+Item 12 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+80 
+Item 13 
+Certain Relationships and Related Transactions, and Director Independence 
+80 
+Item 14 
+Principal Accountant Fees and Services 
+80 
+PART IV 
+Item 15 
+Exhibits and Financial Statement Schedules 
+81 
+Item 16 
+Form 10-K Summary 
+87 
+SIGNATURES 
+88 
+This Annual Report on Form 10-K is for the year ended December 31, 2025. This Annual Report modifies and supersedes documents filed prior to this Annual Report. Information that we file with the Securities and Exchange Commission (the SEC ) in the future will automatically update and supersede information contained in this Annual Report. In this Annual Report, we, us, our UHS and the Company refer to Universal Health Services, Inc. and its subsidiaries. UHS is a registered trademark of UHS of Delaware, Inc., the management company for, and a wholly-owned subsidiary of Universal Health Services, Inc. Universal Health Services, Inc. is a holding company and operates through its subsidiaries including its management company, UHS of Delaware, Inc. All healthcare and management operations are conducted by subsidiaries of Universal Health Services, Inc. To the extent any reference to UHS or UHS facilities in this report including letters, narratives or other forms contained herein relates to our healthcare or management operations it is referring to Universal Health Services, Inc. s subsidiaries including UHS of Delaware, Inc. Further, the terms we, us, our or the Company in such context similarly refer to the operations of Universal Health Services Inc. s subsidiaries including UHS of Delaware, Inc. Any reference to employees or employment contained herein refers to employment with or employees of the subsidiaries of Universal Health Services, Inc. including UHS of Delaware, Inc. 
+PART I ITEM 1. B usiness Our principal business is owning and operating, through our subsidiaries, acute care hospitals and outpatient facilities and behavioral health care facilities. As of February 25, 2026, we owned and/or operated 375 inpatient facilities and 168 outpatient and other facilities located in 40 states, Washington, D.C., the United Kingdom and Puerto Rico. We have changed the method of our outpatient behavioral health care facility counts during the third quarter of 2025 and substantially all of the increase from prior periods is related to that change in convention. Acute care facilities located in the U.S.: 29 inpatient acute care hospitals; 35 free-standing emergency departments, and; 13 outpatient centers & 1 surgical hospital. Behavioral health care facilities (346 inpatient facilities and 119 outpatient facilities): Located in the U.S.: 182 inpatient behavioral health care facilities, and; 110 outpatient behavioral health care facilities. Located in the U.K.: 161 inpatient behavioral health care facilities, and; 2 outpatient behavioral health care facilities. Located in Puerto Rico: 3 inpatient behavioral health care facilities; 7 outpatient behavioral health care facilities. Net revenues from our acute care hospitals, outpatient facilities and commercial health insurer accounted for approximately 57% of our consolidated net revenues during each of 2025 and 2024. Net revenues from our behavioral health care facilities and commercial health insurer accounted for approximately 43% of our consolidated net revenues during each of 2025 and 2024. Our behavioral health care facilities located in the U.K. generated net revenues of approximately $1.001 billion in 2025 and $880 million in 2024. Total assets at our U.K. behavioral health care facilities were approximately $1.531 billion as of December 31, 2025 and $1.358 billion as of December 31, 2024. Services provided by our hospitals include general and specialty surgery, internal medicine, obstetrics, emergency room care, radiology, oncology, diagnostic care, coronary care, pediatric services, pharmacy services and/or behavioral health services. We provide capital resources as well as a variety of management services to our facilities, including central purchasing, information services, finance and control systems, facilities planning, physician recruitment services, administrative personnel management, marketing and public relations. Available Information We are a Delaware corporation that was organized in 1979. Our principal executive offices are located at Universal Corporate Center, 367 South Gulph Road, P.O. Box 61558, King of Prussia, PA 19406. Our telephone number is (610) 768-3300. Our website is located at www.uhs.com . Copies of our annual, quarterly and current reports that we file with the SEC, and any amendments to those reports, are available free of charge on our website. Our filings are also available to the public at the website maintained by the SEC, www.sec.gov . The information posted on our website is not incorporated into this Annual Report. Our Board of Directors committee charters (Audit Committee, Compensation Committee, Nominating & Governance Committee and Quality and Compliance Committee), Code of Business Conduct and Corporate Standards applicable to all employees, Code of Ethics for Senior Financial Officers, Corporate Governance Guidelines and our Code of Conduct, Corporate Compliance Manual and Compliance Policies and Procedures are available free of charge on our website. Copies of such reports and charters are available in print to any stockholder who makes a request. Such requests should be made to our Secretary at our King of Prussia, PA corporate headquarters. We intend to satisfy the disclosure requirement under Item 5.05 of Form 8-K relating to amendments to or waivers of any provision of our Code of Ethics for Senior Financial Officers by promptly posting this information on our website. In accordance with Section 303A.12(a) of the New York Stock Exchange Listed Company Manual, we submitted our CEO s certification to the New York Stock Exchange in 2025. Additionally, contained in Exhibits 31.1 and 31.2 of this Annual Report on 
+1 
+Form 10-K, are our CEO s and CFO s certifications regarding the quality of our public disclosures under Section 302 of the Sarbanes-Oxley Act of 2002. Our Mission Our company mission is: To provide superior quality healthcare services that PATIENTS recommend to families and friends, PHYSICIANS prefer for their patients, PURCHASERS select for their clients, EMPLOYEES are proud of, and INVESTORS seek for long-term returns. To achieve this, we have a commitment to: service excellence continuous improvement in measurable ways employee development ethical and fair treatment of all teamwork compassion innovation in service delivery Business Strategy We believe community-based hospitals will remain the focal point of the healthcare delivery network and we are committed to a philosophy of self-determination for both the company and our hospitals. Acquisition of Additional Hospitals. We selectively seek opportunities to expand our base of operations by acquiring, constructing or leasing additional hospital facilities. We are committed to a program of rational growth around our core businesses, while retaining the missions of the hospitals we manage and the communities we serve. Such expansion may provide us with access to new markets and new healthcare delivery capabilities. We also continue to examine our facilities and consider divestiture of those facilities that we believe do not have the potential to contribute to our growth or operating strategy. In recent years our behavioral health services segment has been focused on efforts to partner with non-UHS acute care hospitals to help operate their behavioral health services. These arrangements include hospital purchases, leased beds and joint venture operating agreements. Improvement of Operations of Existing Hospitals and Services. We also seek to increase the operating revenues and profitability of owned hospitals by the introduction of new services, improvement of existing services, physician recruitment and the application of financial and operational controls. We are involved in continual development activities for the benefit of our existing facilities. From time-to-time applications are filed with state health planning agencies to add new services in existing hospitals in states which require certificates of need, or CONs. Although we expect that some of these applications will result in the addition of new facilities or services to our operations, no assurances can be made for ultimate success by us in these efforts. Quality and Efficiency of Services. Pressures to contain healthcare costs and technological developments allowing more procedures to be performed on an outpatient basis have led payers to demand a shift to ambulatory or outpatient care wherever possible. We are responding to this trend by emphasizing the expansion of outpatient services. In addition, in response to cost containment pressures, we continue to implement programs at our facilities designed to improve financial performance and efficiency while continuing to provide quality care, including more efficient use of professional and paraprofessional staff, monitoring and adjusting staffing levels and equipment usage, improving patient management and reporting procedures and implementing more efficient billing and collection procedures. In addition, we will continue to emphasize innovation in our response to the rapid changes in regulatory trends and market conditions while fulfilling our commitment to patients, physicians, employees, communities and our stockholders. In addition, our aggressive recruiting of highly qualified physicians and developing provider networks help to establish our facilities as an important source of quality healthcare in their respective communities. Hospital Utilization We believe that the most important factors relating to the overall utilization of a hospital include the quality and market position of the hospital and the number, quality and specialties of physicians providing patient care within the facility. Generally, we believe 
+2 
+that the ability of a hospital to meet the health care needs of its community is determined by its breadth of services, level of technology, emphasis on quality of care and convenience for patients and physicians. Other factors that affect utilization include general and local economic conditions, market penetration of managed care programs, the degree of outpatient use, the availability of reimbursement programs such as Medicare and Medicaid, and demographic changes such as the growth in local populations. Utilization across the industry also is being affected by improvements in clinical practice, medical technology and pharmacology. Current industry trends in utilization and occupancy have been significantly affected by changes in reimbursement policies of third party payers. We are also unable to predict the extent to which these industry trends will continue or accelerate. In addition, our acute care services business is typically subject to certain seasonal fluctuations, such as higher patient volumes and net patient service revenues in the first and fourth quarters of the year. Sources of Revenue We receive payments for services rendered from private insurers, including managed care plans, the federal government under the Medicare program, state governments under their respective Medicaid programs and directly from patients. See Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations Sources of Revenue for additional disclosure. Other information related to our revenues, income and other operating information for each reporting segment of our business is provided in Note 12 to our Consolidated Financial Statements, Segment Reporting. Regulation and Other Factors Overview: The healthcare industry is subject to numerous laws, regulations and rules including, among others, those related to government healthcare participation requirements, various licensure and accreditations, reimbursement for patient services, health information privacy and security rules, and Medicare and Medicaid fraud and abuse provisions (including, but not limited to, federal statutes and regulations prohibiting kickbacks and other illegal inducements to potential referral sources, false claims submitted to federal or state health care programs and self-referrals by physicians). Providers that are found to have violated any of these laws and regulations may be excluded from participating in government healthcare programs, subjected to significant fines or penalties and/or required to repay amounts received from the government for previously billed patient services. Although we believe our policies, procedures and practices comply with governmental regulations, no assurance can be given that we will not be subjected to additional governmental inquiries or actions, or that we would not be faced with sanctions, fines or penalties if so subjected. Even if we were to ultimately prevail, a significant governmental inquiry or action under one of the above laws, regulations or rules could have a material adverse impact on us. Licensing, Certification and Accreditation: All of our U.S. hospitals are subject to compliance with various federal, state and local statutes and regulations in the U.S. and receive periodic inspection by state licensing agencies to review standards of medical care, equipment and cleanliness. Our hospitals must also comply with the conditions of participation and licensing requirements of federal, state and local health agencies, as well as the requirements of municipal building codes, health codes and local fire departments. Various other licenses and permits are also required in order to dispense narcotics, operate pharmacies, handle radioactive materials and operate certain equipment. Our facilities in the United Kingdom are also subject to various laws and regulations. All of our eligible hospitals have been accredited by The Joi
+
+## GEOGRAPHIC REVENUE
+thout a corresponding increase in our revenues. Competition The health care industry is highly competitive. In recent years, competition among healthcare providers for patients has intensified in the United States due to, among other things, regulatory and technological changes, increasing use of managed care payment systems, cost containment pressures and a shift toward outpatient treatment. In all of the geographical areas in which we operate, there are other facilities that provide services comparable to those offered by our facilities. In addition, some of our competitors include hospitals that are owned by tax-supported governmental agencies or by nonprofit corporations and may be supported by endowments and charitable contributions and exempt from property, sale and income taxes. Such exemptions and support are not available to us. In some markets, certain of our competitors may have greater financial resources, be better equipped and offer a broader range of services than us. Certain hospitals that are located in the areas served by our facilities are specialty or large hospitals that provide medical, surgical and behavioral health services, facilities and equipment that are not available at our hospitals. The increase in 
+10 
+outpatient treatment and diagnostic facilities, including outpatient surgical centers and addiction treatment centers offering medically assisted treatments, also increases competition for us. In addition, some of our hospitals face competition from hospitals or surgery centers that are physician owned. In addition, we depend on the efforts, abilities, and experience of our medical support personnel, including our nurses and other health care professionals, as well as non-professionals such as mental health technicians. We compete with other health care providers in recruiting and retaining qualified hospital management, nurses and other medical personnel. Certain states in which we operate hospitals have CON laws. The application process for approval of additional covered services, new facilities, changes in operations and capital expenditures is, therefore, highly competitive in these states. In those states that do not have CON l
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

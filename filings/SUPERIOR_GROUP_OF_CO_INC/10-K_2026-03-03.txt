@@ -1,0 +1,185 @@
+# SUPERIOR GROUP OF CO INC — 10-K Annual Report
+# Filed: 2026-03-03
+# CIK: 95574
+# SIC: Apparel & Other Finishd Prods of  Fabrics & Similar Matl
+# Source: https://www.sec.gov/Archives/edgar/data/95574/000143774926006653/sgc20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+2
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+7 
+Item 1B. 
+Unresolved Staff Comments 
+20 
+Item 1C. 
+Cybersecurity 
+20 
+Item 2. 
+Properties 
+21 
+Item 3. 
+Legal Proceedings 
+21 
+Item 4. 
+Mine Safety Disclosures 
+21 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+22 
+Item 6. 
+Reserved 
+23 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+24 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+34 
+Item 8. 
+Financial Statements and Supplementary Data 
+35 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+71 
+Item 9A. 
+Controls and Procedures 
+71 
+Item 9B. 
+Other Information 
+72 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+72 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+73 
+Item 11. 
+Executive Compensation 
+73 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+73 
+Item 13. 
+Certain Relationships and Related Transactions and Director Independence 
+73 
+Item 14. 
+Principal Accountant Fees and Services 
+73 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+74 
+Item 16. 
+Form 10-K Summary 
+77 
+SIGNATURES 
+78 
+Table of Contents 
+PART I 
+Special Note Regarding Forward-Looking Statements 
+Certain matters discussed in this Form 10-K are forward-looking statements intended to qualify for the safe harbors from liability established by the Private Securities Litigation Reform Act of 1995. These forward-looking statements can generally be identified by use of the words may, will, should, could, expect, anticipate, estimate, believe, intend, project, potential, or plan or the negative of these words or other variations on these words or comparable terminology. Forward-looking statements in this Form 10-K may include, without limitation: (1) projections of revenue, income, and other items relating to our financial position and results of operations, including short term and long term plans for cash, (2) statements of our plans, objectives, strategies, goals and intentions, (3) statements regarding the capabilities, capacities, market position and expected development of our business operations and (4) statements of expected industry and general economic trends. 
+Such forward-looking statements are subject to certain risks and uncertainties that may materially adversely affect the anticipated results. Such risks and uncertainties include, but are not limited to, the following: the impact of competition; uncertainties related to tariffs, duties, trade wars and related matters, supply disruptions, inflationary environments (including with respect to shipping costs and the cost of finished goods and raw materials and shipping costs), employment levels (including labor shortages), and general economic and political conditions in the areas of the world in which the Company operates or from which it sources its supplies or the areas of the United States of America ( U.S. or United States ) in which the Company s customers are located; changes in the healthcare, retail chain, food service, transportation and other industries where uniforms and service apparel are worn; our ability to identify suitable acquisition targets, discover liabilities associated with such businesses during the diligence process, successfully integrate any acquired businesses, or successfully manage our expanding operations; the price and availability of raw materials; attracting and retaining senior management and key personnel; the Company s ability to maintain effective internal control over financial reporting; and other factors described in the Company s filings with the Securities and Exchange Commission (the "SEC"), including those risks described in Item 1A of this Annual Report on Form 10-K for the fiscal year ended December 31, 2025 entitled "Risk Factors" and the other disclosure contained herein. Shareholders, potential investors and other readers are urged to consider these factors carefully in evaluating the forward-looking statements made herein and are cautioned not to place undue reliance on such forward-looking statements. The forward-looking statements made herein are only made as of the date of this Form 10-K and we disclaim any obligation to publicly update such forward-looking statements to reflect subsequent events or circumstances, except as may be required by law. 
+Table of Contents 
+Item 1. Business 
+Overview 
+Superior Group of Companies, Inc. (together with its subsidiaries, the Company, Superior, we, our, or us ) was organized in 1920 and was incorporated in 1922 as a New York company under the name Superior Surgical Mfg. Co., Inc. In 1998, Superior Surgical Mfg. Co. changed its name to Superior Uniform Group, Inc. and redomiciled to Florida. Effective on May 3, 2018, Superior Uniform Group, Inc. changed its name to Superior Group of Companies, Inc. 
+Superior is comprised of three reportable business segments: (1) Branded Products, (2) Healthcare Apparel, and (3) Contact Centers. 
+Superior s Branded Products segment, primarily through its signature marketing brands BAMKO and HPI , produces and sells customized merchandising solutions, promotional products and branded uniform programs. Branded products are manufactured through third parties or in Superior s own facilities, and are sold to customers in a wide range of industries, including retail chain, food service, entertainment, technology, transportation and other industries. The segment currently has sales offices or operations in the United States, Canada and Brazil, with support services in China and India. 
+Superior s Healthcare Apparel segment, primarily through its portfolio of brands Wink and Fashion Seal Healthcare , its trade name CID Resources and its license of Carhartt Medical, manufactures (through third parties or in its own facilities) and sells a wide range of healthcare apparel, such as scrubs, lab coats, protective apparel and patient apparel. This segment sells its products to healthcare laundries, dealers, distributors, retailers and consumers primarily in the United States. 
+Superior s Contact Centers segment, through multiple The Office Gurus entities (collectively, "TOG"), including subsidiaries in El Salvador, Belize, Dominican Republic, the United States and Jamaica until its closure on June 15, 2025, provides outsourced, nearshore and onshore business process outsourcing, contact and call-center support services to North American customers. 
+2
+Table of Contents 
+Products 
+The Company produces and manufactures (through third parties or in its own facilities) and sells a wide range of promotional products and branded uniforms in its Branded Products segment and healthcare apparel and accessories in its Healthcare Apparel segment. 
+The Company s principal products segments are: 
+Branded Products Segment: 
+Customized products to support: 
+Branded marketing programs; 
+Gifts with purchase; 
+Branded uniform programs; 
+Corporate awards, incentives and recognition programs; 
+Event promotions; 
+Employee and consumer rewards and incentives; and 
+Specialty packaging and displays. 
+Healthcare Apparel Segment: 
+Career and service apparel for personnel of hospitals and healthcare facilities, such as: 
+Fashionable scrubs; 
+Institutional scrubs; 
+Laboratory coats; 
+Patient gowns; 
+Miscellaneous products for use by linen suppliers and industrial launderers (e.g. industrial laundry bags); 
+Clean room apparel; 
+Personal protective equipment (e.g.: isolation gowns and barrier fabric lab wear); and 
+Other mission-critical apparel to healthcare laundries, institutions and professionals. 
+Our products are either distributed through our distribution centers in the United States or shipped directly from our vendors to our customers. 
+For a depiction of net sales from external customers and Segment EBITDA by segment for the years ended December 31, 2025 and 2024, please refer to Note 2 to our Consolidated Financial Statements included in Part II, Item 8 ( Financial Statements and Supplementary Data ) (collectively referred to as Financial Statements, and individually referred to as statements of comprehensive income (loss), balance sheets, statements of shareholders equity, and statements of cash flows herein). 
+During the years ended December 31, 2025 and 2024, our Branded Products segment accounted for approximately 64% and 62%, respectively, of net sales. During the years ended December 31, 2025 and 2024, our Healthcare Apparel segment accounted for approximately 20% and 21%, respectively, of net sales. 
+For more information on our reportable business segments, please refer to Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations Business Outlook, which disclosure is incorporated herein by reference. 
+Services 
+Through the recruitment and employment of highly qualified English, Spanish and bilingual-speaking agents, we provide outsourced, nearshore and onshore business process outsourcing, contact and call-center support services to North American customers in our Contact Centers segment. During the years ended December 31, 2025 and 2024, our Contact Centers segment accounted for approximately 16% and 17%, respectively of net sales. 
+3
+Table of Contents 
+Competition 
+Superior competes in its Branded Products segment with a multitude of national and regional companies, such as, BDA, Inc., HALO Branded Solutions, Inc., Staples, Inc., Cimpress PLC, HH Global Group Limited, Lands End, Inc. and Workwear Outfitters, LLC. Superior also competes with local firms in most major metropolitan areas. The nature and degree of competition varies with the customer and the market. We believe our creative services, product development, proprietary web and technology capabilities and extensive global sourcing network, along with our major brands, enable us to be competitive and grow in this market. 
+Major competitors for our Healthcare Apparel segment include companies such as Medline Industries, Inc., Careismatic Brands, Barco Uniforms, Inc., FIGS, Inc., Encompass Medical and Standard Textile Co., Inc. We are a significant supplier of patient and caregiver apparel to hospitals, laundries and distributors that service hospitals and consumers. We believe that the strength of our brands and marketing, coupled with the quality of our products, allows us to compete effectively. 
+The market in which our Contact Centers segment operates has evolved into a global multi-billion dollar marketplace that is highly competitive and fragmented. TOG s competitors in the Contact Centers segment range in size from very small firms offering specialized services or short-term project completion to very large firms, and include the in-house operations of many customers and potential customers. We compete directly and indirectly with various companies that provide contact center and other business process solutions on an outsourced basis such as TaskUs, Inc., Transparent BPO, Concentrix + Webhelp, Focus Services LLC, Ubiquity, CCI and RDI. TOG also competes with local entities in other offshore locations. The list of potential competitors includes both publicly traded and privately held companies. 
+Resources Material to Our Business 
+Raw Materials 
+The principal fabrics used in the manufacture of finished apparel goods for Superior s Branded Products segment and Healthcare Apparel segments are cotton, polyester, spandex, cotton-synthetic and poly-synthetic blends. The majority of such fabrics are sourced in China. If Superior or its suppliers are unable to source raw materials from China, it could significantly disrupt Superior s business as it also would for many of our competitors. 
+Superior does not have a concentration of suppliers of finished apparel in any single country or region of the world, however, it does contract to manufacture or source the majority of its apparel in the following countries: Bangladesh, China, Haiti, Madagascar, Vietnam and the United States. Additionally, we generally source or manufacture apparel in parts of the world that may be affected by economic uncertainty, political unrest, labor disputes, health emergencies, natural disasters or the imposition of duties, tariffs or other import regulations by the United States. The Company believes that its vast redundant network of suppliers, including its own manufacturing facilities in Haiti, provide sufficient capacity to mitigate most dependency risks on a single supplier. 
+The Branded Products segment also relies on the supply of other types of raw materials, including plastic, glass and metal. The vast majority of these raw materials are principally sourced from China, either directly by BAMKO or its suppliers. If we are unable to continue to obtain our raw materials and finished products from China or if our suppliers are unable to source raw materials from China, it could significantly disrupt our business. 
+Prices within the promotional products industry can be directly affected by the cost of raw materials. The market for promotional products is price sensitive and has historically exhibited price and demand cyclicality. The Branded Products segment has flexibility in its suppliers, as other suppliers of the same or similar products are widely available. Additionally, the nature of the promotional products industry is such that should specific types of raw materials undergo significant cost increases, it is possible that alternative products using different materials could be utilized for similar promotional activities. However, if cost increases cannot be entirely passed on to customers and alternative suppliers or suitable product alternatives are unavailable, profit margins could decline. 
+4
+Table of Contents 
+Intellectual Property 
+Superior owns and uses several trade names, trademarks and service marks relating to its brands that have significant value and are instrumental to its ability to market its products. Superior s most significant trade names are BAMKO and HPI within the Branded Products segment, CID Resources within the Healthcare Apparel segment and The Office Gurus within the Contact Centers segment. Superior s most significant trademarks, which are critically important to the marketing and operation of Superior s Healthcare Apparel segment, are Fashion Seal Healthcare and Wink . 
+Seasonal Fluctuations 
+Our results of operations have not historically reflected material seasonal tendencies and we do not believe that seasonal fluctuations will have a material impact on us in the foreseeable future. 
+Effects of Compliance with Government Regulations 
+Trade Regulations 
+As disclosed above, the Company s suppliers generally source or manufacture finished goods in parts of the world that may be affected by the imposition of duties, tariffs or other import regulations by the United States. The Company
+
+## GEOGRAPHIC REVENUE
+inican Republic, the United States and Jamaica until its closure on June 15, 2025, provides outsourced, nearshore and onshore business process outsourcing, contact and call-center support services to North American customers. 
+2
+Table of Contents 
+Products 
+The Company produces and manufactures (through third parties or in its own facilities) and sells a wide range of promotional products and branded uniforms in its Branded Products segment and healthcare apparel and accessories in its Healthcare Apparel segment. 
+The Company s principal products segments are: 
+Branded Products Segment: 
+Customized products to support: 
+Branded marketing programs; 
+Gifts with purchase; 
+Branded uniform programs; 
+Corporate awards, incentives and recognition programs; 
+Event promotions; 
+Employee and consumer rewards and incentives; and 
+Specialty packaging and displays. 
+Healthcare Apparel Segment: 
+Career and service apparel for personnel of hospitals and healthcare facilities, such as: 
+Fashionable scrubs; 
+Institutional scrubs; 
+Laboratory coats; 
+Patient gowns; 
+Miscellaneous products for use by linen suppliers and industrial launderers (e.g. industrial laundry bags); 
+Clean room apparel; 
+Personal protective equipment (e.g.: isolation gowns and barrier fabric lab wear); and 
+Other mission-critical apparel to healthcare laundries, institutions and professionals. 
+Our products are either distributed through our distribution centers in the United States or shipped directly from our vendors to our customers. 
+For a depiction of net sales from external customers and Segment EBITDA by segment for the years ended December 31, 2025 and 2024, please refer to Note 2 to our Consolidated Financial Statements included in Part II, Item 8 ( Financial Statements and Supplementary Data ) (collectively referred to as Financial Statements, and individually referred to as statements of comprehensive income (loss), balance sheets, statements of shareholders equity, and statements of cash flows herein). 
+During the years ended December 31, 2025 and 2024, our Branded Products segment accounted for approximately 64% and 62%, respectively, of net sales. During the years ended December 31, 2025 and
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customer. Furthermore, if any of our customers experience a significant downturn in their business, or fail to remain committed to our programs or brands, such customers may reduce or discontinue purchases from us, which has happened. The reduction in the amount of our products purchased by customers could have a material adverse effect on our business, results of operations or financial condition. 
+In addition, some of our customers have, from time to time, experienced significant changes and difficulties, including changes in ownership, increased centralization of buying decisions, buyer turnover, restructurings, bankruptcies and liquidations. A significant adverse change in a customer relationship or in a customer s financial position could cause us to limit or discontinue business with that customer, require us to assume more credit risk relating to that customer s receivables or limit our ability to collect amounts related to previous purchases by that customer, all of which could have a material adverse effect on our business, results of operations or financial condition. 
+If we experience problems with our distribution systems, our ability to meet customer expectations, manage inventory and complete sales may be harmed. 
+Our products are distributed through third-party logistics centers or our own distribution centers, or are shipped directly from our vendors to our customers. Our distribution centers and storage locations, as well as those operated by third parties, include computer-controlled and automated equipment and rely on warehouse management systems to manage supply chain fulfillment operations, which means these operations are complicated, require coordination between distribution centers and storage locations and are subject to a number of risks related to cybersecurity, the proper operation of software and hardware, including connections between software and/or hardware, electronic or power interruptions and other system failures. We maintai
+
+---
+Doc size: 1617KB (capped at 2MB)

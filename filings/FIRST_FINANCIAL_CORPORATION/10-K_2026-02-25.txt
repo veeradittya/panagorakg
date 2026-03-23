@@ -1,0 +1,134 @@
+# FIRST FINANCIAL CORPORATION — 10-K Annual Report
+# Filed: 2026-02-25
+# CIK: 36029
+# SIC: State Commercial Banks
+# Source: https://www.sec.gov/Archives/edgar/data/36029/000119312526071549/ffin-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+16 
+ITEM 1B. 
+Unresolved Staff Comments 
+29 
+ITEM 1C. 
+Cybersecurity 
+30 
+ITEM 2. 
+Properties 
+31 
+ITEM 3. 
+Legal Proceedings 
+31 
+ITEM 4. 
+Mine Safety Disclosures 
+31 
+31 
+PART II 
+ITEM 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+32 
+ITEM 6. 
+[Reserved] 
+34 
+ITEM 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+35 
+ITEM 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+54 
+ITEM 8. 
+Financial Statements and Supplementary Data 
+54 
+ITEM 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+56 
+ITEM 9A. 
+Controls and Procedures 
+56 
+ITEM 9B. 
+Other Information 
+58 
+ITEM 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+58 
+PART III 
+ITEM 10. 
+Directors, Executive Officers and Corporate Governance 
+59 
+ITEM 11. 
+Executive Compensation 
+59 
+ITEM 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+59 
+ITEM 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+59 
+ITEM 14. 
+Principal Accountant Fees and Services 
+59 
+PART IV 
+ITEM 15. 
+Exhibit and Financial Statement Schedules 
+60 
+ITEM 16. 
+Form 10-K Summary 
+62 
+SIGNATURES 
+63 
+i 
+Table of Contents 
+PART I CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS This Form 10-K contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. When used in this Form 10-K, words such as anticipate, believe, estimate, expect, intend, predict, project, could, may, or would and similar expressions, as they relate to us or our management, identify forward-looking statements. These forward-looking statements are based on information currently available to our management. Actual results could differ materially from those contemplated by the forward-looking statements as a result of certain factors, including, but not limited, to those listed in Item 1A-Risk Factors and the following: general economic conditions, including our local, state and national real estate markets and employment trends; the effects of and changes in trade, monetary and fiscal policies and laws, including interest rate policies of the Board of Governors of the Federal Reserve System (the Federal Reserve Board ); effect of severe weather conditions, including hurricanes, tornadoes, flooding and droughts; volatility and disruption in national and international financial and commodity markets; government intervention in the U.S. financial system including the effects of recent legislative, tax, accounting and regulatory actions and reforms, including the Coronavirus Aid, Relief, and Economic Security Act (the CARES Act ), the Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act ), the Jumpstart Our Business Startups Act, the Consumer Financial Protection Bureau ( CFPB ), the Inflation Reduction Act of 2022, the capital ratios of Basel III as adopted by the federal banking authorities, the Tax Cuts and Jobs Act, and the One Big Beautiful Bill Act; political or social unrest and economic instability; the ability of the federal government to address the national economy; changes in our competitive environment from other financial institutions and financial service providers; the effect of changes in accounting policies and practices, as may be adopted by the regulatory agencies, as well as the Public Company Accounting Oversight Board ( PCAOB ), the Financial Accounting Standards Board ( FASB ) and other accounting standard setters; effect of a pandemic, epidemic, or highly contagious disease, on our Company, the communities where we have our branches, the state of Texas and the United States, related to the economy and overall financial stability, including disruptions to supply channels and labor availability; government and regulatory responses to a pandemic, epidemic, or highly contagious disease; the effect of changes in laws and regulations (including laws and regulations concerning taxes, banking, securities and insurance) with which we and our subsidiaries must comply; the costs, effects and results of regulatory examinations, investigations or reviews and the ability to obtain required regulatory approvals; changes in the demand for loans, including loans originated for sale in the secondary market; fluctuations in the value of collateral securing our loan portfolio and in the level of the allowance for credit losses; the accuracy of our estimates of future credit losses; the accuracy of our estimates and assumptions regarding the performance of our securities portfolio, including securities with a current unrealized loss; inflation, interest rate, market and monetary fluctuations; soundness of other financial institutions with which we have transactions; changes in consumer spending, borrowing and savings habits; changes in commodity prices (e.g., oil and gas, cattle, and wind energy); our ability to attract deposits, maintain and/or increase market share; 
+1 
+Table of Contents 
+changes in our liquidity position; including a result of a reduction in the amount of sources of liquidity we currently have; fluctuations in the market value and liquidity of the investment securities we have classified as held-for-sale ("HFS"), including the effects of changes in market interest rates; changes in the reliability of our vendors, internal control system or information systems; cyber-attacks on our technology information systems, including fraud from our customers and external third-party vendors; our ability to attract and retain qualified employees; acquisitions and integration of acquired businesses; the possible impairment of goodwill and other intangibles associated with our acquisitions; consequences of continued bank mergers and acquisitions in our market area, resulting in fewer but much larger and stronger competitors; expansion of operations, including branch openings, new product offerings and expansion into new markets; changes in our compensation and benefit plans; acts of God or of war or terrorism; the impact of changes to the global climate and its effect on our operations and customers; potential risk of environmental liability associated with lending activities; the rise of Artificial Intelligence as a commonly used resource; and our success at managing the risk involved in the foregoing items. In addition, financial markets and global supply chains may continue to be adversely affected by the current or anticipated impact of military conflict, including the current Russian invasion of Ukraine, the Israel-Palestine conflict and other world events, terrorism or other geopolitical events. Such forward-looking statements reflect the current views of our management with respect to future events and are subject to these and other risks, uncertainties and assumptions relating to our operations, results of operations, growth strategies and liquidity. All subsequent written and oral forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by this paragraph. We undertake no obligation to publicly update or otherwise revise any forward-looking statements, whether as a result of new information, future events or otherwise (except as required by law). 
+2 
+Table of Contents 
+IT EM 1. 
+BUSINESS 
+General First Financial Bankshares, Inc., a Texas corporation (the Company ), is a financial holding company registered under the Bank Holding Company Act of 1956, as amended, or BHCA. As such, we are supervised by the Federal Reserve Board, as well as several other bank regulators. We were formed as a bank holding company in 1956 under the original name F & M Operating Company, but our banking operations date back to 1890, when Farmers and Merchants National Bank opened for business in Abilene, Texas. As of December 31, 2025, our wholly-owned subsidiaries, all of which are headquartered in Abilene, Texas, were: First Financial Bank; First Technology Services, Inc., a wholly-owned subsidiary of First Financial Bank; FFB Investment Paris Fund, LLC, a wholly-owned subsidiary of First Financial Bank; FFB Portfolio Management, Inc., a wholly-owned subsidiary of First Financial Bank; First Financial Trust & Asset Management Company; and First Financial Insurance Agency, Inc. Through our subsidiaries, we conduct a full-service commercial banking business. Our banking centers are located primarily in Central, North Central, Southeast and West Texas. As of December 31, 2025, we had 79 financial centers across Texas, with ten locations in Abilene, five locations in Bryan/College Station, three locations in Weatherford, two locations in Cleburne, Conroe, San Angelo, Stephenville, and Granbury, and one location each in Acton, Albany, Aledo, Alvarado, Beaumont, Boyd, Bridgeport, Brock, Burleson, Cisco, Clyde, Cut and Shoot, Decatur, Eastland, El Campo, Fort Worth, Franklin, Fulshear, Glen Rose, Grapevine, Hereford, Huntsville, Keller, Kingwood, Lumberton, Magnolia, Mauriceville, Merkel, Midlothian, Mineral Wells, Montgomery, Moran, New Waverly, Newton, Odessa, Orange, Palacios, Port Arthur, Ranger, Rising Star, Roby, Southlake, Spring, Sweetwater, Tomball, Trent, Trophy Club, Vidor, Waxahachie, Willis and Willow Park. Additionally, we operate mortgage loan offices in Austin and Addison, as well as Trust offices in Abilene, Beaumont, Bryan/College Station, Fort Worth, Houston, Odessa, San Angelo, Stephenville and Sweetwater. Even though we operate in a growing number of Texas markets, we continue to believe that decisions are best made at the local level. Although we consolidated our bank charters into one charter in 2012, we continue to regionally manage our operations with local advisory boards of directors, local regional presidents and local decision-making processes. We have consolidated substantially all of the non-customer facing operations, such as managing investment securities, accounting, check processing, compliance and credit administration, risk management, treasury management, marketing, customer contact center, technology, training and human resources, which improved our efficiency and allows the regions to concentrate on serving the banking needs of their local communities. We have chosen to keep our Company focused on the State of Texas, one of the nation s largest, fastest-growing and most economically diverse states. With approximately 31.7 million residents as of December 31, 2024, Texas has more people than any other state except California. The population of Texas grew 17.60% from 2014-2024 according to the U.S. Census Bureau. Many of the communities in which we operate are also experiencing positive growth as shown below: Population Growth 2014-2024 by City and County* 
+Bridgeport and Wise County 
+31.7 
+% 
+Fort Worth and Tarrant County 
+14.6 
+% 
+Bryan/College Station and Brazos County 
+19.5 
+% 
+Granbury and Hood County 
+28.5 
+% 
+Cleburne and Johnson County 
+34.3 
+% 
+Stephenville and Erath County 
+9.8 
+% 
+Conroe and Montgomery County 
+45.0 
+% 
+Weatherford, Willow Park, Aledo and Parker County 
+47.1 
+% 
+*Source: U. S. Census Bureau 
+These economies include dynamic centers of higher education, agriculture, wind energy and natural resources, retail, military, technology, healthcare, tourism, retirement living, manufacturing and distribution, lumber and fishing. We believe our community approach to doing business works best for us in small and mid-size markets, where we can play a prominent role in the economic, civic and cultural life of the community. Our goal is to serve these communities well and to benefit from the growth as these markets continue to expand. In many instances, banking competition is less intense in smaller markets, making it easier for us to operate rationally and attract and retain high-caliber employees who prefer not only our community-bank concept but the high quality of life in smaller cities. 
+3 
+Table of Contents 
+Over the years, we have grown in three ways: by growing organically, by opening new branch locations and by acquiring other banks. Since 1997, we have completed fourteen bank acquisitions and have increased our total assets from $1.57 billion to $15.45 billion as of December 31, 2025. Looking ahead, we intend to continue to grow organically by serving the needs of our customers and putting them first in all of our decisions. We continually evaluate branch locations in our current communities as well as new markets and we remain interested in pursuing opportunities to acquire high quality banks in the future. When considering banks for acquisition, the subject bank generally needs to be well managed and profitable and align with our corporate culture. We have traditionally served rural and suburban communities and seek to enter growing communities consistent with our legacy markets. Generally we focus on non-metropolitan markets, either around Dallas/Fort Worth, Houston, San Antonio or Austin or along the Interstate 35, 45, 10 and 20 corridors in Texas as well as in East Texas and the Texas Hill Country area. Banks between $1.0 billion and $5.0 billion in asset size fit our sweet spot for acquisition, but we would consider banks that are larger or that are in other areas of Texas if we believe they would be a cultural and financial fit for our Company. Information on our financial condition and operating results appears in Management s Discussion and Analysis of Financial Condition and Results of Operations contained in Item 7 hereof. First Financial Bankshares, Inc. We provide management, technical resources and policy direction to our subsidiaries, which enable them to improve or expand their services while continuing their local activity and identity. Each of our subsidiaries operates under the day-to-day management of its own board of directors and officers. Our bank and subsidiaries have separate boards and the regions of the bank are guided by advisory boards of directors who are selected by the Company's board of directors. In particular, we assist our subsidiaries with, among other things, decisions concerning major capital expenditures, insurance, finance and accounting, strategic planning, employee benefits, including retirement plans and group medical coverage, dividend policies, capital planning, and appointment of officers and directors, including advisory directors, and their compensation. We also perform, through corporate staff groups or by outsourcing to third-parties, oversight of our subsidiaries. We provide advice and specialized services for our bank regions related to lending, investing, purchasing, advertising, public relations, and technology services. We evaluate various potential financial institution acquisition opportunities and recommend approval to the board for potential locations for
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers or competitors. The stock market and in particular, the market for financial institution stocks have experienced substantial fluctuations in recent years, which in many cases have been unrelated to the operating performance and prospects of particular companies. General market fluctuations, industry factors and general economic and political conditions and events, such as economic slowdowns or recessions, interest rate changes or credit loss trends could also cause the Company s stock price to decrease regardless of operational results An investment in our common stock is not an insured deposit. Our common stock is not a bank deposit and, therefore, is not insured against loss by the FDIC, any other deposit insurance fund, or by any other public or private entity. Investment in our common stock is inherently risky for the reasons described in this Risk Factors section and elsewhere in this Report. As a result, if you acquire our common stock, you may lose some or all of your investment. General Risk Factors If we are unable to continue our historical levels of growth, we may not be able to maintain our historical earnings trends. To achieve our past levels of growth, we have focused on both internal growth and acquisitions. We may not be able to sustain our historical rate of growth or may not be able to grow at all. Additionally, we may not be able to obtain the financing necessary to fund additional growth and may not be able to find suitable acquisition candidates. Various factors, such as economic conditions, competition and heightened regulatory scrutiny, may impede or prohibit the opening of new banking centers and the completion of acquisitions. Further, we may be unable to attract and retain experienced bankers, which could adversely affect our internal growth. If we are not able to continue our historical levels of growth, we may not be able to maintain our historical earnings trends. ITE M 1B. UNRESOLVED STAFF COMMENTS None. 
+29 
+Tabl
+
+---
+Doc size: 2039KB (capped at 2MB)

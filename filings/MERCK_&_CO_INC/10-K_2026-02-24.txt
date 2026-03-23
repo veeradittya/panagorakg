@@ -1,0 +1,14 @@
+# MERCK & CO INC — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 310158
+# SIC: Pharmaceutical Preparations
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+26 Cautionary Factors that May Affect Future Results 41 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment"> mrk:segment mrk:aqua_facility xbrli:pure mrk:antibodyDrugConjugate mrk:candidate mrk:site mrk:interest_rate_swap iso4217:EUR mrk:case mrk:company mrk:patent 0000310158 2025-01-01 2025-12-31 0000310158 us-gaap:CommonStockMember 2025-01-01 2025-12-31 0000310158 mrk:A1.875Notesdue2026Member 2025-01-01 2025-12-31
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

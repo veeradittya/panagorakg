@@ -1,0 +1,99 @@
+# ARMSTRONG WORLD INDS INC NEW — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 7431
+# SIC: Plastics Products, NEC
+# Source: https://www.sec.gov/Archives/edgar/data/7431/000119312526065183/awi-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+5
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+11 
+Item 1B. 
+Unresolved Staff Comments 
+19 
+Item 1C. 
+Cybersecurity 
+19 
+Item 2. 
+Properties 
+20 
+Item 3. 
+Legal Proceedings 
+20 
+Item 4. 
+Mine Safety Disclosures 
+21 
+PART II 
+Item 5. 
+Market for the Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+22 
+Item 6. 
+[Reserved] 
+22 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+23 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+34 
+Item 8. 
+Financial Statements and Supplementary Data 
+35 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+81 
+Item 9A. 
+Controls and Procedures 
+81 
+Item 9B. 
+Other Information 
+81 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+81 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+82 
+Item 11. 
+Executive Compensation 
+82 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+83 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+83 
+Item 14. 
+Principal Accountant Fees and Services 
+83 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+84 
+Item 16. 
+Form 10-K Summary 
+86 
+Signatures 
+87 
+2 
+When we refer to AWI, the Company, we, our or us, we are referring to Armstrong World Industries, Inc. and its subsidiaries. CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS Certain statements in this Annual Report on Form 10-K and the documents incorporated by reference herein may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Those forward-looking statements are subject to various risks and uncertainties and include all statements that are not historical statements of fact and those regarding our intent, belief or expectations, including, but not limited to, our expectations concerning our markets and demand for our products, tariffs, broader economic conditions and their effect on our operating results; our expectations regarding the payment of dividends and stock repurchases; and our ability to increase revenues, earnings and earnings before interest, taxes, depreciation and amortization. Words such as anticipate, estimate, expect, project, intend, plan, believe, outlook, target, predict, may, will, would, could, should, seek, and similar expressions are intended to identify such forward-looking statements. These statements are based on management s current expectations and beliefs and are subject to a number of factors that could lead to actual results materially different from those described in the forward-looking statements. Although we believe that the assumptions underlying the forward-looking statements are reasonable, we can give no assurance that our expectations will be attained. Factors that could have a material adverse effect on our financial condition, liquidity, results of operations or future prospects or which could cause actual results to differ materially from our expectations include, but are not limited to: Risks Related to Our Operations changes in key customer relationships; availability and costs of manufacturing inputs or sourced products, which may be impacted by governmental trade policies, including tariffs, geopolitical events, and other supply chain disruptions or inflationary pressures; financial contribution of Worthington Armstrong Venture ( WAVE ), our joint venture with Worthington Enterprises, Inc.; ability to achieve productivity and cost savings initiatives; labor costs, relations and shortages; regulatory, financial and stakeholder expectation risks related to climate change and other sustainability matters, including progress towards meeting sustainability goals; Risks Related to Our Strategy ability to achieve benefits from strategic initiatives, including investments in product innovation and digitalization; identification, completion and successful integration of strategic transactions; Risks Related to Financial Matters ability to meet liquidity needs and indebtedness; ability to make dividend payments and stock repurchases; unanticipated negative tax consequences; changes in defined benefit plan obligations; Risks Related to Legal and Regulatory Matters claims, litigation and regulatory actions; environmental liability exposure and related regulatory compliance costs; effectiveness of intellectual property rights protection; operations in Canada and Latin America; Risks Related to General Economic and Other Factors changing economic conditions; construction activity; market competition; 
+3 
+continued customer consolidation; information technology disruptions and cybersecurity breaches; dependence on third-party vendors and suppliers; geographic concentration; public health epidemics or pandemics; and other risks detailed from time to time in our filings with the Securities and Exchange Commission (the SEC ), press releases and other communications, including those set forth under Risk Factors included elsewhere in this Annual Report on Form 10-K. Such forward-looking statements speak only as of the date they are made. We expressly disclaim any obligation to release publicly any updates or revisions to any forward-looking statements to reflect any change in our expectations with regard thereto or change in events, conditions or circumstances on which any statement is based. 
+4 
+PART I ITEM 1. BUSINESS Armstrong World Industries, Inc. ( AWI or the Company ) is a Pennsylvania corporation incorporated in 1891. When we refer to we, our and us in this report, we are referring to AWI and its subsidiaries. AWI is an Americas leader in the design and manufacture of innovative interior and exterior architectural applications including ceilings, specialty walls and exterior metal solutions. We manufacture and source products made of numerous materials, including mineral fiber, fiberglass, metal, felt, architectural resin and glass, wood, wood fiber and glass-reinforced-gypsum. We also manufacture ceiling suspension system (grid) products through a joint venture with Worthington Enterprises, Inc. called Worthington Armstrong Venture ( WAVE ). Reportable Segments Our operating segments are as follows: Mineral Fiber, Architectural Specialties and Unallocated Corporate. Mineral Fiber produces suspended mineral fiber and fiberglass ceiling systems. Our mineral fiber products offer various performance attributes such as acoustical control, rated fire protection, and energy efficiency, along with other health and sustainability features and aesthetic appeal. Ceiling products are primarily sold to resale distributors, ceiling systems contractors and wholesalers, and retailers (including large home centers). The Mineral Fiber segment also includes the results of WAVE, which manufactures and sells suspension system (grid) products and ceiling component products that are invoiced by both AWI and WAVE. Segment results relating to WAVE consist primarily of equity earnings and reflect our 50% equity interest in the joint venture. Ceiling component products consist of ceiling perimeters and trim, in addition to grid products that support drywall ceiling systems, structural and walkable grid systems. For some customers, WAVE sells its suspension system products to AWI for resale to customers. Mineral Fiber segment results reflect those sales transactions. The Mineral Fiber segment also includes all assets and liabilities not specifically allocated to our Architectural Specialties or Unallocated Corporate segment, including all property and related depreciation associated with our Lancaster, Pennsylvania headquarters. Operating results for the Mineral Fiber segment include a significant majority of allocated Corporate administrative expenses that represent a reasonable allocation of general services to support its operations. Architectural Specialties designs, produces and sources specialty ceilings, walls, and other interior and exterior architectural applications primarily for use in commercial settings. Products are available in numerous materials, such as metal, felt, architectural resin and glass, wood, wood fiber and glass-reinforced-gypsum in various colors, shapes and designs. These products offer a range of design options and performance attributes such as acoustical control, rated fire protection, light, aesthetic appeal, energy conservation and building performance. We sell standard, premium and customized products, a portion of which are sourced from third-party producers. Architectural Specialties products are sold primarily to direct customers, primarily ceiling systems contractors, and resale distributors. This segment s revenues are primarily project driven, which can lead to more variability in sales patterns. Operating results for the Architectural Specialties segment include a portion of allocated Corporate administrative expenses that represent a reasonable allocation of general services to support its operations. Unallocated Corporate includes certain assets, liabilities, income and expenses that have not been allocated to our other business segments and consists of: cash and cash equivalents, our Overcast Innovations LLC investment and related equity earnings and losses, the net funded status of our U.S. Retirement Income Plan ( RIP ), the estimated fair value of interest rate swap contracts, outstanding borrowings under our senior secured credit facility and income tax balances. Overview Our business has been built on providing high-quality, innovative products through a highly effective service model as well as by maintaining strong brand awareness and trust. We are committed to delivering profitable revenue growth, strong cash flow generation and sustainable shareholder value by strengthening our core Mineral Fiber segment and expanding our Architectural Specialties segment into new, adjacent business categories and sectors. Through this strategy, we have delivered consistent growth in mineral fiber sales dollars per unit sold through product innovation, including our Templok energy saving ceiling tiles, Total Acoustics solutions and Sustain family of products, and we have built a broad portfolio of architectural specialties products for ceilings, specialty walls and exterior metal architectural applications. Our growth initiatives continue to focus on market-driven innovation and digital tools to accelerate renovation and further differentiate our products and solutions. In addition, we continue to invest in expanding our Architectural Specialties market and reach capabilities into new adjacencies through both organic investment and acquisitions. 
+5 
+Acquisitions and Investments in Unconsolidated Affiliates In December 2025, we acquired all of the issued and outstanding stock of FGM-Parallel LLC ( Parallel ), based in Englewood, Colorado. Parallel is a designer and manufacturer of extruded aluminum products primarily used in exterior architectural applications. The operations, assets and liabilities of Parallel are included in our Architectural Specialties segment. In September 2025, we acquired all of the issued and outstanding stock of Geometrik Manufacturing, Inc. ( Geometrik ), based in Kelowna, British Columbia, Canada. Geometrik is a designer and manufacturer of wood acoustical ceiling and wall systems. The operations, assets and liabilities of Geometrik are included in our Architectural Specialties segment. In December 2024, we acquired all of the issued and outstanding stock of A. Zahner Company ( Zahner ), based in Kansas City, Missouri. Zahner is a designer and manufacturer of exterior metal architectural solutions. The operations, assets and liabilities of Zahner are included in our Architectural Specialties segment. In April 2024, we acquired all of the issued and outstanding membership interests in 3form, LLC ( 3form ), based in Salt Lake City, Utah from Hunter Douglas, Inc. 3form is a designer and manufacturer of architectural resin and glass products used for specialty walls, partitions and ceilings. The operations, assets and liabilities of 3form are included in our Architectural Specialties segment. In January 2024, we entered into a strategic partnership and equity investment in Overcast Innovations LLC ( Overcast ) with McKinstry Essention, LLC whereby we contributed $5.5 million in exchange for an initial 19.5% ownership interest in Overcast (currently 19.2%). Overcast is a solutions company offering prefabricated ceiling cloud systems, modular grid platforms and engineering design services to reduce waste and inefficiencies in the built environment. Our investment and equity earnings and losses in Overcast are included in our Unallocated Corporate segment. In October 2023, we acquired a portion of the business and certain assets of Insolcorp, LLC ( Insolcorp ), based in Albemarle, North Carolina. Insolcorp develops, tests and manufactures energy saving products deployed in building and roofing installations. The acquired operations, assets and liabilities of Insolcorp are included in our Mineral Fiber segment. In July 2023, we acquired all of the issued and outstanding stock of BOK Modern, LLC ( BOK ), based in San Rafael, California. BOK is a designer of exterior metal architectural solutions. The operations, assets and liabilities of BOK are included in our Architectural Specialties segment. Markets We primarily serve markets in the United States, Canada and Latin America. We believe we are well positioned in the industry sectors and categories in which we operate, often holding a leadership position. Our products compete against mineral fiber and fiberglass ceiling products from other manufacturers, as well as drywall and a wide range of specialty ceiling and exterior metal products. We compete directly with other domestic and international suppliers of these products. The major markets in which we compete are: Commercial Construction. Our revenue opportunities come from new construction as well as renovation of existing buildings. Most of our revenue comes from the following sectors of commercial construction: office (including data centers), education, healthcare, transportation and retail. We closely monitor publicly available macroeconomic data and trends that provide insight into commercial construction market activity, including, but not limited to, gross domestic product ( GDP ), office vacancy rates, the Architecture Billings Index, new commercial construction starts, government spending, corporate profits and retail sales. Our revenue from new construction can lag behind construction starts by as much as 24 months. We believe that these statistics, taking into account the time-lag effect, provide a reasonable indication of our future revenue opportunity from commercial renovation and new construction. Additionally, we believe that customer preferences for product type,
+
+## GEOGRAPHIC REVENUE
+is a designer of exterior metal architectural solutions. The operations, assets and liabilities of BOK are included in our Architectural Specialties segment. Markets We primarily serve markets in the United States, Canada and Latin America. We believe we are well positioned in the industry sectors and categories in which we operate, often holding a leadership position. Our products compete against mineral fiber and fiberglass ceiling products from other manufacturers, as well as drywall and a wide range of specialty ceiling and exterior metal products. We compete directly with other domestic and international suppliers of these products. The major markets in which we compete are: Commercial Construction. Our revenue opportunities come from new construction as well as renovation of existing buildings. Most of our revenue comes from the following sectors of commercial construction: office (including data centers), education, healthcare, transportation and retail. We closely monitor publicly available macroeconomic data and trends that provide insight into commercial construction market activity, including, but not limited to, gross domestic product ( GDP ), office vacancy rates, the Architecture Billings Index, new commercial construction starts, government spending, corporate profits and retail sales. Our revenue from new construction can lag behind construction starts by as much as 24 months. We believe that these statistics, taking into account the time-lag effect, provide a reasonable indication of our future revenue opportunity from commercial renovation and new construction. Additionally, we believe that customer preferences for product type, style, color, performance attributes (such as acoustics, energy efficiency, sustainability and health attributes), availability, affordability and ease of installation also affect our revenue. In our Mineral Fiber segment, we estimate that a majority of our commercial construction market sales are used for existing building renovation purposes by end-users of our products. We classify our renovation opportunities as major renovation projects, which tend to be larger in scope, or repair and remodel projects, which genera
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers, or strategic decisions made in response to economic and competitive conditions. See Notes 9 and 12 to the Consolidated Financial Statements for further information. Environmental Liabilities We are actively involved in the investigation, closure and/or remediation of existing or potential environmental contamination under the Comprehensive Environmental Response, Compensation and Liability Act ( CERCLA ), and state Superfund and similar environmental laws at two domestically owned locations allegedly resulting from past industrial activity. In both cases, we are one of several potentially responsible parties and have agreed to jointly fund the required investigation, while preserving our defenses to the liability. We may also have rights of contribution or reimbursement from other parties or coverage under applicable insurance policies. We provide for environmental remediation costs and penalties when the responsibility to remediate is probable and the amount of associated costs is reasonably determinable. Accruals are estimates based on the judgment of management related to ongoing proceedings. Estimates of our future liability at the environmental sites are based on evaluations of currently available facts regarding each individual site. In determining the probability of contribution, we consider the solvency of other parties, the site activities of other parties, whether liability is being disputed, the terms of any existing agreements and experience with similar matters, and the effect of both our October 2006 Chapter 11 reorganization and separation with AFI upon the validity of the claim. We evaluate the measurement of recorded liabilities each reporting period based on current facts and circumstances specific to each matter. The ultimate losses incurred upon final resolution may materially differ from the estimated liability recorded. Changes in estimates are recorded in earnings in the period in which such changes occur. We are unable
+
+---
+Doc size: 2048KB (capped at 2MB)

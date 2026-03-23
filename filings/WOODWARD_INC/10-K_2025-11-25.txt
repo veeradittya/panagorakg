@@ -1,0 +1,132 @@
+# WOODWARD INC — 10-K Annual Report
+# Filed: 2025-11-25
+# CIK: 108312
+# SIC: Electrical Industrial Apparatus
+# Source: https://www.sec.gov/Archives/edgar/data/108312/000119312525296204/wwd-20250930.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+2
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+8 
+Item 1B. 
+Unresolved Staff Comments 
+20 
+Item 1C. 
+Cybersecurity 
+20 
+Item 2. 
+Properties 
+22 
+Item 3. 
+Legal Proceedings 
+22 
+Item 4. 
+Mine Safety Disclosures 
+22 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+23 
+Item 6. 
+Reserved 
+24 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+25 
+Item 7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+40 
+Item 8. 
+Financial Statements and Supplementary Data 
+42 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+94 
+Item 9A. 
+Controls and Procedures 
+94 
+Item 9B. 
+Other Information 
+95 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+95 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+96 
+Item 11. 
+Executive Compensation 
+96 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+96 
+Item 13. 
+Certain Relationship and Related Transactions, and Director Independence 
+96 
+Item 14. 
+Principal Accountant Fees and Services 
+96 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+97 
+Item 16. 
+Form 10-K Summary 
+100 
+Signatures 
+101 
+Forward-Lookin g Statements This Annual Report on Form 10-K (this "Form 10-K"), including Management s Discussion and Analysis of Financial Condition and Results of Operations, contains forward-looking statements regarding future events and our future results within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are statements that are deemed forward-looking statements. These statements are based on current expectations, estimates, forecasts, and projections about the industries in which we operate and the beliefs and assumptions of management. Words such as anticipate, believe, estimate, seek, goal, expect, forecast, intend, continue, outlook, plan, project, target, strive, can, could, may, should, will, would, variations of such words, and similar expressions are intended to identify such forward-looking statements. In addition, any statements that refer to projections of our future financial performance, our anticipated growth and trends in our businesses, and other characteristics of future events or circumstances are forward-looking statements. Forward-looking statements may include, among others, statements relating to: future sales, earnings, cash flow, uses of cash, and other measures of financial performance, including our assumptions underlying our expectations; trends in our business and the markets in which we operate, including expectations for those markets, our customers and their business and products; our ability to manage risks from operating internationally, including the impacts of tariffs on our markets in which we operate as well as our supply chain; expectations regarding demand for our products, in particular our expectations with respect to natural gas trucks in China; our expected expenses in future periods and trends in such expenses over time; our expectations regarding margins and the impact of specific products, product mix, and our strategic actions on margins; descriptions of our plans and expectations for future operations, including our strategic initiatives and impact of such initiatives; plans and expectations relating to the performance of our joint venture with GE Aerospace; the expected levels of activity in particular industries or markets and the effects of changes in those levels; the scope, nature, or impact of acquisition activity and integration of such acquisition into our business; impact of restructuring activities; the research, development, production, and support of new products and services; our plans, objectives, expectations, and intentions with respect to business opportunities that may be available to us; our liquidity, including our ability to meet capital spending requirements and operations; future dividends and repurchases of common stock; future levels of indebtedness and capital spending; the stability of financial institutions, including those lending to us; pension and other postretirement plan assumptions and future contributions; our tax rate and other effects of the changes in U.S. federal tax law and other tax law; availability of raw materials and components used in our products; expectations relating to environmental and emissions regulations; effects of data privacy, data protection, and cybersecurity regulations; our ability to develop competitive technologies or products and to compete effectively in our markets; our consolidated customer base and ability to enhance customer experience; our ability to manage risks related to U.S. Government contracting, including defense activity and spending patterns; our ability to attract, retain, and develop qualified personnel; our continued access to a stable workforce and our ability to maintain favorable labor relations; our ability to structure our operations in light of evolving market conditions; our ability to mitigate the ongoing impacts of inflation and tariffs; the impact of legal proceedings, investigations, claims and other regulatory proceedings; the impact of future prices for fossil fuels and commodity prices for oil, natural gas, and other minerals; the impact of our ability to protect our intellectual property and technological know-how on our business, financial condition, results of operations, and cash flows; and the impact of any potential physical or cybersecurity attacks and other information technology system or network interruptions or intrusions on our operations, business, including our financial condition, operating results, and reputation. All these forward-looking statements are only predictions and are subject to risks, uncertainties, and assumptions that are difficult to predict and are subject to a number of factors and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Factors that could cause actual results and the timing of certain events to differ materially from the forward-looking statements include the factors described in Item 1A, Risk Factors. We undertake no obligation to revise or update any forward-looking statements for any reason, except as required by applicable law. Unless we have indicated otherwise or the context otherwise requires, references in this Form 10-K to Woodward, the Company, we, us, and our refer to Woodward, Inc. and its consolidated subsidiaries. Except where we have otherwise indicated or the context otherwise requires, amounts presented in this Form 10-K are in thousands, except per share amounts. 
+1 
+Item 1. B usiness General We are an independent designer, manufacturer, and services provider of control solutions for the aerospace and industrial markets. Our innovative fluid energy, combustion control, electrical energy, and motion control systems help customers offer cleaner, more reliable, and more efficient equipment. Our customers include leading original equipment manufacturers and end users of their products. We have production and assembly facilities primarily in the United States, Europe, and Asia, and promote our products and services through our worldwide locations. Our strategic focus is providing energy control and optimization solutions for the aerospace and industrial markets. The precise and efficient control of energy, including motion, fluid, combustion, and electrical energy, is a growing requirement in the markets we serve. Our customers look to us to optimize the efficiency, emissions, and operation of power equipment in both commercial and defense operations. Our core technologies leverage well across our markets and customer applications, enabling us to develop and integrate cost-effective and state-of-the-art fuel, combustion, fluid, actuation, and electronic systems. We focus primarily on serving original equipment manufacturers ( OEMs ) and equipment packagers, partnering with them to bring superior component and system solutions to their demanding applications. We also provide repair, maintenance, replacement, and other services support for our installed products. We have traditionally referred to this part of our business as aftermarket ; however, to better reflect the nature and scope of these offerings, we will now refer to it as services . Woodward was established in 1870, incorporated in 1902, and is headquartered in Fort Collins, Colorado. The mailing address of our world headquarters is 1081 Woodward Way, Fort Collins, Colorado 80524. Our telephone number at that location is (970) 482-5811, and our website is www.woodward.com. None of the information contained on our website is incorporated into this document by reference. Markets and Principal Lines of Business We serve the aerospace and industrial markets through our two reportable segments Aerospace and Industrial . Our customers require technological solutions to meet their needs for performance, efficiency, and reliability, and to reduce cost of operation of their products. Within the aerospace market, we provide systems, components, and solutions for both commercial and defense applications. Our aerospace systems and components optimize the performance of fixed wing and rotorcraft platforms in commercial, business and military aircraft, missiles, weapons and space, ground vehicles, and other equipment. Our key focus areas within this market are propulsion and combustion control solutions for turbine powered aircraft and fluid and motion control solutions for critical aerospace and defense applications. Within the industrial market, our key focus areas are applications and control solutions for machines that produce electricity utilizing conventional or alternative energy sources and fluid, motion, and combustion control solutions for complex oil and gas, industrial, power generation, and transportation applications. Products, Services, and Applications Aerospace Our Aerospace segment designs, manufactures, and services systems and products for the management of fuel, air, combustion, and motion control. These products include fuel pumps, metering units, actuators, air valves, specialty valves, fuel nozzles, and thrust reverser actuation systems for turbine engines and nacelles, as well as flight deck controls, actuators, servocontrols, motors, and sensors for aircraft. These products are used on commercial and private aircraft and rotorcraft, as well as on military fixed-wing aircraft and rotorcraft, guided weapons, and other defense systems. We have significant content on a wide variety of commercial aircraft, rotorcraft, and business jet platforms, such as the Airbus A320neo, Boeing 737 MAX, Boeing 787, Bell 429, and Bombardier Global 7500. We also have significant content on defense applications such as Blackhawk and Apache helicopters, F-35 and F-15 fighter jets, and smart defense weapons. Revenues from the Aerospace segment are generated by sales to OEMs, tier-one suppliers, prime contractors, and through services sales of components, such as provisioning spares or replacements. We provide services, including maintenance, repair, and overhaul ("MRO"), as well as other services to commercial airlines, repair facilities, military depots, third-party repair shops, and other end users. 
+2 
+Industrial Our Industrial segment designs, produces, and services systems and products for the management of energy in the form of fuel, air, fluids, gases, motion, combustion, and electricity. These products include actuators, valves, pumps, fuel injection systems, solenoids, ignition systems, control systems, electronics and software, and sensors. Our products are used on industrial gas turbines (including heavy frame, aeroderivative, and small industrial gas turbines), steam turbines, compressors, and reciprocating engines (including low speed, medium speed, and high-speed engines that operate on various fuels, including natural gas, diesel, heavy fuel oil, and new lower carbon alternative fuels in both single and dual-fuel applications). The equipment on which our products are found is used to generate power; to extract, distribute, and refine energy sources; to mine other commodities; and to convert fuel to work in transportation and freight (both marine and locomotives), mobile, and industrial equipment applications. Revenues from our Industrial segment are generated primarily by sales to OEMs for both new unit production and providing other related services. Our Industrial segment also sells products and services through an independent network of distributors and authorized system integrators, repairs and overhaul facilities, and directly to end users around the globe. Customers Our customers include leading original equipment manufacturers and end users of their products that require technological solutions to meet their needs for performance, efficiency, reliability, and reduced cost of operations. Sales to our five largest customers represented approximately 36% of our consolidated net sales for the fiscal year ended September 30, 2025 and 35% in the fiscal year ended September 30, 2024. We had no customers who accounted for 10% or more of our consolidated net sales for the fiscal years ended September 30, 2025 and September 30, 2024. However, each of our reportable segments did have customers that represented 10% or more of their respective segment sales. The customers who account for 10% or more of net sales of each of Woodward s reportable segments are as follows: 
+For the Year Ended September 30, 
+2025 
+2024 
+2023 
+Aerospace 
+RTX Corporation, GE Aerospace, The Boeing Company 
+RTX Corporation, The Boeing Company 
+RTX Corporation, General Electric Company, The Boeing Company 
+Industrial 
+Rolls-Royce PLC, Caterpillar Inc., GE Vernova 
+Weichai Power, Rolls-Royce PLC 
+Rolls-Royce PLC, Caterpillar Inc., Weichai Power 
+On April 2, 2024, The General Electric Company ("GE") split into two separate companies, GE Aerospace and GE Vernova. During fiscal year 2024, we engaged in transactions with GE prior to its split and subsequently engaged in transactions with both GE Aerospace and GE Vernova. Sales listed with "GE" represent the legacy General Electric Company, and any sales following the split will be listed as GE Aerospace and GE Vernova as applicable. Competitive Environment Our products and product support services are sold worldwide into a variety of markets. In all markets, we compete on the basis of differentiated technology and design, product performance, and conformity with customer specifications. Additional factors are customer service and support, including on-time delivery and customer partnering, product quality, price, reputation, and local presence. Both of our segments operate in uniquely competitive envi
+
+## GEOGRAPHIC REVENUE
+ive, small industrial gas turbines, and reciprocating engines. The increase in fiscal year 2025 was led by increased demand for power generation, data centers, and process industries, particularly in North America, the Middle East, and Asia. We expect this trend to continue as global electrification, renewable integration, and expanding data center loads drive increased electricity consumption. We anticipate continued increased demand in power generation in fiscal year 2026. Transportation Our key markets for transportation include compressed natural gas and liquefied natural gas trucks in Asia, mining, and commercial and defense marine markets. In fiscal year 2025, we experienced a material decline in demand for our on highway natural gas truck business in China compared to fiscal year 2024. This material decline was due to the deteriorating Chinese economy, a narrower natural gas to diesel price spread, and elevated customer inventory levels; future demand remains uncertain due to the volatility of this business. In global marine markets, demand in fiscal year 2025 increased due to sustained ship build rates and the favorable mix of ships produced. Both commercial and defense marine customers continue to launch additional projects to support new programs or modernize fleets, including incorporating alternative fuels capability, which should drive expanded OEM and service opportunities because multi-fuel engines contain more of our content. Oil and Gas During fiscal year 2025, we experienced growth driven by increased demand for solutions supporting liquified natural gas production. However, we did see decreased demand due to market dynamics related to global oil and gas processing. We expect market conditions to stabilize in fiscal year 2026, with early signs of increased demand for traditional oil and gas applications across both reciprocating engines and gas turbine solutions. 
+27 
+RESULTS OF OPERATIONS Financial Highlights 
+Year Ended September 30, 
+2025 
+2024 
+Net sales: 
+Aerospace segment 
+$ 
+2,312,806 
+$ 
+2,028,618 
+Industrial segment 
+1,254,258 
+1,295,631 
+Consolidated net sales 
+$ 
+3,567,064 
+$ 
+3,324,249 
+Operating profit: 
+Aerospace segment 
+$ 
+506,6
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers were to change suppliers, in-source production, institute significant restructuring or cost-cutting measures, or experience financial distress, these significant customers may substantially reduce, or otherwise be unable to pay for, purchases from us. Accordingly, our consolidated net sales could decrease significantly, or we may experience difficulty collecting, or be unable to collect, amounts due and payable, which could have a material adverse effect on our business, financial condition, results of operations, and cash flows. The long sales cycle, customer evaluation process, and implementation period of our products and services may increase the costs of obtaining orders and reduce the predictability of sales cycles and our inventory requirements. Our products and services are technologically complex and require significant capital commitments. Prospective customers generally must commit significant resources to test and evaluate our products and to install and integrate them into larger systems. Accordingly, customers often require a significant number of product presentations and demonstrations before reaching a sufficient level of confidence in the product s performance and compatibility to commit to an order. In addition, orders expected in one quarter may shift, and from time to time have shifted, to another quarter or be cancelled with little advance notice as a result of customers budgetary constraints, internal acceptance reviews, and other factors affecting the timing of customers purchase decisions. The difficulty in forecasting demand increases the challenge in anticipating sales cycles and our inventory requirements, which may cause us to over-produce finished goods and could result in inventory write-offs, or could cause us to under-produce finished goods. Any such over-production or under-production could have a material adverse effect on our business, financial condition, results of operations, and cash flows. Our strategic
+
+---
+Doc size: 2048KB (capped at 2MB)

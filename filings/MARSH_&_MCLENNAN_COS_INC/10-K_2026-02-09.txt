@@ -1,0 +1,20 @@
+# MARSH & MCLENNAN COS INC — 10-K Annual Report
+# Filed: 2026-02-09
+# CIK: 62709
+# SIC: Insurance Agents, Brokers & Service
+# Source: https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/mrsh-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors" section in Part I, Item 1A of this report and the "Management s Discussion and Analysis of Financial Condition and Results of Operations" section in Part II, Item 7 of this report. Marsh and its subsidiaries operate in a dynamic business environment in which new risks emerge frequently. Accordingly, we caution readers not to place undue reliance on any forward-looking statements, which are based only on information currently available to us and speak only as of the dates on which they are made. The Company undertakes no obligation to update or revise any forward-looking statement to reflect events or circumstances arising after the date on which it is made. i TABLE OF CONTENTS Information Concerning Forward-Looking Statements i PART I Item 1 Business 1 Item 1A Risk Factors 9
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the Company's total revenue in 2025. Reinsurance and Risk Management Services Guy Carpenter creates and executes reinsurance and risk management solutions globally through risk assessment analytics, actuarial services and trading relationships with reinsurance markets. As a broker, Guy Carpenter handles treaty and facultative reinsurance across various sectors and provides alternatives to traditional reinsurance, such as industry loss warranties and capital markets solutions. GC Securities provides structuring and placement services in respect of insurance-linked securities, such as catastrophe bonds and sidecar vehicles, along with surplus notes. GC Capital & Advisory offers corporate finance solutions, including mergers and acquisitions advice and capital raising, which complement Guy Carpenter's larger capabilities. GC Securities and GC Capital & Advisory are both divisions of MMC Securities LLC. Reinsurance-related Services Additionally, Guy Carpenter provides actuarial consulting, contract and claims management, and portfolio analysis, helping clients understand uncertainties and make critical decisions in areas such as reinsurance utilization and capital adequacy. Compensation for Services in Risk and Insurance Services Marsh Risk and Guy Carpenter are compensated for brokerage and consulting services through commissions and fees. Commission rates and fees vary in amount and depend on coverage provided, the insurer or reinsurer selected, and the capacity in which the broker acts and negotiates with clients. Marsh Risk also receives other compensation from insurance companies, which includes payments for consulting and analytics services; compensation for administrative and other services (including fees for underwriting services and services related to the administration and management of quota shares, panels and other facilities); payments for participation in sponsorship programs; and contingent commissions, based on factors such as volume or profitab
+
+---
+Doc size: 2048KB (capped at 2MB)

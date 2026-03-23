@@ -1,0 +1,14 @@
+# ELI LILLY & CO — 10-K Annual Report
+# Filed: 2026-02-12
+# CIK: 59478
+# SIC: Pharmaceutical Preparations
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+25 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment" contextRef="c-1" decimals="INF" name="us-gaap:NumberOfReportableSegments" scale="0" id="f-1505">1 iso4217:USD xbrli:shares iso4217:USD xbrli:shares xbrli:pure lly:right lly:patent lly:party lly:site lly:petition lly:segment 0000059478 2025-01-01 2025-12-31 0000059478 us-gaap:CommonClassAMember 2025-01-01 2025-12-31 0000059478</xbrli:identifi
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

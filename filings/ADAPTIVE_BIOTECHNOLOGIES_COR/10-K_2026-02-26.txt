@@ -1,0 +1,107 @@
+# ADAPTIVE BIOTECHNOLOGIES COR — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1478320
+# SIC: Biological Products, (No Diagnostic Substances)
+# Source: https://www.sec.gov/Archives/edgar/data/1478320/000119312526076902/adpt-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+25 
+Item 1B. 
+Unresolved Staff Comments 
+66 
+Item 1C. 
+Cybersecurity 
+66 
+Item 2. 
+Properties 
+66 
+Item 3. 
+Legal Proceedings 
+66 
+Item 4. 
+Mine Safety Disclosures 
+67 
+PART II 
+68 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+68 
+Item 6. 
+[Reserved] 
+68 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+69 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+81 
+Item 8. 
+Financial Statements and Supplementary Data 
+82 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+114 
+Item 9A. 
+Controls and Procedures 
+114 
+Item 9B. 
+Other Information 
+116 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+116 
+PART III 
+117 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+117 
+Item 11. 
+Executive Compensation 
+117 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+117 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+117 
+Item 14. 
+Principal Accounting Fees and Services 
+117 
+PART IV 
+118 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+118 
+Item 16. 
+Form 10-K Summary 
+120 
+SIGNATURES 
+121 
+FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements that are based on management s beliefs and assumptions and on information available to management. Some of the statements in the Business, Risk Factors, and Management s Discussion and Analysis of Financial Condition and Results of Operations sections and elsewhere in this Annual Report on Form 10-K contain forward-looking statements. In some cases, you can identify forward-looking statements by the following words: may, will, could, would, should, expect, intend, plan, anticipate, believe, estimate, predict, project, potential, continue, ongoing or the negative of these terms or other comparable terminology, although not all forward-looking statements contain these words. These statements involve risks, uncertainties and other factors that may cause actual results, levels of activity, performance or achievements to be materially different from the information expressed or implied by these forward-looking statements. Although we believe we have a reasonable basis for each forward-looking statement contained in this Annual Report on Form 10-K, we caution you that these statements are based on a combination of facts and factors currently known by us and our projections of the future, about which we cannot be certain. Forward-looking statements expressed or implied in this Annual Report on Form 10-K include, but are not limited to, statements about: the success of developing, commercializing and achieving further market acceptance of our current products and services, including coverage and reimbursement decisions related to clonoSEQ, and additional products beyond our current portfolio; the pricing and reimbursement of our products and services following approval, where required; the size and growth potential of the markets of our products and services, and our ability to serve those markets, either alone or in combination with others; the potential for our identified research priorities to advance our proprietary immune medicine ( IM ) platform or our future products and services; our ability to understand the T-cell mediated response across different indications and develop products and services leveraging our T cell receptor ( TCR )-antigen binding data; our ability to realize payments, such as milestone fees, based on our customers' use of our data in connection with their achievement of research or regulatory goals relating to their own products; the success, cost and timing of our research and development activities; our ability to enter into collaborations or arrangements and our ability to attract collaborators with development, manufacturing, regulatory and commercialization expertise; our ability to identify research priorities and apply a risk-mitigated strategy to efficiently discover and develop products and services; our ability to obtain and maintain regulatory approval of our products and services; our ability to obtain equipment and materials (including reagents or other materials that may also require additional internal validation) from our suppliers, and in some cases single suppliers; our ability to generate revenue and obtain funding for our operations, including funding necessary to complete further development of our current and future products and services, and if successful, commercialization; our ability to manage operating expenses; the rate and degree of market acceptance of our products and services; our financial performance; our expectations regarding our ability to obtain and maintain intellectual property protection for our immune medicine platform, products, services and related technologies and the direction of such protection; regulatory developments in the United States ( U.S. ) and foreign countries; the success of competing products or services that are or may become available; developments relating to our competitors and our industry; our ability to attract and retain key scientific or management personnel; the impact of laws and regulations; and 
+1 
+our estimates regarding expenses, future revenue, capital requirements and needs for additional financing. In addition, you should refer to the Risk Factors section of this Annual Report on Form 10-K for a discussion of other important factors that may cause actual results to differ materially from those expressed or implied by the forward-looking statements. As a result of these factors, we cannot assure you that the forward-looking statements in this Annual Report on Form 10-K will prove to be accurate. Furthermore, if the forward-looking statements prove to be inaccurate, the inaccuracy may be material. In light of the significant uncertainties in these forward-looking statements, you should not regard these statements as a representation or warranty by us or any other person that we will achieve our objectives and plans in any specified time frame, or at all. The forward-looking statements herein represent our views as of the date of this Annual Report on Form 10-K. We anticipate that subsequent events and developments will cause our views to change. However, while we may elect to update these forward-looking statements at some point in the future, we have no current intention of doing so except to the extent required by applicable law. You should, therefore, not rely on these forward-looking statements as representing our views as of any date subsequent to the date of this Annual Report on Form 10-K. In this Annual Report on Form 10-K, unless the context requires otherwise, all references to we, our, us, Adaptive and the Company refer to Adaptive Biotechnologies Corporation. 
+2 
+PART I Item 1. Business Overview Throughout our history, we have advanced the field of immune medicine by harnessing the inherent biology of the adaptive immune system to transform the diagnosis and treatment of disease. We believe the adaptive immune system is nature s most finely tuned diagnostic and therapeutic for most diseases, but the inability to decode it has prevented the medical community from fully leveraging its capabilities. Our immune medicine platform applies our proprietary technologies to read the diverse genetic code of a patient s immune system and understand precisely how the immune system detects and treats disease in that patient. We capture these insights in our dynamic clinical immunomics database and related antigen annotations, which are underpinned by computational biology and machine learning, and use them to develop and commercialize clinical products and services that can be tailored to the needs of individual patients. In 2024, we reorganized our company around two main businesses: the MRD business, consisting of clinical assessment of minimal residual disease ( MRD ) in lymphoid malignancies, and Immune Medicine or the IM business, with a focus on creating applications and products based on unique capabilities to connect the adaptive immune response to disease. The MRD business focuses on the use of our highly sensitive, next-generation sequencing ( NGS ) assay to measure MRD in patients with hematologic malignancies. It is comprised of our clonoSEQ clinical diagnostic test, offered to clinicians, and our clonoSEQ assay, offered to biopharmaceutical partners to advance drug development efforts ( MRD Pharma ). We believe the total addressable market for the MRD business is approximately $6.2 billion, approximately $5.3 billion of which is derivable from clinical testing. clonoSEQ is the first test authorized by the Food and Drug Administration ( FDA ) for the detection and monitoring of MRD in patients with multiple myeloma ( MM ), B cell acute lymphoblastic leukemia ( ALL ) and chronic lymphocytic leukemia ( CLL ), and it is also available as a CLIA-validated laboratory developed test ( LDT ) for patients with other lymphoid cancers, including diffuse large B cell lymphoma ( DLBCL ) and mantle cell lymphoma ( MCL ). With its industry-leading sensitivity, we believe clonoSEQ is uniquely situated for MRD testing in lymphoid cancers, both in the clinic and in biopharmaceutical trials. With the use of clonoSEQ, we are transforming how lymphoid cancers are treated. The IM business leverages our proprietary ability to sequence, map, pair and characterize TCRs and B cell receptors ( BCRs ) at scale. We have created a powerful data engine to improve our understanding of the immune system and address multiple immunology problems. These proprietary datasets include more than 100,000 signatures of cancer and autoimmune disease and more than 5,000,000 matches of TCRs to disease-related antigens. These capabilities enable us to offer an expanding suite of solutions including: immune receptor sequencing, licensing of our proprietary data, TCR-antigen prediction models and our target discovery capabilities. We believe that by tapping into these datasets, there is tremendous value in multiple immune-based applications. In autoimmunity, for example, we apply our immune medicine platform to discover the specific TCRs and T cells that are attacking self or healthy tissue. In addition, we use our platform to discover the specific disease antigens to which these TCRs bind. We have generated data in select autoimmune indications, such as multiple sclerosis ( MS ) and type 1 diabetes ( T1D ). In each of these indications, we have successfully identified the subset of autoreactive TCRs that are likely causing these devastating diseases. The discovery of these autoreactive TCRs and the antigens to which they bind is core to our immune medicine discovery capabilities and proprietary data generation. Selected 2025 Results In 2025, our revenue was $277.0 million, compared to $179.0 million in 2024. The increase was primarily driven by the MRD business, which grew $66.8 million. In 2025, net cash used in operations was $46.0 million, as compared to $95.2 million in 2024, representing a reduction of 52%. As of December 31, 2025, cash, cash equivalents and marketable securities was $227.2 million, excluding $13.1 million of cash held by Digital Biotechnologies, Inc. MRD Business Highlights Total MRD revenue in 2025 was $212.3 million, representing 46% growth from 2024. We grew clonoSEQ test volume to 105,587 tests delivered, an increase of 39% year-over-year. Payor coverage has expanded to over 300 million lives in ALL and MM, over 270 million lives in CLL and over 90 million lives in DLBCL. In addition, we obtained Medicare coverage for recurrence monitoring in MCL. 
+3 
+clonoSEQ MRD testing has now been enabled in 173 sites on the Epic System Corporation's ( Epic ) comprehensive electronic medical record ( EMR ) system, through Flatiron Health, Inc.'s ( Flatiron ) OncoEMR and on other EMRs to enable easier test workflow and follow-up to facilitate more routine access to patients. Our clonoSEQ assay was used in more than 180 active trials being conducted by over 40 biopharmaceutical partners, including over 100 trials where MRD is a clinical endpoint (19 of which use MRD as a primary endpoint). IM Business Highlights In December 2025, we entered into two non-exclusive agreements with Pfizer Inc. ( Pfizer ) to leverage proprietary TCR discovery platform and its large scale immune receptor antigen mapping datasets to accelerate therapeutic research in rheumatoid arthritis ( RA ) and broader immunology applications. We continued to increase the amount of paired TCRs to antigens from over two million to over five million, spanning over 20,000 antigens and nearly 50 HLA types. In autoimmunity, we completed a preclinical data package for our TCR-depleting antibody program in ankylosing spondylitis. We have since discontinued investments in this program to prioritize investments in data development and diagnostics. Our Immunosequencing Platform The adaptive immune system is comprised of specific immune cells, called T cells and B cells, that hold the instructions for diagnosing and treating most diseases. These instructions enable specialized receptors that sit on the surface of TCRs and BCRs to identify, bind and destroy pathogens or human cells presenting foreign signals of disease ( antigens ). Unlike all other genes in the human genome, the genetic sequences of TCRs and BCRs rearrange over time creating massive genetic diversity. In contrast to the static human genome that is made up of approximately 30,000 genes, the adaptive immune repertoire of a healthy adult consists of more than 100 million different genes. This massive genetic diversity gives the immune system the ability to detect and respond to millions of different antigens associated with human disease. Our platform combines a suite of proprietary chemistry, computational biology and machine learning to generate clinical immunomics data to decode the adaptive immune system. It extracts and interprets insights from the adaptive immune system with the scale, precision and speed required to enable the design of clinical products tailored to the specific genetics of each patient s immune system. A Primer: The Adaptive Immune System Over millions of years, the adaptive immune system has evolved an elegant solution to keeping people healthy. It recognizes and responds to most antigens, whether they come from outside the body, such as a virus, or inside the body, such as mutations that drive cancer. The innate and adaptive immune systems both play a role in human immunity. However, the adaptive immune system alone provides a specific response to signals of disease, or antigens. These disease specific antigens are primarily fragments of proteins that are recognized as foreign, such as proteins
+
+## GEOGRAPHIC REVENUE
+obtain and maintain intellectual property protection for our immune medicine platform, products, services and related technologies and the direction of such protection; regulatory developments in the United States ( U.S. ) and foreign countries; the success of competing products or services that are or may become available; developments relating to our competitors and our industry; our ability to attract and retain key scientific or management personnel; the impact of laws and regulations; and 
+1 
+our estimates regarding expenses, future revenue, capital requirements and needs for additional financing. In addition, you should refer to the Risk Factors section of this Annual Report on Form 10-K for a discussion of other important factors that may cause actual results to differ materially from those expressed or implied by the forward-looking statements. As a result of these factors, we cannot assure you that the forward-looking statements in this Annual Report on Form 10-K will prove to be accurate. Furthermore, if the forward-looking statements prove to be inaccurate, the inaccuracy may be material. In light of the significant uncertainties in these forward-looking statements, you should not regard these statements as a representation or warranty by us or any other person that we will achieve our objectives and plans in any specified time frame, or at all. The forward-looking statements herein represent our views as of the date of this Annual Report on Form 10-K. We anticipate that subsequent events and developments will cause our views to change. However, while we may elect to update these forward-looking statements at some point in the future, we have no current intention of doing so except to the extent required by applicable law. You should, therefore, not rely on these forward-looking statements as representing our views as of any date subsequent to the date of this Annual Report on Form 10-K. In this Annual Report on Form 10-K, unless the context requires otherwise, all references to we, our, us, Adaptive and the Company refer to Adaptive Biotechnologies Corporation. 
+2 
+PART I Item 1. Business Overview Throughout our history, we have advanced the field of
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer relations problem for us and cause our reputation to suffer. We may also be subject to liability claims for damages related to errors or defects in our products. Any of these developments could harm our business and operating results. 
+29 
+Our efforts to develop products leveraging our TCR-antigen binding data may not be successful, and it may not yield the insights that we expect or on a timetable that allows development or commercialization of new products or services. We are using our immunosequencing capabilities, proprietary computational analyses and machine learning models to map and computationally predict at scale binding of TCR sequences to disease antigens, which we believe has multiple high-value therapeutic applications and is relevant to our drug discovery work. However, we may not be successful in developing a sufficiently comprehensive data set or the performance of our digital TCR-antigen prediction models may be insufficient for any number of reasons, which may include difficulty in validating signals and challenges in making progress toward algorithmic-based methods that accurately define TCR-antigen signatures of disease. In addition, we may not succeed in accelerating the development of a digital TCR-antigen binding prediction model that will allow us to achieve our business goals in a timetable that is commercially viable for our products or our collaborators products, or at all. As we continue to grow our immunomics database and advance our prediction modeling activities, we may be unable to translate these efforts into commercialization opportunities. Moreover, as our collaboration activities under the Microsoft Agreement have concluded, we may be less successful in pursuing these opportunities in the future. If the performance of our computational and machine learning modeling efforts do not meet our expectations or our needs to accurately validate TCR to antigen associations in a reasonable timeframe, our business model
+
+---
+Doc size: 2048KB (capped at 2MB)

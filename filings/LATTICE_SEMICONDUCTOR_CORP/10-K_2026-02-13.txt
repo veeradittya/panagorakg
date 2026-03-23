@@ -1,0 +1,131 @@
+# LATTICE SEMICONDUCTOR CORP — 10-K Annual Report
+# Filed: 2026-02-13
+# CIK: 855658
+# SIC: Semiconductors & Related Devices
+# Source: https://www.sec.gov/Archives/edgar/data/855658/000143774926004100/lscc20260103_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+10 
+Item 1B. 
+Unresolved Staff Comments 
+27 
+Item 1C. 
+Cybersecurity 
+27 
+Item 2. 
+Properties 
+28 
+Item 3. 
+Legal Proceedings 
+28 
+Item 4. 
+Mine Safety Disclosures 
+28 
+PART II 
+Item 5. 
+Market for Registrant's Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities 
+29 
+Item 6. 
+Reserved 
+30 
+Item 7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+31 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+40 
+Item 8. 
+Financial Statements and Supplementary Data 
+41 
+Item 9. 
+Changes in and Disagreements with Accountants On Accounting and Financial Disclosure 
+69 
+Item 9A. 
+Controls and Procedures 
+69 
+Item 9B. 
+Other Information 
+70 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+70 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+70 
+Item 11. 
+Executive Compensation 
+71 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+71 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+71 
+Item 14. 
+Principal Accountant Fees and Services 
+71 
+PART IV 
+Item 15. 
+Exhibits 
+72 
+Signatures 
+75 
+1
+Table of Contents 
+Note Regarding Forward-Looking Statements 
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of federal securities laws. These involve estimates, assumptions, risks, and uncertainties. Any statements about our expectations, beliefs, plans, objectives, assumptions, or future events or performance are not historical facts and may be forward-looking. We use words or phrases such as anticipate, believe, could, estimate, expect, intend, plan, "possible," predict, projects, may, will, should, continue, ongoing, future, potential, and similar words or phrases to identify forward-looking statements. 
+Forward-looking statements include, but are not limited to, statements about: our target or expected financial performance and our ability to achieve those results; current and future impacts of the macroeconomic climate, including ongoing global military conflicts and actions of governments, businesses, and individuals in response to these situations; the impact of any continuing trade or travel restrictions or increasing tariffs on the export and import of products between the U.S. and other countries, including China; the impact of any deterioration in relations between Taiwan and China, and other factors affecting military, political, or economic conditions in Taiwan or elsewhere in Asia; the impact of tariffs, trade sanctions, license requirements or similar actions on our suppliers and customers; the impact of inflationary pressures; the effects of climate dynamics and disruptive natural disasters on us, our suppliers, and our consumers, including as a result of actions by governments, businesses, and consumers in response; our business strategy; our expectations and strategies regarding market trends and opportunities, including market drivers such as wireless and wireline communications infrastructure deployments, data center servers and networking equipment, client computing platforms, industrial Internet of Things, factory automation, robotics, automotive electronics, smart homes, prosumers, and other applications; our beliefs about who we may compete with and whether we are differentiated from those competitors, as well as their potential capabilities; our expectations regarding our customer base and the impacts of our customers actions on our business; our expectations regarding distributor and customer purchasing patterns, inventory levels, and order timing; our expectations regarding both new and existing product offerings; our gross margin growth and our strategies to achieve gross margin growth and other financial results; our future investments in research and development; our ability to take advantage of the process technology development efforts of semiconductor foundries and apply those technologies when they become most economically beneficial to us and to our customers; the impact of changing foundries or OSATs (as defined below) or their failure to manufacture sufficient quantities of our products at acceptable yields, as well as the impact of problems with other subcontractors or distributors; the impact if we are unable to detect product defects; the impact if our insurance proves to be inadequate to resolve claims against us; whether we will experience seasonality or cyclicality and the resulting effects on our business; our expectations about our patent portfolio, including the expiration of patents, whether, when and where we will make future filings, and the value of the patents and associated licensing agreements generally and to our business, as well as risks arising from the licensing and sale of our patents; our ability to attract and retain personnel and their importance to our performance; future financial results or accounting treatments; our judgments involved in accounting matters, including revenue recognition, inventories and cost of revenue, and income taxes; actions we may take regarding the design and continued effectiveness of our internal controls over financial reporting; our use of cash; our beliefs regarding the adequacy of our liquidity, capital resources and facilities; the impact of our debt on our future operating and financial performance, as well as the impact if we breach a loan covenant; whether we will consider and act upon acquisition opportunities, and the timing, completion, or abandonment of such transactions and the impact of such opportunities on our business; whether we will pursue future stock repurchases and how any future repurchases will be funded; the future price volatility of our stock and the effects of that volatility; our ability or failure to prevent and respond to information technology system failures, security breaches and incidents, cyberattacks or fraud, and the occurrence and impact of such cybersecurity incidents; the costs of mitigating cybersecurity risks; the impact of artificial intelligence ( AI ), including our expectations regarding the growth of AI and our AI-related revenue; the impact of laws and regulations addressing privacy, data protection, and cybersecurity and our ability to comply with the same; our ability to comply with other laws and regulations, the costs of such compliance, and costs incurred if we fail to comply with such laws and regulations; our beliefs regarding legal or administrative proceedings; and impacts of global pandemics, epidemics, and other public health matters and actions of governments, businesses, and individuals in response to these situations. 
+These forward-looking statements are based on estimates and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially from those statements expressed in the forward-looking statements. The key factors, among others, that could cause our actual results to differ materially from the forward-looking statements include global economic conditions and uncertainty; the effect of any downturn in the economy on capital markets and credit markets; the concentration of our sales in certain end markets, particularly as it relates to the concentration of our sales in the Asia Pacific region; market acceptance and demand for our existing and new products; market and technology trends; our ability to achieve yield and quality improvements; our ability to protect, license and sell our intellectual property; shortages or increased costs in our supply chain; any disruption of our distributors or distribution channels; the impact of competitive products and pricing, especially by companies with great resources than us; unanticipated warranty claims; physical and transition disruptions and costs associated with climate dynamics; unanticipated taxation requirements or positions of the U.S. Internal Revenue Service or other taxing authority, unanticipated effects of tax reform, and unrecognized tax benefits and tax adjustments and allowances; our ability to attract and retain key personnel; the sufficiency of our insurance coverage; the impact of our outstanding indebtedness on our strategic flexibility, liquidity and results of operations; the impact of strategic transactions; unexpected impacts of accounting guidance; unfavorable results of legal proceedings. In addition, actual results are subject to other risks and uncertainties that relate more broadly to our overall business, including those more fully described herein and that are otherwise described from time to time in our filings with the Securities and Exchange Commission ("SEC"), including, but not limited to, the items discussed in Part I, Item 1A, Risk Factors, in this Annual Report on Form 10-K. 
+You should not unduly rely on forward-looking statements because our actual results could differ materially from those expressed by us. In addition, any forward-looking statement applies only as of the date of this filing. We do not plan to, and undertake no obligation to, update any forward-looking statements to reflect new information or new events, circumstances or developments, or otherwise. 
+2
+Table of Contents 
+PART I 
+Item 1. Business 
+Overview 
+Lattice Semiconductor Corporation and its subsidiaries ( Lattice, the Company, we, us, or our ) develop technologies that we monetize through differentiated programmable logic semiconductor products, silicon-enabling products, system solutions, design services, and technology licenses. Lattice is the low power programmable leader. We solve customer problems across the network, from the Edge to the Cloud, in the Communications, Computing, Industrial, Automotive, and Consumer markets. Our technology, long-standing relationships, and commitment to world-class support lets our customers quickly and easily unleash their innovation to create a smart, secure, and connected world. 
+Our field programmable gate array ("FPGA") devices enable us to provide our customers with a strong, growing base of control, connect, and compute technologies. We believe there are multiple growth areas that will allow us to increase our addressable market. In particular, we believe there are several emerging trends in servers, infrastructure, and smart devices that are opportunities for Lattice: 
+With the growth of hyperscale data centers, our processor agnostic solutions are ideal for dataplane, control, and connect functions in enterprise and data center server applications. 
+With the continued data center network expansion, as well as continued Communications infrastructure build-out from 5G deployment and beyond, Lattice solutions are being adopted to control and connect a variety of functions in critical systems. 
+Vision and intelligence in systems are increasing electrification and the proliferation of sensors in smart factories, smart homes, and automobiles. Our low power, small form factor solutions are ideal for systems and sensor applications. 
+With the increase in artificial intelligence ("AI") and a multitude of applications at the network edge, Lattice devices support applications like face detection, image recognition, human-machine interface ("HMI"), and video analytics. 
+With the demand for more hardware security in the Communications, Computing, Industrial, Automotive, and Consumer markets, our devices provide enhanced platform security enabling post-quantum algorithms. 
+In addition, the FPGA market is continuing to grow in importance to the overall semiconductor market, driven by five secular trends acting as tailwinds. Lattice is uniquely positioned to address these trends. 
+AI is driving shorter design cycles, allowing less time to integrate auxiliary functions. 
+As application specific integrated circuit ( ASIC ) and application specific standard part ("ASSP") development costs continue to increase, allocating more functions to FPGAs improves the Return on Investment on ASICs and ASSPs and drives more designs for FPGAs. 
+As the cost of advanced nodes increase, mature process FPGAs are more economical to perform certain functions. 
+Emerging applications like security have fast-changing requirements. A perfect example is Post Quantum Cryptography ("PQC") for which FPGA programmability offers more adaptable solutions than fixed-function ASICs that can t easily be redesigned. 
+Edge AI requires contextual intelligence near the sensor. In these applications, Lattice s far-edge FPGAs can offload processing and enable the near-edge inference chip to focus on other tasks. Lattice FPGAs are already in these sockets today performing other functions, which gives Lattice a competitive advantage with customers. 
+The small and mid range FPGA segments are growing faster than the overall FPGA market, led by new applications in data centers and cloud, robotics, industrial automation, autonomous vehicles, electrification, IoT, telematics, aerospace and defense, and AI across these segments. These applications have driven a rapid expansion of sensors, which require massive amounts of data to be bridged, aggregated, and fused to upstream processing units. Lattice has an existing foothold in these markets today, and our goal is to be the market leader in the growing far edge AI segment. This is one of several catalysts that increase our confidence in Lattice s long term growth opportunities as we continue to execute our strategy. 
+Our Markets and Customers 
+We sell our products globally in three end market groups: Communications and Computing, Industrial and Automotive, and Consumer. We also provide Intellectual Property ("IP") licensing and services to these end markets. 
+In the Communications and Computing Market , our solutions can be used as primary processors or as FPGA companion chips to AI and processing applications, playing key roles in computing systems such as servers and client devices, 5G wireless infrastructure, switches, routers, and other related applications. 
+3
+Table of Contents 
+Our Communications and Computing customers need to address a variety of challenges. 
+As server architectures become increasingly complex, customers need simplified control logic, enhanced hardware platform security, system status monitoring, and rigorous power and thermal management. 
+Networks typically require progressively higher bandwidth and increased reliability as more data is demanded by connected devices, and increasingly require more security as providers embrace disaggregation and openness with the adoption of open radio access networks ("ORAN"). 
+As wireless cellular sites become more compact, there is a growing requirement for smaller form factors optimized for low power consumption and thermal management. 
+Lattice FPGAs help solve these customer problems. Our FPGAs are optimized for input/output ("I/O") expansion, hardware acceleration, first-on, last-off hardware security
+
+## GEOGRAPHIC REVENUE
+ugh patents, trade secrets, copyrights, trademark registrations, licensing restrictions, confidentiality agreements, and other approaches designed to protect proprietary information. We hold numerous United States and international patents and have patent applications pending in the United States and internationally. In addition to protecting innovations designed into our products, our ownership and maintenance of patents is an important factor in the determination of our share of the royalties from the implementation of the HDMI standard. Our current patents will expire at various times over the next 20 years, subject to our payment of periodic maintenance fees. We believe that our patents have value, and we expect to file future patent applications in both the United States and abroad on significant inventions, as we deem appropriate. We have acquired various licenses from third parties to certain technologies that are implemented in IP cores or embedded in our products. These licenses support our continuing ability to make and sell these products to our customers. While our various IP rights are important to our success, we believe our business as a whole is not materially dependent on any particular patent or license, or any particular group of patents or licenses. 
+Human Capital Management 
+We provide a safe and positive work environment that emphasizes respect for individuals, ethical conduct, and learning and development that is facilitated by a direct employee engagement model. The health and safety of our employees is of utmost importance to us. We undertake appropriate actions to safeguard the health and well-being of our employees and our business. As of January 3, 2026, we had 1,174 employees worldwide. 
+We believe our employees are the foundation of our success and that our future growth depends, in part, on our ability to continue to attract and retain key executive, technical, sales, and management personnel. Due to our growth and cadence of new product introductions we are particularly focused on highly skilled engineers involved in the design, development, and support of new and existing products and processes. In order for us to attract the bes
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers, and a substantial portion of our sales are made into this channel. Additionally, we sell both directly and through a network of independent manufacturers' representatives. We also employ a direct sales management and field applications engineering organization to support our end customers and indirect sales resources. End customers for our products are primarily Original Equipment Manufacturers ("OEMs") in the Communications and Computing, Industrial and Automotive, and Consumer end markets. Our sales team attempts to drive multi-generational design wins within these OEMs and leverages our distribution partners to grow our broad customer base. 
+We provide global technical support to our end customers with engineering staff based at our headquarters, product development centers, and selected field sales offices. We maintain numerous domestic and international field sales offices in major metropolitan areas. 
+In fiscal years 2025, 2024, and 2023, sales to distributors accounted for approximately 84%, 89%, and 87%, respectively, of our net revenue. We depend on our distributors to sell our products to end customers, complete order fulfillment, and maintain sufficient inventory of our products. Our distributors also provide technical support and other value-added services to our end customers. We have one global distributor, and we also have regional distributors in Asia, Japan, Europe, and Israel. Additionally, we sell through four major e-commerce distributors. Revenue from foreign sales as a percentage of total revenue was 83% for fiscal 2025, and 82% for both fiscal 2024 and 2023. We assign revenue to geographies based on ship-to location of our customers. Both foreign and domestic sales are denominated in U.S. dollars. 
+Backlog 
+Our backlog consists of orders from distributors and certain OEMs that generally require delivery within the next year. Historically, our backlog has not been a predictor of future sales or customer demand for the fol
+
+---
+Doc size: 2045KB (capped at 2MB)

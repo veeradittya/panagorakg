@@ -1,0 +1,107 @@
+# GENTHERM INC — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 903129
+# SIC: Motor Vehicle Parts & Accessories
+# Source: https://www.sec.gov/Archives/edgar/data/903129/000119312526059602/thrm-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1: 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+11 
+Item 1B: 
+Unresolved Staff Comments 
+24 
+Item 1C: 
+Cybersecurity 
+24 
+Item 2: 
+Properties 
+26 
+Item 3: 
+Legal Proceedings 
+26 
+Item 4: 
+Mine Safety Disclosures 
+26 
+Part II 
+27 
+Item 5: 
+Market for the Registrant s Common Stock, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+27 
+Item 6: 
+Reserved 
+28 
+Item 7: 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+29 
+Item 7A: 
+Quantitative and Qualitative Disclosures About Market Risk 
+43 
+Item 8: 
+Financial Statements and Supplementary Data 
+45 
+Item 9: 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+45 
+Item 9A: 
+Controls and Procedures 
+45 
+Item 9B: 
+Other Information 
+46 
+Item 9C: 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+46 
+Part III 
+47 
+Item 10: 
+Directors, Executive Officers and Corporate Governance 
+47 
+Item 11: 
+Executive Compensation 
+47 
+Item 12: 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+47 
+Item 13: 
+Certain Relationships and Related Transactions and Director Independence 
+47 
+Item 14: 
+Principal Accounting Fees and Services 
+47 
+Part IV 
+48 
+Item 15: 
+Exhibits and Financial Statement Schedules 
+48 
+Item 16: 
+Form 10-K Summary 
+51 
+F- 2 
+Table of Contents 
+GENTHERM INCORPORATED PAR T I Forward-Looking Statements This Annual Report on Form 10-K for the year ended December 31, 2025 (this Annual Report ) contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements represent our goals, beliefs, plans and expectations about our prospects for the future and other future events, such as: the expected light vehicle production in the Company s key markets; the impact of macroeconomic and geopolitical conditions; the components of and our execution of our strategic plan, product and technology development and manufacturing footprint optimization restructuring plans; our operating performance; long-term consumer and technological trends in the automotive industry and our related market opportunity for our existing and new products and technologies; the competitive landscape; the impact of global tax reform legislation and other regulatory matters; the sufficiency of our cash balances and cash generated from operating, investing and financing activities for our future liquidity and capital resource needs; our ability to finance sufficient working capital; and significant matters related to the Modine Transaction, including the expected closing timing and structure thereof, the ability of the parties to complete such transaction and planned actions to satisfy the closing conditions, the expected benefits thereof, the tax consequences thereof, the terms and scope of the expected financing in connection with such transaction, and the combined company s plans, objectives, expectations and intentions. Reference is made in particular to forward-looking statements included in Item 1. Business, Item 1A. Risk Factors and Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations. Such statements may be identified by the use of forward-looking terminology such as may , will , expect , believe , estimate , anticipate , intend , continue , or similar terms, variations of such terms or the negative of such terms. The forward-looking statements included in this Annual Report are made as of the date hereof or as of the date specified and are based on management s reasonable expectations and beliefs. In making these statements, we rely on assumptions and analyses based on our experience and perception of historical trends, current conditions and expected future developments, third-party information and projections from sources that management believes to be reputable, as well as other factors we consider appropriate under the circumstances. Such statements are subject to a number of assumptions, risks, uncertainties and other factors, which are set forth in "Item 1A. Risk Factors" and "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations," which are incorporated herein by reference, or as described in subsequent reports we file with the United States Securities and Exchange Commission (the "SEC"), and which could cause actual results and performance to differ materially from that described in or implied by the forward-looking statements. Moreover, we operate in a very competitive and rapidly changing environment and new risks emerge from time to time. In addition, with reasonable frequency, we have entered into business combinations, acquisitions, divestitures, strategic investments and other significant transactions. Such forward-looking statements do not include the potential impact of any such transactions that may be completed after the date hereof, each of which may present material risks to the Company s future business and financial results. Except as required by law, we expressly disclaim any obligation or undertaking to update any forward-looking statements to reflect any change in our expectations with regard thereto or any change in events, conditions or circumstances on which any such statement is based. ITE M 1. BUSINESS Unless otherwise indicated, references to Gentherm , the Company , we , our and us in this Annual Report refer to Gentherm Incorporated and its consolidated subsidiaries. Except to the extent expressly noted herein, the content of our website or the websites of other third parties noted herein are not incorporated by reference in this Annual Report. Overview Gentherm Incorporated is a global market leader of innovative thermal management and pneumatic comfort technologies. Our automotive products include Climate Control Seats (CCS ), Climate Control Interiors (CCI ), Lumbar and Massage Comfort Solutions, Valve Systems, and Climate and Comfort Electronics. We operate in locations aligned with our major customers product strategies to provide locally enhanced design, integration and production capabilities. Our medical products include patient 
+3 
+Table of Contents 
+temperature management systems that can be found in hospitals throughout the world. On January 29, 2026, the Company entered into definitive agreements with Modine Manufacturing Company, a Wisconsin corporation ( Modine ), Platinum SpinCo Inc, a Delaware corporation and wholly owned subsidiary of Modine ( SpinCo ), and Platinum Gold Merger Sub Inc., a Delaware corporation and a wholly owned subsidiary of the Company ( Merger Sub ), with respect to a Reverse Morris Trust ("RMT") transaction (the "Modine Transaction"), and pursuant to and subject to the terms and conditions of such definitive agreements, (i) Modine will transfer (or cause to be transferred) and SpinCo will accept and assume (or cause to be accepted and assumed) all of the rights, titles and interests to and under certain assets and liabilities relating to Modine s Performance Technologies business ( Performance Technologies ), (ii) Modine will distribute to its shareholders all of the issued and outstanding shares of common stock, $0.01 par value per share, of SpinCo ( SpinCo Common Stock ) held by Modine by way of a pro rata distribution (the Spin-Off and the disposition by Modine of 100% of the SpinCo Common Stock by way of the Spin-Off, the Distribution ) and (iii) following the Distribution, Merger Sub will be merged with and into SpinCo, with SpinCo as the surviving entity (the Merger ) and all SpinCo Common Stock will be converted into the right to receive shares of our common stock, no par value ("Common Stock"), as calculated and subject to adjustment as set forth in the Agreement and Plan of Merger, dated as of January 29, 2026, by and among the Company, Modine, Merger Sub and SpinCo (the Merger Agreement ). Following consummation of the Merger, SpinCo will become a wholly owned subsidiary of the Company. Closing of the Modine Transaction is subject to various closing conditions, including specified approvals by our shareholders, completion of financing for SpinCo, a customary IRS tax ruling, receipt of required regulatory approvals and the satisfaction of other customary closing conditions. The Modine Transaction is described more fully under Management s Discussion and Analysis of Financial Condition and Results of Operations Overview. Available Information We are incorporated under the laws of the State of Michigan. Our website is www.gentherm.com. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the Exchange Act ), are made available free of charge through our website, www.gentherm.com , as soon as reasonably practicable after we electronically file them with or furnish them to the SEC. These reports are also available on the SEC s website, www.sec.gov . Segments The Company is organized under two reportable segments: Automotive and Medical. The Automotive reporting segment is comprised of our global automotive businesses, including the design, development, manufacturing and sales of our Automotive Climate and Comfort Solutions (including Climate Control Seats, Climate Control Interiors, Lumbar and Massage Comfort Solutions and Climate and Comfort Electronics), Valve Systems and other automotive products. The Medical reporting segment is comprised of our patient temperature management business in the medical industry. Patient temperature management includes temperature management systems across multiple product categories addressing the needs of hyper-hypothermia therapy in intensive care, normothermia in surgical procedures and additional warming/cooling therapies utilized in acute and chronic care departments and non-hospital facilities. Research, Development and Partnerships Our research, development and partnerships activities are an essential part of our efforts to develop new or improved innovative products, devise new ways to use our core technologies together to create value for consumers, and scale our products and core technologies into adjacent markets. Research and development is conducted globally at several sites to support our geographically diverse customers, allowing us to better meet their needs. 
+4 
+Table of Contents 
+To offer our customers cutting-edge products and technologies, our strategy includes partnering with key technology leaders. These activities are critical to optimize energy utilization and production efficiencies, improve effectiveness in our products and minimize the cost to integrate our products with those of our customers. Core Technologies Gentherm's core technologies align well with near-term and long-term consumer and technological trends. We believe increased consumer demand for personalized comfort in a vehicle is driving increased adoption of our thermal and pneumatic Lumbar and Massage Comfort Solutions. We believe there is also demand for similar occupant experiences in other end markets, including power-sports, commercial vehicles, agriculture and home and office. We are committed to developing innovative products and technologies that fulfill this demand. Additionally, our core technologies have broad market applications which will allow us to scale across new end markets. Gentherm's core technologies are: Thermal Management Gentherm's heating technologies use all three primary forms of heat transfer: conductive, convective, and radiant. Resistive heater technologies are comprised of wire, carbon fiber or positive thermal coefficient ( PTC ) heating elements that quickly and effectively deliver heat to people and objects. Wire heating elements are designed from stainless steel, copper, or our proprietary carbon fiber woven lattice technology called Carbotex based on the specifications for a particular product application. Resistive heaters have multiple applications, including seat heating, steering wheel heating, interior panel heating and battery heating in the automotive segment and patient warming within the medical segment. Air Moving Devices Gentherm's air moving devices offer a broad range of scalable blower solutions developed for next-generation thermal systems. Our product families include compact, slim, quiet, high-power and special application series backed by engineering in motor design, aerodynamics, mechanical systems and electronics. Pneumatic Solutions Gentherm's pneumatic Lumbar and Massage Comfort Solutions are differentiated because our underlying valve technology for regulating air flow is based on shape memory alloy ("SMA") valves. Our products operate by inflation and deflation of lifting elements (air bladders) to achieve desired comfort effect. Our innovative control elements produce precise mechanical forces and movements using wires made of memory metals, without the labor-intensive use of additional sensors. Valves Gentherm's valves are designed and developed with our extensive expertise in advanced injection molding. Our passive valves manage flow in fluid-carrying circuits through spring-loaded actuation. Our active valves provide precise electronic flow regulation in liquid and air or gas circuits using solenoid and SMA actuation. Products The Gentherm core technologies are essential in building our strong product portfolio: Automotive Climate and Comfort Solutions Climate Control Seats (CCS ) Gentherm offers a range of CCS products utilizing proprietary technologies for regulating temperature and enhancing the comfort of vehicle passengers. Heated seats, based on our resistive heater core technology, are seamlessly integrated into automotive seat designs, and are constructed using materials that offer the best capacity, installation characteristics and durability. Our design and manufacturing capabilities allow customers to choose from a variety of resistive heater materials based on their individual vehicle specifications. 
+5 
+Table of Contents 
+Our CCS Vent products move air through the seat to provide conditioning. Our CCS Active products utilize thermoelectric devices to heat and cool air used to condition the seat. The conditioned air circulates by one of our specially designed air moving devices through an air distribution system installed in the seat cushion and seat back, so that the seat surface can be heated, ventilated or cooled. Each seat has individual electronic controls to adjust the level of heating, ventilating or cooling. Our CCS products improve comfort compared with conventional vehicle cabin air conditioners by focusing heating and cooling directly on the passenger through the seat. Intelligent neck conditioning systems ventilate warm or cabin temperature air directly onto the passenger s neck and shoulder area. The system combines electronics, air mov
+
+## GEOGRAPHIC REVENUE
+liver results today while driving sustainable growth for the future. Automotive Customers Our automotive products can be found on light vehicles manufactured by nearly all the major OEMs operating in North America and Europe, and several major OEMs in Asia. As such, our customers primarily include light vehicle OEMs and Tier 1s. 
+7 
+Table of Contents 
+In many cases, the OEMs direct us to work with their suppliers, primarily their Tier 1s, to integrate our products into the vehicle s seat or interior design. As an independent supplier we can work with any OEM and any seat manufacturer to create innovative and unique configurations for their applications. Once the integration work is complete, prototypes are sent to the OEMs for evaluation and testing. If an OEM awards us the business to include our products in a vehicle model, it normally takes one to three years from the time an OEM awards us the business to actual production for that vehicle model. During this rollout process, we derive minimal funding from prototype sales but do not earn significant revenue until mass production begins. Upon commencement of mass production, our products are sold by Tier 1s to the OEMs. Inherent to the automotive supplier market are costs and commitments that are incurred well in advance of the receipt of orders and resulting revenues from customers. The volume of products we sell is significantly affected by global and regional automotive production levels and the general business conditions in the automotive industry. Our industry broadly utilizes a just-in-time manufacturing process, and our production volumes established in a new business award frequently change in amount and timing based on updated production schedules from the OEMs and Tier 1s. Our product revenues are generally based upon purchase orders issued by our customers, which occur close to production and delivery of our products. As such, we typically do not have a backlog of firm orders at any point in time. Once we are selected to supply products for a particular vehicle model, we typically supply those products for the platform life, which is normally five to ten years (or shorter for China OEMs). In additio
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers, whether due to their acquisition activity, insourcing, product quality and delivery or otherwise, would have a material adverse effect on our business, results of operations, cash flows and financial condition. Our ability to attract and retain talented, diverse and highly skilled employees is critical to our success and competitiveness, and attracting and retaining such employees has caused and could continue to cause an increase in labor costs and may be adversely impacted by current macroeconomic factors in the automotive industry. Our success depends on our ability to recruit and retain talented and diverse employees who are highly skilled in their areas. In particular, our technologies and products increasingly rely on software and hardware that is highly technical and complex and the market for highly skilled workers and leaders in our industry is extremely competitive and costly. The difficulty of attracting, hiring, developing, motivating and retaining highly qualified and diverse employees throughout our Company has caused and could continue to cause increases in the cost of labor due to wage inflation. Failure to continue attracting and retaining such highly qualified and diverse employees could further increase labor costs, disrupt our operations and adversely affect our strategic plans. Labor shortages, work stoppages and additional workforce disruptions impacting us, our suppliers or customers periodically have disrupted our operations and our growth strategies, and resulting increases in labor and related operating costs may adversely impact our financial performance. Labor shortages, work stoppages and additional workforce disruptions due to illness, quarantines and absenteeism, including ours and those at our suppliers or customers, periodically have disrupted our business and adversely impacted our financial performance. Because the automotive industry relies heavily on just-in-time delivery of components, labor shortages or w
+
+---
+Doc size: 2048KB (capped at 2MB)

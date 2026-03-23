@@ -1,0 +1,107 @@
+# SOLID BIOSCIENCES INC — 10-K Annual Report
+# Filed: 2026-03-19
+# CIK: 1707502
+# SIC: Biological Products, (No Diagnostic Substances)
+# Source: https://www.sec.gov/Archives/edgar/data/1707502/000119312526115928/sldb-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+40 
+Item 1B. 
+Unresolved Staff Comments 
+95 
+Item 1C. 
+Cybersecurity 
+95 
+Item 2. 
+Properties 
+95 
+Item 3. 
+Legal Proceedings 
+95 
+Item 4. 
+Mine Safety Disclosures 
+96 
+PART II 
+97 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+97 
+Item 6. 
+Reserved 
+98 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+99 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+110 
+Item 8. 
+Financial Statements and Supplementary Data 
+110 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+110 
+Item 9A. 
+Controls and Procedures 
+110 
+Item 9B. 
+Other Information 
+111 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+111 
+110 
+PART III 
+112 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+112 
+Item 11. 
+Executive Compensation 
+112 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+112 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+112 
+Item 14. 
+Principal Accountant Fees and Services 
+112 
+PART IV 
+113 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+113 
+Item 16. 
+Form 10-K Summary 
+117 
+SIGNATURES 
+118 
+CONSOLIDATED FINANCIAL STATEMENTS 
+F- 3 
+i 
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS AND INDUSTRY DATA This Annual Report on Form 10-K includes forward-looking statements, which involve risks and uncertainties. These forward-looking statements can be identified by the use of forward-looking terminology, including the terms believe, estimate, project, anticipate, expect, seek, predict, aim, continue, possible, intend, may, might, will, could, would or should or, in each case, their negative, or other variations or comparable terminology. These forward-looking statements include all matters that are not historical facts. They appear in a number of places throughout this Annual Report on Form 10-K. We derive many of our forward-looking statements from our operating budgets and forecasts, which are based upon many detailed assumptions. While we believe that our assumptions are reasonable, we caution that it is very difficult to predict the impact of known factors, and, of course, it is impossible for us to anticipate all factors that could affect our actual results. All forward-looking statements are based upon information available to us on the date of this Annual Report on Form 10-K. The forward-looking statements in this Annual Report on Form 10-K include, among other things, statements about: the timing, progress, design and results of ongoing and planned preclinical studies and clinical trials for our neuromuscular (e.g., SGT-003, SGT-212), cardiac (e.g., SGT-401, SGT-501, SGT-601) or other future candidates; our ability to establish or maintain collaborations or strategic relationships; our ability to obtain and maintain U.S. and foreign regulatory approval of our neuromuscular (e.g., SGT-003, SGT-212), cardiac (e.g., SGT-401, SGT-501, SGT-601) or other future candidates, and the timing and scope thereof; the timing and outcomes of regulatory interactions; the size of the patient populations and potential market opportunity for our neuromuscular (e.g., SGT-003, SGT-212), cardiac (e.g., SGT-401, SGT-501, SGT-601) or other future candidates, if approved for commercial use; our manufacturing capabilities and strategy, including capacity constraints and the scalability and commercial viability of our manufacturing methods and processes; our plans to develop and commercialize our neuromuscular (e.g., SGT-003, SGT-212), cardiac (e.g., SGT-401, SGT-501, SGT-601) or other future candidates, if approved; the pricing and reimbursement of our neuromuscular (e.g., SGT-003, SGT-212), cardiac (e.g., SGT-401, SGT-501, SGT-601) or other future candidates we may develop, if approved; the establishment of sales, marketing and distribution capabilities and entry into agreements with third parties to market and sell our neuromuscular (e.g., SGT-003, SGT-212), cardiac (e.g., SGT-401, SGT-501, SGT-601) or other future candidates, if approved; the rate and degree of market acceptance and clinical utility of our neuromuscular (e.g., SGT-003, SGT-212), cardiac (e.g., SGT-401, SGT-501, SGT-601) or other future candidates, if approved; our plans to develop our platform technologies; our expectations related to our use of capital resources; our estimates regarding expenses, ongoing losses, future revenue, capital requirements, and need for and ability to obtain additional financing; our intellectual property position; our competitive and market position; developments relating to our competitors and our industry; our ability to continue as a going concern; and the impact of laws, regulations, and global political and economic developments, including the imposition of tariffs or other trade restrictions, on our business, operations, strategy and goals. By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. We caution you that forward-looking statements are not guarantees of future performance and that our actual results of operations, financial condition, business and prospects may differ materially 
+ii 
+from those made in or suggested by the forward-looking statements contained in this Annual Report on Form 10-K. In addition, even if our results of operations, financial condition, business and prospects are consistent with the forward-looking statements contained in this Annual Report on Form 10-K, those results may not be indicative of results to be expected in subsequent periods. You should read this Annual Report on Form 10-K and the documents that we have filed as exhibits to this Annual Report on Form 10-K completely and with the understanding that our actual future results may be materially different from what we expect. We qualify all of our forward-looking statements by these cautionary statements. The forward-looking statements contained in this Annual Report on Form 10-K are made as of the date of this Annual Report on Form 10-K, and we do not assume any obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by applicable law. This Annual Report on Form 10-K includes statistical and other industry and market data that we obtained from industry publications and research, surveys and studies conducted by third parties as well as our own estimates of potential market opportunities based on our analysis of these data, research, surveys and studies. All of the market data used in this Annual Report on Form 10-K involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such data. Industry publications and third-party research, surveys and studies generally indicate that their information has been obtained from sources believed to be reliable, although they do not guarantee the accuracy or completeness of such information. Our estimates of the potential market opportunities for our candidates include a number of key assumptions based on our industry knowledge, industry publications and third-party research, surveys and studies, which may be based on a small sample size and fail to accurately reflect market opportunities. While we believe that our internal assumptions are reasonable, no independent source has verified such assumptions. As used in this Annual Report on Form 10-K, the terms Solid, the Company, we, us and our refer to Solid Biosciences Inc., and its consolidated subsidiaries, unless the context indicates otherwise. Solid Biosciences Inc. was organized in March 2013 under the name SOLID Ventures Management, LLC and operated as a Delaware limited liability company until immediately prior to the effectiveness of its registration statement on Form S-1 on January 25, 2018, at which time it completed a statutory corporate conversion into a Delaware corporation and changed its name to Solid Biosciences Inc. RISK FACTOR SUMMARY Our business is subject to a number of risks that if realized could materially affect our business, operating results and financial condition and the trading price of our common stock could decline. These risks are discussed more fully below. These risks include the following: We have incurred significant net losses since inception and anticipate that we will continue to incur net losses for the foreseeable future and may never achieve or maintain profitability. We will need additional funding, which may not be available on acceptable terms, or at all. Failure to obtain this necessary capital when needed may force us to delay, limit or terminate our product development efforts or other operations. We have never generated revenue from product sales and do not expect to do so for the foreseeable future, if ever. Our limited operating history may make it difficult for our stockholders to evaluate the success of our business to date and to assess our future viability. Unfavorable global economic conditions could harm our business, financial condition or results of operations. Our pipeline of gene transfer candidates, which we refer to collectively as our Candidates, utilize novel technology, which makes it difficult to predict the time and cost of development and of subsequently obtaining regulatory approval. To our knowledge, only a limited number of gene transfer products have been approved for commercialization in the United States and the European Union. One of our prior clinical trials had been placed on clinical hold by the Food and Drug Administration ( FDA ) in the past, and we cannot guarantee that similar events will not happen in ongoing, planned and future clinical trials for our Candidates. We have never completed a clinical trial and may be unable to do so for any Candidate, including SGT-003, SGT 212, SGT-501 and other Candidates. Our Candidates may cause one or more adverse events or other undesirable side effects or have properties that could cause us or regulatory authorities to interrupt, delay or halt clinical trials and could result in a more 
+iii 
+restrictive label or the delay, denial or withdrawal of regulatory approval by the FDA or other comparable foreign regulatory authorities, limit the Candidates commercial potential or result in significant negative consequences following any potential marketing approval. Success in preclinical studies or early clinical trials may not be indicative of results obtained in later trials. Preliminary or interim data that we announce or publish from time to time may change as more data becomes available and are subject to audit and verification procedures that could result in material changes in the final data. We may encounter substantial delays in our clinical trials or we may fail to demonstrate safety and efficacy to the satisfaction of applicable regulatory authorities. We may find it difficult to enroll participants in our clinical trials, which could delay or prevent us from proceeding with clinical trials of SGT-003, SGT-212, SGT-501 or our other Candidates. Even if we complete the necessary clinical trials, we cannot predict when, or if, we will obtain regulatory approval to commercialize our Candidates and the approval may be for a narrower indication than we seek. We face significant competition and our competitors may achieve regulatory approval before us or develop therapies that are more advanced or effective than ours, which may adversely affect our ability to develop, successfully market or commercialize our Candidates. Changes within the competitive landscape could lead us to alter our regulatory and/or clinical trial strategy, baseline eligibility criteria or make other modifications to clinical trial designs. We may not be successful in finding strategic collaborators for continuing development of our Candidates or platform technologies, or for successfully commercializing or competing in the market for certain indications. We have limited gene therapy manufacturing experience and could experience production problems and delays in obtaining regulatory approval of our manufacturing processes, which could result in delays in the development or commercialization of SGT-003, SGT-212, SGT-501, or our other Candidates. In addition, changes to manufacturing sites or processes, or formulations for our Candidates may result in additional cost or delay. We expect to utilize third parties to conduct our product manufacturing for the foreseeable future. Therefore, we are subject to the risk that these third parties may not perform satisfactorily or meet regulatory requirements. Our gene transfer approach utilizes capsids derived from a virus, which may be perceived as unsafe or may result in unforeseen adverse events. Negative public opinion and increased regulatory scrutiny of gene therapy may damage public perception of the safety of gene transfer Candidates and adversely affect our ability to conduct our business or obtain regulatory approvals for our Candidates. We heavily rely on certain in-licensed patents and other intellectual property rights in connection with our development of our Candidates and may be required to acquire or license additional patents or other intellectual property rights to continue to develop and commercialize our Candidates. If we are unable to obtain and maintain patent protection for our Candidates, or if the scope of the patent protection obtained is not sufficiently broad, our competitors could develop and commercialize products similar or identical to ours, and our ability to successfully commercialize our Candidates may be adversely affected. Our intellectual property licenses with third parties may be subject to disagreements over contract interpretation, which could narrow the scope of our rights to the relevant intellectual property or technology or increase our financial or other obligations to our licensors. The price of our common stock has been, and in the future is likely to be, volatile and fluctuate substantially, which could result in substantial losses for holders of our common stock. 
+iv 
+PART I Item 1. Bu siness. Overview We are a life sciences company focused on advancing a portfolio of current and future gene therapy candidates, which we refer to collectively as our Candidates, including SGT-003 for the treatment of Duchenne muscular dystrophy ( Duchenne ), SGT-212 for the treatment of Friedreich s ataxia ( FA ), SGT-501 for the treatment of Catecholaminergic polymorphic ventricular tachycardia ( CPVT ), SGT-601 for the treatment of TNNT2-mediated dilated cardiomyopathy ( TNNT2 DCM ), and additional assets for the treatment of genetic cardiac and neuromuscular diseases, at different stages of development, with varying le
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+sole source of gain for an investment in our common stock. We have never declared or paid cash dividends on our capital stock. We currently intend to retain all of our future earnings, if any, to finance the growth and development of our business. In addition, the terms of any future debt agreements may preclude us from paying dividends. As a result, capital appreciation, if any, of our common stock will be the sole source of gain for an investor for the foreseeable future. 
+94 
+Our certificate of incorporation provides that the Court of Chancery of the State of Delaware is the exclusive forum for certain litigation that may be initiated by our stockholders, which could limit our stockholders ability to obtain a favorable judicial forum for such disputes with us or our directors, officers or employees. Our certificate of incorporation provides that, unless we consent in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware is the exclusive forum for (i) any derivative action or proceeding brought on our behalf, (ii) any action asserting a claim for breach of a fiduciary duty owed by any of our directors, officers or other employees to us or our stockholders, (iii) any action asserting a claim arising pursuant to any provision of the DGCL, our certificate of incorporation or our bylaws or (iv) any action asserting a claim governed by the internal affairs doctrine. We do not intend to have this choice of forum provision apply to, and this choice of forum provision will not apply to, actions arising under the Securities Act or the Exchange Act. The choice of forum provision may limit a stockholder s ability to bring a claim in a judicial forum that it finds favorable for disputes with us or our directors, officers or other employees, which may discourage such lawsuits against us and our directors, officers and other employees. Alternatively, if a court were to find the choice of forum provision contained in our certificate of
+
+---
+Doc size: 2048KB (capped at 2MB)

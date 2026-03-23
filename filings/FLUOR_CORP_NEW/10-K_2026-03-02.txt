@@ -1,0 +1,20 @@
+# FLUOR CORP NEW — 10-K Annual Report
+# Filed: 2026-03-02
+# CIK: 1124198
+# SIC: Heavy Construction Other Than Bldg Const - Contractors
+# Source: https://www.sec.gov/Archives/edgar/data/1124198/000112419826000025/flr-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+(Not extracted)
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 131KB (capped at 2MB)

@@ -1,0 +1,251 @@
+# TTM TECHNOLOGIES INC — 10-K Annual Report
+# Filed: 2026-02-17
+# CIK: 1116942
+# SIC: Printed Circuit Boards
+# Source: https://www.sec.gov/Archives/edgar/data/1116942/000119312526051976/ttmi-20251229.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+BUSINESS 
+4
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+13 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+24 
+ITEM 1C. 
+CYBERSECURITY 
+24 
+ITEM 2. 
+PROPERTIES 
+27 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+27 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+27 
+PART II 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES 
+28 
+ITEM 6. 
+RESERVED 
+29 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+30 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+39 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+40 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+41 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+41 
+ITEM 9B. 
+OTHER INFORMATION 
+41 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+42 
+PART III 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+43 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+43 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+43 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+43 
+ITEM 14. 
+PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+43 
+PART IV 
+ITEM 15. 
+EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+44 
+ITEM 16. 
+FORM 10-K SUMMARY 
+46 
+SIGNATURES 
+47 
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+48 
+2 
+Glossary of Terms and Acronyms The following table provides definitions of certain terms and acronyms that may be used within the text of this report. 
+2025 Repurchase Program 
+Share repurchase program authorized by the Board of Directors on May 8, 2025 
+NISPOM 
+National Industrial Security Program Operating Manual 
+A&D 
+Aerospace and Defense 
+NOLs 
+Net operating losses 
+ABL Revolving Loans 
+U.S. ABL and Asia ABL, collectively 
+OBBBA 
+One Big Beautiful Bill Act 
+AESA 
+Active electronically scanned array 
+ODMs 
+Original design manufacturers 
+AI 
+Artificial intelligence 
+OECD 
+Organization for Economic Co-operation and Development 
+Asia ABL 
+Asia Asset-Based Lending Credit Agreement 
+OEMs 
+Original equipment manufacturers 
+ASICs 
+Application Specific Integrated Circuits 
+PCB 
+Printed circuit board 
+ASU 
+Accounting Standards Update 
+Plan 
+2023 Incentive Compensation Plan 
+CEO 
+Chief Executive Officer 
+PRUs 
+Performance-based restricted stock units 
+CFO 
+Chief Financial Officer 
+QTA 
+Quick turnaround 
+CIC 
+Custom Integrated Circuit 
+R&D 
+Research and development 
+CIRT 
+Cybersecurity Incident Response Team 
+REACH 
+Registration, Evaluation, Authorisation and Restriction of Chemicals 
+CME 
+Chicago Mercantile Exchange 
+Report 
+This Annual Report on Form 10-K for the fiscal year ended December 29, 2025 
+CODM 
+Chief operating decision maker 
+RF 
+Radio frequency 
+Company 
+TTM Technologies, Inc. 
+RF&S Components 
+RF and Specialty Components 
+DCF 
+Discounted cash flow 
+RMB 
+Renminbi 
+DCSA 
+Defense Counterintelligence and Security Agency 
+RoHS 
+Restriction of Hazardous Substances 
+DFM 
+Design-for-manufacturability 
+ROU 
+Right-of-use 
+DoW 
+U.S. Department of War 
+RSUs 
+Restricted stock units 
+EAR 
+Export Administration Regulations 
+SBR 
+Special Board Resolution 
+EBITDA 
+Earnings before interest, tax, depreciation, and amortization expense 
+SEC 
+Securities and Exchange Commission 
+EMS 
+Electronic manufacturing services 
+SH E-MS 
+Shanghai E-MS 
+ERP 
+Enterprise resource planning system 
+SLP 
+Substrate-like PCB 
+Exchange Act 
+Securities Exchange Act of 1934, as amended 
+SOFR 
+Secured Overnight Financing Rate 
+FASB 
+Financial Accounting Standards Board 
+SSA 
+Special Security Agreement 
+FCPA 
+Foreign Corrupt Practices Act 
+SVHCs 
+Substances of Very High Concern 
+Guarantors 
+Subsidiary Guarantors of the Company, subject to certain exceptions 
+SVP-IT 
+Senior Vice President of Information Technology 
+HDI 
+High-Density Interconnect 
+Telephonics 
+Telephonics Corporation and ISC Farmingdale Corp. 
+HNTE 
+High and new technology enterprise 
+Term Loan Facility 
+First Amendment, dated as of August 1, 2024, to that certain Amended and Restated Term Loan Credit Agreement, dated as of May 30, 2023 
+IC 
+Integrated circuit 
+TSR 
+Total stockholder return 
+IFF 
+Identification Friend or Foe 
+TTM 
+TTM Technologies, Inc. 
+IT 
+Information technology 
+U.S. ABL 
+U.S. Asset-Based Lending Credit Agreement 
+ITAR 
+International Traffic in Arms Regulations 
+U.S. ABL Priority Collateral 
+Perfected first priority security interest in certain deposit accounts, cash and cash equivalents, accounts receivable, and certain U.S. inventory 
+MIDA 
+Malaysia Investment Development Authority 
+U.S. GAAP 
+Accounting principles generally accepted in the United States of America 
+MYR 
+Malaysian ringgit 
+USG 
+U.S. federal government 
+3 
+PAR T I Statement Regarding Forward-Looking Statements This Report contains forward-looking statements regarding future events or our future financial and operational performance. Forward-looking statements include statements regarding markets for our products; trends in net sales, gross profits, and estimated expense levels; liquidity and anticipated cash needs and availability; and any statement that contains the words anticipate, believe, plan, forecast, foresee, estimate, project, expect, seek, target, intend, goal, and other similar expressions. The forward-looking statements included in this Report reflect our current expectations and beliefs, and we do not undertake publicly to update or revise these statements, even if experience or future changes make it clear that any projected results expressed in this Report or future quarterly reports to stockholders, press releases or company statements will not be realized. In addition, the inclusion of any statement in this Report does not constitute an admission by us that the events or circumstances described in such statement are material. Furthermore, we wish to caution and advise readers that these statements are based on assumptions that may not materialize and may involve risks and uncertainties, many of which are beyond our control, that could cause actual events or performance to differ materially from those contained or implied in these forward-looking statements. These risks and uncertainties include the business and economic risks described in Item 1A, Risk Factors . Unless otherwise indicated or unless the context requires otherwise, all references to time periods refer to our fiscal year, and all reference to TTM, the Company, we, us, our, and similar names refer to TTM Technologies, Inc. and its subsidiaries. ITEM 1. B USINESS General We are a leading global manufacturer of technology products, including mission systems, RF components, RF microwave/microelectronic assemblies, and technologically advanced interconnect products, including PCBs and substrates. In 2025, we generated approximately $2.9 billion in net sales and ended the year with approximately 18,200 employees worldwide. We currently operate a total of 24 specialized facilities in North America and Asia. We focus on providing time-to-market and volume production of advanced technology products and offer a one-stop design, engineering, and manufacturing solution to our customers. This solution allows us to align technology development with the diverse needs of our customers and to enable them to reduce the time required to develop new products and bring them to market. We serve a diversified customer base consisting of approximately 1,300 customers in various markets throughout the world, including aerospace and defense, data center computing, automotive, medical, industrial, and instrumentation, and networking. Our customers include OEMs, EMS providers, ODMs, distributors, and government agencies (both domestic and allied foreign governments). We report our worldwide operations based on three reportable segments: (1) A&D , which consists of 13 domestic system, subsystem, and PCB fabrication plants; (2) Commercial , which consists of three domestic PCB fabrication plants, four PCB fabrication plants in China, one in Malaysia, and one in Canada; and (3) RF&S Components , which consists of one domestic RF component plant and one RF component plant in China. Each segment operates predominantly in the same industries with facilities that produce customized products for our customers and use similar means of product distribution. Additional information on our reportable segments and product information is contained in Part II, Item 8, Note 4, Segment Information , of the Notes to Consolidated Financial Statements. Industry Overview Advanced interconnect products serve as the foundation for virtually all electronic products, including the electronic components and subsystems integrated into automobiles, high-end commercial electronic equipment such as medical robotics and testing equipment, data center switches and servers, and aerospace and defense electronic systems. Products designed to offer faster data transmission, thinner and more lightweight packaging, and reduced power consumption generally require increasingly complex interconnect products. Advanced technology interconnect product solutions such as HDI and SLP technologies provide increased circuit densities, rigid-flex circuits can be found in small and lightweight end products and other space-challenged electronics packaging applications, and high-performance substrates that serve as the interconnect between the IC and the PCB in many advanced electronic products are all found across a wide variety of end markets. Combined with the engineered systems and assemblies described above, these advanced technologies" generally have growth rates which are higher than conventional technologies. In addition, most of our markets have low volume requirements during the prototype stage, which later transitions to higher volume requirements during product ramp. TTM s engineered systems are sold primarily to the aerospace and defense market, generally tier one subcontractors but also directly to government agencies (both domestic and allied foreign governments). Due to modernization priorities, an increased proportion of defense budgets is geared towards defense electronics such as radar, communications, and surveillance. These are the key markets for our engineered systems products. 
+4 
+TTM s RF microwave/microelectronic assemblies are also used in complete defense electronic systems and sold to tier one subcontractors. They benefit from increasing electronics content in defense programs as well as increased focus on solid-state AESA radar systems. Based on our internal market intelligence, we expect this market to grow faster than the overall defense market. TTM s high-volume commercial RF components product lines are utilized by TTM s customers to achieve advance signal conditioning in transceiver applications for 5G and other communication systems. The growth of the 5G transceiver market is expected to exceed overall telecommunications market growth over the next several years. Our Strategy Our vision is to inspire innovation as a global preeminent technology company. Our core strategy includes the following elements: Provide differentiated capabilities by incorporating advanced design-to-specification engineering support, testing, components, and specialized assembly into the value-added solution provided to customers. With our past acquisitions of Anaren, Inc. and Telephonics, we moved beyond build-to-print manufacturing and assembly capabilities and expanded into integrated systems and deepened our RF and radar-related engagement to meet the technology needs of our customers, particularly our key aerospace and defense customers. As a result of additional design capabilities, we are more capable of providing cost-effective, ready for manufacture, enabling technologies to the customer. Maintain our customer-driven culture and provide superior service to our customers in our core markets of aerospace and defense, automotive, data center computing, medical, industrial, and instrumentation, and networking. Our customer-oriented culture is designed to achieve extraordinary service, competitive differentiation, and superior execution. Our customer-oriented strategies include engaging in collaborative research and development and the co-development of new technologies and products, capturing new technology products for next generation equipment, and continuing investments to enhance our broad offering of advanced interconnect and RF/microwave technologies from components through integrated mission systems. We have invested in and employ a diverse group of design engineers and field application engineers (FAEs) to provide technical expertise to our customers with the goal of designing the best product and service solutions for their needs, and to provide ongoing technical support. We believe our ability to anticipate and meet customers needs is critical to retaining existing customers and attracting leading companies as new customers. Drive operational efficiency and productivity. We are highly focused on improving our operational execution to increase efficiency, productivity, and yields. We strongly believe in the benefits of sharing best practices across our extensive manufacturing footprint and rely on stringent goals for throughput, quality, and customer satisfaction to measure our effectiveness. The fast-paced nature of our business requires a disciplined approach to manufacturing that is rooted in continuous improvement and new capability development. Accelerate customer, end market, and technology diversification through strategic mergers and acquisitions. We have a history of executing successful acquisitions that have been key to our growth and profitability. Historically, we focused on strategic opportunities that could facilitate our efforts to further diversify into other growing end markets. Now that we have a more diversified end market mix, our focus is to strengthen and expand our leadership positions in existing end markets. We will also look for strategic opportunities that further strengthen our leading-edge technology capabilities and aim to manage our exposure to cyclical businesses. Accelerate our expansion into growing markets using our advanced technology and diversified global manufacturing footprint as key points of differentiation. With rising requirements for faster data transmission, shrinking features (i.e., lightweight and thin), thermal management and lower power consumption, many advanced interconnect product designs have migrated to more complex multilayer and advanced HDI PCBs from conventional multilayer PCB technologies. As our customers consolidate their supply chains, our objective is to differentiate ourselves as a strategic supplier with the technology breadth to meet most, if not all, of our customers advanced interconnect and RF related requirements. Additionally, we intend to strategically invest to expand and develop our manufacturing footprint both domestically and internationally to meet customer req
+
+## GEOGRAPHIC REVENUE
+posit accounts, cash and cash equivalents, accounts receivable, and certain U.S. inventory 
+MIDA 
+Malaysia Investment Development Authority 
+U.S. GAAP 
+Accounting principles generally accepted in the United States of America 
+MYR 
+Malaysian ringgit 
+USG 
+U.S. federal government 
+3 
+PAR T I Statement Regarding Forward-Looking Statements This Report contains forward-looking statements regarding future events or our future financial and operational performance. Forward-looking statements include statements regarding markets for our products; trends in net sales, gross profits, and estimated expense levels; liquidity and anticipated cash needs and availability; and any statement that contains the words anticipate, believe, plan, forecast, foresee, estimate, project, expect, seek, target, intend, goal, and other similar expressions. The forward-looking statements included in this Report reflect our current expectations and beliefs, and we do not undertake publicly to update or revise these statements, even if experience or future changes make it clear that any projected results expressed in this Report or future quarterly reports to stockholders, press releases or company statements will not be realized. In addition, the inclusion of any statement in this Report does not constitute an admission by us that the events or circumstances described in such statement are material. Furthermore, we wish to caution and advise readers that these statements are based on assumptions that may not materialize and may involve risks and uncertainties, many of which are beyond our control, that could cause actual events or performance to differ materially from those contained or implied in these forward-looking statements. These risks and uncertainties include the business and economic risks described in Item 1A, Risk Factors . Unless otherwise indicated or unless the context requires otherwise, all references to time periods refer to our fiscal year, and all reference to TTM, the Company, we, us, our, and similar names refer to TTM Technologies, Inc. and its subsidiaries. ITEM 1. B USINESS General We are a leading global manufacturer of technology products, including mission systems,
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers; or the insolvency of one or more of our significant customers. Competition in the PCB and worldwide electronics market is intense, and we could lose market share, or our profit margins may decrease, if we are unable to maintain our current competitive position in end markets using our quick-turn, high-technology, and high-mix manufacturing services. The PCB industry is intensely competitive, highly fragmented, and rapidly changing. The worldwide electronics industry is characterized by relatively short product life cycles and significant fluctuations in product demand, and is subject to economic cycles 
+15 
+and recessionary periods. We expect competition to continue, which could result in price reductions, reduced gross margins, and loss of market share. In addition, we increasingly compete on an international basis, and new and emerging technologies may result in new competitors entering our markets. Some of our competitors and potential competitors have advantages over us, including: greater financial and manufacturing resources that can be devoted to the development, production, and sale of their products; more established and broader sales and marketing channels; preferred vendor status with existing and potential customers; more manufacturing facilities worldwide, some of which are closer in proximity to OEMs and/or located in countries with lower production costs; lower capacity utilization, which in peak market conditions can result in shorter lead times to customers; ability to add capacity faster or more efficiently; and larger customer bases. In addition, these competitors may respond more quickly to new or emerging technologies or adapt more quickly to changes in customer requirements than we do. We must continually develop improved manufacturing processes to meet our customers needs for complex products, and our manufacturing process technology is generally not subject to significant proprietary protection. During recessionary peri
+
+---
+Doc size: 2048KB (capped at 2MB)

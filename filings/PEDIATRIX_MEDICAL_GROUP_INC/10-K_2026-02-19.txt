@@ -1,0 +1,95 @@
+# PEDIATRIX MEDICAL GROUP INC — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 893949
+# SIC: Services-Hospitals
+# Source: https://www.sec.gov/Archives/edgar/data/893949/000119312526058074/md-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+26 
+Item 1B. 
+Unresolved Staff Comments 
+50 
+Item 1C. 
+Cybersecurity 
+50 
+Item 2. 
+Properties 
+52 
+Item 3. 
+Legal Proceedings 
+52 
+Item 4. 
+Mine Safety Disclosures 
+52 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+53 
+Item 6. 
+Reserved 
+56 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+57 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+69 
+Item 8. 
+Financial Statements and Supplementary Data 
+70 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+97 
+Item 9A. 
+Controls and Procedures 
+97 
+Item 9B. 
+Other Information 
+97 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+97 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+98 
+Item 11. 
+Executive Compensation 
+98 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+98 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+98 
+Item 14. 
+Principal Accountant Fees and Services 
+99 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+100 
+Item 16. 
+Form 10-K Summary 
+105 
+3 
+FORWARD-LOOKING STATEMENTS Certain information included or incorporated by reference in this Form 10-K may be deemed to be forward-looking statements which may include, but are not limited to, statements relating to our objectives, plans and strategies, and all statements (other than statements of historical facts) that address activities, events or developments that we intend, expect, project, believe or anticipate will or may occur in the future. These statements are often characterized by terminology such as believe, hope, may, anticipate, should, intend, plan, will, expect, estimate, project, positioned, strategy and similar expressions, and are based on assumptions and assessments made by our management in light of their experience and their perception of historical trends, current conditions, expected future developments and other factors they believe to be appropriate. Any forward-looking statements in this Form 10-K are made as of the date hereof, and we undertake no duty to update or revise any such statements, whether as a result of new information, future events or otherwise. Forward-looking statements are not guarantees of future performance and are subject to risks and uncertainties. Important factors that could cause actual results, developments and business decisions to differ materially from forward-looking statements are described in this Form 10-K, including the risks set forth under Risk Factors in Item 1A. As used in this Form 10-K, unless the context otherwise requires, the terms Pediatrix, the Company, we, us, and our refer to the parent company, Pediatrix Medical Group, Inc., a Florida corporation, and the consolidated subsidiaries through which its businesses are actually conducted (collectively, PMG ), together with PMG s affiliated business corporations or professional associations, professional corporations, limited liability companies and partnerships ( affiliated professional contractors ). Certain subsidiaries of PMG have contracts with our affiliated professional contractors, which are separate legal entities that provide physician services in certain states. PART I ITEM 1. BUSINESS OVERVIEW Pediatrix is a leading provider of physician services including newborn, maternal-fetal, and other pediatric subspecialty care. Our national network is comprised of affiliated physicians who provide clinical care in 37 states. During 2024, we formalized our practice portfolio management plans, resulting in a decision to exit almost all of our affiliated office-based practices, other than maternal-fetal medicine. As of December 31, 2024, these plans were completed. Additionally, we exited our primary and urgent care service line during 2024 based on a review of the cost and time that would be required to build the platform to scale. At December 31, 2025, our national network comprised approximately 2,295 affiliated physicians, including 1,350 physicians who provide neonatal clinical care, primarily within hospital-based neonatal intensive care units ( NICUs ), to babies born prematurely or with medical complications. We have over 475 affiliated physicians who provide maternal-fetal and obstetrical medical care to expectant mothers experiencing complicated pregnancies primarily in areas where our affiliated neonatal physicians practice. Our network also includes other pediatric subspecialists, including over 230 physicians providing pediatric intensive care, 220 physicians providing hospital-based pediatric care, and 20 physicians providing pediatric surgical care. Pediatrix Medical Group, Inc. was incorporated in Florida in 2007, and is the successor to PMG Services, Inc., which was formerly known as Pediatrix Medical Group, Inc. and was incorporated in Florida in 1979. Our principal executive offices are located at 1301 Concord Terrace, Sunrise, Florida 33323 and our telephone number is (954) 384-0175. OUR PHYSICIAN SPECIALTIES AND SERVICES The following discussion describes our physician specialties and the care that we provide, either directly or through our affiliated professional contractors: Neonatal Care 
+4 
+We provide clinical care to babies born prematurely or with complications within specific units at hospitals, primarily NICUs, through our network of affiliated neonatal physician subspecialists ( neonatologists ), neonatal nurse practitioners and other pediatric clinicians, who staff and manage clinical activities at over 360 NICUs in 32 states. Neonatologists are board-certified, or eligible-to-apply-for-certification, physicians who have extensive education and training for the care of babies born prematurely or with complications that require complex medical treatment. Neonatal nurse practitioners are registered nurses who have advanced training and education in assessing and treating the healthcare needs of newborns and infants as well as managing the needs of their families. We partner with our hospital clients in an effort to enhance the quality of care delivered to premature and sick babies. Some of the nation's largest and most prestigious hospitals, including both not-for-profit and for-profit institutions, retain us to staff and manage their NICUs. Our affiliated neonatologists generally provide 24-hours-a-day, seven-days-a-week coverage in NICUs, support the local referring physician community and are available for consultation in other hospital departments. Our hospital partners benefit from our experience in managing complex intensive care units. Our neonatal physicians interact with colleagues across the country through an internal communications system to draw upon their collective expertise in managing challenging patient-care issues. Our neonatal physicians also work collaboratively with maternal-fetal medicine subspecialists to coordinate the care of mothers experiencing complicated pregnancies and their fetuses. Maternal-Fetal Care We provide inpatient and office-based clinical care to expectant mothers and their unborn babies through our affiliated maternal-fetal medicine subspecialists, obstetricians and other clinicians, such as maternal-fetal medicine nurse practitioners, certified nurse mid-wives, sonographers and genetic counselors. Maternal-fetal medicine subspecialists are board-certified, or eligible-to-apply-for-certification, obstetricians who have extensive education and training for the treatment of high-risk expectant mothers and their fetuses. Our affiliated maternal-fetal medicine subspecialists practice primarily in metropolitan areas where we have affiliated neonatologists to provide coordinated care for women with complicated pregnancies whose babies are often admitted to a NICU upon delivery. We believe continuity of treatment from mother and developing fetus during the pregnancy to the newborn upon delivery has improved the clinical outcomes of our patients. Other Pediatric Subspecialty Care Our network includes other pediatric subspecialists such as pediatric intensivists, pediatric hospitalists and pediatric surgeons, among others. In addition, our affiliated physicians seek to provide support services in other areas of hospitals, particularly in the pediatric emergency room, labor and delivery area, and nursery and pediatric departments, where immediate accessibility to specialized care may be critical. Pediatric Intensive Care . Pediatric intensivists are hospital-based pediatricians with additional education and training in caring for critically ill or injured children and adolescents. Our affiliated physicians who provide this clinical care staff and manage pediatric intensive care units ( PICUs ) at approximately 60 hospitals. Pediatric Hospitalists . Pediatric hospitalists are hospital-based pediatricians specializing in inpatient care and management of acutely ill children. Our affiliated hospital-based physicians provide this inpatient pediatric and newborn care in PICUs, well-born nurseries and pediatric emergency rooms at over 50 hospitals. Pediatric Surgery . Pediatric surgeons provide specialized care for patients ranging from newborns to adolescents, for all problems or conditions that require surgical intervention, and often have particular expertise in the areas of neonatal, prenatal, trauma and pediatric oncology. Our affiliated physicians in this subspecialty include pediatric plastic and craniofacial surgeons and general and thoracic pediatric surgeons. Areas of particular expertise include management of neonatal and congenital anomalies, prenatal counseling, trauma management, pediatric oncology, gastrointestinal surgery, as well as common pediatric surgical conditions. Other Newborn and Pediatric Care . Because our affiliated physicians and advanced nurse practitioners generally provide hospital-based coverage, they are situated to provide highly specialized care to address medical needs that may arise during a baby s hospitalization. For example, as part of our ongoing efforts to support and partner 
+5 
+with hospitals and the local referring physician community, our affiliated neonatologists, pediatric hospitalists and advanced nurse practitioners provide in-hospital nursery care to newborns through our newborn nursery program. This program is made available for babies during their hospital stay, which in the case of healthy babies typically consists of evaluation and observation, following which they are referred, and their hospital records are provided, to their pediatricians or family practitioners for follow-up care. Newborn Hearing Screening Program . Our affiliated physicians also oversee our newborn hearing screening program. Since we launched this program in 1994, we believe that we have become the largest provider of newborn hearing screening services in the United States. In 2025, we screened over 793,000 babies for potential hearing loss at 340 hospitals across the nation. Over 40 states either require newborns to be screened for potential hearing loss before being discharged from the hospital or require that parents be offered the opportunity to submit their newborns to hearing screens. We contract or coordinate with hospitals to provide newborn hearing screening services. Clinical Research, Education, Quality and Safety As part of our ongoing commitment to improving patient care through evidence-based medicine, we also conduct clinical research, monitor clinical outcomes and implement clinical quality initiatives with a view to improving patient outcomes, shortening the length of hospital stays and reducing long-term health system costs with a focus on women's and children's services that we believe is unrivaled. Our physician-led approach to clinical research and continuous quality improvement has consistently demonstrated improvements in clinical outcomes, while reducing the costs of care associated with complications as well as variability in care processes. We provide extensive continuing medical and nursing education to our affiliated clinicians in an effort to ensure that they have access to current treatment methodologies, national best practices and evidence-based guidelines and also provide continuing medical education to external clinicians. We believe that referring and collaborating physicians, hospitals, third-party payors and patients all benefit from our clinical research, education, quality and safety initiatives. DEMAND FOR OUR SERVICES Hospital-Based Care. Hospitals generally must provide cost-effective, quality care in order to enhance their reputations within their communities and desirability to patients, referring and collaborating physicians and third-party payors. In an effort to improve outcomes and manage costs, hospitals typically employ or contract with physician specialists to provide specialized care in many hospital-based units or settings. Hospitals traditionally staff these units or settings through affiliations with local physician groups or independent practitioners. However, management of these units and settings presents significant operational challenges, including variable admissions rates, increased operating costs, complex reimbursement systems and other administrative burdens. As a result, some hospitals choose to contract with physician organizations that have the clinical quality initiatives, information and reimbursement systems and management expertise required to effectively and efficiently operate these units and settings in the current healthcare environment. With continuing shifts to value-based reimbursement models, we anticipate that hospitals will continue to seek out experienced organizations with documented success in improving quality indicators and reducing costs. Demand for hospital-based physician services, including neonatology, is determined by a national market in which qualified physicians with advanced training compete for hospital contracts. Neonatal Medicine . Of the over 3.6 million births in the United States annually, we estimate that 14%-15% require NICU admission. Numerous institutions conduct research to identify potential causes of premature birth and medical complications that often require NICU admission. Some common contributing factors include the presence of hypertension or diabetes in the mother, lack of prenatal care, complications during pregnancy, drug and alcohol abuse and smoking or poor nutritional habits during pregnancy. Babies admitted to NICUs typically have an illness or condition that requires the care of a neonatologist. Babies who are born prematurely or have a low birth weight often require neonatal intensive care services because of an increased risk for medical complications. We believe obstetricians generally prefer to perform deliveries
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

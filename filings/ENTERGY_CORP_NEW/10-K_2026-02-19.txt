@@ -1,0 +1,20 @@
+# ENTERGY CORP NEW — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 65984
+# SIC: Electric Services
+# Source: https://www.sec.gov/Archives/edgar/data/65984/000006598426000174/etr-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. Risk Factors Summary 247 Utility 249 Other Business Activities 278 Regulation of Entergy s Business 279 Litigation 291 Human Capital 292 Availability of SEC filings and other information on Entergy s website 294 Risk Factors Part I.
+
+## RISK FACTORS (Item 1A)
+Risk Factors Summary 247 Utility 249 Other Business Activities 278 Regulation of Entergy s Business 279 Litigation 291 Human Capital 292 Availability of SEC filings and other information on Entergy s website 294 Risk Factors Part I. Item 1A. 295
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customer counterparties, including counterparties to data center electric service agreements, to satisfy their financial and performance commitments; reductions in the demand for electricity to power large-scale data centers and other large customers and the potential for stranded assets; concentration of business and credit risk with a small number of customers in an industry based on emerging technologies, including artificial intelligence and machine learning; and Entergy and its subsidiaries ability to successfully execute on their business strategies, including their ability to complete strategic transactions that they may undertake, and their ability to meet the rapidly growing demand for electricity, including from large-scale data center and other large customers, and to manage the impacts of growth in demand for electricity on customers and Entergy s business. vii Table of Contents DEFINITIONS Certain abbreviations or acronyms used in the text and notes are defined below: Abbreviation or Acronym Term AFUDC Allowance for Funds Used During Construction ALJ Administrative Law Judge ANO 1 and 2 Units 1 and 2 of Arkansas Nuclear One (nuclear), owned by Entergy Arkansas APSC Arkansas Public Service Commission ASU Accounting Standards Update issued by the FASB Board Board of Directors of Entergy Corporation Cajun Cajun Electric Power Cooperative, Inc. capacity factor Actual plant output divided by maximum potential plant output for the period City Council Council of the City of New Orleans, Louisiana COVID-19 The novel coronavirus disease declared a pandemic by the World Health Organization and the Centers for Disease Control and Prevention in March 2020 D.C. Circuit U.S. Court of Appeals for the District of Columbia Circuit DOE United States Department of Energy Entergy Entergy Corporation and its direct and indirect subsidiaries Entergy Corporation Entergy Corporation, a Delaware corporation Entergy Gulf States, Inc. Predecessor company for financial repor
+
+---
+Doc size: 2048KB (capped at 2MB)

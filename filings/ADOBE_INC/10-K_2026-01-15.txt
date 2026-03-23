@@ -1,0 +1,14 @@
+# ADOBE INC — 10-K Annual Report
+# Filed: 2026-01-15
+# CIK: 796343
+# SIC: Services-Prepackaged Software
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/adbe-20251128.htm)
+
+## RISK FACTORS (Item 1A)
+17 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment" contextRef="c-1" decimals="INF" name="us-gaap:NumberOfReportableSegments" scale="0" id="f-577">3 2026-01-01 2039-01-01 iso4217:USD xbrli:shares iso4217:USD xbrli:shares utr:WK xbrli:pure adbe:segment adbe:numberOfPeriod adbe:purchasePeriod 0000796343 2024-11-30 2025-11-28 0000796343 2025-05-30 0000796343 2026-01-09 </x
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Significant Customers For all periods presented, there were no customers that represented at least 10% of net revenue or that were responsible for over 10% of our trade receivables. NOTE 3.&#160;&#160; CASH, CASH EQUIVALENTS AND SHORT-TERM INVESTMENTS <ix:nonNumeric contex

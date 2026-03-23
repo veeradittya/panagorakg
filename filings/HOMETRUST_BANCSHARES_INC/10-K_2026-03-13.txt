@@ -1,0 +1,20 @@
+# HOMETRUST BANCSHARES INC — 10-K Annual Report
+# Filed: 2026-03-13
+# CIK: 1538263
+# SIC: Savings Institution, Federally Chartered
+# Source: https://www.sec.gov/Archives/edgar/data/1538263/000153826326000030/htbi-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1 Business 5
+
+## RISK FACTORS (Item 1A)
+Risk Factors 13 Item 1B Unresolved Staff Comments 23 Item 1C Cybersecurity Risk Management, Strategy and Governance 23
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

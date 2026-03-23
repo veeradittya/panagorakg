@@ -1,0 +1,212 @@
+# ANAPTYSBIO INC — 10-K Annual Report
+# Filed: 2026-03-03
+# CIK: 1370053
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1370053/000119312526088290/anab-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+23 
+Item 1B. 
+Unresolved Staff Comments 
+58 
+Item 1C. 
+Cybersecurity 
+58 
+Item 2. 
+Properties 
+59 
+Item 3. 
+Legal Proceedings 
+59 
+Item 4. 
+Mine Safety Disclosures 
+59 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+60 
+Item 6. 
+Reserved 
+60 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+61 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+74 
+Item 8. 
+Consolidated Financial Statements and Supplementary Data 
+75 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+106 
+Item 9A. 
+Controls and Procedures 
+106 
+Item 9B. 
+Other Information 
+107 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+107 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+108 
+Item 11. 
+Executive Compensation 
+108 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+108 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+108 
+Item 14. 
+Principal Accounting Fees and Services 
+108 
+PART IV 
+Item 15. 
+Exhibits, Consolidated Financial Statement Schedules 
+109 
+Item 16. 
+Form 10-K Summary 
+111 
+Signatures 
+112 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K ( Annual Report ) contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and section 27A of the Securities Act of 1933, as amended (the Securities Act ). The words believe, may, will, potentially, estimate, continue, anticipate, intend, could, would, project, plan, and expect, and similar expressions that convey uncertainty of future events or outcomes, are intended to identify forward-looking statements. The forward-looking statements in this report include, among other things, statements about: the success, cost, and timing of our product candidate development activities and ongoing and planned clinical trials; our plans and ability to develop and commercialize antibodies; the likelihood that the clinical data generated in any study we performed, are performing, or plan to perform in a non-U.S. jurisdiction will be subsequently accepted by the U.S. Food and Drug Administration ( FDA ) and/or by foreign regulatory authorities outside of the jurisdiction where the study was being performed; the potential benefits and advantages of our product candidates and approaches versus those of our competitors; the success of competing therapies that are or may become available; the timing of and the ability to obtain and maintain regulatory approvals for our product candidates, partnered product candidates and/or product candidates for which we may receive royalties; the rate and degree of market acceptance and clinical utility of any approved product candidates; the size and growth potential of the markets for any approved product candidates, and our ability to serve those markets; regulatory developments in the United States ( U.S. ) and foreign countries; the impact of political, economic or public health events on our business and the U.S. and global economies; our ability to attract and retain key scientific or management personnel; general macroeconomic factors, including volatility in equity markets, and fluctuations in interest rates, foreign exchange rates and political and regulatory developments or changes in trade policy, including tariffs; our ability to obtain funding for our operations on favorable terms or at all, including funding necessary to complete further development and commercialization of our product candidates; the timing and ability of our collaborators to develop and commercialize our partnered product candidates; the proposed separation of the Company s operations into two independent, publicly traded companies, including the completion and timing of the separation, the business and operations of each company and any benefits or costs of the separation; expectations regarding the structure, infrastructure, timing and taxation of the proposed separation of the Company s operations into two independent, publicly traded companies; our use of the net proceeds from our public offerings and other financing transactions; and our estimates regarding expenses, future revenue, capital requirements, and needs for additional financing. These forward-looking statements are subject to a number of risks, uncertainties, and assumptions, including those described in Item 1A, Risk Factors, and elsewhere in this Annual Report. Moreover, we operate in a competitive and rapidly changing environment, and new risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties, and assumptions, the forward-looking events and circumstances discussed in this Annual Report may not occur, and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. 
+1 
+You should not rely upon forward-looking statements as predictions of future events. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, levels of activity, performance, or events and circumstances reflected in the forward-looking statements will be achieved or occur. We undertake no obligation to update publicly any forward-looking statements to conform these statements to actual results or to changes in our expectations, except as required by law. You should read this Annual Report with the understanding that our actual future results, levels of activity, performance, and events and circumstances may be materially different from what we expect. Unless the context indicates otherwise, as used in this Annual Report, the terms AnaptysBio, Anaptys, company, we, us and our refer to AnaptysBio, Inc., a Delaware corporation, and its subsidiaries taken as a whole, unless otherwise noted. AnaptysBio is our common law trademark. This Annual Report contains additional trade names, trademarks, and service marks of other companies, which are the property of their respective owners. We do not intend our use or display of other companies trade names, trademarks, or service marks to imply a relationship with, or endorsement or sponsorship of us by, these other companies. 
+2 
+PART I Item 1. Busi ness Overview We are a clinical-stage biotechnology company focused on delivering innovative immunology therapeutics for autoimmune and inflammatory diseases. Our clinical-stage pipeline includes rosnilimab, a selective pathogenic T cell depleter, for which we completed a Phase 2b trial for the treatment of moderate-to-severe rheumatoid arthritis ( RA ), ANB033, a CD122 antagonist, in a Phase 1b trial for celiac disease ( CeD ) and eosinophilic esophagitis ( EoE ), and ANB101, a BDCA2 modulator, in a Phase 1a trial. We also discovered and out-licensed, in financial collaborations, multiple therapeutic antibodies, including a PD-1 antagonist (Jemperli (dostarlimab-gxly) or Jemperli ) to GSK and an IL-36R antagonist (imsidolimab) to Vanda Pharmaceuticals Inc. ( Vanda ). We currently recognize revenue from milestones and royalties achieved under our immuno-oncology collaboration with GSK and license and transition services revenue from our collaboration with Vanda. Intention to Separate Company In September 2025, we announced that our board of directors ( Board of Directors ) approved plans to explore separating our business into two independent, publicly traded companies. One company is expected to hold and continue to manage the financial collaboration for Jemperli from GSK and for imsidolimab from Vanda, with a focus on protecting and returning value of the royalties to its shareholders. The other company is expected to be a clinical-stage biotechnology company focused on the development and potential commercialization of innovative therapeutics for autoimmune and inflammatory diseases, including rosnilimab, ANB033 and ANB101. Upon completion of the proposed separation, which we expect to complete in the second quarter of 2026, we intend to launch the clinical-stage biotechnology company with adequate capital to fund operations for at least twelve months after the date the proposed separation is completed. While the proposed separation is anticipated to be a taxable event, we are focused on minimizing overall corporate and shareholder-level taxes across the entire transaction. Completion of the proposed separation is subject to final approval by our Board of Directors and other customary conditions, including the effectiveness of a registration statement with the Securities and Exchange Commission (the SEC ). Our Wholly Owned Clinical-Stage Pipeline Our antibodies are in development to treat inflammatory diseases. We believe these molecules have potential applicability across a broad range of autoimmune and inflammatory diseases, including in gastroenterology, rheumatology, dermatology, respiratory, and other therapeutic areas. Rosnilimab Rosnilimab is an IgG1 antibody that directly targets pathogenic T cells, such as activated Tph/Tfh and T effector cells, in the periphery or inflamed tissue. These T cells, when activated, proliferate and migrate, and secrete the inflammatory cytokines that are the drivers of autoimmune and inflammatory diseases. Rosnilimab is designed to selectively deplete pathogenic T cells in both inflamed tissue and the periphery while sparing non-pathogenic T cells, including na ve T cells, to preserve overall immune function and restore immune homeostasis. This drives specific immunological outcomes, such as a reduction in T cell proliferation, migration and cytokine secretion, and a reduction of plasma cell generation and autoantibody levels. We announced top-line data from a healthy volunteer Phase 1 trial of rosnilimab in November 2021 that supported advancement of rosnilimab into subsequent patient trials. A total of 144 subjects were enrolled in the randomized, double-blind, placebo-controlled healthy volunteer Phase 1 trial, where single ascending dose ( SAD ) cohorts received subcutaneous ( SC ) or intravenous ( IV ) single doses of rosnilimab up to 600mg or placebo, while multiple ascending dose ( MAD ) cohorts received four weekly subcutaneous doses of rosnilimab ranging up to 400mg or placebo. Rosnilimab was generally well-tolerated and no dose-limiting toxicities were observed. Rosnilimab demonstrated a sustained systemic exposure and dose-proportionality with an estimated two-week half-life for subcutaneous and IV routes of administration. In February 2025, we announced initial data, which was subsequently updated in June 2025, from rosnilimab s randomized, placebo-controlled, global 424-patient, Phase 2b clinical trial for moderate-to-severe rheumatoid arthritis. Patients were randomized to receive either 100mg of subcutaneous rosnilimab every four weeks (Q4W), 400mg Q4W, 600mg every two weeks, or placebo. 
+3 
+During the three-month placebo-controlled period, the trial achieved its primary endpoint by observing the reduction of disease activity using the disease activity score, 28 joints (DAS-28) C-Reactive Protein ( CRP ) score, as well as ACR20 response (an accepted Phase 3 registrational endpoint), at Week 12 in all three doses of rosnilimab compared to placebo. Rosnilimab achieved its secondary endpoint by demonstrating statistical significance in at least one dose and numerical superiority at all doses, including once monthly administration, on ACR20, ACR50 and with respect to the clinical disease activity index ( CDAI ) low disease activity ( LDA ) score at Week 12. Specifically, at Week 12, ACR20 achieved statistical significance at 100 mg (p 0.05), 400 mg (p 0.01), and 600 mg (p 0.001); ACR50 achieved statistical significance at 600 mg (p 0.05); and CDAI LDA achieved statistical significance at 100 mg (p 0.05) and 400 mg (p 0.01). Following completion of the Week 14 visit, 69% (or 220 of the 318) rosnilimab-treated patients who achieved CDAI LDA at this timepoint continued their assigned treatment through six months in a blinded, all-active treatment period. At six months, rosnilimab results demonstrated deepening of responses through six months on CDAI LDA, CDAI remission and ACR70 and independent of prior treatments, including anti-TNF , anti-IL6R or JAK inhibitors. Importantly, this was particularly observed in b/tsDMARD-experienced patients for the 400mg Q4W and 600mg Q2W doses, showing a dose response relative to the 100mg Q4W dose. Furthermore, Week 28 clinical responses across multiple measures, including CDAI LDA, mean CDAI, mean DAS28-CRP and ACR50/70, were durable off-drug through at least three months after the last rosnilimab dose, results which we believe suggest the potential for extended dosing (e.g., Q8W/Q12W) after initial monthly dosing. Due to the trial design, max response rates for rosnilimab have not yet been observed as strict criteria at Week 14, which prevented additional patients with meaningful improvement from continuing treatment in the trial. A table summarizing the results for primary and secondary endpoints follows: 
+Efficacy Measure 
+Placebo 
+Rosnilimab 100mg Q4W 
+Rosnilimab 400mg Q4W 
+Rosnilimab 600mg Q2W 
+(N=106) 
+(N=106) 
+(N=107) 
+(N=105) 
+Primary Endpoint 
+DAS28-CRP at Week 12 
+(mean change from baseline) 
+-1.69 
+-2.06 
+** 
+-2.12 
+** 
+-2.06 
+** 
+Select Secondary Endpoint&#x5E; (% of participants) 
+ACR20 at Week 12&#x5E; 
+52.8 
+68.9 
+* 
+70.1 
+** 
+75.2 
+*** 
+ACR50 at Week 12&#x5E; 
+33.0 
+44.3 
+36.4 
+46.7 
+* 
+Week 28 
+45.3 
+48.6 
+58.1 
+ACR70 at Week 12&#x5E; 
+17.9 
+21.7 
+21.5 
+21.9 
+Week 28 
+40.6 
+36.4 
+44.8 
+CDAI 10 (LDA) at Week 12&#x5E; 
+31.1 
+46.2 
+* 
+49.5 
+** 
+38.1 
+Week 28 
+52.8 
+54.2 
+62.9 
+Select Exploratory Endpoints (Mean Change from Baseline) 
+DAS28-CRP 
+Week 28 
+-2.51 
+-2.51 
+-2.57 
+hs-CRP 
+Week 12 
+-0.73 
+-9.67 
+*** 
+-10.10 
+*** 
+-7.60 
+** 
+Week 28 
+-7.23 
+-10.55 
+-5.98 
+Patient Global Assessment 
+Week 12 
+-25.4 
+-30.1 
+-30.5 
+-34.7 
+** 
+Week 28 
+-35.9 
+-38.4 
+-40.7 
+HAQ-DI (range 0-3) 
+Week 12 
+-0.56 
+-0.61 
+-0.59 
+-0.60 
+Week 28 
+-0.74 
+-0.75 
+-0.78 
+Pain VAS 
+Week 12 
+-29 
+-32.6 
+-35.3 
+-39.7 
+** 
+Week 28 
+-40 
+-44.5 
+-47.2 
+*p 0.05 **p 0.01 ***p 0.001 
+4 
+Clinical outcomes were further substantiated by objective translational data. An approximately 50% reduction in the mean CRP from baseline, an objective measure of inflammation, was observed through Week 28 in rosnilimab patients who entered the all-active period. Additionally, translational blood and synovial bio
+
+## GEOGRAPHIC REVENUE
+al utility of any approved product candidates; the size and growth potential of the markets for any approved product candidates, and our ability to serve those markets; regulatory developments in the United States ( U.S. ) and foreign countries; the impact of political, economic or public health events on our business and the U.S. and global economies; our ability to attract and retain key scientific or management personnel; general macroeconomic factors, including volatility in equity markets, and fluctuations in interest rates, foreign exchange rates and political and regulatory developments or changes in trade policy, including tariffs; our ability to obtain funding for our operations on favorable terms or at all, including funding necessary to complete further development and commercialization of our product candidates; the timing and ability of our collaborators to develop and commercialize our partnered product candidates; the proposed separation of the Company s operations into two independent, publicly traded companies, including the completion and timing of the separation, the business and operations of each company and any benefits or costs of the separation; expectations regarding the structure, infrastructure, timing and taxation of the proposed separation of the Company s operations into two independent, publicly traded companies; our use of the net proceeds from our public offerings and other financing transactions; and our estimates regarding expenses, future revenue, capital requirements, and needs for additional financing. These forward-looking statements are subject to a number of risks, uncertainties, and assumptions, including those described in Item 1A, Risk Factors, and elsewhere in this Annual Report. Moreover, we operate in a competitive and rapidly changing environment, and new risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of Part D 
+41 
+enrollees prescription costs for brand drugs below the out-of-pocket maximum, and 20% once the out-of-pocket maximum has been reached. The IRA permits the Secretary of HHS to implement many of these provisions through guidance, as opposed to regulation, for the initial years. Manufacturers that fail to comply with the IRA may be subject to various penalties, including civil monetary penalties. Further, in July 2025, the One Big Beautiful Bill Act ( OBBBA ) was signed into law, and restored immediate deductibility of domestic research and development expenditures, while foreign expenditures will continue to be capitalized and amortized over fifteen years. Further, the OBBBA is expected to reduce Medicaid spending and enrollment by implementing work requirements for some beneficiaries, capping state-directed payments, reducing federal funding, and limiting provider taxes used to fund the program. The OBBBA also narrows access to ACA marketplace exchange enrollment and declined to extend the enhanced subsidies for individuals purchasing health insurance coverage in ACA marketplaces which expired in 2025. It is likely that federal and state legislatures within the United States and foreign governments will continue to consider changes to existing healthcare legislation. These laws may result in additional reductions in Medicare and other healthcare funding. We cannot predict the reform initiatives that may be adopted in the future or whether initiatives that have been adopted will be repealed or modified. We expect that the ACA, the IRA, the OBBBA and other state or federal healthcare reform measures that may be adopted in the future, may result in more rigorous coverage criteria and in additional downward pressure on the price that we receive for any approved product. The implementation of cost containment measures or other healthcare reforms may prevent us from being able to generate revenue, attain profitability, or commercialize our products. Our
+
+---
+Doc size: 2048KB (capped at 2MB)

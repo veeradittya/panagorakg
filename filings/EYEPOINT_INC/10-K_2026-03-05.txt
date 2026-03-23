@@ -1,0 +1,98 @@
+# EYEPOINT INC — 10-K Annual Report
+# Filed: 2026-03-05
+# CIK: 1314102
+# SIC: Laboratory Analytical Instruments
+# Source: https://www.sec.gov/Archives/edgar/data/1314102/000119312526093917/eypt-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+BUSINESS 
+5
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+32 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+64 
+ITEM 1C. 
+CYBERSECURITY 
+64 
+ITEM 2. 
+PROPERTIES 
+65 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+65 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+65 
+PART II 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+66 
+ITEM 6. 
+[RESERVED] 
+66 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+67 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+75 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+75 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+75 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+75 
+ITEM 9B. 
+OTHER INFORMATION 
+76 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+77 
+PART III 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+78 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+78 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+78 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+78 
+ITEM 14. 
+PRINCIPAL ACCOUNTING FEES AND SERVICES 
+78 
+PART IV 
+ITEM 15. 
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+79 
+ITEM 16. 
+FORM 10-K SUMMARY 
+83 
+Preliminary Note Regarding Forward-Looking Statements Various statements made in this Annual Report on Form 10-K are forward-looking and involve risks and uncertainties. All statements that address activities, events or developments that we intend, expect or believe may occur in the future are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Such statements give our current expectations or forecasts of future events and are not statements of historical or current facts. These statements include, among others, statements about: the potential for DURAVYU , as an investigational sustained delivery intravitreal treatment deploying a bioerodible Durasert E insert of vorolanib, a selective and patented tyrosine kinase inhibitor (TKI) targeting wet age-related macular degeneration (wet AMD) and diabetic macular edema (DME); our expectations regarding the timing and outcome of our ongoing clinical trials for DURAVYU for the treatment of wet AMD and DME; our belief that DURAVYU is on track to be the first-to-market of the current investigational sustained release treatments for wet AMD; our belief that DURAVYU has two potential blockbuster indications; our belief that DURAVYU s potential real-world application in multiple retinal disease indications and de-risked trial designs position DURAVYU for clinical and commercial success; our expectations regarding the timing and outcome of our planned regulatory communication and interactions with the U.S. Food and Drug Administration (FDA) and comparable regulatory bodies; our expectations regarding the timing and clinical development of our other product candidates, including EYP-2301, a TIE-2 agonist, razuprotafib, formulated in Durasert E to potentially improve outcomes in serious retinal diseases; our belief that our cash, cash equivalents, and investments in marketable securities of $306.1 million at December 31, 2025 will enable us to fund operations into the fourth quarter of 2027, beyond Phase 3 wet AMD topline data for DURAVYU expected in 2026; our expectations regarding our future expenses and capital expenditures; our expectations regarding an agreement in principle with the U.S. Attorneys Office for the District of Massachusetts (DOJ) and the Office of the Inspector General of the Department of Health and Human Services related to the DOJ s investigation into certain of our sales, marketing and promotional practices as pertain to DEXYCU and our expectations regarding a negotiated resolution; our expectations regarding our ability to obtain and adequately maintain sufficient intellectual property protection for DURAVYU and any other products or product candidates, and to avoid claims of infringement of third-party intellectual property rights; our expectations regarding the warning letter the Company received from the FDA in July 2024, or the Warning Letter, pertaining to YUTIQ manufacturing, citing alleged violations of cGMP requirements in connection with an FDA inspection at the Company s Watertown facility in February 2024 and our fully executed plan which implemented the corrective and preventive actions required by the Warning Letter; and our expectation that we will continue to incur significant expenses and that our operating losses and our net cash outflows to fund operations will continue for the foreseeable future. Forward-looking statements also include statements other than statements of current or historical fact, including, without limitation, all statements related to any expectations of revenues, expenses, cash flows, earnings or losses from operations, cash required to maintain current and planned operations, capital or other financial items; any statements of the plans, strategies and objectives of management for future operations; any plans or expectations with respect to product research, development and commercialization, including regulatory approvals; any other statements of expectations, plans, intentions or beliefs; and any statements of assumptions underlying any of the foregoing. We often, although not always, identify forward-looking statements by using words or phrases such as likely , expect , intend , anticipate , believe , estimate , plan , project , forecast , and outlook . The following are some of the factors that could cause actual results to differ materially from the anticipated results or other expectations expressed, anticipated, or implied in our forward-looking statements: risks and uncertainties include the timing, progress and results of the company s clinical development activities; uncertainties and delays relating to communications with the FDA and the ability to obtain regulatory approval from FDA for the commercialization of DURAVYU; the sufficiency of our existing cash resources; 
+1 
+our ability to enter into a settlement agreement and corporate integrity agreement with the government regarding the DOJ investigation and uncertainties related to the impact such agreements would have on our business, financial condition and results of operations; our access to needed capital; the risk that results of clinical trials may not be predictive of future results, and interim and preliminary data are subject to further analysis and may change as more data becomes available; unexpected safety or efficacy data observed during clinical trials; uncertainties related to the regulatory authorization or approval process, and available development and regulatory pathways for approval of the Company s product candidates; disruptions at the FDA; changes in the regulatory and legislative environment; changes in U.S. and international trade policies; changes in expected or existing competition; fluctuations in our operating results; the duration, scope, and outcome of any governmental inquiries or investigations; the success of current and future license and collaboration agreements, including our agreements with ANI Pharmaceuticals, Inc. (ANI), Equinox Science, LLC (Equinox), and Ocumension Therapeutics (Ocumension); our dependence on contract research organizations, vendors, and clinical investigators; our ability to manufacture clinical supply of our product candidates; our ability to manufacture commercial supply of YUTIQ and DEXYCU in fulfillment of our Ocumension Agreement; the extent to which the global economic conditions, uncertainty caused by geopolitical violence and unrest and public health crises impact our business, the medical community, and the global economy; the impact of federal government shutdowns on our business operations; market acceptance of our product candidates, if approved; protection of intellectual property and avoiding intellectual property infringement; our ability to implement corrective and preventive actions required by the Warning Letter to the satisfaction of the FDA; product liability; and other factors described in our filings with the SEC. We cannot guarantee that the results and other expectations expressed, anticipated or implied in any forward-looking statement will be realized. The risks set forth under Item 1A of this Annual Report on Form 10-K describe major risks to our business, and you should read and interpret any forward-looking statements together with these risks. A variety of factors, including these risks, could cause our actual results and other expectations to differ materially from the anticipated results or other expectations expressed, anticipated or implied in our forward-looking statements. Should known or unknown risks materialize, or should underlying assumptions prove inaccurate, actual results could differ materially from past results and those anticipated, estimated, or projected in the forward-looking statements. You should bear this in mind as you consider any forward-looking statements. Our forward-looking statements speak only as of the dates on which they are made. We do not undertake any obligation to publicly update or revise our forward-looking statements even if experience or future changes makes it clear that any projected results expressed or implied in such statements will not be realized. EYEPOINT , DEXYCU , Durasert , DELIVERING INNOVATION TO THE EYE and WITH AN EYE ON PATIENTS are our trademarks. ILUVIEN is ANI s trademark. The reports we file or furnish with the SEC, including this Annual Report on Form 10-K, also contain trademarks, trade names and service marks of other companies, which are the property of their respective owners. 
+2 
+Risk Factor Summary The risk factors summarized below could materially harm our business, operating results and/or financial condition, impair our future prospects and/or cause the price of our common stock to decline. For more information, see Item 1A. Risk Factors in this Annual Report on Form 10-K for the year ended December 31, 2025. Material risks that may affect our business, operating results and financial condition include, but are not necessarily limited to, the following: Risks Related To Our Financial Position And Our Capital Resources We will likely need additional capital to fund our operations. If we are unable to obtain sufficient capital, we will need to curtail and reduce our operations and costs and modify our business strategy. We have incurred significant losses since our inception and anticipate that we will continue to incur losses for the foreseeable future. We may never achieve profitability from future operations. If we are unable to reach a final negotiated resolution with the U.S. government related to DOJ investigation, the DOJ may commence an action against us, which could have a material adverse effect on our business, financial condition, results of operations, and cash flows. In addition, even if we finalize a negotiated resolution, we may be required to expend significant additional financial and managerial resources to comply with such agreement, including a corporate integrity agreement. We will need to raise additional capital in the future, which may not be available on favorable terms and may be dilutive to stockholders or impose operational restrictions. Our ability to use our net operating loss carryforwards and other tax attributes may be limited. Risks Related To The Clinical Development And Regulatory Approval Of Our Product Candidates We are largely dependent on the clinical and future commercial success of our lead product candidate, DURAVYU. The outcomes of clinical trials are uncertain, and delays in the completion of or the termination of any clinical trial of DURAVYU or our other product candidates could harm our business, financial condition and prospects. Disruptions at the FDA, including due to a reduction in the FDA s workforce and/or inadequate funding for the FDA, could prevent the FDA from performing normal functions on which our business relies, which could negatively impact our business. Clinical trial results may fail to support continued clinical investigations and/or approval of DURAVYU or our other product candidates. Interim, top-line, initial and preliminary data from our clinical trials that we announce or publish from time to time may change as more patient data become available and are subject to confirmation, audit and verification procedures that could result in material changes in the final data. We may expend significant resources to pursue our lead product candidate, DURAVYU for the treatment of wet AMD and DME, and fail to capitalize on the potential of DURAVYU, or our other product candidates, for the potential treatment of other indications that may be more profitable or for which there is a greater likelihood of success. Phase 1 or 2 results from a clinical trial do not ensure that the trial will be successful and success in early-stage clinical trials does not ensure success in later-stage clinical trials. We may find it difficult to enroll patients in our clinical trials, which could delay or prevent clinical trials of our product candidates. If we are unable to successfully expand our product lines through internal research and new therapeutic development or keep pace with rapid technological changes in the healthcare industry, our business may be materially and adversely affected. Risks Related To The Commercialization Of Our Products And Product Candidates Our business strategy relies in part on our ability to successfully commercialize our product candidates, if approved; however, the products may not achieve market acceptance or be commercially successful. Our product candidates, if approved and commercialized, may continue to be impacted by additional unfavorable pricing regulations, third-party reimbursement practices or healthcare reform initiatives which could harm our business. If we fail to comply with reporting and payment obligations under the Medicaid Drug Rebate program or other governmental pricing programs, we could be subject to additional reimbursement requirements, penalties, sanctions, and fines which could have a material adverse effect on our business, financial condition, results of operations and growth prospects. Even though regulatory approval DEXYCU has been obtained in the U.S., we will still face extensive FDA regulatory requirements and may face future regulatory difficulties. 
+3 
+Our relationships with physicians, patients and payors in the U.S. are subject to applicable anti-kickback, fraud and abuse laws and regulations. In addition, we are subject to patient privacy regulation by both the federal government and the states in which we conduct our business. Our failure to comply with these laws could expose us to crimina
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of cases, yet it alone accounts for 90% of legal blindness. There are multiple short acting effective and safe treatments for wet AMD available on the market, including large molecule anti-VEGF IVT drugs marketed under the brands names Lucentis, Eylea, Eylea HD, Vabysmo, Beovu, and Avastin (off label). These treatments are injected in a physician s office either monthly, bi-monthly or in some patients every three to four months, which can cause inconvenience and often leads to reduced compliance and poor outcomes. The branded drug, SUSVIMO , a port delivery technology for ranibizumab, was approved by the FDA in 2021 for the treatment of wet AMD and requires an initial surgical placement of the port. In February 2025, Susvimo was approved for the treatment of DME. 
+8 
+Separate published studies using real world data (one study in the U.S. and another that includes Canada, France, Germany, Ireland, Italy, the Netherlands, UK, and Venezuela) indicate that despite initial efficacy, approved wet AMD treatments still result in vision loss over time. We believe that DURAVYU, if approved as a potential six-month sustained delivery therapy, has the potential to offer wet AMD patients a safe and effective treatment option with a new and complementary multi-MOA to current therapies. DURAVYU for wet AMD - Clinical Development In wet AMD, DURAVYU demonstrated positive data from the Phase 1 DAVIO and Phase 2 DAVIO clinical trials with clinically meaningful efficacy data with stable visual acuity and central subfield thickness (CST) and a favorable safety profile. The Phase 1 clinical trial (DAVIO) was a dose escalation trial that enrolled 17 wet AMD patients across four separate doses. The primary endpoint of the trial was safety, and key secondary endpoints were BCVA and CST measured by optical coherence tomography (OCT). Safety and efficacy data for the Phase 1 DAVIO clinical trial included stable visual acuity (VA) and OCT and a clinically significant reduction in treatmen
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,112 @@
+# AGENUS INC — 10-K Annual Report
+# Filed: 2026-03-16
+# CIK: 1098972
+# SIC: Biological Products, (No Diagnostic Substances)
+# Source: https://www.sec.gov/Archives/edgar/data/1098972/000119312526108632/agen-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+BUSINESS 
+3 
+Our Business 
+3 
+Intellectual Property Portfolio 
+8 
+Regulatory Compliance 
+9 
+Competition 
+10 
+Human Capital Resources and Employees 
+12 
+Corporate History 
+12 
+Availability of Periodic SEC Reports 
+12
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+13 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+64 
+ITEM 1C. 
+CYBERSECURITY 
+64 
+ITEM 2. 
+PROPERTIES 
+65 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+65 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+65 
+PART II 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+66 
+ITEM 6. 
+RESERVED 
+67 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+68 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+76 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+77 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+122 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+122 
+ITEM 9B. 
+OTHER INFORMATION 
+124 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+125 
+PART III 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+126 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+126 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+126 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+126 
+ITEM 14. 
+PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+126 
+PART IV 
+ITEM 15. 
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+127 
+ITEM 16 
+FORM 10-K SUMMARY 
+133 
+Note Regarding Forward-Looking Statements This Annual Report on Form 10-K and other written and oral statements the Company makes from time to time contain forward-looking statements. You can identify these forward-looking statements by the fact they use words such as could, expect, anticipate, estimate, target, may, project, guidance, intend, plan, believe, will, potential, opportunity, future and other words and terms of similar meaning. Forward-looking statements include discussion of future operating or financial performance. You also can identify forward-looking statements by the fact that they do not relate strictly to historical or current facts. Forward-looking statements involve risks and uncertainties that could delay, divert or change any of them, and could cause actual outcomes to differ materially. These statements relate to, among other things, our business strategy, our research and development, our product development efforts, our ability to commercialize our product candidates, the activities of our licensees, our prospects for initiating partnerships or collaborations, the timing of the introduction of products, the effect of new accounting pronouncements, our future operating results and our potential profitability, availability of additional capital as well as our plans, objectives, expectations, and intentions. Although we believe we have been prudent in our plans and assumptions, no assurance can be given that any goal or plan set forth in forward-looking statements can be achieved, and readers are cautioned not to place undue reliance on such statements, which speak only as of the date of this report. We undertake no obligation to release publicly any revisions to forward-looking statements as a result of new information, future events or otherwise. The risks identified in this Annual Report on Form 10-K, including, without limitation, the risks set forth in Part I-Item 1A. Risk Factors, could cause actual results to differ materially from forward-looking statements contained in this Annual Report on Form 10-K. We encourage you to read those descriptions carefully. Such statements should be evaluated in light of all the information contained in this document. Agenus, Prophage, Retrocyte Display and STIMULON are trademarks of Agenus Inc. and its subsidiaries. All rights reserved. 
+2 
+PART I Item 1. B usiness Our Business Agenus is a clinical-stage biotechnology company focused on discovering and developing immunotherapies for cancer and infectious disease. Our primary business is immuno-oncology ("I-O"), where we are advancing antibody-based programs to activate innate and adaptive immunity, overcome tumor immune evasion and expand the population of patients who may benefit from immunotherapy. Our lead clinical program is botensilimab ( BOT or AGEN1181 ), alone and in combination with balstilimab ( BAL ). We also maintain select clinical-stage immuno-oncology assets, which may be used as standalone agents or be complimentary to botensilimab plus balstilimab ( BOT/BAL ). Agenus also maintains an equity investment in MiNK Therapeutics, Inc. ("MiNK"), with an approximate fair value of $24.3 million as of December 31, 2025, and a majority ownership of a vaccine adjuvant business through our subsidiary SaponiQx, Inc. ("SaponiQx"). We use internal discovery, translational, clinical and regulatory capabilities together with selected collaborations to advance product candidates. Following our strategic realignment announced in December 2024, we prioritized the botensilimab/balstilimab program and temporarily paused certain non-core preclinical and clinical activities while we evaluate partnering, as well as targeted funding opportunities. Our common stock is listed on The Nasdaq Capital Market under the symbol "AGEN." Recent Developments We, together with the Canadian Cancer Trials Group ( CCTG ), are conducting BATTMAN/CO.33, a global Phase 3 trial of botensilimab plus balstilimab versus best supportive care in refractory MSS/mismatch repair proficient ("pMMR") colorectal cancer, with sites activated and prepared to enroll patients. At the 2025 European Society for Medical Oncology Congress ( ESMO ) data in more than 400 heavily pretreated patients across more than nine tumor types was presented, in which BOT plus BAL demonstrated approximately 39% two-year OS, including activity in colorectal, ovarian, sarcoma, PD(L)-1 refractory NSCLC, and hepatocellular cancers. To date, approximately 1,200 patients have been treated with botensilimab and/or balstilimab in phase 1 and phase 2 clinical trials. France s national Autorisation d Acc s Compassionnel ( AAC ) program provides hospital-based access to BOT plus BAL for eligible patients with certain refractory cancers, with treatment reimbursed through the national health system. In September 2025, the AAC protocol was updated to include botensilimab plus balstilimab for patients with refractory microsatellite stable ( MSS ) metastatic colorectal cancer ( mCRC ) without active liver metastases. In January 2026, France further expanded the AAC protocol for botensilimab plus balstilimab to include certain ovarian cancers and soft-tissue sarcomas. In January 2026, we closed our previously announced strategic collaboration with Zydus Lifesciences Ltd. ("Zydus"), including the sale of our Emeryville and Berkeley biologics manufacturing facilities. With a total consideration of $91.0 million. Strategy Our strategy is to focus capital on execution of programs that we believe have the clearest path to meaningful clinical and commercial value, led by BOT/BAL in colorectal cancer and selected other tumor types. We intend to advance late-stage development and support responsible paid patient access programs as well as clinical trials. We maintain manufacturing flexibility through strategic collaborations with an emphasis on our Zydus collaboration. Discovery Platforms Our internal discovery and translational platforms support target identification, antibody generation, biomarker analysis and candidate selection. We use these capabilities to advance wholly owned and partnered programs directed at tumor immune escape, the tumor microenvironment and myeloid cell biology. These capabilities have supported the development of our clinical and preclinical portfolio, including agents directed to CTLA-4, PD-1, CD137, CD73/TGF-beta, ILT2, LAG-3, TIM-3 and TIGIT, all of which remain as proprietary assets of Agenus. Lead Program: Botensilimab and Balstilimab Botensilimab is a multifunctional anti-CTLA-4 antibody designed to activate both innate and adaptive anti-tumor immune responses. Its design leverages mechanisms of action to extend immunotherapy benefits to cold tumors which generally respond poorly to standard of care and to conventional PD-1/CTLA-4 therapies. Botensilimab augments immune responses across a wide range of tumor types by priming and activating T cells, downregulating intratumoral regulatory T cells (bad actors of the immune 
+3 
+system in the context of treating cancer), activating myeloid cells and inducing long-term memory responses (those two latter are known as the good actors of the immune system). Balstilimab is a fully human monoclonal immunoglobulin G4 (IgG4) anti-PD-1 antibody designed to block PD-1 from interacting with PD-L1 and PD-L2. BOT and BAL are investigational therapies and have not been approved by the FDA or the European Medicines Agency for commercial sale, however they are accessible through government reimbursement programs in France as well as through out of pocket pay in select European and South American countries. BOT, alone and in combination with BAL, has been evaluated in approximately 1,200 patients across more than 60 centers worldwide and across nine tumor types, including colorectal cancer, sarcoma, non-small cell lung cancer, hepatocellular cancer, pancreatic cancer, melanoma, ovarian cancer and triple negative breast cancer. Because much of this dataset comes from early-stage, single-arm or investigator-sponsored studies, these results may not be predictive of outcomes in later-stage trials or of regulatory approval. Refractory MSS Metastatic Colorectal Cancer In April 2023, BOT in combination with BAL received Fast Track designation from the FDA for the treatment of patients with non-microsatellite instability-high ( MSI-H ) and/or deficient mismatch repair ( dMMR ) metastatic colorectal cancer without active liver involvement. We completed enrollment in our Phase 1 study in this population in October 2023. These data informed the design of our randomized, global Phase 2 study (n=234), which compared BOT plus BAL against standard treatments (regorafenib or trifluridine/tipiracil) in refractory MSS mCRC without active liver metastases. In July 2024, we held an end-of-Phase 2 meeting with the FDA. The FDA agreed on a Phase 3 dosing regimen of 75 mg of BOT every six weeks (up to four doses) in combination with 240 mg of BAL every two weeks (up to two years). The FDA advised against pursuing an accelerated approval strategy based on the data then available, suggesting that the objective response data may not directly translate into a survival benefit. In January 2025, at the American Society of Clinical Oncology Gastrointestinal Cancers Symposium ( ASCO GI ), we reported results from the randomized Phase 2 trial. The BOT 75 mg plus BAL regimen achieved a 19% objective response rate ("ORR") and a 55% disease control rate in this heavily pretreated population, while the control arm showed no objective responses. At the data cutoff, 70% of responses remained ongoing. Safety findings were consistent with prior experience, with no new safety signals or treatment-related deaths reported. The most common immune-mediated adverse events ( imAEs ) at BOT 75mg plus BAL included diarrhea/colitis and hypothyroidism, all grades, 35% and 13%, respectively. In July 2025, long-term follow-up data from an expanded cohort of 123 patients with MSS mCRC without active liver metastases from the Phase 1b study were presented at the European Society for Medical Oncology Gastrointestinal Cancers Congress ( ESMO GI ). In this heavily pretreated population, BOT plus BAL showed approximately 42% two-year overall survival and median overall survival of approximately 21 months. Subgroup analyses showed ORR of 20% in third-line or later patients and 19% in fourth-line or later patients, with median duration of response of 16.6 months in each cohort. No new safety signals were reported. GI-related imAEs were the most common and reversible side effects. Also in July 2025, we conducted a follow-up end-of-Phase 2 meeting with the FDA. Based on the data then available, the FDA aligned that BAL's contribution to the combination's clinical activity supported a registrational Phase 3 study without a BOT monotherapy arm. We, together with CCTG and participating cooperative groups, are conducting BATTMAN/CO.33, a global Phase 3 trial evaluating BOT plus BAL versus best supportive care in 4L+ refractory, unresectable MSS/pMMR colorectal cancer. The trial is expected to enroll approximately 830 patients across more than 100 sites in Canada, France, Australia and New Zealand and is intended to support potential regulatory filings in the United States and Europe. Authorized Early Access Pathways BOT plus BAL is available only through clinical trials or country-specific authorized access mechanisms where permitted. BOT plus BAL is not approved for commercial marketing in the United States, France or elsewhere. In France, the AAC framework, authorized in September 2025, provides hospital-based access under a nationally validated protocol. The French protocol includes eligible patients with MSS mCRC without active liver metastases and in January 2026 was expanded to include eligible patients with certain platinum-refractory or platinum-resistant ovarian cancers and certain advanced or metastatic soft-tissue sarcomas. Treatment provided under the AAC protocol is reimbursed through the French national health system. Outside France, select countries permit physician-initiated, patient-specific named-patient access programs where allowed under local law. In second half of 2025 we began recognizing revenue from treatment supplied through the above-mentioned programs. These programs do not constitute marketing approval, may be modified or discontinued by applicable authorities, and do not assure future regulatory approvals. Near Term Regulatory Plans 
+4 
+Based on existing data, we intend in 2026 to seek Accelerated Approval in the United States and Conditional Approval in the European Union for BOT plus BAL in refractory microsatellite-stable metastatic colorectal cancer without active liver metastases. Additional Colorectal Cancer Studies Investigator sponsored trials are also studying BOT plus BAL in earlier-line and neoadjuvant colorectal cancer settings. Neoadjuvant data presented at the ASCO GI in January 2025 were derived from two independent studies: UNICORN and NEST. Data from the NEST study demonstrated promising results, with no clinical recurrences observed after a median follow-up of 18 months for the NEST-1 arm and 9 months for the NEST-2 arm. The pathological complete response ( pCR ) rate improved to 47% in MSS tumors when the median time to surgery was extended, suggesting a potential benefit from a longer pre-operative window. The combination therapy was well tolerated, with no grade 4 events, no unresolved imAEs, and no surgery delays due to imAEs. The UNICORN Phase 2 study is evaluating pre-operative BOT plus BAL combination treatment in resectable colon cancer. Pathological co
+
+## GEOGRAPHIC REVENUE
+ncer. The trial is expected to enroll approximately 830 patients across more than 100 sites in Canada, France, Australia and New Zealand and is intended to support potential regulatory filings in the United States and Europe. Authorized Early Access Pathways BOT plus BAL is available only through clinical trials or country-specific authorized access mechanisms where permitted. BOT plus BAL is not approved for commercial marketing in the United States, France or elsewhere. In France, the AAC framework, authorized in September 2025, provides hospital-based access under a nationally validated protocol. The French protocol includes eligible patients with MSS mCRC without active liver metastases and in January 2026 was expanded to include eligible patients with certain platinum-refractory or platinum-resistant ovarian cancers and certain advanced or metastatic soft-tissue sarcomas. Treatment provided under the AAC protocol is reimbursed through the French national health system. Outside France, select countries permit physician-initiated, patient-specific named-patient access programs where allowed under local law. In second half of 2025 we began recognizing revenue from treatment supplied through the above-mentioned programs. These programs do not constitute marketing approval, may be modified or discontinued by applicable authorities, and do not assure future regulatory approvals. Near Term Regulatory Plans 
+4 
+Based on existing data, we intend in 2026 to seek Accelerated Approval in the United States and Conditional Approval in the European Union for BOT plus BAL in refractory microsatellite-stable metastatic colorectal cancer without active liver metastases. Additional Colorectal Cancer Studies Investigator sponsored trials are also studying BOT plus BAL in earlier-line and neoadjuvant colorectal cancer settings. Neoadjuvant data presented at the ASCO GI in January 2025 were derived from two independent studies: UNICORN and NEST. Data from the NEST study demonstrated promising results, with no clinical recurrences observed after a median follow-up of 18 months for the NEST-1 arm and 9 months for the NEST-2 arm. The pathological complete response ( pCR ) rate impr
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of certain future milestones then payable to us under our Incyte and Merck agreements, net of specified third-party obligations. Ligand In May 2024, we entered into a Purchase and Sale Agreement with Ligand Pharmaceuticals Incorporated ("Ligand") covering specified economic interests in selected partnered programs and in BOT and BAL. Under that agreement, Ligand acquired (i) 31.875% of the development, regulatory and commercial milestones then payable to us under agreements with BMS, UroGen, Gilead, Merck and Incyte, (ii) 18.75% of the royalties under those agreements and (iii) a 2.625% synthetic royalty on worldwide net sales of BOT and BAL. The total amounts payable to Ligand are subject to a 50% reduction if total payments to Ligand exceed a specified return hurdle. The synthetic royalty is also subject to reduction if annual worldwide net sales exceed a specified level and is subject to a cap on annual worldwide net sales if sales exceed a higher specified level. In addition, the synthetic royalty may increase by 1% upon the occurrence of certain future events. After taking into account our obligations under the Ligand Purchase Agreement, the XOMA Royalty Purchase Agreement, and the current status of our collaboration agreements, we remain eligible to receive up to approximately $49.4 million in potential development, regulatory, and commercial milestone payments from Merck & Co.. Equity Investment in MiNK and Subsidiary SaponiQx MiNK Therapeutics In October 2021, MiNK completed its initial public offering and its common stock trades on The Nasdaq Capital Market under the symbol "INKT." MiNK is a clinical-stage biopharmaceutical company focused on developing allogeneic invariant natural killer T (iNKT) cell therapies to treat cancer and other life-threatening immune diseases. MiNK's most advanced product candidate, agenT-797, is an off-the-shelf, allogeneic native iNKT cell therapy. MiNK is expanding clinical programs, including a Phase 2 trial in second-lin
+
+---
+Doc size: 2043KB (capped at 2MB)

@@ -1,0 +1,162 @@
+# ATLANTICUS HOLDINGS CORP — 10-K Annual Report
+# Filed: 2026-03-12
+# CIK: 1464343
+# SIC: Personal Credit Institutions
+# Source: https://www.sec.gov/Archives/edgar/data/1464343/000143774926007972/atlc20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+7 
+Item 1B. 
+Unresolved Staff Comments 
+20 
+Item 1C. 
+Cybersecurity 
+20 
+Item 2. 
+Properties 
+21 
+Item 3. 
+Legal Proceedings 
+21 
+Item 4. 
+Mine Safety Disclosure 
+21 
+PART II 
+Item 5. 
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+22 
+Item 6. 
+[Reserved] 
+23 
+Item 7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+23 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+43 
+Item 8. 
+Financial Statements and Supplementary Data 
+44 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+44 
+Item 9A. 
+Controls and Procedures 
+45 
+Item 9B. 
+Other Information 
+47 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspection 
+47 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+47 
+Item 11. 
+Executive Compensation 
+47 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+47 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+47 
+Item 14. 
+Principal Accountant Fees and Services 
+47 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+48 
+Item 16. 
+Form 10-K Summary 
+50 
+Table of Contents 
+In this Report, except as the context suggests otherwise, the words "Company," "Atlanticus Holdings Corporation," "Atlanticus," "we," "our," "ours" and "us" refer to Atlanticus Holdings Corporation and its subsidiaries and predecessors. Atlanticus owns Aspire , Emerge , Fortiva , Imagine , Mercury , Salute , Tribute , Fixt and other trademarks and service marks in the United States ("U.S."). 
+Cautionary Notice Regarding Forward-Looking Statements 
+We make forward-looking statements in this Report and in other materials we file with the Securities and Exchange Commission ("SEC") or otherwise make public. In addition, our senior management might make forward-looking statements to analysts, investors, the media and others. Statements with respect to the macroeconomic environment monetary policy by the Federal Reserve expected revenue income receivables income ratios net interest margins long-term shareholder returns acquisitions of financial assets and other growth opportunities divestitures and discontinuations of businesses loss exposure and loss provisions delinquency and charge-off rates inflation energy prices the developing metaverse the use of large language models changes in the credit quality and fair value of our credit card receivables, interest and fees receivable and the fair value of their underlying structured financing facilities the impact of actions by the Federal Deposit Insurance Corporation ("FDIC"), Federal Reserve Board, Federal Trade Commission ("FTC"), Consumer Financial Protection Bureau ("CFPB") and other regulators on both us, banks that issue credit cards and other credit products on our behalf, and merchants that participate in our retail and healthcare private label credit operations account growth the performance of investments that we have made, including in technology operating expenses marketing plans and expenses the performance of our Auto Finance segment expansion by our Auto Finance segment within its current service area and into new markets the impact of our credit card receivables on our financial performance the sufficiency of available capital future interest costs sources of funding operations and acquisitions growth and profitability of our private label credit operations our ability to raise funds or renew financing facilities share repurchases, share issuances or dividends debt retirement our servicing income levels gains and losses from investments in securities experimentation with new products and other statements of our plans, beliefs or expectations are forward-looking statements. These and other statements using words such as "anticipate," "believe," "estimate," "expect," "intend," "plan," "project," "target," "can," "could," "may," "should," "will," "would" and similar expressions also are forward-looking statements. Each forward-looking statement speaks only as of the date of the particular statement. The forward-looking statements we make are not guarantees of future performance, and we have based these statements on our assumptions and analyses in light of our experience and perception of historical trends, current conditions, expected future developments and other factors we believe are appropriate in the circumstances. Forward-looking statements by their nature involve substantial risks and uncertainties that could significantly affect expected results, and actual future results could differ materially from those described in such statements. Management cautions against putting undue reliance on forward-looking statements or projecting any future results based on such statements or present or historical earnings levels. 
+Although it is not possible to identify all factors, we continue to face many risks and uncertainties. Among the factors that could cause actual future results to differ materially from our expectations are the risks and uncertainties described under "Risk Factors" set forth in Part I, Item 1A, and the risk factors and other cautionary statements in other documents we file with the SEC, including the following: 
+general economic and business conditions, including conditions affecting interest rates, trade policies (tariffs and other trade measures), consumer income, creditworthiness, consumer confidence, spending and savings levels, employment levels, our revenue, and our defaults and charge-offs; 
+an increase or decrease in credit losses, or increased delinquencies, including increases due to a worsening of general economic conditions in the credit environment; 
+our reliance on proprietary and third-party technology; 
+security breaches involving our files and infrastructure could lead to unauthorized disclosure of confidential information or result in a temporary or permanent shutdown of our services; 
+the availability of adequate financing to support growth; 
+the extent to which federal, state, local and foreign governmental laws and regulations, or interpretations thereof, applicable to our various business lines and the products we service for others limit or prohibit the operation of our businesses; 
+current and future litigation and regulatory proceedings against us; 
+hallucinations in our models; 
+competition from various sources providing similar financial products, or other alternative sources of credit, to consumers; 
+the adequacy of our allowance for credit losses and estimates of loan losses used within our risk management and analyses; 
+the possible impairment of assets; 
+our ability to manage costs in line with the expansion or contraction of our various business lines; 
+our relationship with (i) the merchants that participate in private label credit operations and (ii) the banks that issue credit cards and provide certain other credit products utilizing our technology platform and related services; 
+merchants increasing focus on the fees charged by credit and debit card networks and by legislation and regulation impacting such fees; 
+any decline in the use of cards as a payment mechanism or other adverse developments with respect to the credit card industry in general; 
+increases or decreases in interest rates and uncertainty with respect to the interest rate environment 
+theft and employee errors; and 
+integration risk associated with our recent acquisition of Mercury Financial LLC ( Mercury ). 
+Most of these factors are beyond our ability to predict or control. Any of these factors, or a combination of these factors, could materially affect our future financial condition or results of operations and the ultimate accuracy of our forward-looking statements. There also are other factors that we may not describe (because we currently do not perceive them to be material) that could cause actual results to differ materially from our expectations. 
+We expressly disclaim any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. 
+Table of Contents 
+PART I 
+ITEM 1. 
+BUSINESS 
+This Report contains information that we obtained from industry and general publications and research, surveys and studies conducted by third parties. This information involves many assumptions and limitations, and you are cautioned not to give undue weight to any of this data. We have obtained this information from sources that we believe are reliable. However, we have not independently verified market or industry data from third party sources. 
+General 
+A general discussion of our business follows. For additional information about our business, please visit our website at www.Atlanticus.com . Information contained on or available through our website is not incorporated by reference in this Report. 
+Atlanticus is a financial technology company powering more inclusive financial solutions for Everyday Americans. We leverage data, analytics, and innovative technology to unlock access to financial solutions for the millions of Americans who would otherwise be underserved. We provide technology and other support services to lenders who offer an array of financial products and services to consumers. Both private label and general purpose card products are originated by The Bank of Missouri, WebBank and First Bank and Trust (collectively, our bank partners ). Our bank partners originate these accounts through multiple channels, including retail and healthcare point-of-sale locations, direct mail solicitation, digital marketing and partnerships with third parties. The services of our bank partners are often extended to consumers who may not have access to financing options with larger financial institutions. Our flexible technology solutions allow our bank partners to integrate our paperless process and instant decisioning platform with the existing infrastructure of participating retailers, healthcare providers and other service providers. Using our technology and proprietary predictive analytics, lenders can make instant credit decisions utilizing hundreds of inputs from multiple sources and thereby offer credit to consumers overlooked by many providers of financing which focus exclusively on consumers with higher FICO scores. Atlanticus decisioning platform is enhanced by machine learning, enabling lenders to make fast, sound decisions when it matters most. 
+We are principally engaged as a program manager, providing a technology platform and corresponding products and services to lenders in the U.S. to assist those lenders with offering products to consumers. These lenders pay us a fee and in most circumstances, the lenders are then obligated to sell us the receivables they generate from these products and services. We acquire these receivables for the principal amount of the loan. For certain of our receivables, we also receive merchant fees from our retail partners that are used to enhance our returns for those receivables. We compensate our bank partners monthly for the regulatory oversight they provide associated with our acquired receivables, the underlying accounts of which they continue to own and service. This compensation is based on both a fixed and variable component dependent on the underlying performance of the acquired receivables (collectively, "Bank partner fees"). As we are obligated to compensate our bank partners for the duration of the underlying account, we recognize the fair value of these Bank partner fees within Card and loan servicing on the accompanying Consolidated Statements of Income on the date we acquire the underlying receivable. 
+From time to time, we also purchase receivables portfolios from third parties other than our bank partners. In this Report, "receivables" or "loans" typically refer to receivables we have purchased from our bank partners or from other third parties.
+We service the underlying receivables on behalf of our bank partners by providing and/or managing the ongoing customer service activities in the form of processing payments, providing regular notices of statement activity, and resolving customer complaints, billing disputes, and fraud claims. Our bank partners continue to own the underlying consumer accounts that they originate and provide regulatory oversight in the form of reviewing and approving the development of consumer finance programs and approving all related marketing materials, establishing the policies and procedures that govern the operation of the consumer finance programs, reviewing and approving customer complaint correspondence, performing ongoing compliance monitoring and testing and audits of the consumer finance programs, and providing settlement services between us and our retail partners. 
+These products and services are reported through two reportable segments, Credit as a Service ("CaaS") and Auto Finance. 
+On September 11, 2025, we closed the acquisition of all outstanding equity interests of Mercury, a leading data- and tech-centric credit card platform utilized by bank partners to provide credit cards to near-prime consumers in the U.S. The acquisition aligns with Atlanticus strategic objective to expand its consumer credit offerings and increase scale within its credit card operations. At the closing, Mercury became a wholly owned subsidiary of Atlanticus. The acquisition of Mercury adds an established top 25 credit card program to the suite of programs that Atlanticus manages on behalf of its bank partners. Mercury s credit card offerings, including Mercury-branded and co-branded programs, complement Atlanticus general purpose credit card, retail credit, patient financing, and dealer solutions products. The total purchase consideration was approximately $166.5 million in cash with an opportunity, for the seller, under the purchase agreement to receive earn out payments based on the performance of the acquired receivables over a limited period of time. As a result of the acquisition, we added approximately $3.2 billion in gross credit card receivables and increased the number of customers served on behalf of our bank partners by 1.3 million. These receivables have been included with our existing general purpose credit card receivables in our reported results of operations and other discussions below. 
+Market Overview 
+According to data published by Experian, 40% of Americans had FICO scores of less than 700. We believe this equates to a population of over 100 million Everyday Americans in need of access to credit. These consumers often have financial needs that are not effectively met by larger financial institutions. By facilitating appropriately priced consumer credit and financial service alternatives with value-added features and benefits curated for the unique needs of these consumers, we
+
+## GEOGRAPHIC REVENUE
+estRetailPartnerDMember 2024-01-01 2024-12-31 
+0001464343 atlc:LargestRetailPartnerEMember 2025-01-01 2025-12-31 
+0001464343 atlc:LargestRetailPartnerEMember 2024-01-01 2024-12-31 
+0001464343 us-gaap:DomesticCountryMember 2025-01-01 2025-12-31 
+0001464343 us-gaap:DomesticCountryMember 2024-01-01 2024-12-31 
+0001464343 atlc:SaipanDivisionOfRevenueAndTaxationMember 2025-01-01 2025-12-31 
+0001464343 atlc:SaipanDivisionOfRevenueAndTaxationMember 2024-01-01 2024-12-31 
+0001464343 atlc:GuamDepartmentOfRevenueAndTaxationMember 2024-01-01 2024-12-31 
+0001464343 us-gaap:CaliforniaFranchiseTaxBoardMember 2025-01-01 2025-12-31 
+0001464343 atlc:FloridaDepartmentOfRevenueMember 2025-01-01 2025-12-31 
+0001464343 atlc:FloridaDepartmentOfRevenueMember 2024-01-01 2024-12-31 
+0001464343 atlc:TexasComptrollerOfPublicAccountsMember 2025-01-01 2025-12-31 
+0001464343 atlc:TexasComptrollerOfPublicAccountsMember 2024-01-01 2024-12-31 
+0001464343 us-gaap:NewYorkStateDivisionOfTaxationAndFinanceMember 2024-01-01 2024-12-31 
+0001464343 us-gaap:DomesticCountryMember 2025-12-31 
+0001464343 us-gaap:StateAndLocalJurisdictionMember 2025-12-31 
+0001464343 atlc:EmployeeStockPurchasePlanMember 2025-12-31 
+0001464343 atlc:TheFourthAmended2014PlanMember 2025-12-31 
+0001464343 us-gaap:RestrictedStockMember 2025-01-01 2025-12-31 
+0001464343 us-gaap:RestrictedStockMember 2024-01-01 2024-12-31 
+0001464343 us-gaap:RestrictedStockMember srt:MinimumMember 2025-01-01 2025-12-31 
+0001464343 us-gaap:RestrictedStockMember srt:MaximumMember 2025-01-01 2025-12-31 
+0001464343 us-gaap:RestrictedStockMember 2025-12-31 
+0001464343 atlc:RestrictedStockAndRestrictedStockUnitsMember 2024-12-31 
+0001464343 atlc:RestrictedStockAndRestrictedStockUnitsMember 2025-01-01 2025-12-31 
+0001464343 atlc:RestrictedStockAndRestrictedStockUnitsMember 2025-12-31 
+0001464343 us-gaap:EmployeeStockOptionMember 2025-01-01 2025-12-31 
+0001464343 us-gaap:EmployeeStockOptionMember 2024-01-01 2024-09-30 
+0001464343 us-gaap:EmployeeStockOptionMember 2025-07-01 2025-12-31 
+0001464343 us-gaap:EmployeeStockOptionMember 2024-01-01 2024-12-31 
+0001464343 srt:ChiefExecutiveOfficerMember 2007-06-30 
+0001464343 srt:ChiefExecutiveOfficerMember 2020-1
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the company. Apple has vigorously contested the claims, and we expect it to continue doing so. In light of the uncertainty around these lawsuits, we will continue to carry these investments on our books at cost minus impairment, if any, plus or minus changes resulting from observable price changes. 
+All finance charges, fees and merchant fees are recognized into earnings through our Consumer loans, including past due fees (consisting of interest income, including finance charges, late payment fees on loans and merchant fees), Fees and related income on earning assets (consisting of annual or monthly maintenance fees, cash advance fees, and other fees directly associated with the extension of credit) and Other revenue (consisting of servicing income, service charges and other customer related fees), on our consolidated statements of income when they are billed to consumers or, in the case of merchant fees, upon completion of our services, which coincides with the funding of the loan by our bank partners. We value these loans and fee receivables within Changes in fair value of loans on our consolidated statements of income to reflect our best estimate of ongoing economics and cash flows associated with existing consumer accounts including future estimates of finance and fee billings and consumer payment rates typical of the assumptions a market participant would use to calculate fair value. 
+Our credit and other operations are heavily regulated, potentially causing us to change how we conduct our operations either in response to regulation or in keeping with our goal of leading the industry in adherence to consumer-friendly practices. We have made meaningful changes to our practices over the past several years, and because our account management practices are evolutionary and dynamic, it is possible that we may make further changes to these practices, some of which may produce positive, and others of which may produce adverse, effects on our operating results a
+
+---
+Doc size: 2048KB (capped at 2MB)

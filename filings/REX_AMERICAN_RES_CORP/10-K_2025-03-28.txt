@@ -1,0 +1,214 @@
+# REX AMERICAN RES CORP — 10-K Annual Report
+# Filed: 2025-03-28
+# CIK: 744187
+# SIC: Industrial Organic Chemicals
+# Source: https://www.sec.gov/Archives/edgar/data/744187/000093041325001069/c112133_10k-ixbrl.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+risk factors set forth from time
+to time in the Company s filings with the Securities and Exchange Commission and include among other things: the impact of
+legislative and regulatory changes, the price volatility and availability of corn, distillers grains, ethanol, distillers corn
+oil, gasoline and natural gas, commodity market risk, ethanol plants operating efficiently and according to forecasts and projections,
+logistical interruptions, success in permitting and developing the planned carbon sequestration facility near the One Earth Energy
+ethanol plant, changes in the international, national or regional economies, the impact of inflation, the ability to attract employees,
+weather, results of income tax audits, changes in income tax laws or regulations, the impact of U.S. foreign trade policy and tariffs,
+changes in foreign currency exchange rates, the effects of terrorism or acts of war and the effect of pandemics on the Company s
+business operations, including impacts on supplies, demand, personnel and other factors. The Company does not intend to update
+publicly any forward-looking statements except as required by law. Other factors that could cause actual results to differ materially
+from those in the forward-looking statements are set forth in Item 1A. 
+Available
+Information 
+REX makes available free of charge on its
+Internet website its annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to
+those reports as soon as reasonably practicable after such material is electronically filed with or furnished to the SEC. REX s
+Internet website address is www.rexamerican.com. The contents of the Company s website are not a part of this report. 
+PART I 
+Item 1. 
+Business 
+References to we ,
+us , our , REX or the Company refer to REX American Resources Corporation
+and its majority owned subsidiaries. 
+Fiscal Year 
+All references in this report to a particular
+fiscal year are to REX s fiscal year ended January 31. We refer to our fiscal year by reference to the year immediately preceding
+the January 31 fiscal year end date. For example, fiscal year 2024 means the period February 1, 2024 to January 31,
+2025. 
+Corporate History and Background 
+REX was incorporated in Delaware in 1984
+as a holding company. Our principal offices are located at 7720 Paragon Road, Dayton, Ohio 45459. Our telephone number is (937)
+276-3931. 
+In 2006, we started investing in ethanol
+production facilities. We are currently invested in three ethanol production entities One Earth Energy, LLC ( One
+Earth ), NuGen Energy, LLC ( NuGen ), and Big River Resources, LLC ( Big River ). We own a majority
+interest in One Earth and NuGen. We also own a majority interest in an entity that owned and, until November 18, 2021, operated
+a refined coal facility; as we have ceased operating the refined coal facility, we began classifying the financial results of the
+operating segment as discontinued operations. The federal production tax credits received through operation of this facility remain
+under IRS audit. We now have one reportable segment, ethanol and by-products. 
+3 
+General Overview 
+We reported net income attributable to
+REX common shareholders of $58.2 million in fiscal 2024 compared to approximately $60.9 million in fiscal 2023. Our ethanol business
+had decreased profits in fiscal 2024 compared to fiscal 2023 primarily as a result of lower selling prices, offset partially by
+a decrease in corn and natural gas prices. The two largest drivers of ethanol profitability are corn and ethanol pricing, both
+of which experienced significant volatility within the year. Chicago Board of Trade corn prices per bushel ranged from a low of
+$3.62 in August 2024 to a high of $4.97 in January 2025. S&P Global Platts ethanol pricing per gallon ranged from a low of
+$1.38 in February 2024 to a high of $2.12 in June 2024. 
+The form and structure of our ethanol investments
+are tailored to the specific needs and goals of each project and the local farmer group or investor with whom we partner. We generally
+participate in the oversight of our projects through our membership on the board of managers of the limited liability companies
+that own the plants. We provide management oversight and direction with respect to most aspects of plant operations for our consolidated
+ethanol companies. We have equity investments in three entities engaged in the production of ethanol as of January 31, 2025. The
+following table is a summary of our ethanol entity ownership interests at January 31, 2025: 
+Entity 
+Location 
+REX s Current 
+Ownership Interest 
+One Earth Energy, LLC 
+Gibson City, IL 
+75.9% 
+NuGen Energy, LLC 
+Marion, SD 
+99.7% 
+Big River Resources, LLC: 
+Big River Resources W Burlington, LLC 
+Big River Resources Galva, LLC 
+Big River United Energy, LLC 
+Big River Resources Boyceville, LLC 
+W. Burlington, IA 
+Galva, IL 
+Dyersville, IA 
+Boyceville, WI 
+10.3% 
+10.3% 
+5.7% 
+10.3% 
+The three entities own a total of six ethanol
+production facilities, which in aggregate shipped approximately 727 million gallons of ethanol over the twelve-month period ended
+January 31, 2025. REX s effective ownership of ethanol gallons shipped for the twelve-month period ended January 31, 2025,
+was approximately 294 million gallons. 
+Our ethanol operations are highly dependent
+on commodity prices, especially prices for corn, ethanol, distillers grains, distillers corn oil and natural gas, and availability
+of corn. As a result of price volatility for these commodities, our operating results can fluctuate substantially. The price and
+availability of corn is subject to significant fluctuations depending upon several factors that affect commodity prices in general,
+including crop conditions, the amount of corn stored on farms, weather, federal policy, foreign trade, tariffs and international
+disruptions caused by wars or conflicts. Because the market prices of ethanol and distillers grains are not always directly related
+to corn prices (for example, demand for crude and other energy and related prices, the export
+market demand for ethanol and distillers grains, soybean meal prices, and the results of federal policy decisions, trade negotiations,
+and tariffs can impact ethanol and distillers grains prices) , at times ethanol and distillers grains prices may not follow
+movements in corn prices and, in an environment of higher corn prices or lower ethanol or distillers grains prices, reduce the
+overall margin structure at the plants. As a result, at times, we may operate our plants at negative or minimally positive operating
+margins. 
+We expect our ethanol plants to produce
+approximately 2.9 gallons of denatured ethanol for each bushel of corn processed in the production cycle. We refer to the actual
+gallons of denatured ethanol produced per bushel of corn processed as the realized yield. We refer to the difference between the
+price per gallon of ethanol and the price per bushel of corn (divided by the realized yield) as the crush spread. 
+Should the crush spread decline, it is possible that our ethanol plants will generate operating results that do not provide adequate
+cash flows for sustained periods of time. In such cases, production at the ethanol plants may be reduced or stopped altogether
+in order to minimize variable costs at individual plants. 
+We attempt to manage the risk related to
+the volatility of commodity prices by utilizing forward corn and natural gas purchase contracts, forward ethanol, distillers grains
+and distillers corn oil sale contracts, and commodity futures agreements, as management deems appropriate. We attempt to match
+quantities of these sales contracts with an appropriate quantity of corn purchase contracts over a given period of time when we
+can obtain an adequate gross margin 
+4 
+resulting from the
+crush spread inherent in the contracts we have executed. However, the market for future ethanol sales contracts generally lags
+the spot market with respect to ethanol prices. Consequently, we generally execute fixed price ethanol contracts for no more than
+four months into the future at any given time and we may lock in our corn or ethanol price without having a corresponding locked
+in ethanol or corn price for short durations of time. As a result of the relatively short period of time our fixed price contracts
+cover, we generally cannot predict the future movements in our realized crush spread for more than four months; thus, we are unable
+to predict the likelihood or amounts of future income or loss from the operations of our ethanol facilities. 
+One
+Earth Sequestration, LLC, a wholly owned subsidiary of One Earth Energy, LLC, is in the developmental stage of a carbon
+sequestration project near the One Earth Energy ethanol plant. A test well has been drilled to a total depth of approximately 7,100
+feet, in which was encountered almost 2,000 feet of Mt. Simon Sandstone, which is the geological formation that is the region s
+primary carbon storage resource. Three-dimensional seismic testing has been performed, as well as geological modeling for predicting
+the movement of injected carbon and the plume area to determine maximum injection pressure, reservoir quality and storage capacity
+for the potential wells. In October 2022, we applied for a Class VI injection well permit for three wells with the U.S. Environmental
+Protection Agency ( EPA ), and we continue to provide information to the EPA during the technical review of our application
+upon request. We currently expect the EPA to prepare a draft permit by the second quarter of 2025 and make a final permit decision
+by late in the third quarter of 2025, according to the EPA s Class VI Permit Tracker Dashboard on their website. We have
+now secured sufficient subsurface easements for the proposed first injection well to allow for sequestration of all the carbon
+emissions from the One Earth Energy ethanol plant for a minimum of 15 years. We also need to obtain a county special-use zoning
+permit for the sequestration site. In 2022, we began construction of a facility to capture, dehydrate, and compress carbon dioxide
+from the One Earth Energy ethanol plant to a state suitable for sequestration. While we have completed the construction of the
+capture and compression facility, testing has not yet been completed and we cannot begin construction of the pipeline or sequestration
+well until further permits and approvals are received. 
+In October 2023, we submitted an application
+to the Illinois Commerce Commission ( ICC ) for a certificate of authority under the state s Carbon Dioxide Transportation
+and Sequestration Act (the CO 2 Act ) to build a short pipeline to deliver carbon dioxide from the
+One Earth Energy ethanol plant to the proposed sequestration site. We have obtained easements from all of the necessary landowners
+for the use of their land for the pipeline for the first two wells. On May 26, 2024, however, the Illinois General Assembly passed
+the Safety and Aid for the Environment in Carbon Capture and Sequestration Act (Senate Bill 1289), which was signed by the governor
+in July 2024. The new legislation imposes additional safety, environmental and other requirements on obtaining permits and approvals
+for carbon capture and sequestration facilities in Illinois, including CO 2 pipelines. Further, the new legislation
+imposes a moratorium on the issuance of new certificates of authority for the construction of CO 2 pipelines until
+the earlier of the date federal CO 2 pipeline safety standards are finalized by the federal Pipeline and Hazardous
+Materials Safety Administration (PHMSA) or, subject to certain other conditions, July 1, 2026. As a result of this legislation,
+the ICC dismissed our application without prejudice, and we will be required to resubmit an application after rules are finalized
+or subsequent to July 1, 2026. 
+Although we have made meaningful progress
+and significant investments in the carbon sequestration project at One Earth Energy, we continue to work with the various government
+agencies involved to obtain all required permits and approvals, with no assurance of the ultimate success or timing of the project.
+Also see the discussion under Trends and Uncertainties on pages 25 and 26 of certain recently proposed legislation
+that, if enacted, could impact our carbon sequestration project. 
+We also intend to concurrently expand the
+One Earth ethanol plant. We received a construction permit from the EPA to increase production from 150 million gallons of ethanol
+per year to 175 million gallons of ethanol per year. Once we achieve that level of production, we intend to apply for another permit
+to 200 million gallons per year. 
+Finally, we continue to work to identify
+ways to reduce our carbon intensity ( CI ) score at the One Earth plant with the intention of maximizing tax credits
+available under the Inflation Reduction Act ( IRA ). The IRA created a new Clean Fuel Production Credit, available
+for calendar years 2025 2027, of approximately $0.02 per ethanol gallon per CI point reduction below a 50 CI score threshold
+to incentivize further increases in plant efficiencies within the industry. The U.S. Department of the Treasury has not yet issued
+final rules on qualification for 45Z tax credits. 
+5 
+The Company is reviewing certain aspects
+of the expansion portion of the project and its impact on the previously reported expected project costs. Due to this, along with
+permitting delays and the impact of inflation, we have increased the budget for both projects to approximately $220 million to
+$230 million, subject to further refinement as we move forward. We plan to pay for all costs from available cash. As of January
+31, 2025, we had spent $55.7 million since inception and were contractually committed to spend an additional $0.9 million toward
+the carbon sequestration project. If the carbon sequestration project is successful, we believe we will qualify for tax credits
+under section 45Q of the Internal Revenue Code ( 45Q ), based on tons of carbon sequestered, and section 45Z of the
+Internal Revenue Code ( 45Z ), based on gallons of ethanol produced, as outlined in the IRA. However, 45Z credits are
+only available for calendar years 2025 2027 and the regulations have not yet been finalized by the U.S. Department of the
+Treasury. As of January 31, 2025, we had spent $59.9 million since inception and were contractually committed to spend an additional
+$8.7 million toward plant capacity expansion and ongoing efforts to reduce our CI scoring. 
+In May 2023, NuGen Energy, LLC, our majority
+owned ethanol plant in Marion, South Dakota, signed an agreement to be part of Summit Carbon Solutions carbon capture and
+storage pipeline network, with storage planned to be in North Dakota. Should Summit Carbon Solutions be able to obtain all necessary
+permits and approvals, the agreement would allow NuGen to share in the economic benefits of tax credits through the sale of the
+carbon dioxide out
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Sole Source Aquifer Project Review Area, within the
+Sangamon River near Fisher Upstream Area. It is approximately five miles north of the Sangamon River and nearly six miles outside
+of the mapped boundary of the Mahomet Aquifer, which has been designated as a sole source or principal aquifer by the U.S. EPA.
+We believe our second and third sequestration well sites are outside the Mahomet Sole Source Aquifer Project Review Area. The outcome
+of this proposed legislation could impact our ability to complete our project or materially impact the timing and cost of completion. 
+In March 2025, South Dakota signed a bill
+into law that bans the use of eminent domain in connection with carbon dioxide pipelines. This act could make the sequestration
+project for the NuGen Energy facility more difficult to materialize. 
+We depend on our partners to operate
+certain of our ethanol investments . 
+Our investments currently represent both
+majority and minority equity positions. Day-to-day operating control of minority owned plants generally remains with the local
+investor group. We do not have the ability to directly modify the operations of these plants in response to changes in the business
+environment or in response to any deficiencies in local operations of the plants. In addition, local plant operators, who also
+represent the primary suppliers of corn and other crops to the plants, may have interests, such as the price and sourcing of corn
+and other crops, that may differ from our interest, which is based solely on the operating profit of the plant. The limitations
+on our ability to control day-to-day plant operations could adversely affect plant results of operations. 
+We may not successfully acquire or develop
+additional ethanol investments or expansion. 
+The growth of our ethanol
+business depends on our ability to identify and develop new ethanol investments. Any expansion strategy will depend on prevailing
+market conditions for the price of ethanol and the cost of corn and n
+
+---
+Doc size: 955KB (capped at 2MB)

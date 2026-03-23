@@ -1,0 +1,106 @@
+# INTAPP INC — 10-K Annual Report
+# Filed: 2025-08-20
+# CIK: 1565687
+# SIC: Services-Prepackaged Software
+# Source: https://www.sec.gov/Archives/edgar/data/1565687/000119312525184080/inta-20250630.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+12 
+Item 1B. 
+Unresolved Staff Comments 
+41 
+Item 1C. 
+Cybersecurity 
+41 
+Item 2. 
+Properties 
+43 
+Item 3. 
+Legal Proceedings 
+43 
+Item 4. 
+Mine Safety Disclosures 
+43 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+44 
+Item 6. 
+[Reserved] 
+45 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+46 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+60 
+Item 8. 
+Financial Statements and Supplementary Data 
+61 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+99 
+Item 9A. 
+Controls and Procedures 
+99 
+Item 9B. 
+Other Information 
+100 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+100 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+101 
+Item 11. 
+Executive Compensation 
+102 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+102 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+102 
+Item 14. 
+Principal Accountant Fees and Services 
+103 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+104 
+Item 16. 
+Form 10-K Summary 
+104 
+Signatures 
+109 
+i 
+Table of Contents 
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K, particularly in the sections captioned Risk Factors under Part I, Item 1A, Management s Discussion and Analysis of Financial Condition and Results of Operations under Part II, Item 7 and Business under Part I, Item 1, contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act. References to us, we, or our refer to the operations of Intapp, Inc. and its subsidiaries. All statements contained in this Annual Report on Form 10-K other than statements of historical fact, including statements regarding our future operating results and financial position, our business strategy and plans, potential acquisitions, market growth and trends, and our objectives for future operations, are forward-looking statements. You can identify these forward-looking statements by the use of forward-looking words such as anticipate, believe, continue, could, estimate, expect, intend, may, might, objective, ongoing, plan, predict, project, potential, should, will, or would, or the negative version of those words or other comparable words. Any forward-looking statements contained in this Annual Report on Form 10-K are based upon our historical performance and on our current plans, estimates and expectations in light of information currently available to us. The inclusion of this forward-looking information should not be regarded as a representation by us or any other person that the future plans, estimates or expectations contemplated by us will be achieved. Such forward-looking statements are subject to various risks and uncertainties and assumptions relating to our operations, financial results, financial condition, business, prospects, growth strategy, and liquidity. Accordingly, there are, or will be, important factors that could cause our actual results to differ materially from those indicated in these statements. We believe that these factors include, but are not limited to: Our ability to continue our growth at or near historical rates; Our future financial performance and ability to be profitable; The effect of global events on the United States ( U.S. ) and global economies, our business, our employees, our results of operations, our financial condition, demand for our products, sales and implementation cycles, and the health of our clients and partners businesses; Our ability to prevent and respond to data breaches, unauthorized access to client data or other disruptions of our solutions; Our ability to effectively manage U.S. and global market and economic conditions, including inflationary pressures, economic and market downturns and volatility in the financial services industry, particularly adverse to our targeted industries; The effect on our customers of the imposition of additional tariffs, duties, or taxes, changes to existing trade agreements, and other charges or barriers to trade and any resulting impact to global stock markets, foreign currency exchange rates, and existing inflationary pressures; The length and variability of our sales cycle; Our ability to attract and retain clients; Our ability to attract and retain talent; Our ability to compete in highly competitive markets, including artificial intelligence ( AI ) products; Our ability to manage the implementation of AI into our products and services and to comply with U.S. and global laws and regulations regarding AI; Our ability to manage additional complexity, burdens, and volatility in connection with our international sales and operations; The successful assimilation or integration of the businesses, technologies, services, products, personnel or operations of acquired companies; Our ability to incur indebtedness in the future and the effect of conditions in credit markets; The sufficiency of our cash and cash equivalents to meet our liquidity needs; and Our ability to maintain, protect, and enhance our intellectual property rights. 
+ii 
+Table of Contents 
+These statements are based upon information available to us as of the date of this report, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements. You should read the section titled Risk Factors set forth in Part I, Item 1A of this Annual Report on Form 10-K for a discussion of important factors that may cause our actual results to differ materially from those expressed or implied by our forward-looking statements. Moreover, we operate in an evolving environment. New risk factors and uncertainties may emerge from time to time, and it is not possible for management to predict all risk factors and uncertainties. As a result of these factors, we cannot assure you that the forward-looking statements in this Annual Report on Form 10-K will prove to be accurate. Except as required by applicable law, we do not plan to publicly update or revise any forward-looking statements contained herein, whether as a result of any new information, future events, changed circumstances or otherwise. You should read this Annual Report on Form 10-K completely, and with the understanding that our actual future results may be materially different from what we expect. We qualify all of our forward-looking statements by these cautionary statements. 
+iii 
+Table of Contents 
+PART I Item 1. B usiness. Overview Intapp is a leading global provider of AI-powered solutions for the world s premier accounting, consulting, investment banking, legal, private capital and real assets firms. Intapp s vertical software as a service ( SaaS ) solutions help professionals apply their collective expertise to make smarter decisions, manage risk, increase competitive advantage and drive new growth. Using the power of Applied AI, our purpose-built vertical SaaS solutions help firms accelerate the flow of information, activate expertise, empower teams, strengthen client relationships, reduce risk, and adapt more quickly in a highly complex ecosystem. The accounting, consulting, investment banking, legal, private capital and real assets industries we serve are largely comprised of elite, partner-led firms, which together form one of the largest sectors of the global economy. Firms in these industries operate in highly connected ecosystems, providing valuable expertise, insight, and advice to a broad range of companies and institutions across varied transactions and engagements. These industries are highly regulated, competitive and uniquely structured around deeply experienced partners and professionals who leverage knowledge, intellectual capital, and relationships to succeed differing greatly from companies that sell goods and products. Firms must manage an intricate web of complex, non-linear relationships spread across various functions, processes, and personnel, while also navigating an ever-changing market and regulatory environment. Historically, firms in these industries have either relied on internally built technology solutions and legacy on-premises software, or they have attempted to use horizontal software providers to meet their industry-specific technology needs. Internally built or legacy solutions tend to be outdated, expensive, and cumbersome to maintain, while horizontal solutions do not align well with how firms operate, necessitating heavy customization. As a result, these firms are increasingly embracing industry-specific software and AI technology to achieve improved levels of growth, investment, returns, productivity, risk management, and a differentiated experience for their clients, teams, and investors. Our industry cloud strategy leverages deep understanding of the professionals across accounting, consulting, investment banking, legal, private capital and real assets to deliver products that are tailored to address their specific business challenges. We combine our purpose-built technology with best practices that have been developed over 25 years of experience and thousands of successful deployments. This includes our robust set of Applied AI capabilities that help clients solve unique challenges, allowing them to grow faster and run smarter. It also includes our expansive industry-specific partner ecosystem, which allows our clients to generate added value from the adoption of our platform. All these elements work together in our comprehensive technology strategy: Intapp Intelligent Cloud. Alongside our cloud and Applied AI strategies and solutions, we believe our deep domain expertise gained over 25 years of operating experience drives our competitive advantage. We have cultivated privileged, difficult-to-replicate access to the world s leading firms, resulting in a deep understanding of how they work and what they need. Clients value our scalable platform s differentiated domain expertise, purpose-built capabilities, comprehensive end-to-end offerings, data-driven AI insights, and industry brand. We are trusted by many of the world s elite firms, including 95 of the Am Law 100 law firms, 16 of the top 20 accounting firms, and over 1,700 private capital and investment banking firms. We sell our software on a subscription basis through a direct sales model. As of June 30, 2025, we had over 2,700 clients. Our business has historically grown through a combination of expanding within our existing client base by adding additional users and capabilities, selling to new clients, and cloud migrations. We have had success in driving clients to further adoption, and currently have 109 clients with contracts greater than $1.0 million of annual recurring revenues ( ARR ). This number is up from 73 clients at the end of fiscal year 2024, representing a 49% increase year-over-year. With our scalable, modular cloud-based platform, we believe we are well positioned to continue our growth. Our most significant opportunity lies with the largest firms, where we see substantial expansion potential as firms continue to consolidate. We pursue growth in the number of clients, but our biggest drivers are the assets under management and revenue growth of our clients as well as growth in the total number of professionals they employ. 
+1 
+Table of Contents 
+Our Products and Platform Intapp Intelligent Cloud The Intapp Intelligent Cloud represents our comprehensive technology strategy, guiding how we build, run, and deliver software to meet the unique needs of professionals and their workflows. With well-integrated Microsoft 365 tools and a focus on secure, innovative solutions, the Intapp Intelligent Cloud facilitates firms efficient management of their current work while preparing for future demands. Our clients deliver value by leveraging their expertise, relationships, and experience. By its very nature, their work involves compiling inputs from vast sources of data and generating informed opinions that drive action. We believe these firms and their professionals are uniquely positioned to benefit from the promise of generative AI and advanced digital tools. With enhanced products such as Intapp Time, now powered by generative AI for smarter timekeeping, and Intapp Walls for AI, which safeguards confidential information we are enabling firms to streamline complex workflows, accelerate billing cycles, and enforce confidentiality controls that support compliance and build trust. When paired with Microsoft Copilot, Intapp Walls further supports secure enterprise data isolation ensuring AI-powered collaboration remains confidential and compliant. And with Intapp Assist, we have extended that innovation to origination, helping professionals surface insights and enhance decision-making at the earliest stages of client engagement. Whether firms are using Intapp DealCloud for business development, compliance products for risk management, time products for efficient billing and time tracking, or collaboration products to streamline teamwork, the Intapp Intelligent Cloud is tailored to support professionals across specialized industries. Together, these products empower firms to move fast, win more business, and apply their collective intelligence to deliver greater value for their clients. Industry Products and Solutions Our solutions enable accounting, consulting, investment banking, legal, private capital and real assets firms and their professionals to realize the benefits of modern AI and cloud-based architectures for their most critical business functions without compromising industry-specific functionality or their unique client, ethical, or regulatory obligations. Our solutions serve firms need for strong operational controls and compliance and are complemented by solutions that support the work of the partners and professionals that grow the firms fees and revenues. Intapp DealCloud serves partners and professionals across all our markets, empowering them to manage client relationships, prospective clients and investments, current engagements, and operations. It enables investors and advisors to react faster, make better decisions, and execute the best deals. By unifying firm, market, and deal data in one place and leveraging the enriched company and contact profiles provided by Intapp Data, DealCloud delivers powerful intelligence, workflow a
+
+## GEOGRAPHIC REVENUE
+s on our management and our operational and financial resources. We operate globally, sell our services to more than 2,700 clients in more than 62 countries, and have employees and contractors in the Americas, Europe and Asia Pacific. We plan to continue to expand our international presence in the future, which will place additional demands on our resources and operations. Additionally, we continue to increase the breadth and scope of our Intapp Intelligent Cloud and our operations and we continue to develop our partner network. In order to successfully manage our future growth, we will need to continue to add and retain qualified personnel across our operations; improve our IT and financial infrastructures, our operating and administrative systems, and our ability to manage headcount, capital, and internal processes in an efficient manner and deepen our industry experience in key industries. Our organizational structure is also becoming more complex as we grow our operational, financial, and management infrastructure and we must continue to improve our internal control over financial reporting as well as our disclosure systems and procedures. We intend to continue to invest to expand our business, including investing in technology, sales and marketing operations, developing new solutions and features for our existing solutions, hiring additional personnel, and upgrading our infrastructure. These investments will require significant capital expenditures and may divert management and financial resources from other projects, such as the development of new solutions, and any investments we make will occur in advance of experiencing the benefits from such investments, making it difficult to determine in a timely manner if we are efficiently allocating our resources. We continue to assess our facilities requirements and may deem it advisable in the near-term or later to add new offices or downsize certain of our offices in order to reduce costs, which may cause us to incur related charges. As we continue to evaluate our real estate needs, we may incur additional charges in the future in connection with exit activities. If we do not achieve the benefits anticipated fr
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of our outstanding common stock, it shall have the right to nominate one director to our board of directors. 
+36 
+Table of Contents 
+These provisions may make it difficult and expensive for a third-party to pursue a tender offer, change in control or takeover attempt that is opposed by Anderson, our management or our board of directors. Public stockholders who might desire to participate in these types of transactions may not have an opportunity to do so, even if the transaction is favorable to stockholders. These anti-takeover provisions could substantially impede the ability of public stockholders to benefit from a change in control or change our management and board of directors and, as a result, may adversely affect the market price of our common stock and your ability to realize any potential change of control premium. Risks Related to Ownership of Our Common Stock The market price and trading volume of our common stock has been and may continue to be volatile, which could result in rapid and substantial losses for our stockholders. The market price of our common stock has been and may continue to be highly volatile and could be subject to wide fluctuations. In addition, the trading volume in our common stock may fluctuate and cause significant price variations to occur. Some of the factors that have or could in the future negatively affect our share price or result in fluctuations in the price or trading volume of our common stock, many of which are beyond our control, include: Variations in our quarterly or annual operating results; Our ability to attract new clients in both domestic and international markets, and our ability expand the solutions provided to existing clients; The timing of our clients buying decisions and reductions in our clients budgets for IT purchases and delays in their purchasing cycles, particularly in light of recent adverse global economic conditions; Changes in our earnings estimates (if provided) or differences between our actu
+
+---
+Doc size: 2048KB (capped at 2MB)

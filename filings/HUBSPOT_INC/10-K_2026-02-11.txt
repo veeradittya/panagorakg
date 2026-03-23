@@ -1,0 +1,99 @@
+# HUBSPOT INC — 10-K Annual Report
+# Filed: 2026-02-11
+# CIK: 1404655
+# SIC: Services-Prepackaged Software
+# Source: https://www.sec.gov/Archives/edgar/data/1404655/000119312526046646/hubs-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+Business 
+7
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+16 
+ITEM 1B. 
+Unresolved Staff Comments 
+44 
+ITEM 1C. 
+Cybersecurity 
+44 
+ITEM 2. 
+Properties 
+45 
+ITEM 3. 
+Legal Proceedings 
+45 
+ITEM 4. 
+Mine Safety Disclosures 
+45 
+PART II 
+ITEM 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+46 
+ITEM 6. 
+[Reserved] 
+47 
+ITEM 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+48 
+ITEM 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+62 
+ITEM 8. 
+Financial Statements and Supplementary Data 
+63 
+ITEM 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosures 
+101 
+ITEM 9A. 
+Controls and Procedures 
+101 
+ITEM 9B. 
+Other Information 
+102 
+ITEM 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+103 
+PART III 
+ITEM 10. 
+Directors, Executive Officers and Corporate Governance 
+104 
+ITEM 11. 
+Executive Compensation 
+104 
+ITEM 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+104 
+ITEM 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+104 
+ITEM 14. 
+Principal Accounting Fees and Services 
+104 
+PART IV 
+ITEM 15. 
+Exhibits, Financial Statement Schedules 
+105 
+ITEM 16. 
+10-K Summary 
+105 
+SIGNATURES 
+109 
+3 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, and these statements involve substantial risks and uncertainties. All statements other than statements of historical fact contained in this Annual Report on Form 10-K are forward-looking statements. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as may, should, expects, plans, anticipates, could, intends, target, projects, contemplates, believes, estimates, predicts, potential or continue or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans or intentions. Forward-looking statements contained in this Annual Report on Form 10-K include, but are not limited to, statements about: our future financial and operational performance, including our expectations regarding our revenue, cost of revenue, gross margin and operating expenses; maintaining and expanding our customer base and increasing our average subscription revenue per customer; the impact of competition in our industry and innovation by our competitors, including as a result of new or better use of evolving artificial intelligence ( AI ) technologies; our anticipated growth and expectations regarding our ability to manage our future growth; our expectations regarding the potential impact of geo-political conflicts, inflationary pressures, tariffs and trade restrictions, foreign currency movement, macroeconomic stability, and catastrophic events, on our business, the broader economy, our workforce and operations, the markets in which we and our partners and customers operate, and our ability to forecast future financial performance; our anticipated areas of investments, including sales and marketing, research and development, including with respect to AI and machine learning, customer service and support, data center infrastructure and service capabilities, and expectations relating to such investments; our predictions about industry and market trends; limitations on us due to obligations we have under the credit facility; our ability to anticipate and address the evolution of technology and the technological needs of our customers, to roll-out upgrades to our existing software platform and to develop new and enhanced applications to meet the needs of our customers, including with respect to AI and machine learning; our ability to maintain our brand and marketing, selling and servicing thought leadership position; the impact of our corporate culture and our ability to attract, hire and retain necessary qualified employees to expand our operations; the anticipated effect on our business of litigation to which we are or may become a party; our ability to successfully acquire and integrate companies and assets; the impact of our 2026 Share Repurchase Program; our plans regarding declaring or paying cash dividends in the foreseeable future; and our ability to stay abreast of new or modified laws and regulations that currently apply or become applicable to our business both in the United States and internationally. We caution you that the foregoing list may not contain all of the forward-looking statements made in this Annual Report on Form 10-K. You should not rely upon forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Annual Report on Form 10-K primarily on our current expectations and projections about future events and trends that we believe may affect our business, financial condition, results of operations and prospects. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties and other factors described in Risk Factors and elsewhere in this Annual Report on Form 10-K. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Annual Report on Form 10-K. The results, events and circumstances 
+4 
+reflected in the forward-looking statements may not be achieved or occur, and actual results, events or circumstances could differ materially from those described in the forward-looking statements. The forward-looking statements made in this Annual Report on Form 10-K relate only to events as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this Annual Report on Form 10-K to reflect events or circumstances after the date of this Annual Report on Form 10-K or to reflect new information or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements and you should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures, or investments we may make. In this Annual Report on Form 10-K, the terms HubSpot, we, us, and our refer to HubSpot, Inc. and its subsidiaries, unless the context indicates otherwise. 
+5 
+Risk Factor Summary The risk factors detailed in Item 1A entitled Risk Factors in this Annual Report on Form 10-K are the risks that we believe are material to our investors and a reader should carefully consider them. Those risks are not all of the risks we face and other factors not presently known to us or that we currently believe are immaterial may also affect our business if they occur. The following is a summary of the risk factors detailed in Item 1A: We are dependent upon customer renewals, the addition of new customers, increased revenue from existing customers and the continued growth of the market for a customer platform. We face significant competition from both established and new companies in the software market in which we operate, which may harm our ability to add new customers, retain existing customers and grow our business. Failure to effectively develop and expand our marketing, sales, customer service, operations, and content management capabilities could harm our ability to increase our customer base and achieve broader market acceptance of our platform. If we fail to adapt and respond effectively to rapidly changing technology (including AI and machine learning), evolving industry standards and changing customer needs or requirements, our customer platform may become less competitive. Our ability to introduce new products and features, including new products and features that utilize AI is dependent on adequate research and development resources. If we do not adequately fund our research and development efforts, we may not be able to compete effectively and our business and operating results may be harmed. We are exposed to fluctuations in currency exchange rates that could adversely affect our financial results. Economic uncertainty, including from changes in trade policies, trade wars, tariffs or other trade restrictions or the threat of such actions, may lead to decreased demand for our products and services and otherwise harm our business and results of operations. Interruptions or delays in service from our third-party data center providers could impair our ability to deliver our platform to our customers, resulting in customer dissatisfaction, damage to our reputation, loss of customers, limited growth, and reduction in revenue. If our customer platform has outages or fails due to defects or similar problems, and if we fail to correct any defect or other software problems, we could lose customers, become subject to service performance or warranty claims or incur significant costs. If our or our customers security measures are compromised or unauthorized access to data of our customers or their customers is otherwise obtained, our customer platform may be perceived as not being secure, our customers may be harmed and may curtail or cease their use of our platform, our reputation may be damaged and we may incur significant liabilities. We have a history of losses and may not become consistently profitable or maintain or increase profitability in the future. We may experience quarterly fluctuations in our operating results due to a number of factors, which makes our future results difficult to predict and could cause our operating results to fall below expectations or our guidance. If we do not accurately predict subscription renewal rates or otherwise fail to forecast our revenue accurately, or if we fail to match our expenditures with corresponding revenue, our operating results could be adversely affected. Our ability to raise capital in the future may be limited, and our failure to raise capital when needed could prevent us from growing. 
+6 
+PART 1 ITEM 1. BUSINESS Overview We provide an agentic customer platform that helps marketing, sales, and customer service teams drive business growth. We deliver seamless connection for customer-facing teams with a unified platform that includes three layers: Artificial Intelligence ("AI")-powered agents and engagement hubs, a Smart customer relationship management product ( CRM ), and a connected ecosystem supporting the customer platform with a marketplace of integrations, templates, expert partners, a community network, and an academy of educational content. Our AI-powered agents and engagement Hubs that enable companies to attract, engage, and delight customers throughout the customer lifecycle include Marketing, Sales, Service, Operations, Content and Commerce. The Smart CRM is the foundational context layer that combines customer data with AI to power the entire customer platform with unified customer profiles and tools to manage and govern your team and business processes. We focus on selling to mid-market business-to-business ( B2B ) companies, which we define as companies that have between 2 and 2,000 employees, and aim to be the best at applying AI to help them grow. We primarily sell our customer platform on a subscription basis. In 2025, our total revenue was $3.1 billion and we generated a net income of $45.9 million. As of December 31, 2025, we had 8,882 full-time employees and 288,706 Customers, as defined in our Key Business Metrics in Item 7, of varying sizes in more than 135 countries. Our company was formed as a limited liability company in Delaware on April 4, 2005. We converted to a Delaware corporation on June 7, 2007. Our principal executive offices are located at Two Canal Park, Cambridge, Massachusetts, and our main telephone number is 888-482-7768. Our website address is https://www.hubspot.com. Information contained on or that can be accessed through our website does not constitute part of this Annual Report on Form 10-K, and inclusions of our website address in this Annual Report on Form 10-K are inactive textual references only. The HubSpot Approach Our customer platform features a central database of lead and customer interactions and integrated applications designed to help businesses build their presence online, attract prospects across channels, convert prospects into leads, close leads into customers, transact with those customers, and delight them so they become promoters of those businesses. Designed to Help Companies Grow Better. Our customer platform was crafted from the ground up to enable businesses to transform their marketing, sales, services, operations, commerce and content management playbook to meet the demands of customers today. Our customer platform includes a system of record for maintaining a unified view of the customer experience, a system of engagement for efficiently engaging customers through search engine optimization ( SEO ), and answer engine optimization ( AEO ), AI-powered content creation, web content, social, blogging, email, marketing automation, messaging, support ticketing, knowledge base, conversation routing, video hosting, deal progression, prospecting, data enrichment, and an end-to-end commerce solution which enables customers to use AI-powered configure-price-quote ( CPQ ) capabilities, automated billing, and payment processing to streamline the end-to-end quote-to-cash process with fewer tools. Our AI agents extend the platform with AI teammates that do real work, like researching accounts, enriching data, answering support questions, and qualifying leads. Ease of Use of a Single, Extensible Platform that Drives Fast Time to Value. We provide a set of integrated applications on a common platform, which offers businesses ease of use and simplicity. Our customer platform has one login, one user interface and one unified customer view. Our customer platform starts free and grows with our customers. It is designed to scale its power and technical sophistication without losing its ease-of-use. In addition to being a comprehensive suite itself, our customer platform seamlessly integrates with hundreds of external applications, making it easy to extend the functionality of our customer platform and customize it for any business. This enables our customers to get work done quickly, driving immediate impact. Power of a Unified Customer View. At the core of our customer platform is a unified data platform for each bu
+
+## GEOGRAPHIC REVENUE
+2-31 0001404655 hubs:SubleaseAssetMember 2025-01-01 2025-12-31 0001404655 us-gaap:CommonStockMember 2025-01-01 2025-12-31 0001404655 us-gaap:DomesticCountryMember 2025-01-01 2025-12-31 0001404655 srt:AmericasMember 2023-01-01 2023-12-31 0001404655 2025-01-01 2025-12-31 0001404655 hubs:DomainNameMember 2025-12-31 0001404655 us-gaap:AssetsTotalMember us-gaap:GeographicConcentrationRiskMember country:US 2024-01-01 2024-12-31 0001404655 us-gaap:AccumulatedTranslationAdjustmentMember 2024-12-31 0001404655 2025-01-01 2025-12-31 0001404655 hubs:StrategicInvestmentsMember 2025-12-31 0001404655 us-gaap:SalesRevenueNetMember hubs:RestOfTheWorldMember us-gaap:GeographicConcentrationRiskMember 2025-01-01 2025-12-31 0001404655 us-gaap:FairValueInputsLevel3Member hubs:StrategicInvestmentsMember 2024-12-31 0001404655 hubs:CacheflowIncMember 2024-10-30 0001404655 us-gaap:TechnologyBasedIntangibleAssetsMember srt:MaximumMember 2025-12-31 0001404655 us-gaap:ConstructionInProgressMember 2024-12-31 0001404655 us-gaap:AccumulatedTranslationAdjustmentMember 2024-01-01 2024-12-31 0001404655 us-gaap:AssetsTotalMember hubs:OutsideOfAmericasMember us-gaap:GeographicConcentrationRiskMember 2024-01-01 2024-12-31 0001404655 hubs:XFunnelIncMember 2025-01-01 2025-12-31 0001404655 hubs:TwoThousandTwentyFourEquityIncentivePlanMember 2024-06-11 0001404655 hubs:CostOfSubscriptionRevenuesMember 2025-01-01 2025-12-31 0001404655 us-gaap:EmployeeStockMember 2024-01-01 2024-12-31 0001404655 us-gaap:OtherIntangibleAssetsMember 2024-12-31 0001404655 2022-12-31 0001404655 srt:EuropeMember 2025-01-01 2025-12-31 0001404655 us-gaap:AdditionalPaidInCapitalMember 2024-12-31 0001404655 us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:ForeignExchangeForwardMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2025-12-31 0001404655 us-gaap:AociDerivativeQualifyingAsHedgeExcludedComponentParentMember 2025-01-01 2025-12-31 0001404655 us-gaap:ResearchAndDevelopmentExpenseMember 2023-01-01 2023-12-31 0001404655 hubs:CostOfSubscriptionRevenuesMember 2024-01-01 2024-12-31 0001404655 srt:MinimumMember us-gaap:SoftwareAndSoftwareDevelopmentCostsMember 2025-12-31 0001404655 us-gaap:AdditionalPaidInCapitalMemb
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer represented more than ten percent of our revenue in 2025, 2024, or 2023. Our Technology Our Customers have chosen us as their customer platform, which we architected and built to be secure, highly distributed and highly scalable. Since our founding, we have embraced rapid, iterative product development lifecycles, cloud automation and open-source technologies, including big data platforms, as well as AI, to power marketing, sales, service, data, commerce, and content management programs and provide insights not previously possible or available. Our customer platform is a multi-tenant, globally available software-as-a-service delivered through APIs, web browsers or mobile applications. Our commitment to a highly available, reliable, and scalable platform for businesses of all sizes is accomplished through the use of these technologies. Platform Approach. We built HubSpot on a single platform with reusable and composable libraries, allowing us to rapidly address new feature areas and bring new products to market that have a consistent user experience and data model. We have built this platform with scale in mind, supporting thousands of components including hundreds of microservices. Modern Database Architecture. We process billions of data points weekly across various channels, including social media, email, SEO and website visits, and continue to drive nearly real-time analytics across these channels. This is possible because we built our database from the ground up using distributed big data technologies such as HBase, Elasticsearch and Kafka to both process and analyze the large amounts of data we collect. We also utilize Vitess to operate MySQL at scale, allowing our engineers to choose the best datastore for each task. Agility. Our infrastructure and development and software release processes allow us to update our platform for specific groups of customers or our entire customer base at any time. This means we can rapidly innovate and deliver new
+
+---
+Doc size: 2048KB (capped at 2MB)

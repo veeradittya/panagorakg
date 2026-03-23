@@ -1,0 +1,172 @@
+# HANOVER INS GROUP INC — 10-K Annual Report
+# Filed: 2026-02-20
+# CIK: 944695
+# SIC: Fire, Marine & Casualty Insurance
+# Source: https://www.sec.gov/Archives/edgar/data/944695/000119312526060983/thg-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+18 
+1B 
+Unresolved Staff Comments 
+33 
+1C 
+Cybersecurity 
+33 
+2 
+Properties 
+34 
+3 
+Legal Proceedings 
+34 
+4 
+Mine Safety Disclosures 
+34 
+Part II 
+5 
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+35 
+6 
+Reserved 
+35 
+7 
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+36 
+7A 
+Quantitative and Qualitative Disclosures About Market Risk 
+64 
+8 
+Financial Statements and Supplementary Data 
+65 
+9 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+114 
+9A 
+Controls and Procedures 
+114 
+9B 
+Other Information 
+115 
+9C 
+Disclosures Regarding Foreign Jurisdictions That Prevent Inspections 
+115 
+Part III 
+10 
+Directors, Executive Officers and Corporate Governance 
+115 
+11 
+Executive Compensation 
+117 
+12 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+118 
+13 
+Certain Relationships and Related Transactions, and Director Independence 
+118 
+14 
+Principal Accounting Fees and Services 
+118 
+Part IV 
+15 
+Exhibits, Financial Statement Schedules 
+119 
+Exhibits Index 
+120 
+16 
+Form 10-K Summary 
+123 
+Signatures 
+123 
+2 
+Table of Contents 
+PART I ITEM 1 B USINESS ORGANIZATION The Hanover Insurance Group, Inc. ( THG or the Company ) is a holding company organized as a Delaware corporation in 1995. We trace our roots to as early as 1852, when The Hanover Fire Insurance Company was founded. Our primary business operations are property and casualty insurance products and services. We market our products and services through independent agents and brokers in the United States ( U.S. ). Our consolidated financial statements include the accounts of THG; The Hanover Insurance Company ( Hanover Insurance ) and Citizens Insurance Company of America ( Citizens ), which are our principal property and casualty subsidiaries; and other insurance and non-insurance subsidiaries. INFORMATION ABOUT SEGMENTS GENERAL We conduct our business operations through four reporting segments: Core Commercial, Specialty, Personal Lines and Other. Interest expense related to our corporate debt is reported separately from the earnings of these reporting segments. In our Core Commercial, Specialty and Personal Lines segments, we underwrite our insurance products through Hanover Insurance, Citizens and other THG subsidiaries. We distribute them through select independent agents and brokers throughout the U.S. Our Other segment is comprised primarily of earnings and expenses related to our holding company. Our agency and customer-centric strategy focuses on providing specialized insurance products and services with an emphasis on disciplined underwriting and pricing, quality claims handling and customer service. We continue to prudently grow and diversify our product offerings and geographic business mix to strengthen our position as one of the top property and casualty insurers focused on the independent agency distribution channel in the U.S. In 2025, we generated approximately $6.3 billion in net premiums written, an increase of 3.9% from the prior year. Information with respect to each of our segments is included in Results of Operations - Segments in Management s Discussion and Analysis of Financial Condition and Results of Operations ( Management s Discussion and Analysis ) and in Note 12 - Segment Information in the Notes to Consolidated Financial Statements. RISKS The industry s and our profitability are significantly affected by numerous factors, including price; competition; volatile and unpredictable developments, such as weather conditions, catastrophes and other disasters; legal and regulatory developments affecting pricing, underwriting, policy coverage and other aspects of doing business, as well as insurer and insureds liability; extra-contractual liability; attorney involvement in claims matters; size of jury awards; civil unrest; acts of terrorism; fluctuations in interest rates and the value of investments; and other general economic conditions and trends, such as potential recessionary pressures and inflationary pressure, tariffs, or unemployment, that may affect the adequacy of reserves or the demand for insurance products. Our investment portfolio and its future returns are impacted by the capital markets and current economic conditions, which affect our liquidity, realized losses and impairments, credit default levels, our ability to hold such investments until recovery and other factors. Additionally, the economic conditions in geographic locations where we conduct business, especially those locations where our business is concentrated, affect the growth and profitability of our business. The regulatory environments in those locations, including any pricing, underwriting or product restrictions, shared market mechanisms or mandatory pooling arrangements, and other conditions, such as our agency relationships, affect the growth and profitability of our business. Our loss and loss adjustment expense ( LAE ) reserves are based on estimates, principally involving case assessments and actuarial projections, at a given time, of what we expect the ultimate settlement and administration of claims will cost based on facts and circumstances then known, predictions of future events, estimates of future trends in claims frequency and severity and judicial theories of liability, social inflation, costs of repairs and replacement, legislative activity, legal system abuse, and other factors. We regularly reassess our estimate of loss reserves and LAE, both for current and past years, and resulting changes have and will affect our reported profitability and financial position. Pressure from litigation trends, legal system abuse, and general and social inflation in the U.S. economy in recent years, along with other factors outside our control, have resulted in higher claims costs. The severity, duration, and long-term effects of such uncertainties may affect the property and casualty insurance industry, our business, and our financial results over the intermediate and long-term. Reference is also made to Risk Factors in Part I Item 1A. 
+3 
+Table of Contents 
+LINES OF BUSINESS Core Commercial Our Core Commercial segment generated $2.4 billion, or 36.4%, of consolidated operating revenues and $2.3 billion, or 36.0%, of net premiums written, for the year ended December 31, 2025. The following table provides net premiums written by line of business for our Core Commercial segment. 
+Net Premiums 
+YEAR ENDED DECEMBER 31, 2025 
+Written 
+% of Total 
+(in millions, except ratios) 
+Commercial multiple peril 
+$ 
+1,159.2 
+51.0 
+% 
+Commercial automobile 
+427.3 
+18.8 
+Workers' compensation 
+418.7 
+18.4 
+Other core commercial 
+268.5 
+11.8 
+Total 
+$ 
+2,273.7 
+100.0 
+% 
+We divide Core Commercial into two businesses, small commercial and middle market, both of which focus on account business. Our Core Commercial product suite provides agents and customers with products designed for small and mid-sized businesses. Small commercial offerings, which generally include annual policy premiums up to $50,000, deliver value through product expertise, local presence and ease of doing business. Middle market accounts, with annual premiums, per policy, generally in the range of $50,000 to $500,000, deliver value through greater underwriting and claim expertise, as well as a focus on distinct industry segments. Core Commercial coverages include: Commercial multiple peril coverage insures businesses against third-party general liability from accidents occurring on their premises or arising out of their operations, such as injuries sustained from products and services sold. It also insures business property for damage, such as that caused by fire, wind, hail, water damage (which may include flood), theft and vandalism. Commercial automobile coverage insures businesses against losses incurred from personal bodily injury, bodily injury to third parties, property damage to an insured s vehicle, and property damage to other vehicles and property. Commercial automobile policies are often written in conjunction with other commercial policies. Workers compensation coverage insures employers against employee medical and indemnity claims resulting from injuries related to work. Workers compensation policies are often written in conjunction with other commercial policies. Other core commercial coverage includes commercial umbrella, monoline general liability, claims-made liability and monoline property coverages. Our strategy in Core Commercial is focused on strengthening and expanding our market reach through differentiated product offerings, industry segmentation, and franchise value through selective distribution. We continue to make enhancements to our products and technology platforms that are intended to drive more account placements in our small commercial and middle market businesses. In small commercial, we continue to expand our utilization of our TAP Sales agent quote and issue platform, which makes it easier and more efficient for our agents to do business with us, leveraging our agency analytics capabilities, comprehensive service center offering, and full suite of digital self-service tools. In middle market, we maintained our focus on specialized industry segments, a key area of market differentiation. We continued to grow our most profitable industry segments, such as technology, human services and educational institutions, taking a measured approach in more challenging segments. We also capitalized on the strength of our localized field structure, creating a competitive advantage in sourcing new business, as well as our robust claims and risk management capabilities. We believe our small commercial capabilities and distinctiveness in the middle market, including our diversified portfolio of products, enable us to deliver significant value to our agents and policyholders. We believe these efforts will enable us to continue to improve the overall mix of our business and ultimately our underwriting profitability. 
+4 
+Table of Contents 
+Specialty Our Specialty segment generated $1.5 billion, or 22.7%, of consolidated operating revenues and $1.4 billion, or 22.8%, of net premiums written, for the year ended December 31, 2025. The following table provides net premiums written by division of business for our Specialty segment. 
+Net Premiums 
+YEAR ENDED DECEMBER 31, 2025 
+Written 
+% of Total 
+(in millions, except ratios) 
+Professional and Executive Lines 
+$ 
+461.9 
+32.0 
+% 
+Marine 
+458.2 
+31.8 
+Specialty Property & Casualty 
+420.8 
+29.2 
+Surety and Other 
+100.6 
+7.0 
+Total 
+$ 
+1,441.5 
+100.0 
+% 
+Specialty offers a comprehensive suite of products focused predominately on small to mid-sized businesses. This includes numerous specialized products that are organized into four distinct divisions: Professional and Executive Lines coverage is primarily composed of professional, management, and medical liability, which provides protection for directors, officers and other employees of companies that may be sued in connection with their performance, and errors and omissions protection to companies and individuals against negligence or bad faith, as well as protection for employment practices liability. Marine coverage includes inland and ocean marine, and insures businesses against physical losses to property, such as contractor s equipment, builders risk and goods in transit, and also covers jewelers block, fine art and other valuables. Specialty Property & Casualty is comprised of: Hanover Programs business, which offers coverage to markets where there are specialty underwriting or risk management needs related to groups of similar businesses and organizations; Excess & Surplus business, which includes non-admitted general liability and property coverage to risks outside of the appetite of standard commercial lines; Hanover Specialty Industrial business, which provides property insurance to small and medium-sized chemical, paint, solvent and other manufacturing and distribution companies, and fire and allied lines coverages; and Specialty General Liability business, which encompasses admitted coverages for higher hazard liability risks. Surety and Other includes coverage for construction and other firms, as well as sole proprietors in the event of claims for non-performance or non-payment, and commercial surety coverage related to fiduciary or regulatory obligations. We have continued to invest in our Specialty businesses, refining our broad product offering, focusing on the lower-end of the risk and account-sized spectrum, leveraging our highly regarded service center, which has been, and we expect will continue to be, a critical growth lever for us. We have developed a robust, diversified and profitable Specialty segment that we believe represents a distinct competitive advantage, with nine dedicated businesses and 18 distinct product areas. We believe that this distribution of Specialty products, primarily through retail agents supplemented by select specialists helps to enhance our overall agent value and increase growth opportunities by providing agents easier access to placement solutions for Specialty needs, including those that complement Core Commercial accounts. 
+5 
+Table of Contents 
+Personal Lines Our Personal Lines segment generated $2.7 billion, or 40.6%, of consolidated operating revenues and $2.6 billion, or 41.2%, of net premiums written, for the year ended December 31, 2025. The following table provides net premiums written by line of business for our Personal Lines segment. 
+Net Premiums 
+YEAR ENDED DECEMBER 31, 2025 
+Written 
+% of Total 
+(in millions, except ratios) 
+Personal automobile 
+$ 
+1,489.9 
+57.2 
+% 
+Homeowners and Other 
+1,117.0 
+42.8 
+Total 
+$ 
+2,606.9 
+100.0 
+% 
+Personal Lines coverages include: Personal automobile coverage insures individuals against losses incurred from personal bodily injury, bodily injury to third parties, property damage to an insured s vehicle, and property damage to other vehicles and other property. Homeowners and other personal lines coverages insure individuals for losses related to: residences and personal property, such as those caused by fire, wind, hail, water damage (excluding flood), theft and vandalism; liability claims by a third-party for bodily injury and/or property damage experienced at residences; and personal umbrella, inland marine (jewelry, art, etc.), fire, personal watercraft, personal cyber and other miscellaneous coverages. Our strategy in Personal Lines is to provide account oriented business (i.e., writing both an insured s automobile and homeowners insurance, along with other Personal Lines coverages, when applicable) through select independent agents, with a focus on increasing geographic diversification. The market for our Personal Lines business is very competitive, with continued pressure on independent agents from dir
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of our total homeowners net premiums written. We sponsor local and national agent advisory councils to gain the benefit of our agents insight and enhance our relationships. These councils and our other strong agency relationships provide market and operational feedback, input on the development of products and services, guidance on marketing efforts, support for our strategies, and assist us in enhancing our local market presence. PRICING AND COMPETITION The property and casualty insurance industry is a very competitive market. In our Core Commercial, Specialty and Personal Lines segments, we market and distribute through independent agents and brokers, and compete for business on the basis of product, price, agency and customer service, local relationships, ratings and effective claims handling, among other things. Our competitors include national, international, regional and local companies that sell insurance through various distribution channels, including independent agencies, captive agency forces, brokers, and direct to consumers, through the internet or otherwise. They also include mutual insurance companies, reciprocals and exchanges. We believe that our emphasis on maintaining strong agency relationships and a local presence in our markets, coupled with investments in products, operating efficiency, technology and effective claims handling, enable us to differentiate ourselves and compete more effectively. Our broad product offerings in Core Commercial and Specialty, and total account strategy in Personal Lines, are instrumental to our ability to capitalize on these relationships and improve profitability. We seek to achieve targeted combined ratios in each of our product lines. Targets vary by product and geography and change with market conditions. The targeted combined ratios reflect competitive market conditions, investment yield expectations, our loss payout patterns and target returns on equity. This approach is intended to enable us to achieve m
+
+---
+Doc size: 2048KB (capped at 2MB)

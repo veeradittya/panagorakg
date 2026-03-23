@@ -1,0 +1,103 @@
+# NUCOR CORP — 10-K Annual Report
+# Filed: 2026-02-25
+# CIK: 73309
+# SIC: Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)
+# Source: https://www.sec.gov/Archives/edgar/data/73309/000119312526071575/nue-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+18 
+Item 1B. 
+Unresolved Staff Comments 
+24 
+Item 1C. 
+Cybersecurity 
+24 
+Item 2. 
+Properties 
+27 
+Item 3. 
+Legal Proceedings 
+28 
+Item 4. 
+Mine Safety Disclosures 
+28 
+Information About Our Executive Officers 
+28 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+31 
+Item 6. 
+[Reserved] 
+31 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+32 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+46 
+Item 8. 
+Financial Statements and Supplementary Data 
+47 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+84 
+Item 9A. 
+Controls and Procedures 
+84 
+Item 9B. 
+Other Information 
+84 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+84 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+85 
+Item 11. 
+Executive Compensation 
+85 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+85 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+85 
+Item 14. 
+Principal Accountant Fees and Services 
+85 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+86 
+Item 16. 
+Form 10-K Summary 
+91 
+SIGNATURES 
+92 
+i 
+PART I Item 1. B usiness. Overview Nucor Corporation, a Delaware corporation incorporated in 1958, and its affiliates ( Nucor, the Company, we, us or our ) manufacture steel and steel products. The Company also produces and procures ferrous and non-ferrous materials primarily for use in its steel manufacturing business. Most of the Company s operating facilities and customers are located in North America. The Company s operations include international trading and sales companies that buy and sell steel and steel products manufactured by the Company and others. Nucor is North America s largest recycler, using scrap steel as the primary raw material in producing steel and steel products. In 2025, we recycled approximately 20 million gross tons of scrap steel. Segments, Principal Products Produced, and Markets and Marketing Nucor reports its results in three segments: steel mills, steel products and raw materials. The steel mills segment is Nucor s largest segment, representing 62% of the Company s sales to external customers in the year ended December 31, 2025. We market products from the steel mills and steel products segments mainly through in-house sales forces. We also utilize our internal distribution and trading companies to market our products abroad. The markets for these products are largely tied to end-use markets such as nonresidential construction, durable goods and capital spending that are affected by changes in general economic conditions. We are a leading domestic provider for most of the products we supply, and, in many cases (e.g., structural steel, merchant bar steel, steel joist and deck, pre-engineered metal buildings, steel piling, cold finish bar steel, steel electrical conduit pipe and insulated metal panels), we are the leading supplier. In recent years we have embarked on a strategy to advance Nucor s capabilities and further its value creation, as summarized in our Mission Statement: Grow the Core, Expand Beyond and Live Our Culture. We have examined and prioritized growth opportunities across our core steelmaking, steel products and raw materials operations, and we have identified and executed on several acquisitions and investments to expand the products and services we offer beyond our traditional capabilities. We believe that the growth opportunities we are pursuing leverage our core competency as a highly efficient, industrial manufacturer working primarily with steel and steel products. Steel mills segment In the steel mills segment, Nucor produces sheet steel (hot-rolled, cold-rolled and galvanized), plate steel, structural steel (wide-flange beams, beam blanks, H-piling and sheet piling) and bar steel (blooms, billets, concrete reinforcing bar, merchant bar and engineered special bar quality ( SBQ )). Nucor manufactures steel principally from scrap steel and scrap steel substitutes using electric arc furnaces ( EAFs ) along with continuous casting and automated rolling mills. The steel mills segment also includes Nucor s equity method investment in NuMit LLC ( NuMit ) (see Steel joint venture - below), as well as international trading and distribution companies that buy and sell steel manufactured by the Company and other steel producers. The steel mills segment sells its products primarily to steel service centers, fabricators and manufacturers located throughout the United States, Canada and Mexico. The steel mills segment sold approximately 19,848,000 tons to outside customers in 2025. In 2025, 79% of the shipments made by our 
+1 
+steel mills segment were to external customers. The remaining 21% of the steel mills segment s shipments went to our steel products segment. Bar mills - Nucor has 15 bar mills located across the United States that manufacture a broad range of products, including concrete reinforcing bars, hot-rolled bars, rounds, light shapes, structural angles, channels, wire rod and highway products in carbon and alloy steels. Four of the bar mills have a significant focus on manufacturing SBQ and wire rod products. Steel produced by our bar mills has a wide usage serving end markets, including the agricultural, automotive, construction, energy, infrastructure, machinery, metal building, railroad, recreational equipment, shipbuilding, heavy truck and trailer market segments. Considering Nucor s production capabilities and the mix of bar products generally produced and marketed, the capacity of the bar mills is estimated at approximately 9,800,000 tons per year. Reinforcing and merchant bar steel are sold in standard sizes and grades, which allows us to maintain inventory levels of these products to meet our customers expected orders. Our SBQ products are hot-rolled to exacting specifications primarily servicing the automotive, energy, agricultural, heavy equipment and transportation sectors. In April 2022, Nucor announced that it would build a new rebar micro mill, with spooling capabilities, in Lexington, North Carolina. Construction of the new rebar micro mill is complete and the facility is in the production ramp-up phase. Additionally, Nucor Wire Products Connecticut, Inc. (formerly Nucor Steel Connecticut, Inc.) no longer produces bar products and will be represented in the wire group going forward. Sheet mills - Nucor operates six sheet mills that produce flat-rolled steel for automotive, appliance, construction, pipe and tube and many other industrial and consumer applications. Included in our six sheet mills is California Steel Industries, Inc. ("CSI"), in which Nucor has a 51% controlling ownership position. Considering Nucor s production capabilities and the mix of flat-rolled products generally produced and marketed, the capacity of the sheet mills is estimated at approximately 14,500,000 tons per year. All of our sheet mills are equipped with galvanizing lines and four of them are equipped with cold rolling mills for further processing of hot-rolled sheet steel. Nucor produces hot-rolled, cold-rolled and galvanized sheet steel to customers specifications. Contract sales within the steel mills segment are most notable in our sheet operations, as it is common for contract sales to account for the majority of sheet sales in a given year. We estimate that approximately 85% of our sheet steel sales in 2025 were to contract customers. These sheet sales contracts are noncancellable agreements that generally incorporate monthly or quarterly price adjustments reflecting changes in the current market-based indices and/or raw material cost, and typically have terms ranging from six to 12 months. The balance of our sheet steel sales were made in the spot market at prevailing prices at the time of sale. The number of tons sold to contract customers at any given time depends on a variety of factors, including our consideration of current and future market conditions, our strategy to appropriately balance spot and contract tons in a manner to meet our customers requirements while considering the expected profitability, our desire to sustain a diversified customer base, and our end-use customers perceptions about future market conditions. Nucor owns a 51% controlling economic and voting interest in Nucor-JFE Steel Mexico, S. de R.L. de C.V. ("NJSM"). NJSM is a joint venture with JFE Steel Corporation of Japan that operates a galvanized sheet steel plant in central Mexico with an annual capacity of approximately 400,000 tons, that is expected to supply the country s automotive market. In January 2022, Nucor announced it had selected Mason County, West Virginia as the site for its new three-million-ton state-of-the-art sheet mill. When operational, the new mill will be equipped to produce 84-inch sheet products, and among other features, will include a 76-inch tandem cold mill and two galvanizing lines capable of producing advanced high-end automotive and construction grades. 
+2 
+Structural mills - Nucor operates two structural mills that produce wide-flange steel beams, pilings and heavy structural steel products for fabricators, construction companies, manufacturers and steel service centers. Nucor owns a 51% interest in Nucor-Yamato Steel Company (Limited Partnership) ( Nucor-Yamato ) located in Blytheville, Arkansas. Nucor-Yamato is the only North American producer of high-strength, low-alloy beams. Common applications for the high-strength, low-alloy beams include gravity columns for high-rise buildings, long-span trusses for stadiums and convention centers, and for use in all projects where seismic design is a critical factor. The benefits of high-strength, low-alloy beams are increasingly recognized by Nucor s customers in the construction sector. These include savings in terms of construction time, weight, space, and overall environmental impact. Nucor sells its high-strength, low-alloy beams under the trade name AEOS . Nucor also owns a structural mill in Berkeley County, South Carolina. Considering Nucor s production capabilities and the mix of structural products generally produced and marketed, the capacity of the two structural mills is estimated at approximately 3,300,000 tons per year. Structural steel products come in standard sizes and grades, which allows us to maintain inventory levels of these products to meet our customers expected orders. Plate mills - Nucor operates three plate mills that produce plate for manufacturers of barges, bridges, heavy equipment, rail cars, refinery tanks, ships, wind towers and other items. Our products are further used in the pipe and tube, pressure vessel, transportation and construction industries. Considering Nucor s production capabilities and the mix of plate products generally produced and marketed, the capacity of the plate mills is estimated at approximately 3,600,000 tons per year. Certain plate steel products come in standard sizes and grades, which allows us to maintain inventory levels of these products to meet our customers expected orders. Steel joint venture - Nucor owns a 50% economic and voting interest in NuMit, a company that owns 100% of the equity interest in Steel Technologies LLC ( Steel Technologies ), an operator of 30 strategically located sheet processing facilities in the United States, Canada and Mexico. Steel Technologies transforms flat-rolled steel into products that meet exacting specifications for customers in a wide range of industries, including the automotive, agricultural and consumer goods markets. Steel products segment In the steel products segment, Nucor produces steel joists and joist girders, steel deck, galvanized torque tubes used in solar arrays, hollow structural section ( HSS ) steel tubing, electrical conduit, fabricated concrete reinforcing steel, cold finished steel, steel fasteners, steel grating and expanded metal, wire and wire mesh, metal building systems, insulated metal panels, steel racking for warehouse systems and data centers, overhead doors, and utility towers and structures for communications and energy transmission. The steel products segment also includes our piling distributor. Our capabilities in insulated metal panels, steel racking, overhead doors and towers and structures have all been acquired over the past several years as part of our Expand Beyond strategy, which we believe can enhance our profit margins, return on invested capital and free cash flow generation and, over time, accelerate our overall growth while reducing the volatility of our earnings. A value driver in each of these businesses is to readily leverage our core competencies as a highly efficient manufacturer of steel products, as well as our inclusive, safety-focused, performance-oriented culture. Our steel products businesses primarily serve the nonresidential construction and infrastructure markets. Our door technologies businesses also serve the garage door repair and replacement market. Vulcraft/Verco The Vulcraft/Verco group is the nation s leading producer of open-web steel joists, joist girders and steel decking, which are used primarily for nonresidential building construction. Steel joists and joist girders are produced and marketed throughout the United 
+3 
+States by seven domestic Vulcraft facilities. The Vulcraft/Verco group s steel decking is produced and marketed throughout the United States by nine domestic plants. Six of these plants are adjacent to Vulcraft joist facilities. The Vulcraft/Verco group also has two plants in Canada one in Eastern Canada and one in Western Canada that produce both joist and deck. The annual joist and deck production capacity is approximately 1,300,000 tons. Sales of steel joists, joist girders and steel decking are dependent on the nonresidential building construction market. The majority of steel joists, joist girders and steel decking are used extensively as part of the roof and floor structural support systems in warehouses, data centers, manufacturing buildings, retail stores, shopping centers, schools, hospitals, and, to a lesser extent, in multi-story buildings and apartments. We make these products to our customers specifications and typically deliver them directly to a construction site according to a prearranged schedule and sequence. The majority of these contracts are firm, fixed-price contracts that are, in most cases, competitively bid against other suppliers. Our Vulcraft/Verco group also manufactures and fabricates steel bar grating products at four of its facilities and serves the new construction and maintenance-related markets. The annual production capacity for our grating business is approximately 50,000 tons. Tubular products The Nucor Tubular Products ( NTP ) group has seven tub
+
+## GEOGRAPHIC REVENUE
+The Company also produces and procures ferrous and non-ferrous materials primarily for use in its steel manufacturing business. Most of the Company s operating facilities and customers are located in North America. The Company s operations include international trading and sales companies that buy and sell steel and steel products manufactured by the Company and others. Nucor is North America s largest recycler, using scrap steel as the primary raw material in producing steel and steel products. In 2025, we recycled approximately 20 million gross tons of scrap steel. Segments, Principal Products Produced, and Markets and Marketing Nucor reports its results in three segments: steel mills, steel products and raw materials. The steel mills segment is Nucor s largest segment, representing 62% of the Company s sales to external customers in the year ended December 31, 2025. We market products from the steel mills and steel products segments mainly through in-house sales forces. We also utilize our internal distribution and trading companies to market our products abroad. The markets for these products are largely tied to end-use markets such as nonresidential construction, durable goods and capital spending that are affected by changes in general economic conditions. We are a leading domestic provider for most of the products we supply, and, in many cases (e.g., structural steel, merchant bar steel, steel joist and deck, pre-engineered metal buildings, steel piling, cold finish bar steel, steel electrical conduit pipe and insulated metal panels), we are the leading supplier. In recent years we have embarked on a strategy to advance Nucor s capabilities and further its value creation, as summarized in our Mission Statement: Grow the Core, Expand Beyond and Live Our Culture. We have examined and prioritized growth opportunities across our core steelmaking, steel products and raw materials operations, and we have identified and executed on several acquisitions and investments to expand the products and services we offer beyond our traditional capabilities. We believe that the growth opportunities we are pursuing leverage our core competency as a highly efficient, indust
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer. Our largest single customer in 2025 represented approximately 5% of sales and consistently pays within terms. Our steel mills use a significant portion of the products of the raw materials segment while our steel products segment uses approximately 21% of our steel mills' output. Nonresidential construction is the largest end-use market that we serve. Products from our steel mills and steel products segments are used in a variety of nonresidential construction applications (e.g., commercial, industrial and infrastructure). In recent years, we have come to see our EAF-based steelmaking method, with its lower GHG intensity when compared with blast furnace technology that is reliant on mined or extracted virgin iron ore and coking coal, as a competitive advantage for reasons beyond its flexible, highly variable cost base. We have developed branded product lines and other advantages conferred by our specialized capabilities: Our AEOS line of high-strength, low-alloy steel beams is one such example. Nucor s customers in the construction sector increasingly recognize the benefits of AEOS steel products. These include savings in terms of construction time, weight, space and overall environmental impact. Our ECONIQ TM line of net-zero carbon steel is another example. We launched the ECONIQ TM brand during 2021 and continue to find interest from customers in both the automotive and construction end-use markets. These are the two largest end-use markets for steel in the United States. 
+7 
+Our ELCYON line of sustainable heavy gauge steel plate product will be made specifically for wind energy producers. We launched the ELYCON brand in January 2023 and plan to manufacture this product at our new plate mill in Brandenburg, Kentucky. We have also invested in people and processes to organize more of our commercial activities around large customers and end-use markets. We have developed dedicated teams tasked with developing relationships and educating decision mak
+
+---
+Doc size: 2048KB (capped at 2MB)

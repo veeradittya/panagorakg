@@ -1,0 +1,259 @@
+# ROCKET PHARMACEUTICALS INC — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1281895
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1281895/000119312526076551/rckt-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+9
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+37 
+Item 1B. 
+Unresolved SEC Comments 
+64 
+Item 1C. 
+Cybersecurity 
+64 
+Item 2. 
+Properties 
+65 
+Item 3. 
+Legal Proceedings 
+65 
+Item 4. 
+Mine Safety Disclosures 
+66 
+PART II. 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+67 
+Item 6. 
+Reserved 
+67 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+67 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+76 
+Item 8. 
+Financial Statements and Supplementary Data 
+76 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+76 
+Item 9A. 
+Controls and Procedures 
+76 
+Item 9B. 
+Other Information 
+77 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+77 
+PART III 
+Item 10. 
+Directors, Executive Officers, and Corporate Governance 
+78 
+Item 11. 
+Executive Compensation 
+78 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+78 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+78 
+Item 14. 
+Principal Accountant Fees and Services 
+78 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+79 
+Item 16. 
+Form 10-K Summary 
+81 
+Signatures 
+82 
+3 
+Summary of Abbreviated Terms Rocket Pharmaceuticals, Inc. may be referred to as Rocket, the Company, we, our or us, in this Annual Report on Form 10-K (the Annual Report ), unless the context otherwise indicates. Throughout this Annual Report, we have used terms which are defined below: 
+AAV 
+Adeno-associated virus 
+HNJ 
+Hospital Infantil de Ni o Jes s 
+AAV9 
+Adeno-associated serotype 9 
+HSCT 
+Hematopoietic stem cell transplant 
+ACM 
+Arrhythmogenic cardiomyopathy 
+ICD 
+Internal Classification of Diseases 
+ASC 
+Accounting Standard Codification 
+IND 
+Investigational New Drug application 
+ASGCT 
+American Society of Gene & Cell Therapy 
+IV 
+Intravenous 
+ATMP 
+Advanced Therapy Medical Product 
+IPR&D 
+In process research and development 
+BAG3 
+BCL2-associated athanogene 3 
+KCCQ 
+Kansas City Cardiovascular Questionnaire 
+BAG3-DCM 
+BCL2-associated athanogene 3 mutations associated with dilated cardiomyopathy 
+LAD-I 
+Leukocyte Adhesion Deficiency-I 
+BLA 
+Biologics License Application 
+LAMP2 
+Lysosome-associated membrane protein 2 
+BNP 
+Brain natriuretic peptide 
+Lexeo 
+Lexeo Therapeutics, Inc 
+cGMP 
+Current Good Manufacturing Practice 
+LV 
+Lentiviral vector 
+cGTP 
+Current Good Tissue Practice 
+LVMI 
+Left ventricular mass index 
+cKO 
+conditional knockout 
+MAA 
+Marketing Authorization Application 
+CIBER 
+Centro de Investigaci n Biom dica En Red 
+MHRA 
+Medicines and Healthcare Products Regulatory Agency 
+CIEMAT 
+Centro de Investigaciones Energ ticas, Medioambientales y Tecnol gicas 
+NIH 
+National Institutes of Health 
+CIEMAT Group 
+CIEMAT, CIBER and FIISFJD 
+NYHA 
+New York Heart Association 
+CIRM 
+California Institute for Regenerative Medicine 
+Offering 
+Equity offering of shares of common stock, which closed December 12, 2024 
+CISO 
+Chief Information Security Officer 
+PDUFA 
+Prescription Drug User Fee Act 
+CMC 
+Chemistry Manufacturing Controls 
+PKD 
+Pyruvate Kinase Deficiency 
+CODM 
+Chief Operating Decision Maker 
+PKP2 
+Plakophilin-2 
+CCPA 
+California Consumer Privacy Act 
+PKP2-ACM 
+Plakophilin-2 Arrhythmogenic Cardiomyopathy 
+CRL 
+Complete Response Letter 
+PSU 
+Performance-Based Restricted Stock Unit 
+CRO 
+Contract research organization 
+PRIME 
+Priority Medicines 
+Cowen 
+Cowen and Company, LLC 
+Private Placement 
+Issuance of pre-funded warrants on December 12, 2024 
+CTIS 
+Clinical Trials Information Systems 
+R&D 
+Research and development 
+DCM 
+Dilated cardiomyopathy 
+Renovacor 
+Renovacor, Inc. acquired on December 1, 2022 
+DD 
+Danon Disease 
+RIF 
+Reduction in workforce 
+DNA 
+Deoxyribonucleic acid 
+RMAT 
+Regenerative Medicine Advanced Therapy 
+EMA 
+European Medicines Agency 
+RSU 
+Restricted Stock Unit 
+ESB Lease Agreement 
+Office Lease agreement for office space in the Empire State Building in New York City 
+RTW 
+RTW Investments, L.P 
+EU 
+European Union 
+SAE 
+Serious Adverse Event 
+FA 
+Fanconi Anemia 
+SCD 
+Sudden cardiac death 
+FDA 
+U.S. Food and Drug Administration 
+SEC 
+Securities and Exchange Commission 
+FDCA 
+Federal Food, Drug and Cosmetic Act 
+Stanford 
+Center for Definitive and Curative Medicine at Stanford University School of Medicine 
+FIBHNJS 
+Fundaci n para la Investigacion Biom dica del Hospital del Nino Jesus 
+UCLA 
+University of California, Los Angeles 
+FIISFJD 
+Fundacion Instituto de Investigaci n Sanitaria Fundacion Jim nez D az 
+UCLB 
+UCL Business PLC 
+GCP 
+Good Clinical Practices 
+UCSD 
+The Regents of the University of California, San Diego 
+GDPR 
+General Data Protection Regulation 
+UPC 
+Unitary Patent Court 
+GLP 
+Good Laboratory Practice 
+U.K. 
+United Kingdom 
+GMP 
+Good Manufacturing Practice 
+U.S. 
+United States 
+4 
+FORWARD-LOOKING STATEMENTS This Annual Report contains forward-looking statements that involve risks and uncertainties, as well as assumptions that, if they do not materialize or prove incorrect, could cause our results to differ materially from those expressed or implied by such forward-looking statements. We make such forward-looking statements pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and other federal securities laws. All statements other than statements of historical facts contained in this Annual Report are forward-looking statements. In some cases, you can identify forward-looking statements by words such as aim, anticipate, believe, can, contemplate, continue, could, design, develop, estimate, expect, expand, future, hope, intend, likely, may, plan, potential, predict, project, pursue, seek, should, strategy, target, will, would, or the negative of these words or other comparable terminology. These forward-looking statements include, but are not limited to, statements about: our ability to obtain additional funding to conduct our planned research and development efforts; our ability to meet our anticipated milestones for our various drug candidates with respect to the initiation and timing of clinical studies; federal, state, and non-U.S. regulatory requirements, including regulation of our current or any other future product candidates by the FDA; the timing of and our ability to submit regulatory filings, including filings with the FDA, and to obtain and maintain FDA or other regulatory authority approval of, or other action with respect to, our product candidates; our competitors activities, including decisions as to the timing of competing product launches, pricing and discounting; whether safety and efficacy results of our clinical trials and other required tests for approval of our product candidates provide data to warrant progression of clinical trials, potential regulatory approval or further development of any of our product candidates; our ability to develop, acquire and advance product candidates into, enroll a sufficient number of patients into, and successfully complete, clinical studies, and our ability to apply for and obtain regulatory approval for such product candidates, within currently anticipated timeframes, or at all; our ability to establish key collaborations and vendor relationships for our product candidates and any other future product candidates; our ability to develop our sales and marketing capabilities or enter into agreements with third parties to sell and market any of our product candidates; our ability to acquire additional businesses, form strategic alliances or create joint ventures and our ability to realize the benefit of such acquisitions, alliances or joint ventures; our ability to successfully develop and commercialize any technology that we may in-license or products we may acquire; the development of our direct manufacturing capabilities for our AAV programs; our ability to expand our pipeline to target additional indications that are compatible with our gene therapy technologies; our ability to achieve the expected benefits of our portfolio prioritization and strategic restructuring, including extending our cash runway, and our estimates related to the costs and timing of implementing such initiatives; our ability to successfully operate in non-U.S. jurisdictions in which we currently or in the future do business, including compliance with applicable regulatory requirements and laws; our ability to obtain and enforce patents to protect our product candidates, and our ability to successfully defend ourselves against unforeseen third-party infringement claims; anticipated trends and challenges in our business and the markets in which we operate; our estimates regarding our capital requirements; and our ability to obtain additional financing and raise capital as necessary to fund operations or pursue business opportunities. We caution you that the foregoing list may not contain all of the forward-looking statements made in this Annual Report. Any forward-looking statements in this Annual Report reflect our current views with respect to future events or to our future financial performance and involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by these forward-looking statements. Factors that may cause actual results to differ materially from current expectations include, among other things, those listed under Part I, Item 1A. Risk Factors and elsewhere in this Annual Report. Given these uncertainties, you should not place undue reliance on these forward-looking statements. Except as required by law, we assume no obligation to update or revise these forward-looking statements for any reason, even if new information becomes available in the future. 
+5 
+This Annual Report also contains estimates, projections and other information concerning our industry, our business, and the markets for certain diseases, including data regarding the estimated size of those markets, and the incidence and prevalence of certain medical conditions. Information that is based on estimates, forecasts, projections, market research or similar methodologies is inherently subject to uncertainties and actual events, or circumstances may differ materially from events and circumstances reflected in this information. Unless otherwise expressly stated, we obtained this industry, business, market and other data from reports, research surveys, studies and similar data prepared by market research firms and other third parties, industry, medical and general publications, government data and similar sources. Unless stated otherwise, references in this Annual Report to us, we, our, or our Company and similar terms refer to Rocket Pharmaceuticals, Inc. 
+6 
+SUMMARY OF THE MATERIAL RISKS ASSOCIATED WITH OUR BUSINESS Our business is subject to numerous risks and uncertainties that you should be aware of in evaluating our business. These risks and uncertainties include, but are not limited to, the following: Our strategic restructuring may not result in the savings we anticipate, could result in total costs and expenses that are greater than expected and could disrupt our operations. We are and may continue to be targets of securities-related class action and derivative lawsuits and defending against these claims could result in substantial costs and divert management time and resources and have a material adverse effect on our results of operations. We have a history of operating losses, and we may not achieve or sustain profitability. We anticipate that we will continue to incur losses for the foreseeable future. If we fail to obtain additional funding to conduct our planned research and development efforts, we could be forced to delay, reduce, or eliminate our product development programs or commercial development efforts. Our limited operating history may make it difficult for us to evaluate the success of our business to date and to assess our future viability. If, in the future, we are unable to establish sales and marketing capabilities or enter into agreements with third parties to sell and market any of our product candidates, we may not be successful in commercializing those product candidates if and when they are approved. We may need to raise additional funding, which may not be available on acceptable terms, or at all. Failure to obtain this necessary capital when needed may force us to delay, limit or terminate certain of our licensing activities, product development efforts or other operations. We may encounter substantial delays in commencement, enrollment or completion of our clinical trials or may fail to demonstrate safety and efficacy to the satisfaction of applicable regulatory authorities, which could prevent us from commercializing our current and future product candidates on a timely basis, if at all. If we have difficulty enrolling a sufficient number of patients to conduct our clinical trials as planned, we may need to delay, limit, or terminate planned clinical trials, the occurrence of any of which would harm our business, financial condition, results of operations and prospects. Preliminary, interim or topline results in our ongoing clinical studies may not be indicative of results obtained when these studies are completed and success in early clinical studies may not be indicative of results obtained in later studies. Our product candidates may cause undesirable and unforeseen side effects or be perceived by the public as unsafe, which could delay or prevent their advancement into clinical trials or regulatory approval, limit the commercial potential or result in significant negative consequences. Our gene therapy product candidates are based on novel technology, which makes it difficult to predict the time and cost of product candidate development and subsequently obtaining regulatory approval. Even though we have obtained orphan designation for certain of our product candidates, we may not be able to realize the benefits of such designation, including potential marketing exclusivity of our product candidates, if approved. Even if we successfully complete the necessary preclinical studies and clinical trials, we cannot predict when, or if, we will obtain regulatory approval to commercialize a product candidate and the approval may be for a narrower indication than we seek. We may never obtain approval for any of our product candidates in the U.S. or the EU, or other jurisdictions, which would limit our ability to realize our full market potential. Even if we obtain regulatory approval for a product candidate, we will remain subject to ongoing regulatory obligations and continued regulatory scrutiny. If approved, our product candidates may face competition from biosimilars approved through an abbreviated regulatory pathway. Healthca
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of costs up to the $2,000 cap and 20% after that cap is reached. Implementation of the Inflation Reduction Act has occurred, but the results of its impact on the market for drugs, including our products, remains uncertain. At the state level, legislatures have increasingly passed legislation and implemented regulations designed to control pharmaceutical and biological product pricing, including price or patient reimbursement constraints, discounts, restrictions on certain product access and marketing cost disclosure and transparency measures, and, in some cases, designed to encourage importation from other countries and bulk purchasing. We expect that the healthcare reform measures that have been adopted and may be adopted in the future, may result in more rigorous coverage criteria and in additional downward pressure on the price that we receive for any approved product and could seriously harm our future revenues. Any reduction in reimbursement from Medicare or other government programs may result in a similar reduction in payments from private third-party payors. There have been, and likely will continue to be, legislative and regulatory proposals at the foreign, federal, and state levels directed at broadening the availability of healthcare and containing or lowering the cost of healthcare. The implementation of cost containment measures or other healthcare reforms may prevent us from being able to generate revenue, attain profitability, or commercialize our product. Such reforms could have an adverse effect on anticipated revenue from product candidates that we may successfully develop and for which we may obtain regulatory approval and may affect our overall financial condition and ability to develop product candidates. European Union Drug Review and Approval Clinical Trial Approval In the EU, an applicant for authorization of a clinical trial must obtain prior approval from the national competent authority of the EU Member States in which the clinical tri
+
+---
+Doc size: 2047KB (capped at 2MB)

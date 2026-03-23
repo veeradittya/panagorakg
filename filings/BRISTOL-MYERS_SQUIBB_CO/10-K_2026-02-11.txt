@@ -1,0 +1,14 @@
+# BRISTOL-MYERS SQUIBB CO — 10-K Annual Report
+# Filed: 2026-02-11
+# CIK: 14272
+# SIC: Pharmaceutical Preparations
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/14272/000001427226000004/bmy-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+24 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment> bmy:CommonStock0.10ParValueMember 2025-01-01 2025-12-31 0000014272 bmy:CelgeneContingentValueRightsMember 2025-01-01 2025-12-31 0000014272 bmy:A2.973NotesDue2030Member 2025-01-01 2025-12-31 0000014272 bmy:A3.363NotesDue2033Member 2025-01-01 2025-12-31 0000014272 bmy:A1.750Notesdue2035Member 2025-01-01 2025-12-31 <xbrli:ent
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

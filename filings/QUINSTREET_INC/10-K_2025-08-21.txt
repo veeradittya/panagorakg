@@ -1,0 +1,101 @@
+# QUINSTREET INC — 10-K Annual Report
+# Filed: 2025-08-21
+# CIK: 1117297
+# SIC: Services-Business Services, NEC
+# Source: https://www.sec.gov/Archives/edgar/data/1117297/000095017025110629/qnst-20250630.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+10 
+Item 1B. 
+Unresolved Staff Comments 
+33 
+Item 1C. 
+Cybersecurity 
+34 
+Item 2. 
+Properties 
+35 
+Item 3. 
+Legal Proceedings 
+35 
+Item 4. 
+Mine Safety Disclosures 
+35 
+PART II. 
+Item 5. 
+Market for Registrant&#x2019;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+36 
+Item 6. 
+[Reserved] 
+37 
+Item 7. 
+Management&#x2019;s Discussion and Analysis of Financial Condition and Results of Operations 
+38 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+51 
+Item 8. 
+Financial Statements and Supplementary Data 
+52 
+Item 9. 
+Changes In and Disagreements with Accountants on Accounting and Financial Disclosure 
+83 
+Item 9A. 
+Controls and Procedures 
+83 
+Item 9B. 
+Other Information 
+84 
+Item 9C. 
+Disclosures Regarding Foreign Jurisdictions that Prevent Inspection 
+84 
+PART III. 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+85 
+Item 11. 
+Executive Compensation 
+85 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+85 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+85 
+Item 14. 
+Principal Accounting Fees and Services 
+85 
+PART IV. 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+86 
+Item 16. 
+Form 10-K Summary 
+89 
+Signatures 
+90 
+2 
+PART I CAUTIONARY NOTE ON FORWARD-LOOKING STATEMENTS This report contains forward-looking statements. All statements other than statements of historical facts, including statements regarding our future financial condition, business strategy and plans and objectives of management for future operations, are forward-looking statements. Terminology such as &#x201c;believe,&#x201d; &#x201c;may,&#x201d; &#x201c;might,&#x201d; &#x201c;objective,&#x201d; &#x201c;estimate,&#x201d; &#x201c;continue,&#x201d; &#x201c;anticipate,&#x201d; &#x201c;intend,&#x201d; &#x201c;should,&#x201d; &#x201c;plan,&#x201d; &#x201c;expect,&#x201d; &#x201c;predict,&#x201d; &#x201c;potential,&#x201d; or the negative of these terms or other similar expressions is intended to identify forward-looking statements. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our financial condition, results of operations, business strategy and financial needs. These forward-looking statements are subject to a number of known and unknown risks and uncertainties that could cause our actual results to differ materially from those expressed or implied in our forward-looking statements. Such risks and uncertainties include, among others, those listed in Part 1, Item 1A. &#x201c;Risk Factors&#x201d; of this Annual Report on Form 10-K and elsewhere in this report, such as but not limited to: &#x2022; our still developing industry and relatively new business model and products such as QuinStreet Rating Platform (&#x201c;QRP&#x201d;) product for insurance agents; &#x2022; changes in the regulatory enforcement or legislative environment; &#x2022; our dependence on the availability and affordability of quality media from third-party publishers and strategic partners; &#x2022; our dependence on Internet search companies to attract Internet visitors; &#x2022; changes in the general economic conditions and market dynamics in the United States, or in the specific markets in which we currently do business; &#x2022; banking institution risks; &#x2022; the impact of broad-based pandemics or public health crises; &#x2022; our ability to accurately forecast our results of operations and appropriately plan our expenses; &#x2022; our ability to compete in our industry; &#x2022; our ability to manage cyber security risks and costs associated with maintaining a robust security infrastructure; &#x2022; our ability to continually optimize our websites to allow Internet visitors to access our websites through mobile devices; &#x2022; our ability to develop new services, enhancements and features to meet new demands from our clients; &#x2022; our ability to implement our enhanced products across our business and achieve client adoptions of such products; &#x2022; our ability to successfully complete acquisitions and other business development transactions including our ability to enter into, and manage the relationship and risks associated with, strategic partnerships; and &#x2022; the occurrence of, and our ability to successfully challenge, regulatory audits, investigations or allegations of noncompliance with laws. &#x2022; increased scrutiny and changing expectations from investors, customers, employees, and others regarding our environmental, social and governance practices; Except as required by law, we undertake no obligation to update publicly any forward-looking statements for any reason to conform these statements to actual results or to changes in our expectations. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements, and we qualify all of our forward-looking statements by these cautionary statements. 
+3 
+Item 1. B usiness Our Company We are a leader in performance marketplaces and technologies for the financial services and home services industries. Our approach to proprietary performance marketing technologies allows clients to engage high-intent digital media or traffic from a wide range of device types (e.g., mobile, desktop, tablet), in multiple formats or types of media (e.g., search engines, large and small media properties or websites, email), and in a wide range of cost-per-action, or CPA, forms. These forms of contact are the primary &#x201c;products&#x201d; we sell to our clients, and include qualified clicks, leads, calls, applications and customers. We specialize in customer acquisition for clients in high value, information-intensive markets, or &#x201c;verticals,&#x201d; including financial services and home services. Our clients include some of the world&#x2019;s largest companies and brands in those markets. The majority of our operations and revenue are in North America. We generate revenue by delivering measurable online marketing results to our clients. The benefits to our clients include cost-effective and measurable customer acquisition costs, as well as management of highly targeted but also highly fragmented online media sources and access to our world-class proprietary technologies. We are predominantly paid on a negotiated or market-driven &#x201c;per click,&#x201d; &#x201c;per lead,&#x201d; or other &#x201c;per action&#x201d; basis that aligns with the customer acquisition cost targets of our clients. We bear the cost of paying Internet search companies, third-party media sources, strategic partners and other online media sources to generate qualified clicks, leads, calls, applications or customers for our clients. Our competitive advantages include our media buying power, proprietary technologies, extensive data and experience in performance marketing, and significant online media market share in the markets or verticals we serve. Our advantage in online media buying is key to our business model and comes from our ability to effectively segment and match high-intent, unbranded media or traffic &#x2013; one of the largest sources of traffic for customer acquisition &#x2013; to as many as hundreds of clients or client offerings and, in most cases, to match those visitors to multiple clients, which also satisfies the visitor&#x2019;s desire to choose among alternatives and to shop multiple offerings. Together, the ability to match more visitors in any given flow of traffic or media to a client offering, and to do so multiple times, adds up to a significant media buying advantage compared to individual clients or other buyers for these types of media. Our proprietary technologies have been developed over the past 25 years to allow us to best segment and match media or traffic, to deliver optimized results for our clients and to operate our high volume and highly complex channel cost-efficiently. Our extensive data and experience in performance marketing reflect the execution, knowledge and learning from billions of dollars of media spend on these campaigns over time. This is a steep and expensive learning curve. These learnings address millions of permutations of media sources, mix and order of creative and content merchandising, and approaches to the matching and segmentation of Internet visitors to optimize their experience and the results for clients. Together, these learnings allow us to run thousands of campaigns simultaneously and cost-effectively for our clients at acceptable media costs and margins to us. Because of our deep expertise and capabilities in running financially successful performance marketing programs, we are able to effectively compete for sources and partners of high-intent, unbranded media, and our market share in our client verticals of this media is significant. Our media sources include owned-and-operated organic or search engine optimization (&#x201c;SEO&#x201d;) websites, targeted search engine marketing (&#x201c;SEM&#x201d;) or pay-per-click (&#x201c;PPC&#x201d;) campaigns, native, social media and mobile programs, internal email databases, call center operations, partnerships with large and small online media companies, and more. Our collective media presence results in engagement with a significant share of online visitors in those markets or verticals, which leads us to be included in client online media buys. We were incorporated in California on April 16, 1999 and reincorporated in Delaware on December 31, 2009. We have been a pioneer in the development and application of measurable marketing on the Internet. Clients pay us for the actual opt-in actions by visitors or customers that result from our marketing activities on their behalf, versus traditional impression-based advertising and marketing models in which an advertiser pays for a broad audience&#x2019;s exposure to an advertisement. 
+4 
+Market Opportunity Change in marketing strategy and approach We believe that marketing approaches are changing as budgets shift from offline, analog advertising media to digital advertising media such as Internet marketing. These changing approaches require a shift to fundamentally new competencies, including: From qualitative, impression-driven marketing to analytic, data-driven marketing Growth in Internet marketing enables a more data-driven approach to advertising. The measurability of online marketing allows marketers to collect a significant amount of detailed data on the performance of their marketing campaigns, including the effectiveness of ad format and placement and user responses. This data can then be analyzed and used to improve marketing campaign performance and cost-effectiveness on substantially shorter cycle times than with traditional offline media. From account management-based client relationships to results-based client relationships Marketers are becoming increasingly focused on strategies that deliver specific, measurable results. For example, marketers are attempting to better understand how their marketing spending produces measurable objectives such as meeting their target marketing cost per new customer. As marketers adopt more results-based approaches, the basis of client relationships with their marketing services providers is shifting from being more account management-based to being more results-oriented. From marketing messages pushed on audiences to marketing messages pulled by self-directed audiences Traditional marketing messages such as television and radio advertisements are broadcast to a broad audience. The Internet enables more self-directed and targeted marketing. For example, when Internet visitors click on PPC search advertisements, they are expressing an interest in and proactively engaging with information about a product or service related to that advertisement. The growth of self-directed marketing, primarily through online channels, allows marketers to present more targeted and potentially more relevant marketing messages to potential customers who have taken the first step in the buying process, which can in turn increase the effectiveness of marketers&#x2019; spending. From marketing spending focused on large media buys to marketing spending optimized for fragmented media We believe that media is becoming increasingly fragmented and that marketing strategies are changing to adapt to this trend. There are millions of Internet websites, tens of thousands of which have significant numbers of visitors. While this fragmentation can create challenges for marketers, it also allows for improved audience segmentation and the delivery of highly targeted marketing messages, but innovative technologies and approaches are necessary to effectively manage marketing given the increasing complexity resulting from more media fragmentation. Increasing complexity of online marketing Online marketing is a dynamic and increasingly complex advertising medium. There are numerous online channels for marketers to reach potential customers, including search engines, Internet portals, vertical content websites, affiliate networks, display and contextual ad networks, email, video advertising, and social media. We refer to these and other marketing channels as media. Each of these channels may involve multiple ad formats and different pricing models, amplifying the complexity of online marketing. We believe that this complexity increases the demand for our vertical marketing and media services due to our capabilities and to our experience managing and optimizing online marketing programs across multiple channels. Also, marketers and agencies often lack our ability to aggregate offerings from multiple clients in the same industry vertical, an approach that allows us to cover a wide selection of visitor segments and provide more potential matches to visitor needs. This approach can allow us to convert more Internet visitors into qualified clicks, leads, calls, applications, or customers from targeted media sources, giving us an advantage when buying or monetizing that media. 
+5 
+Our Business Model We deliver measurable and cost-effective marketing results to our clients, typically in the form of qualified inquiries such as clicks, leads, calls, applications, or customers. Clicks, leads, calls, and applications can then convert into a customer or sale for clients at a rate that results in an acceptable marketing cost to them. We are typically paid by clients when we deliver qualified inquiries in the form of clicks, leads, calls, applications, or customers, as defined by our agreements with them. References to the delivery of customers means a sale or completed customer transaction (e.g., funded loans or customer appointments with clients). Because we bear the costs of media, our programs must result in attractive marketing
+
+## GEOGRAPHIC REVENUE
+#x201d; including financial services and home services. Our clients include some of the world&#x2019;s largest companies and brands in those markets. The majority of our operations and revenue are in North America. We generate revenue by delivering measurable online marketing results to our clients. The benefits to our clients include cost-effective and measurable customer acquisition costs, as well as management of highly targeted but also highly fragmented online media sources and access to our world-class proprietary technologies. We are predominantly paid on a negotiated or market-driven &#x201c;per click,&#x201d; &#x201c;per lead,&#x201d; or other &#x201c;per action&#x201d; basis that aligns with the customer acquisition cost targets of our clients. We bear the cost of paying Internet search companies, third-party media sources, strategic partners and other online media sources to generate qualified clicks, leads, calls, applications or customers for our clients. Our competitive advantages include our media buying power, proprietary technologies, extensive data and experience in performance marketing, and significant online media market share in the markets or verticals we serve. Our advantage in online media buying is key to our business model and comes from our ability to effectively segment and match high-intent, unbranded media or traffic &#x2013; one of the largest sources of traffic for customer acquisition &#x2013; to as many as hundreds of clients or client offerings and, in most cases, to match those visitors to multiple clients, which also satisfies the visitor&#x2019;s desire to choose among alternatives and to shop multiple offerings. Together, the ability to match more visitors in any given flow of traffic or media to a client offering, and to do so multiple times, adds up to a significant media buying advantage compared to individual clients or other buyers for these types of media. Our proprietary technologies have been developed over the past 25 years to allow us to best segment and match media or traffic, to deliver optimized results for our clients and to operate our high volume and highly complex channel cost-efficiently. Our extensive da
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+sole source of gain for the foreseeable future. 
+31 
+General Risk Factors We are subject to risks with respect to counterparties, and failure of such counterparties to meet their obligations could cause us to suffer losses or negatively impact our results of operations and cash flows. We have entered into, and expect to enter into in the future, various contracts, including contracts with clients, third-party publishers and strategic partners, that subject us to counterparty risks. The ability and willingness of our counterparties to perform their obligations under any contract will depend on a number of factors that are beyond our control and may include, among other things, general economic conditions including any economic downturn, public health crises, specific industry vertical conditions and the overall financial condition of the counterparty. As a result, clients, third-party publishers or strategic partners may seek to renegotiate the terms of their existing agreements with us, terminate their agreements with us for convenience (where permitted) or avoid performing their obligations under those agreements. Should a counterparty fail to honor its contractual obligations with us or terminate its agreements with us for convenience (where permitted), we could sustain significant losses or write-offs, or we could be involved in costly litigation to defend, enforce and protect our contractual rights, both of which could have a material adverse effect on our business, financial condition, results of operations and cash flows. We rely on our management team and other key employees, and the loss of one or more key employees could harm our business. Our success and future growth depend upon the continued services of our management team, including Douglas Valenti, Chief Executive Officer, and other key employees in all areas of our organization. From time to time, there may be changes in our key employees resulting from the hiring or departure of executives and employ
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,229 @@
+# FB BANCORP INC — 10-K Annual Report
+# Filed: 2025-03-27
+# CIK: 2013639
+# SIC: Savings Institutions, Not Federally Chartered
+# Source: https://www.sec.gov/Archives/edgar/data/2013639/000095017025046089/ck0002013639-20241231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+2
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+24 
+Item 1B. 
+Unresolved Staff Comments 
+32 
+Item 1C. 
+Cybersecurity 
+32 
+Item 2. 
+Properties 
+33 
+Item 3. 
+Legal Proceedings 
+35 
+Item 4. 
+Mine Safety Disclosures 
+36 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+37 
+Item 6. 
+[Reserved] 
+37 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+38 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+46 
+Item 8. 
+Financial Statements and Supplementary Data 
+47 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+48 
+Item 9A. 
+Controls and Procedures 
+48 
+Item 9B. 
+Other Information 
+48 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+48 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+49 
+Item 11. 
+Executive Compensation 
+52 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+57 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+57 
+Item 14. 
+Principal Accounting Fees and Services 
+58 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+60 
+Item 16. 
+Form 10-K Summary 
+60 
+i 
+Forward-Looking Statements 
+Certain statements contained in this Annual Report on Form 10-K that are not historical facts may be considered forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ) and are intended to be covered by the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These statements, which are based on certain current assumptions and describe our future plans, strategies and expectations, can generally be identified by the use of the words may, will, should, could, would, plan, potential, estimate, project, believe, intend, anticipate, expect, target and similar expressions. 
+These forward-looking statements include, but are not limited to: 
+statements of our goals, intentions and expectations; 
+statements regarding our business plans, prospects, growth and operating strategies; 
+statements regarding the quality of our loan and investment portfolios; and 
+estimates of our risks and future costs and benefits. 
+These forward-looking statements are based on our current beliefs and expectations and are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control. In addition, these forward-looking statements are subject to assumptions with respect to future business strategies and decisions that are subject to change. We are under no duty to and do not take any obligation to update any forward-looking statements after the date of this Annual Report on Form 10-K. 
+The following factors, among others, could cause actual results to differ materially from the anticipated results or other expectations expressed in the forward-looking statements: 
+general economic conditions, either nationally or in our market areas; 
+inflation and changes in the interest rate environment that reduce our margins and yields, the fair value of our financial instruments, the level of loan originations, or increase the level of defaults, losses and prepayments within our loan portfolio; 
+changes in the level and direction of loan delinquencies and write-offs and changes in estimates of the adequacy of the allowance for credit losses; 
+our ability to access cost-effective funding; 
+fluctuations in real estate values and in the conditions of the residential real estate and commercial real estate; 
+demand for loans and deposits in our market areas; 
+our ability to implement and change our business strategies; 
+competition among depository and other financial institutions; 
+adverse changes in the securities markets; 
+changes in laws or government regulations or policies affecting financial institutions, including changes in regulatory fees, capital requirements and insurance premiums; 
+changes in the quality or composition of our loan or investment portfolios; 
+technological changes that may be more difficult or expensive than expected; 
+the inability of third-party providers to perform as expected; 
+a failure or breach of our operational or information security systems or infrastructure, including cyberattacks; 
+our ability to manage market risk, credit risk and operational risk; 
+our ability to enter new markets successfully and capitalize on growth opportunities; 
+changes in consumer spending, borrowing and savings habits; 
+changes in accounting policies and practices, as may be adopted by the bank regulatory agencies, the Financial Accounting Standards Board or the Securities and Exchange Commission; 
+our ability to retain key management and employees; and 
+changes in the financial condition, results of operations or future prospects of issuers of securities that we own. 
+Because of these and other uncertainties, our actual future results may be materially different from the results indicated by these forward-looking statements. 
+1 
+PART I 
+Item 1. B usiness. 
+FB Bancorp, Inc. 
+FB Bancorp, Inc. ( FB Bancorp, the Company, we, our ) is a Maryland corporation that was incorporated in February 2024 to become the registered bank holding company for Fidelity Bank upon its conversion from the mutual-to-stock form of organization, which occurred on October 22, 2024. The Company sold 19,837,500 shares of common stock, par value $0.01 per share, at a price of $10 per share, for gross proceeds of $198,375,000. Shares of the Company s common stock began trading on October 23, 2024, on the Nasdaq Global Select Market under the trading symbol FBLA. 
+We conduct our operations from our headquarters in New Orleans, Louisiana, primarily through Fidelity Bank. The Company is the sole shareholder of Fidelity Bank, and as such, is a bank holding company subject to regulation by the Federal Reserve Board. 
+Fidelity Bank 
+Originally chartered in 1908 under the name The Fidelity Homestead Association, Fidelity Bank (sometimes referred to herein as the Bank ) completed its conversion from the mutual form of organization to that of a Louisiana state-chartered stock savings bank on October 22, 2024. The Bank operates from 18 full-service branches, including its main office, two drive-up branches and 14 stand-alone ATMs located throughout central and southern Louisiana. In January 2014, the Bank acquired the net assets of NOLA Lending Group ( NOLA ) as a fully-owned division of the Bank that originates our residential one- to four-family residential real estate loans. 
+The administrative headquarters of FB Bancorp and Fidelity Bank are located at 353 Carondelet Street, New Orleans, Louisiana 70130. Our telephone number is (504) 569-8640. 
+Fidelity Bank s business consists primarily of taking deposits from the general public and investing those deposits, together with funds generated from operations, in one- to four-family residential mortgage loans secured by properties located in our primary market areas. We also originate residential construction loans, commercial real estate loans (which includes commercial mortgage, commercial construction and land development loans), commercial loans (which includes commercial and industrial, small business and other commercial loans not secured by real estate), home equity loans and lines of credit, and consumer loans. 
+Fidelity Bank is subject to comprehensive regulation and examination by the Louisiana Office of Financial Institutions ( LOFI ) and the Federal Deposit Insurance Corporation ( FDIC ). Our website address is www.bankwithfidelity.com. Information on this website is not and should not be considered a part of this Annual Report on Form 10-K. 
+Market Area 
+We consider our primary market areas for deposit gathering and origination of loans held for investment to be southern Louisiana and for origination of loans held for sale to be southern Louisiana, the Florida panhandle and Mississippi. NOLA originates, primarily for resale, all of our residential mortgages in southern Louisiana, the Florida panhandle, and Mississippi; and the Metropolitan Statistical Areas ( MSA ) of New Orleans-Metairie-Hammond and Baton Rouge market areas are where we primarily originate loans and gather deposits. 
+The Bank s branch offices are located in the Parish of East Baton Rouge, located within the Baton Rouge MSA, and the Parishes of Jefferson, Orleans, St. Tammany, and Tangipahoa, which are encompassed within the New Orleans-Metairie-Hammond MSA. The five-parish market area contains urban, suburban and more rural areas with large and small population centers. New Orleans and Baton Rouge are the two largest regional economies in Louisiana, with trade, tourism, government, technology, healthcare and the film industry among the leading industries and employment concentrations. New Orleans has one of the busiest ports in the world, and one of the largest oil and gas exploration regions is located to the south of New Orleans. The market area north of Lake Pontchartrain (Tangipahoa and St. Tammany Parishes) remains economically connected to the more urbanized Orleans and Jefferson Parishes, and we consider that area and the New Orleans area to be one overall market. The Baton Rouge MSA also borders the New Orleans MSA to the west. The southern Louisiana region remains exposed to tropical storms and hurricanes that increase operating risk to employers in the region, including financial institutions. The area is still recovering from the impact of Hurricane Katrina in 2005 and later hurricanes. The Baton Rouge metropolitan area, home to the state capital and related government employment, is also a major industrial, petrochemical, medical, research, motion picture and technology employment center. The main campus of Louisiana State University is also located there. 
+2 
+Overall economic conditions in our market area have resulted in loan demand from operating companies being generally softer than it was pre-pandemic, as higher interest rates have slowed business expansion. However, the labor markets in our market areas have remained relatively stable. Our market area s main employment drivers are oil refining, healthcare and social assistance, retail trade and hospitality/tourism. 
+We believe that we have developed products and services that meet the financial needs of our current and future customer base; however, we plan, and believe it is necessary, to expand the range of products and services that we offer to be more competitive in our market area. Our marketing strategies focus on the strength of our knowledge of local consumer and small business markets, as well as expanding relationships with current customers and reaching out to develop new, profitable business relationships. 
+Competition 
+We face strong competition within our primary market areas both in making loans and attracting retail deposits. Our market areas include large money centers and regional banks, community banks and savings institutions, and credit unions. We also face competition for loans from mortgage banking firms, consumer finance companies, credit unions, and fintech companies and, with respect to deposits, from money market funds, brokerage firms, mutual funds and insurance companies. Large banks, such as Capital One, N.A, Hancock Whitney Bank, and JP Morgan Chase Bank, N.A., have a significant presence in our market area. 
+Our competition for loans comes primarily from the competitors referenced above and from other financial service providers, such as mortgage companies and mortgage brokers. Competition for loans also comes from the increasing number of non-depository financial service companies participating in the mortgage market, such as insurance companies, securities firms, financial technology companies, specialty finance firms and technology companies. 
+We expect competition to remain intense in the future as a result of legislative, regulatory and technological changes and the continuing trend toward consolidation of the financial services industry. Technological advances, for example, have lowered barriers to entry, allowed banks to expand their geographic reach by providing services over the internet and made it possible for non-depository institutions, including financial technology companies, to offer products and services that traditionally have been provided by banks. 
+Lending Activities 
+Our loan portfolio consists primarily of residential mortgage loans, residential construction, commercial real estate loans (which includes commercial mortgage, commercial construction and land development loans), commercial loans (which includes commercial and industrial, small business, and other commercial loans not secured by real estate), home equity loans and lines of credit, and consumer loans. Fidelity Bank originates loans for retention in our portfolio and generally does not sell loans, other than loans originated by its NOLA division, which are generally sold into the secondary market. In recent years, we have increased our focus on originating higher yielding commercial real estate loans, and we have continued that focus after the conversion and stock offering. We offer both adjustable-rate and fixed-rate residential mortgage loans. However, historically a significant majority of the residential real estate loans which we have originated are long-term, fixed-rate loans that generally conform to secondary market guidelines. 
+Loan Portfolio Composition. The following table sets forth the composition of our loan portfolio by type of loan at the dates indicated. Loan balances exclude the fair value of loans held for sale, which totaled $26.0 million and $22.6 million at December 31, 2024 and December 31, 2023, respectively. 
+At December 31, 2024 
+At December 31, 2023 
+Amount 
+Percent 
+Amount 
+Percent 
+(Dollars in thousands) 
+One- to four-family residential 
+$ 
+254,642 
+33.6 
+% 
+$ 
+248,897 
+37.3 
+% 
+Residential construction 
+34,139 
+4.5 
+% 
+15,764 
+2.4 
+% 
+Commercial real estate 
+241,063 
+31.8 
+% 
+206,267 
+30.9 
+% 
+Commercial 
+94,981 
+12.5 
+% 
+69,619 
+10.4 
+% 
+Home equity 
+106,550 
+14.1 
+% 
+98,331 
+14.8 
+% 
+Other consumer 
+26,690 
+3.5 
+% 
+27,740 
+4.2 
+% 
+758,065 
+100.0 
+% 
+666,618 
+100.0 
+% 
+Less: 
+Undisbursed portion of mortgage loans 
+(161 
+) 
+(118 
+) 
+Net deferred loan costs (fees) 
+(1,007 
+) 
+(816 
+) 
+Allowance for credit losses 
+(6,244 
+) 
+(6,203 
+) 
+Loans, net 
+$ 
+750,653 
+$ 
+659,481 
+3 
+Contractual Maturities. The following table sets forth the contractual maturities of our total loans held for investment portfolio at December 31, 2024. Demand loans, loans having no stated repayment schedule or maturity, and overdraft loans are reported as being due in one year or less. Because the tables present contractual maturities and do
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of Fidelity Bank s capital and declared surplus (25% for secured credits). At December 31, 2024, our largest credit relationship to one borrower, which is an established law firm, is a line of credit for $15 million, of which $13 million is funded, and is secured by a UCC security interest in all chattel paper, accounts including contingency case fees, equipment and general intangibles, and fixtures. At December 31, 2024, this loan was performing according to its original terms. 
+7 
+Our Management Loan Committee, which consists of our Chief Executive Officer, Chief Credit Officer, the relevant Credit Manager and the relevant Market Area President, reviews all loans and may approve loans up to $5.0 million, with the Chief Executive Officer and Chief Credit Officer retaining the ability to reject any proposed loans. Loans in excess of $5.0 million are submitted to the Board of Directors for final approval. 
+Generally, we require property and extended coverage casualty insurance in amounts at least equal to the principal amount of the loan or the value of improvements on the property, depending on the type of loan. In addition, we require an escrow for flood insurance (where appropriate) and generally require an escrow for required property taxes and insurance. On occasion, we allow borrowers to pay their own taxes and property and casualty insurance as long as proof of payment is provided. 
+Delinquencies, Classified Assets and Non-performing Assets 
+Delinquency Procedures. When a borrower fails to make a required monthly payment on a loan, we mail a notice to the borrower and attempt to contact the borrower. All delinquent loans are reported to the Board of Directors each month. After 90 days delinquent the loan is transferred to the appropriate collections personnel. Our policies provide that a late notice be sent each month that the loan is past due. Once the loan is considered in default, generally at 90 days past due, a letter is generally sent to the borrower
+
+---
+Doc size: 2048KB (capped at 2MB)

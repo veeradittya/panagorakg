@@ -1,0 +1,262 @@
+# PAYSIGN INC — 10-K Annual Report
+# Filed: 2025-03-26
+# CIK: 1496443
+# SIC: Services-Business Services, NEC
+# Source: https://www.sec.gov/Archives/edgar/data/1496443/000168316825001888/paysign_i10k-123124.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1 
+BUSINESS 
+1
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+12 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+21 
+ITEM 1C. 
+CYBERSECURITY 
+21 
+ITEM 2. 
+PROPERTIES 
+23 
+ITEM 3 
+LEGAL PROCEEDINGS 
+23 
+ITEM 4. 
+MINE SAFETY DISCLOSURE 
+24 
+PART II 
+25 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+25 
+ITEM 6. 
+[RESERVED] 
+26 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+26 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+35 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+35 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+35 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+36 
+ITEM 9B. 
+OTHER INFORMATION 
+37 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+37 
+PART III 
+38 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+38 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+38 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+38 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+38 
+ITEM 14. 
+PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+38 
+PART IV 
+39 
+ITEM 15. 
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+39 
+ITEM 16 
+FORM 10-K SUMMARY 
+40 
+SIGNATURES 
+41 
+Cautionary Note Regarding Forward Looking Statements 
+This Annual Report on Form 10-K contains forward-looking
+statements. These forward-looking statements are based on our current expectations, assumptions, estimates and projections about
+our business and our industry. Words such as believe, anticipate, expect, intend, 
+plan, propose, may, and other similar expressions identify forward-looking statements. In addition,
+any statements that refer to expectations, projections, estimates, forecasts, or other characterizations of future events or circumstances
+are forward-looking statements. These forward-looking statements are subject to certain risks and uncertainties that could cause actual
+results to differ materially from those reflected in the forward-looking statements. You are cautioned not to place undue reliance on
+these forward-looking statements, which relate only to events as of the date on which the statements are made. We undertake no obligation
+to publicly revise these forward-looking statements to reflect events or circumstances that arise after the date hereof. You should refer
+to and carefully review the information in future documents we file with the Securities and Exchange Commission. 
+i 
+PART I 
+ITEM 1. BUSINESS. 
+Overview 
+Paysign, Inc. (the Company, Paysign, 
+we or our ), headquartered in Nevada, was incorporated on August 24, 1995, and trades under the symbol PAYS
+on The Nasdaq Stock Market LLC. We are a vertically integrated provider of prepaid card products and processing services for corporate,
+consumer and government applications. Our payment solutions are utilized by our corporate customers as a means to increase customer loyalty,
+increase patient adherence rates, reduce administration costs and streamline operations. Public sector organizations can utilize our payment
+solutions to disburse public benefits or for internal payments. We market our prepaid card solutions under our Paysign brand. As
+we are a payment processor and prepaid card program manager, we derive our revenue from all stages of the prepaid card lifecycle. 
+We operate on a powerful, high-availability payments
+platform with cutting-edge fintech capabilities that can be seamlessly integrated with our clients systems. This distinctive positioning
+allows us to provide end-to-end technologies that securely manage transaction processing, cardholder enrollment, value loading, account
+management, data and analytics, and customer service. Our architecture is known for its cross-platform compatibility, flexibility, and
+scalability allowing our clients and partners to leverage these advantages for cost savings and revenue opportunities. 
+Our suite of product offerings includes solutions
+for corporate rewards, prepaid gift cards, general purpose reloadable debit cards, employee incentives, consumer rebates, donor compensation,
+clinical trials, healthcare reimbursement payments and pharmaceutical payment assistance, and demand deposit accounts accessible with
+a debit card. Our cards are sponsored by our issuing bank partners. 
+Our revenues include fees generated from cardholder
+fees, interchange, card program management fees, transaction claims processing fees, breakage, and settlement income. Revenue from cardholder
+fees, interchange, card program management fees, and transaction claims processing fees is recorded when the performance obligation is
+fulfilled. Breakage is recorded ratably over the estimated card life based on historical redemption patterns, market-specific trends,
+escheatment rules and existing economic conditions and relates solely to our open-loop gift card business which began at the end of 2022.
+Settlement income is recorded at the expiration of the card program and relates predominantly to our pharma prepaid business which ended
+in 2022. 
+What Are Prepaid Cards? 
+A prepaid card is a payment product that is pre-funded
+and not directly linked to an individual bank account. Prepaid cards are unlike debit cards that are attached to a personal or business
+checking account and draw funds from that linked account or a credit card that draws funds from a line of credit. 
+Prepaid cards can either be open-loop, closed-loop,
+or restricted-loop. Open-loop, or network-branded, prepaid cards carry an acceptance mark of a national or international payment network
+such as Visa, Interlink, Plus, MasterCard, Maestro, Cirrus, Discover or Pulse and can be used anywhere that card brand is accepted. Closed-loop
+prepaid cards can only be used at a specific merchant whose name is typically branded on the card and are most likely not network branded.
+Restricted-loop prepaid cards may carry a network brand and can be used only at a specific group of non-affiliated merchant locations
+such as a shopping mall or a specific merchant category. 
+Open-loop, and some restricted-loop, prepaid cards
+are issued by a financial institution under a license of the payment network. Open-loop prepaid cards provide consumers, businesses and
+governments with the efficiency, security and flexibility of digital payments reducing costs associated with handling cash, checks and
+other paper-based payment processes, and provides the end user a payment product that is accessible and with global utility, convenient,
+safer than cash, can be used as a budgeting tool and contains protections against fraud and theft. 
+1 
+The prepaid market continues to experience significant
+growth due to consumers, corporations and governments embracing improved technology, greater convenience, more product choices and greater
+flexibility. Prepaid cards have also proven to be an attractive alternative to traditional bank accounts for certain segments of the population,
+particularly those without, or who could not qualify for, a checking or savings account. 
+Javelin Advisory Services 20 th Annual
+U.S. Open-Loop Prepaid Card Market Forecast, 2023-2027, shows that open-loop prepaid growth in the short-term is strong and forecasted
+to remain strong in the long-term. This forecast is led by strong anticipated growth in the cash access market, the largest open-loop
+market. Javelin predicts 8% annual growth from 2024 through 2027 with total open-loop loads projected to reach $836 billion by 2027. 
+Consumers, both banked and unbanked, use prepaid
+cards such as general purpose reloadable ( GPR ) cards, to conduct their day-to-day financial transactions such as paying
+bills, depositing checks, and receiving direct deposits. According to the 2023 Federal Deposit Insurance Corporation (FDIC) National Survey
+of Unbanked and Underbanked Households, 5.9 percent of all households were using general purpose reloadable prepaid cards in 2023. Use
+of prepaid cards was much higher among unbanked households (21.6 percent) than among banked households (5.2 percent). Unbanked households,
+an estimated 4.2 percent of U.S. households, were twice as likely to use prepaid cards or nonbank online payment services to conduct four
+or more types of transactions compared with banked households. 
+Common Examples of Prepaid Cards 
+The prepaid card market is divided into three
+macro categories based on who funds the card account. These categories are consumer-funded, corporate-funded and government-funded. 
+Consumer-Funded Programs: The consumer
+prepaid category consists of products such as GPR cards, gift cards, travel money cards, and remittance/peer-to-peer ( P2P )
+cards. 
+General Purpose Reloadable Cards: A
+type of prepaid card typically purchased by a consumer for his/her personal use to pay for purchases, pay bills and/or access cash at
+ATMs. GPR cards may be purchased online and in retail locations from a variety of providers. Funds may be loaded onto the card by direct
+deposit of wages or benefits or at retail locations offering prepaid card reload services. 
+Gift Cards : A non-reloadable
+prepaid card that is purchased by a gift giver to be given to a gift recipient. 
+Corporate-Funded Programs: The corporate
+prepaid category consists of products such as employee/partner incentives, consumer incentives, payroll, employee benefits, healthcare,
+corporate expense and business travel, insurance claim disbursement, etc. 
+Government-Funded Programs: The government
+prepaid category consists of products such as Social Security benefits, veterans benefits, disability benefits, pensions, unemployment
+benefits, worker s compensation, emergency disaster relief, and child support disbursements. 
+Our Products and Services 
+As a payment processor and prepaid card program
+manager, our payment solutions are utilized by our customers as a means to increase customer loyalty, increase brand recognition, reward
+customers, agents and employees while reducing administration costs and streamlining operations. We manage all aspects of the prepaid
+card lifecycle, from managing the card design and approval processes with partners and networks, to production, packaging, distribution,
+and personalization. We also oversee inventory and security controls, renewals, lost and stolen card management, and replacement. We employ
+a fully staffed, in-house customer service department which utilizes bilingual customer service representatives, interactive voice response
+( IVR ), and two-way short message service ( SMS ) messaging and text alerts. As we do not have our own banking
+license to issue open-loop prepaid cards, our cards are offered to end users through our relationships with bank issuers. 
+2 
+As an end-to-end payment processor and prepaid
+card program manager, we derive our revenue from all stages of the card lifecycle. These revenues can include fees from program set-up;
+customization and development; data processing and report generation; card production and fulfillment; transaction fees derived from card
+usage; inactivity fees; card replacement fees; program administration fees; breakage; and settlement income. 
+To date, we have issued millions of prepaid cards
+under programs implemented for Fortune 500 companies, multinationals, as well as top pharmaceutical manufacturers, universities and social
+media companies. 
+As of December 31, 2024, we had approximately
+7.3 million cardholders participating in approximately 600 card programs. 
+In our early years of operations, we focused mainly
+on providing co-pay assistance prepaid cards to the pharmaceutical industry. In 2011, we began marketing a corporate incentive prepaid
+card-based payment solution targeting the plasma donation industry. More recently, having built the necessary infrastructure and added
+essential staff, we have increased our focus and sales efforts on disbursement programs, corporate incentive and expense card programs,
+as well as retargeting the pharmaceutical industry with patient affordability solutions such as co-pay assistance, buy and bill and other
+prepaid programs designed to maximize patient enrollment, adherence and retention. 
+The Paysign Brand 
+In order to leverage the capabilities of the Paysign
+platform and successfully expand our product offerings, we established the Paysign brand of prepaid cards and solutions. The Paysign brand
+encompasses all of our current and future prepaid product offerings, including but not limited to, corporate incentives, healthcare related
+payment solutions for clinical trials, donations and patient affordability solutions, payroll, disbursement payments, corporate expense
+cards and solutions designed for the public sector as well as general purpose reloadable prepaid cards and prepaid gift cards. Paysign
+is a registered trademark of the Company in the United States and other countries. 
+Corporate Incentives 
+Our Paysign corporate incentive cards offer businesses
+a practical and contemporary way to reward and motivate existing and potential customers, employees, donors, patients, clinical trial
+participants, sales professionals, agents and distributors. We develop incentive card programs, either traditional plastic or virtual,
+that our customers use for a wide variety of applications, including but not limited to: consumer rebates for large purchases or frequent
+buyers; trade incentives for third-party distributors; new product launches and commission based sales incentives; consumer promotions
+such as automobile test drives; purchase incentives; loyalty rewards; compensation for the time and effort of donating; pharmaceutical
+payment assistance; referral programs; event giveaways; and purchase incentives. The Paysign solution can be integrated into existing
+payment management systems or act as a stand-alone solution. All Paysign cards are accepted anywhere Visa, Interlink, Plus, MasterCard,
+Maestro, Cirrus, Discover and Pulse are accepted depending on the brands used on the card. 
+Key benefits of our corporate incentive cards
+are: 
+Reduced costs: Operating and administrative costs associated with processing traditional paper checks are reduced. 
+Co-Branding: Our clients can promote their brands as the card can include the corporate sponsor s logo. The card itself advertises the sponsor s brand. 
+Customization: Our Paysign platform allows for easy customization of our corporate incentive card products. For example, our clients can select merchants or merchant categories which dictate where the card will be accepted. Our clients can receive customized reports, track card usage and attach surveys to the activation process to gain market intelligence. 
+Speed to Market: Our clients can get rewards and incentives to the intended recipients in a much quicker manner than traditional methods using our corporate incentive card products. 
+3 
+Per Diem/ Corporate Expense Payments 
+Per Diem, Corporate Expense and Business Travel
+Cards are reloadabl
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Major Customers 
+We have no major customers and are not reliant
+on any individual card program. We manage multiple card programs at any given time. As of December 31, 2024, we managed approximately
+600 card programs with approximately 7.3 million participating cardholders. 
+Regulations 
+Introduction 
+We operate in a highly regulated environment and
+are subject to extensive regulation, supervision and examination. Applicable laws and regulations may change, and there is no assurance
+that such changes will not adversely affect our business. Regulatory authorities have extensive discretion in connection with their supervisory
+and enforcement activities, including but not limited to the imposition of restrictions on the operation of financial institutions we
+may work with. Any change in such regulation and oversight, whether in the form of restrictions on activities, regulatory policy, regulations,
+or legislation, including but not limited to changes in the regulations governing banks, could have a material impact on our operations. 
+6 
+Our products and services are generally subject
+to federal, state and local laws and regulations, including: 
+anti-money laundering and anti-bribery laws; 
+money transfer and payment instrument licensing regulations; 
+escheatment laws; 
+privacy and information safeguard laws; 
+data and personal information protection; 
+bank regulations; 
+consumer protection laws; 
+tax; 
+environmental sustainability (including climate change); 
+false claims laws and other fraud and abuse restrictions; and 
+privacy and security standards under the Health Insurance Portability and Accountability Act of 1996 ( HIPAA ) or other laws. 
+These laws are often evolving and sometimes ambiguous
+or inconsistent, and the extent to which they apply to us or the banks that issue our cards, our clients or our third-party service providers
+is at times unclear. Any failure to comply with applicable law either by us or by the card issuing banks, our client or our
+third-part
+
+---
+Doc size: 924KB (capped at 2MB)

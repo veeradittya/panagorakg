@@ -1,0 +1,229 @@
+# PROTARA THERAPEUTICS INC — 10-K Annual Report
+# Filed: 2026-03-10
+# CIK: 1359931
+# SIC: Biological Products, (No Diagnostic Substances)
+# Source: https://www.sec.gov/Archives/edgar/data/1359931/000121390026025433/ea0277639-10k_protara.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+38 
+Item 1B. 
+Unresolved Staff Comments 
+75 
+Item 1C. 
+Cybersecurity 
+75 
+Item 2. 
+Properties 
+77 
+Item 3. 
+Legal Proceedings 
+77 
+Item 4. 
+Mine Safety Disclosures 
+77 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+78 
+Item 6. 
+Reserved 
+78 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+79 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+84 
+Item 8. 
+Financial Statements and Supplementary Data 
+85 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+114 
+Item 9A. 
+Controls and Procedures 
+114 
+Item 9B. 
+Other Information 
+115 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+115 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+116 
+Item 11. 
+Executive Compensation 
+116 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+116 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+116 
+Item 14. 
+Principal Accountant Fees and Services 
+116 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+117 
+Item 16. 
+Form 10-K Summary 
+120 
+i 
+PART I 
+FORWARD-LOOKING STATEMENTS 
+This Annual Report on Form
+10-K, including the sections entitled Business, Risk Factors, and Management s
+Discussion and Analysis of Financial Condition and Results of Operation s and our other publicly available documents contain
+forward-looking statements or incorporate by reference forward-looking statements within the meaning of Section 27A of the Securities
+Act of 1933, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and are subject
+to the safe harbor created thereby under the Private Securities Litigation Reform Act of 1995. Forward-looking statements include all
+statements other than statements of historical facts, including statements regarding our business, operations and financial performance
+and conditions, as well as our plans, objectives and expectations for our business operations and financial performance and condition.
+These statements relate to future events or to our future financial performance and involve known and unknown risks, uncertainties and
+other factors which may cause our actual results, performance or achievements to be materially different from any future results, performance
+or achievements expressed or implied by the forward-looking statements. You can generally identify these forward-looking statements by
+terminology such as believes, expects, potential, continues, may, 
+will, should, seek, approximately, predict, intend, 
+plans, estimates, anticipates or the negative version of these terms or other comparable terminology.
+Forward-looking statements inherently involve many risks and uncertainties that could cause actual results to differ from those expressed
+in forward-looking statements. Forward-looking statements are based on management s current plans and expectations, expressed in good
+faith and believed to have a reasonable basis. However, we can give no assurance that any expectation or belief will result or will be
+achieved or accomplished. Investors therefore should not place undue reliance on forward-looking statements. 
+These forward-looking statements include,
+but are not limited to, statements about: 
+estimates regarding our financial performance, including future revenue, expenses and capital requirements; 
+our expected cash position and ability to obtain financing in the future on satisfactory terms or at all; 
+expectations regarding our plans to research, develop and commercialize our current and future product candidates, including TARA-002, and Intravenous, or IV, Choline Chloride; 
+expectations regarding the safety and efficacy of our product candidates; 
+expectations regarding the timing, costs and outcomes of our clinical trials; 
+expectations regarding potential market size; 
+expectations regarding the timing of the availability of data from our clinical trials; 
+expectations regarding the clinical utility, potential benefits and market acceptance of our product candidates; 
+expectations regarding our commercialization, marketing and manufacturing capabilities and strategy; 
+the implementation of our business model, strategic plans for our business, product candidates and technology; 
+expectations regarding our ability to identify additional products or product candidates with significant commercial potential; 
+developments and projections relating to our competitors and industry; 
+1 
+our ability to acquire, license and invest in businesses, technologies, product candidates and products; 
+our ability to remain listed on the Nasdaq Global Market, or Nasdaq; 
+the impact of and changes or developments in government laws and regulations, including any executive orders or tariffs; 
+costs and outcomes relating to any disputes, governmental inquiries or investigations, regulatory proceedings, legal proceedings or litigation; 
+our ability to attract and retain key personnel to manage our business effectively; 
+our ability to prevent system failures, data breaches or violations of data protection laws; 
+the timing or likelihood of regulatory filings and approvals; 
+our ability to protect our intellectual property position; and 
+the impact of general U.S., foreign and global economic, industry, market, trade, regulatory, political or public health conditions. 
+Investors should also carefully
+read the factors described under Item 1A. Risk Factors in this Annual Report on Form 10-K for a description of certain risks
+that could, among other things, cause our actual results to differ from those expressed in forward-looking statements. Investors should
+understand that it is not possible to predict or identify all such factors and should not consider the risks described above and under
+Item 1A. Risk Factors to be a complete statement of all potential risks and uncertainties. 
+All forward-looking statements
+speak only as of the date of this Annual Report and are expressly qualified in their entirety by the risk factors and cautionary statements
+included in this Annual Report. Except as is required by law, we expressly disclaim any obligation to publicly release any revisions to
+forward-looking statements to reflect events after the date of this Annual Report. 
+2 
+SUMMARY OF RISKS AFFECTING
+OUR BUSINESS 
+Below is a summary of the
+principal factors that make an investment in our securities speculative or risky. This summary does not address all of the risks that
+we face. Additional discussion of the risks and uncertainties summarized in this risk factor summary, and other risks and uncertainties
+that we face, are set forth in Part I, Item 1A. Risk Factors, and should be carefully considered, together with other information in
+this Annual Report on Form 10-K and our other filings with the U.S. Securities and Exchange Commission, or SEC, before making investment
+decisions regarding our securities. 
+We have a limited operating history and have never generated any revenues. 
+We expect to incur significant expenses and significant losses for the foreseeable future and may never generate revenue or achieve or maintain profitability. 
+We will need to raise additional financing in the future to fund our operations, which may not be available to us on favorable terms or at all. 
+Our business depends on the successful preclinical and clinical development, regulatory approval and commercialization of our product candidates, including TARA-002 and IV Choline Chloride. 
+We have never completed a registrational clinical trial or made a biologics license application, or BLA, or new drug application, or NDA, submission and may be unable to successfully do so for TARA-002 or IV Choline Chloride. 
+Disruptions at the U.S.
+Food and Drug Administration, or FDA, or other comparable foreign regulatory authorities may extend the time necessary for new
+products to be reviewed and/or approved, which would adversely affect our business. In addition, there is substantial uncertainty
+regarding new initiatives under the current U.S. Presidential Administration and how these might impact the FDA, its implementation
+of laws, regulations, policies and guidance and its personnel. Similar initiatives may also be directed towards other agencies.
+These initiatives could prevent, limit or delay development and regulatory approval of our product candidates, which would adversely
+affect our business. 
+Even if a product candidate obtains regulatory approval, it may fail to achieve the broad degree of adoption and use necessary for commercial success. 
+Our product candidates, if approved, will face significant competition and their failure to compete effectively may prevent them from achieving significant market penetration. 
+We rely completely on third-party contractors to supply, manufacture and distribute clinical drug supplies for our product candidates, which may include sole-source suppliers and manufacturers; we intend to rely on third parties for commercial supply, manufacturing and distribution if any of our product candidates receive regulatory approval; and we expect to rely on third parties for supply, manufacturing and distribution of preclinical, non-clinical, clinical and commercial supplies of any future product candidates. 
+We currently have limited marketing capabilities and no sales organization. If we are unable to grow our sales and marketing capabilities on our own or through third parties, we will be unable to successfully commercialize our product candidates, if approved, or generate product revenue. 
+Certain stockholders have the ability to control or significantly influence certain matters submitted to our stockholders for approval. 
+We may not be able to obtain, maintain or enforce global patent rights or other intellectual property rights that cover our product candidates and technologies that are of sufficient breadth to prevent third parties from competing against us. 
+Pharmaceutical companies are subject to stringent and changing obligations related to data privacy and security. Our actual or perceived failure to comply with such obligations could lead to regulatory investigations or actions; litigation; fines and penalties; a disruption of our business operations, including our clinical trials; harm to our reputation; and other adverse effects on our business or prospects. 
+3 
+Item 1. Business. 
+Overview 
+We are a New York City based
+clinical-stage biopharmaceutical company committed to advancing transformative therapies for the treatment of cancer and rare diseases.
+We were founded on the principle of applying modern scientific, regulatory or manufacturing advancements to established mechanisms in
+order to create new development opportunities. We prioritize creativity, integrity and tenacity to expedite our goal of bringing life-changing
+therapies to people with limited treatment options. 
+Our portfolio includes two
+development programs utilizing TARA-002, an investigational cell therapy based on the broad immunopotentiator, OK-432, which was originally
+granted marketing approval by the Japanese Ministry of Health and Welfare as an immunopotentiating cancer therapeutic agent. This cell
+therapy is currently approved in Japan and Taiwan for lymphatic malformations, or LMs, and multiple oncologic indications. We have secured
+worldwide rights to the asset excluding Japan and Taiwan and are exploring its use in oncology and rare disease indications. TARA-002
+was developed from the same master cell bank of genetically distinct group A Streptococcus pyogenes as OK-432 (marketed as Picibanil 
+in Japan by Chugai Pharmaceutical Co., Ltd., or Chugai Pharmaceutical). We are currently developing TARA-002 in non-muscle invasive bladder
+cancer, or NMIBC, and LMs. We are also pursuing IV Choline Chloride, an investigational phospholipid substrate replacement therapy, for
+patients receiving parenteral support, or PS, which includes both nutrition and fluids. 
+Neither TARA-002 nor IV Choline
+Chloride have been approved by the FDA or other comparable regulatory authorities for use for any indications. We have devoted substantial
+efforts to the development of both TARA-002 and IV Choline Chloride and, to date, have not generated any revenues from product sales.
+We do not expect to generate revenues in the near-term, and it is possible we may never generate revenues in the future. To finance our
+current strategic plans, including the conduct of ongoing and future clinical trials and further research and development, we will need
+to raise additional capital. See Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations Liquidity
+and Capital Resources for additional information about our liquidity and capital resource needs. 
+TARA-002 in NMIBC 
+Our lead oncology program is
+TARA-002 in NMIBC, which is cancer found in the tissue that lines the inner surface of the bladder that has not spread into the bladder
+muscle. Bladder cancer is the sixth most common cancer in the U.S., with NMIBC representing approximately 80% of bladder cancer diagnoses.
+Approximately 65,000 patients are diagnosed with NMIBC in the U.S. each year. Very few new therapeutics have been approved for NMIBC since
+the 1990s and the current standard of care for NMIBC includes intravesical Bacillus Calmette-Gu rin, or BCG. 
+Following the completion of our ADVANCED-1 and ADVANCED-1EXP trials
+in October 2024 and September 2024, respectively, to evaluate safety, preliminary efficacy and the dosing of TARA-002, at the 40KE (Klinische
+Einheit, or KE, is a German term indicating a specified weight of dried cells in vial) dose level, we initiated and are currently conducting
+our ADVANCED-2 clinical trial. ADVANCED-2 is a Phase 2 open-label clinical trial evaluating intravesical TARA-002 in patients with high-grade
+carcinoma in situ, or CIS. Cohort A of the Phase 2 trial has completed enrollment and enrolled 31 patients with CIS ( Ta/T1, with
+Ta defined as non-invasive papillary carcinoma and T1 defined as carcinoma invading the lamina propria) who are either BCG-Na ve
+or BCG-Exposed and who have not received intravesical BCG for at least 24 months prior to CIS diagnosis. Cohort B of the Phase 2 trial
+is expected to enroll 75 to 100 patients with BCG-Unresponsive CIS ( Ta/T1) and is designed to be registrational based on the
+FDA s August 2024 Draft Guidance for Industry on BCG-Unresponsive Nonmuscle Invasive Bladder Cancer: Developing Drugs and Biological
+Products for Treatment. Trial subjects in ADVANCED-2 receive an induction course, with or without a reinduction, of six weekly intravesical
+instillations of TARA-002, followed by a maintenance course of three weekly instillations every three months. 
+4 
+In February 2026, we presented
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of Part D enrollees prescription costs
+for brand drugs below the out-of-pocket limit, and 20% once the out-of-pocket limit has been reached. The IRA also requires HHS to directly
+negotiate the selling price of a statutorily specified number of drugs and biologics each year that CMS reimburses under Medicare Part
+B and Part D. The negotiated price may not exceed a statutory ceiling price. Only high-expenditure single-source drugs that have been
+approved for at least seven years (11 years for single-source biologics) are eligible to be selected by CMS for negotiation, with the
+negotiated price taking effect two years after the selection year. For 2026, the first year in which negotiated prices become effective,
+CMS selected 10 high-cost Medicare Part D products in 2023, negotiations began in 2024, and the negotiated maximum fair price for each
+product has been announced. In addition, CMS selected and announced the negotiated maximum fair price for 15 additional Medicare Part
+D drugs, which will become effective in 2027. For 2028, CMS has selected an additional 15 drugs, comprised of drugs covered under Medicare
+Part D and, for the first time, drugs under Medicare Part B. For 2029 and subsequent years, 20 Part B or Part D drugs will be selected.
+A drug or biological product that has an ODD for only one rare disease or condition will be excluded from the IRA s price negotiation
+requirements, but will lose that exclusion if it receives designations for more than one rare disease or condition, or if is approved
+for an indication that is not within that single designated rare disease or condition, unless such additional designation or such disqualifying
+approvals are withdrawn by the time CMS evaluates the drug for selection for negotiation. The IRA also imposes rebates on Medicare Part
+B and Part D drugs whose prices have increased at a rate greater than the rate of inflation, and in November 2024, CMS finalized regulations
+for the Medicare Part B and Part D inflation
+
+---
+Doc size: 1561KB (capped at 2MB)

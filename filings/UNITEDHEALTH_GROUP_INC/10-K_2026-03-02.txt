@@ -1,0 +1,14 @@
+# UNITEDHEALTH GROUP INC — 10-K Annual Report
+# Filed: 2026-03-02
+# CIK: 731766
+# SIC: Hospital & Medical Service Plans
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+10 Item 1B.
+
+## GEOGRAPHIC REVENUE
+(Not available)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

@@ -1,0 +1,20 @@
+# ADDUS HOMECARE CORP — 10-K Annual Report
+# Filed: 2026-03-12
+# CIK: 1468328
+# SIC: Services-Home Health Care Services
+# Source: https://www.sec.gov/Archives/edgar/data/1468328/000143774926007982/adus20251231_10ka.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+(Not extracted)
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 180KB (capped at 2MB)

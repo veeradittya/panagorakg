@@ -1,0 +1,113 @@
+# CHURCH & DWIGHT CO INC — 10-K Annual Report
+# Filed: 2026-02-12
+# CIK: 313927
+# SIC: Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics
+# Source: https://www.sec.gov/Archives/edgar/data/313927/000119312526048139/chd-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1A, Risk Factors in this Annual Report. The Company undertakes no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by the United States federal securities laws. You are advised, however, to consult any further disclosures the Company makes on related subjects in its filings with the United States Securities and Exchange Commission. Unless otherwise specified or the context otherwise requires, all references in this Annual Report on Form 10-K to Church & Dwight, we, us, our and Company refer to Church & Dwight Co., Inc. and its consolidated subsidiaries. 
+2 
+TABLE OF CONTENTS PART I 
+Item 
+Page 
+1. 
+Business 
+4 
+1A. 
+Risk Factors 
+15 
+1B. 
+Unresolved Staff Comments 
+31 
+1C. 
+Cybersecurity 
+31 
+2. 
+Properties 
+32 
+3. 
+Legal Proceedings 
+32 
+4. 
+Mine Safety Disclosures 
+32 
+PART II 
+5. 
+Market for the Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+33 
+6. 
+RESERVED 
+35 
+7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+36 
+7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+50 
+8. 
+Financial Statements and Supplementary Data 
+51 
+9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+89 
+9A. 
+Controls and Procedures 
+89 
+9B. 
+Other Information 
+89 
+9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+89 
+PART III 
+10. 
+Directors, Executive Officers and Corporate Governance 
+90 
+11. 
+Executive Compensation 
+90 
+12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+90 
+13. 
+Certain Relationships and Related Transactions, and Director Independence 
+90 
+14. 
+Principal Accounting Fees and Services 
+90 
+PART IV 
+15. 
+Exhibits, Financial Statement Schedule 
+91 
+16. 
+Form 10-K Summary 
+95 
+3 
+P ART I IT EM 1. BUSINESS OVERVIEW OF BUSINESS We were founded in 1846 and incorporated in Delaware in 1925. We develop, manufacture and market a broad range of consumer household and personal care products and specialty products focused on animal and food production, chemicals and cleaners. Our well-recognized brands include ARM & HAMMER baking soda, cat litter, laundry detergent, carpet deodorizer and other baking soda-based products; OXICLEAN stain removers, cleaning solutions, laundry detergents and bleach alternatives; BATISTE dry shampoo; WATERPIK water flossers; THERABREATH oral care products; HERO acne treatment products; TOUCHLAND hand sanitizers; TROJAN condoms, lubricants and vibrators; FIRST RESPONSE home pregnancy and ovulation test kits; NAIR depilatories; ORAJEL oral analgesic; XTRA laundry detergent; and ZICAM cold shortening and relief products. Seven of those brands are designated as "power brands" because they compete in large categories, and we believe they have the potential for significant global expansion. Those seven brands are ARM & HAMMER ; OXICLEAN ; BATISTE ; WATERPIK ; THERABREATH ; HERO and TOUCHLAND and represent approximately 70% of our net sales and profits. Prior to the sale of our VITAFUSION and L'IL CRITTERS ( VMS ) business at the end of 2025, we included VMS as an eighth power brand. We sell our consumer products under a variety of brands through a broad distribution platform that includes supermarkets, mass merchandisers, wholesale clubs, drugstores, convenience stores, home stores, dollar and other discount stores, pet and other specialty stores and websites and other e-commerce channels, all of which sell our products to consumers. We sell our specialty products to industrial customers, livestock producers and through distributors. FINANCIAL INFORMATION ABOUT SEGMENTS AND PRINCIPAL PRODUCTS As discussed in more detail below, we operate in three principal segments: Consumer Domestic, Consumer International, and our Specialty Products Division ( SPD ). Refer to Note 18 to the consolidated financial statements included in this Annual Report and the discussion in Item 7: Management s Discussion and Analysis of Financial Condition and Results of Operations for information concerning the results of each of our segments. All domestic brand rankings contained in this Annual Report are based on dollar share rankings from Information Resources, Inc. ( IRI ) Total US Multi Outlet ( MULO ) for the period ending December 28, 2025. Foreign brand rankings are derived from several sources. The VMS business which was divested on December 31, 2025 is included in all values and statements, unless otherwise noted. Recent Acquisitions On July 16, 2025, the Company completed the acquisition of Touchland Holding Corp ( Touchland ), the developer of TOUCHLAND hand sanitizer products (the Touchland Acquisition ). The Company paid $656.0 million, net of cash acquired, at closing and entered an agreement to pay an additional amount based on 2025 net sales thresholds which will result in a cash payment of $159.0 million to be paid in the first half of 2026. In addition, the Company granted rights to Touchland s founder to receive shares of our common stock valued at $50.0 million, with 50% of such shares vesting at each of the first-and-second year anniversaries of the closing. The value of common stock received by Touchland's founder will be recognized as compensation expense ratably over the two-year vesting period if the individual continues to be employed by the Company. Payment of a $5.0 million portion of the purchase price was deferred related to certain indemnification obligations provided by Touchland s equity holders, which amount, to the extent not used in satisfaction of such indemnity obligations, is payable three years from the closing. The Touchland Acquisition was financed with cash on hand and is managed in the Consumer Domestic and Consumer International segments. Touchland s annual net sales for the year ended December 31, 2024 were approximately $115.0 million. Divestitures and Business Exits On May 1, 2025, we announced that we would exit the Flawless, Spinbrush and Waterpik showerhead businesses, which we exited by the end of 2025. These businesses generated approximately $118.0 million of annual Net Sales in 2025. As a direct result of these actions, we recorded a pre-tax charge of $45.6 million (post-tax of $34.5 million) in 2025, of which $25.0 million was recorded in Cost of Sales and $20.6 million was recorded in SG&A. The charge was recorded in the second quarter within the Consumer Domestic segment and was comprised of non-cash charges related to impairments of intangible and fixed assets, as well as charges related to inventory valuation. A reduction to the second-quarter charge was recorded in the fourth quarter, reflecting final costs to exit the Spinbrush business. 
+4 
+On December 9, 2025, the Company announced a definitive agreement to sell the VitaFusion and L il Critters brands to Piping Rock Health Products, Inc. The sale was completed on December 31, 2025, and included the VitaFusion and L il Critters brands, relevant trademarks and licenses, and Church & Dwight's former manufacturing and distribution facilities in Vancouver and Ridgefield, Washington. The VMS brands represented less than 5% of our 2025 net sales. As a result of this transaction, we incurred a one-time, pre-tax charge of $58.5 million (post-tax of $45.6 million) in the fourth quarter of 2025 which is included in Other income (expense), net in the Consolidated Statements of Income. The decision to reposition our portfolio with these business exits enables us to devote greater focus to our portfolio s faster growing value and premium product lines. Consumer Domestic Our founders first marketed sodium bicarbonate, otherwise known as baking soda, in 1846 for use in home baking. Today, this product has a wide variety of uses in the home, including as a refrigerator and freezer deodorizer, scratch-free cleaner and deodorizer for kitchen surfaces and cooking appliances, bath additive, dentifrice, cat litter deodorizer and swimming pool pH stabilizer. We specialize in baking soda-based products, as well as other products which use the same raw materials or technology and which are sold across multiple consumer and professional use categories. Our Consumer Domestic segment includes each of our seven power brands, as well as other well-known brands and household and personal care products. We divide the Consumer Domestic segment into household and personal care product groups. Household Products In 2025, household products constituted approximately 54% of our Consumer Domestic sales and approximately 41% of our consolidated net sales. Our primary household products include laundry detergents marketed under the ARM & HAMMER, OXICLEAN and XTRA brands, fabric softener sheets marketed under the ARM & HAMMER brand, cat litter under our ARM & HAMMER brand, and household cleaning products under the CLEAN SHOWER , ORANGE GLO , and OXICLEAN brands. Our laundry detergents constitute our largest consumer business, measured by net sales. ARM & HAMMER Baking Soda remains the number one leading brand of baking soda in terms of consumer recognition of the brand name and reputation for quality and value. The cleaning and deodorizing properties of baking soda have led to the development of numerous baking soda-based household products. For example, we market ARM & HAMMER FRIDGE FRESH , a refrigerator deodorizer equipped with a baking soda filter to help keep food tasting fresher, and ARM & HAMMER Carpet Deodorizer. Personal Care Products In 2025, personal care products constituted approximately 46% of our Consumer Domestic sales and approximately 36% of our consolidated net sales. Our personal care business was founded on the unique strengths of our ARM & HAMMER trademark and baking soda technology. We have expanded our personal care business through the acquisition of antiperspirants, oral care products, including mouthwash, depilato
+
+## RISK FACTORS (Item 1A)
+Risk Factors in this Annual Report. The Company undertakes no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by the United States federal securities laws. You are advised, however, to consult any further disclosures the Company makes on related subjects in its filings with the United States Securities and Exchange Commission. Unless otherwise specified or the context otherwise requires, all references in this Annual Report on Form 10-K to Church & Dwight, we, us, our and Company refer to Church & Dwight Co., Inc. and its consolidated subsidiaries. 
+2 
+TABLE OF CONTENTS PART I 
+Item 
+Page 
+1. 
+Business 
+4 
+1A. 
+Risk Factors 
+15 
+1B.
+
+## GEOGRAPHIC REVENUE
+Our Employees As of December 31, 2025, we had approximately 5,550 global employees, a decrease of approximately 200 compared to December 31, 2024. Approximately 85% of our workforce is located in the Americas, 11% in Europe, Middle East, and Africa, and 4% in the Asia-Pacific region. About 55% of our employees are salaried and about 45% are paid hourly wages. During fiscal 2025, our overall turnover rate was approximately 17%. Our revenue per employee in fiscal 2025 was approximately $1.12 million. Inclusive and Effective Workforce We embrace the diversity of our employees in all dimensions and our efforts aspire to help us achieve a more inclusive workforce and optimize our long-term performance. We also strive to cultivate a culture and processes that support and enhance our ability to recruit, hire, develop and retain talent at every level based on merit. As a company we remain committed to fair treatment, access, opportunity, and advancement for all. In 2023 we launched several Employee Resource Groups ( ERGs ). These Company-supported, employee-run groups contribute to our goal of building and maintaining a diverse and inclusive workplace at Church & Dwight. We started the program with ERGs for military veterans (V.A.L.O.R.), black employees (B.O.L.D.) and women (W.A.V.E.). Each ERG is open to all employees and is intended to create inclusive environments where all global employees feel connected, valued, and inspired to build customer value and contribute to our Company s success. Hiring, Development and Retention Our talent strategy is focused on attracting the best talent and recognizing and rewarding performance, while continually developing, engaging and retaining our talented employees. We invest resources in professional development and growth as a means of improving employee performance and improving retention. This includes management training aimed at continuous learning, professional training and development opportunities, targeted leadership development courses for new and existing leaders of different levels of seniority, tuition reimbursement, on-boarding efforts, job specific programs for our employees, cultural reinforcement and more. Compen
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer due to customer service levels or real or perceived product quality or appearance issues. As our business is based primarily upon individual sales orders rather than long-term contracts and most customer agreements include customer termination rights after short notice, many of our customers could reduce their purchasing levels or cease buying products from us at any time and for any reason. 
+16 
+Market category declines and changes to our product and geographic mix may impact the achievement of our sales growth targets, planned pricing and financial results. A significant percentage of our revenues come from mature markets that are subject to high levels of competition where product differentiation is more challenging and price competitors can erode profit margins. During 2025, approximately 82% of our sales were generated in U.S. markets. U.S. markets for consumer products are considered mature and commonly characterized by high household penetration, particularly with respect to our most significant product categories, such as laundry detergents, deodorizers, household cleaning products, toothpastes, antiperspirants and deodorants. Our ability to quickly innovate to differentiate our products (including product packaging and sustainability profiles) to meet changing consumer demands is essential, especially in light of e-commerce significantly reducing the barriers for even small competitors to quickly introduce new brands and products directly to consumers. Even if we are successful in increasing sales within our product categories, a continuing or accelerating decline in the overall markets for our products could have a negative impact on our financial results. We have implemented price increases and may implement additional price increases in the future, including to account for increased costs, which may slow sales growth or create volume declines in the short term as customers and consumers adjust to these price increases. Decreases in d
+
+---
+Doc size: 2048KB (capped at 2MB)

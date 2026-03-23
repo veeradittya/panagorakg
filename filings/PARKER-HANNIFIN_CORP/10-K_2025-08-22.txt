@@ -1,0 +1,14 @@
+# PARKER-HANNIFIN CORP — 10-K Annual Report
+# Filed: 2025-08-22
+# CIK: 76334
+# SIC: Miscellaneous Fabricated Metal Products
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/76334/000007633425000035/ph-20250630.htm)
+
+## RISK FACTORS (Item 1A)
+8 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment"> ph:segment ph:technology ph:country 0000076334 2024-07-01 2025-06-30 0000076334 2024-12-31 0000076334 2025-07-31 0000076334 2023-07-01 2024-06-30 0000076334 2022-07-01 2023-06-30 0000076334 2025-06-30 0000076334 2024-06-30 0000076334</xbrli:identi
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

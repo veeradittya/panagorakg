@@ -1,0 +1,163 @@
+# VERISK ANALYTICS INC — 10-K Annual Report
+# Filed: 2026-02-18
+# CIK: 1442145
+# SIC: Services-Computer Processing & Data Preparation
+# Source: https://www.sec.gov/Archives/edgar/data/1442145/000143774926004452/vrsk20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+15 
+Item 1B. 
+Unresolved Staff Comments 
+24 
+Item 1C. 
+Cybersecurity 
+24 
+Item 2. 
+Properties 
+25 
+Item 3. 
+Legal Proceedings 
+25 
+Item 4. 
+Mine Safety Disclosures 
+25 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+26 
+Item 6. 
+[Reserved] 
+28 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+28 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+42 
+Item 8. 
+Consolidated Financial Statements and Supplementary Data 
+42 
+Consolidated Balance Sheets 
+51 
+Consolidated Statements of Operations 
+52 
+Consolidated Statements of Comprehensive Income 
+53 
+Consolidated Statements of Changes in Stockholders' Equity 
+54 
+Consolidated Statements of Cash Flows 
+55 
+Notes to Consolidated Financial Statements 
+57 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+42 
+Item 9A. 
+Controls and Procedures 
+43 
+Item 9B. 
+Other Information 
+46 
+Item 9C 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+46 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+46 
+Item 11. 
+Executive Compensation 
+46 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+46 
+Item 13. 
+Certain Relationships and Related Transactions and Director Independence 
+46 
+Item 14. 
+Principal Accounting Fees and Services 
+46 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedule 
+47 
+Item 16. 
+Form 10-K Summary 
+47 
+EXHIBIT INDEX 
+94 
+SIGNATURES 
+97 
+Exhibit 21.1 
+Exhibit 23.1 
+Exhibit 31.1 
+Exhibit 31.2 
+Exhibit 32.1 
+2
+Table of Contents 
+Unless the context otherwise indicates or requires, as used in this annual report on Form 10-K, references to we, us, our or the Company refer to Verisk Analytics, Inc. and its subsidiaries. 
+In this annual report on Form 10-K, all dollar amounts are expressed in millions, unless indicated otherwise. 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+Verisk Analytics, Inc. ("Verisk" or the "Company") has made statements under the captions Business, Risk Factors, Management s Discussion and Analysis of Financial Condition and Results of Operations, and in other sections of this annual report on Form 10-K that are forward-looking statements. In some cases, you can identify these statements by forward-looking words such as may, might, will, should, expects, plans, anticipates, believes, estimates, predicts, potential, or continue, the negative of these terms and other comparable terminology. These forward-looking statements, which are subject to risks, uncertainties and assumptions about us, may include projections of our future financial performance, our anticipated growth strategies, and anticipated trends in our business. These statements are only predictions based on our current expectations and projections about future events. There are important factors that could cause our actual results, level of activity, performance, or achievements to differ materially from the results, level of activity, performance, or achievements expressed or implied by the forward-looking statements, including those factors discussed under the caption entitled Risk Factors. You should specifically consider the numerous risks outlined under Risk Factors. 
+Although we believe the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, level of activity, performance, or achievements. Moreover, neither we nor any other person assumes responsibility for the accuracy and completeness of any of these forward-looking statements. We are under no duty to update any of these forward-looking statements after the date of this annual report on Form 10-K to conform our prior statements to actual results or revised expectations. 
+3
+Table of Contents 
+PART I 
+Item 1. 
+Business 
+Our Company 
+Verisk is a leading data, analytics, and technology provider serving clients in the insurance ecosystem. Using advanced technologies to collect and analyze billions of records, we draw on unique data assets, insurance industry knowledge, and technological expertise to provide valuable solutions that are integrated into client workflows. We offer predictive analytics and decision support solutions to clients in rating, underwriting, claims, catastrophe, weather risk, and many other fields. In the United States ( U.S. ) and around the world, we help clients protect individuals, communities, and businesses. We completed the sale of our Energy business on February 1, 2023. 
+Our clients use our solutions to make better decisions about risk and improve operating efficiency. We refer to these products and services as solutions due to the integration among our services and the flexibility that enables our clients to purchase components or a comprehensive package. These solutions take various forms, including proprietary data assets, expert industry insight, statistical models, tailored analytic objects, and robust software platforms all designed to allow our clients to make more informed risk decisions. We believe our solutions for analyzing risk have a positive impact on our clients revenues and help them better manage their costs. In 2025, our clients included all of the top 100 property and casualty ("P&C") insurance providers in the U.S. for the lines of P&C services we offer. We believe that our commitment to our clients and the embedded nature of our solutions serve to strengthen and extend our relationships. 
+We believe that Verisk is uniquely positioned with a series of competitive differentiators including: 
+Proprietary Data Assets Data is at the core of what we do. We use our proprietary and contributory data assets to develop predictive analytics and transformative models for our clients; 
+Deep Insurance Industry Expertise and Focus We have specialized and in-depth knowledge in insurance and risk management that drives our engagement with our clients; 
+Long-standing Industry Relationships Our early beginnings as an insurance rating bureau have established us as a trusted partner for the industry, as well as a source of insights for our clients; and 
+Scale to Drive Broad Distribution of Innovation Our scale enables us to innovate on behalf of the insurance industry and deliver solutions that strive to solve our clients biggest challenges. 
+Our Business Strategy 
+Our vision is to be the leading strategic data, analytics, and technology partner to the global insurance industry by delivering value to our clients through knowledge, expertise, and scale. Our business strategy is driven by the following priorities: 
+Drive Consistent & Predictable Growth. With our clear focus on insurance, integrated organization and our client-centric and results-oriented culture, we strive to deliver consistent and predictable growth. We are leveraging our strong client relationships to extend our reach within insurance and elevate the strategic dialogue with our clients. We are modernizing and advancing the capabilities of our core solutions using cloud technology and advanced analytical methods including machine learning and artificial intelligence ("AI") while also augmenting our solutions through the addition of new data assets and sources. In addition, we are working on building leadership positions in adjacent spaces, including life insurance, specialty business solutions, and resilience and sustainability. With the client at the center of all we do, we are driving innovation across our portfolio and partnering with our clients to help solve the insurance industry's greatest challenges with a focus on rapidly changing technology, growing regulatory focus, and value creation; 
+Drive Operating Efficiency and Profitability. Our subscription business model, as well as our ability to build solutions that serve the insurance industry at large, helps drive core operating leverage. In addition, we strive to deliver productivity enhancements and operating efficiency through the use of advanced technology and a global talent workforce. We seek to balance this with high return on capital investment in the business to continue to drive growth and profitability; and 
+Ensure Disciplined Capital Allocation. We are focused on generating strong cash flow and ensuring that we are disciplined in how we allocate that capital with a focus on directing capital to the highest return investments. First, we prioritize organic reinvestment in the business, which can produce high internal returns. Second, we look for selective, strategic acquisitions that can expand our data assets, augment our capabilities, and expand our reach within the insurance industry while also creating value by leveraging our capabilities and resources. Finally, we expect to return excess capital to shareholders while also maintaining a strong balance sheet. 
+4
+Table of Contents 
+Our History 
+We trace our history to 1971, when Insurance Services Office, Inc. ("ISO") started operations as a not-for-profit advisory and rating organization providing services to the U.S. P&C insurance industry. ISO was formed as an association of insurance companies to gather statistical data and other information from insurers and report to regulators, as required by law. ISO s original functions also included developing programs to help insurers define and manage insurance solutions and providing information to help insurers determine their own independent premium rates. Insurers used and continue to use our offerings primarily in their product development, underwriting, and rating functions. 
+On May 23, 2008, in contemplation of our initial public offering ("IPO"), ISO formed Verisk, a Delaware corporation, to be the holding company for our business. Verisk was initially formed as a wholly owned subsidiary of ISO. On October 6, 2009, in connection with our IPO, we effected a reorganization whereby ISO became a wholly owned subsidiary of Verisk. Verisk common stock began trading on the NASDAQ Global Select Market on October 7, 2009, under the ticker symbol VRSK. 
+Segments 
+We operate in one segment, Insurance. See Note 19. of our consolidated financial statements included in this annual report on Form 10-K for further information. 
+Insurance Segment 
+We operate in one segment, Insurance, which primarily serves our P&C insurance customers across most personal and commercial lines of business, focusing on the fundamental building blocks of insurance programs, the prediction of loss, the selection and pricing of risk, and compliance with their reporting requirements in each U.S. state in which they operate. We also develop and utilize machine-learned and artificially intelligent models to forecast scenarios and produce both standard and customized analytics that help our customers better manage their businesses, including detecting fraud before and after a loss event and quantifying losses. Our customers, acquired over more than 50 years, include most of the P&C insurance providers in the U.S. In recent years, we have expanded our offerings into certain non-U.S. markets and the fields of life insurance and annuities. We offer our solutions and services primarily through annual subscriptions or long-term agreements, which are typically prepaid (annually and quarterly) and represented over 80% of our revenues in 2025. We believe we are well positioned to increase our penetration of the global insurance industry because of our proprietary data assets, long-standing industry relationships, deep insurance industry expertise, and our scale to drive broad distribution of our new innovations. 
+Underwriting 
+Powered by proprietary and contributory data and advanced analytics and technologies, we offer a full suite of solutions to support our P&C clients across the insurance policy lifecycle. This support spans their product development, new and renewal underwriting, risk selection and segmentation, pricing, and straight through to policy binding and issuance. We continue to grow our presence internationally and expand our capabilities into new spaces, such as life insurance and annuities, and into new workflows, including customer acquisition. 
+Forms, Rules, and Loss Costs 
+We are a recognized leader in the U.S. for industry-standard insurance programs that help P&C insurers define coverages and issue policies. We provide policy language, prospective loss costs, policy writing and rating rules, and a variety of underwriting solutions for risk selection and segmentation, pricing, and workflow optimization across 32 lines of insurance. Our policy language, prospective loss cost information, and policy writing rules can serve as integrated, turnkey insurance programs for our clients. 
+Insurance companies need to ensure that their policy language, rules, and rates comply with all applicable legal and regulatory requirements. They must also make sure their policies remain competitive by promptly changing coverages in response to changes in statutes, case law, or regulatory requirements. To meet our clients needs, we process approximately 2,000 regulatory filings and interface with state regulators in all 50 states plus the District of Columbia, Guam, Puerto Rico, and the Virgin Islands each year to ensure smooth implementation of our rules and forms. When insurers choose to develop their own alternative programs, our industry-standard insurance programs also help regulators ensure that such insurers policies meet basic coverage requirements. 
+Standardized coverage language, which has been tested in litigation and tailored to reflect judicial interpretation, helps ensure consistent treatment of claimants. As a result, our industry-standard language also simplifies claim settlements and can reduce the occurrence of costly litigation because our language causes the meaning of coverage terminology to become established and known. Our policy language includes standard coverage language, endorsements, and policy writing support language that assist our clients in understanding the risks they assume and the coverages they offer. With these policy programs, insurers also benefit from economies of scale. We have more than 250 insurance experts and specialized lawyers reviewing changes in each state s insurance rules and regulations, including an average of approximately 17,600 legislative actions, 22,000 regulatory actions, and 2,000 court decisions per year, to make any required changes to our policy language and rating information. 
+To cover the wide variety of risks in the marketplace, we offer a broad range of policy programs. For example, in the homeowners line of insurance, we maintain policy language and rules for approximately 6 basic coverages, 383 national endorsements, and 714 state-specific endorsements. 
+5
+Table of Contents 
+The P&C insurance industry is heavily regulated in the U.S. P&C insurers are required to collect s
+
+## GEOGRAPHIC REVENUE
+are integrated into client workflows. We offer predictive analytics and decision support solutions to clients in rating, underwriting, claims, catastrophe, weather risk, and many other fields. In the United States ( U.S. ) and around the world, we help clients protect individuals, communities, and businesses. We completed the sale of our Energy business on February 1, 2023. 
+Our clients use our solutions to make better decisions about risk and improve operating efficiency. We refer to these products and services as solutions due to the integration among our services and the flexibility that enables our clients to purchase components or a comprehensive package. These solutions take various forms, including proprietary data assets, expert industry insight, statistical models, tailored analytic objects, and robust software platforms all designed to allow our clients to make more informed risk decisions. We believe our solutions for analyzing risk have a positive impact on our clients revenues and help them better manage their costs. In 2025, our clients included all of the top 100 property and casualty ("P&C") insurance providers in the U.S. for the lines of P&C services we offer. We believe that our commitment to our clients and the embedded nature of our solutions serve to strengthen and extend our relationships. 
+We believe that Verisk is uniquely positioned with a series of competitive differentiators including: 
+Proprietary Data Assets Data is at the core of what we do. We use our proprietary and contributory data assets to develop predictive analytics and transformative models for our clients; 
+Deep Insurance Industry Expertise and Focus We have specialized and in-depth knowledge in insurance and risk management that drives our engagement with our clients; 
+Long-standing Industry Relationships Our early beginnings as an insurance rating bureau have established us as a trusted partner for the industry, as well as a source of insights for our clients; and 
+Scale to Drive Broad Distribution of Innovation Our scale enables us to innovate on behalf of the insurance industry and deliver solutions that strive to solve our clients biggest challenges. 
+Our Business St
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers. To ensure strategic and executive-level engagement with these Tier One clients, a Managing Director within the Client Strategy organization is responsible for the overall and executive-level relationship between the client and all of Verisk, fostering alignment across our solutions and services. Tier Two clients encompass both large and middle-market customer groups. Tier Three consists of smaller, specialized companies that may focus on a single line of business, serve specific regions, or be recent entrants to the market. Within the Tier One and Tier Two segments, our U.S. and global sales teams are organized by the following disciplines: personal lines underwriting and pricing, commercial lines underwriting and pricing, claims, catastrophe modeling and exposure management, and specialty. For Tier Three clients, a generalist Account Executive is assigned within each business unit, taking on overall account management responsibilities. Our tiered approach has proven to be an effective sales model for building strong customer relationships. Additionally, our senior leadership team regularly engages with senior management at our client organizations to ensure strategic alignment, and to foster opportunities for mutual partnership and innovation. 
+Sources of Our Data 
+The data we use to perform our analytics and power our solutions is sourced through seven different kinds of data arrangements. First, we gather data from our customers within agreements that also permit our customers to use the solutions created from their data. Those agreements remain in effect unless the data contributor chooses to opt out. It is rare that contributors elect not to continue providing us with all or a substantial portion of their data. Second, we have agreements with data contributors in which we specify the particular uses of their data and provide their required levels of privacy, protection of data, and where necessary, de-identification of data. The agreement
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,101 @@
+# NNN REIT INC — 10-K Annual Report
+# Filed: 2026-02-11
+# CIK: 751364
+# SIC: Real Estate Investment Trusts
+# Source: https://www.sec.gov/Archives/edgar/data/751364/000119312526045617/nnn-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+2
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+7 
+Item 1B. 
+Unresolved Staff Comments 
+20 
+Item 1C. 
+Cybersecurity 
+20 
+Item 2. 
+Properties 
+21 
+Item 3. 
+Legal Proceedings 
+21 
+Item 4. 
+Mine Safety Disclosures 
+21 
+Part II 
+Item 5. 
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+22 
+Item 6. 
+Reserved 
+24 
+Item 7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+25 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+40 
+Item 8. 
+Financial Statements and Supplementary Data 
+41 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+71 
+Item 9A. 
+Controls and Procedures 
+71 
+Item 9B. 
+Other Information 
+73 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+73 
+Part III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+73 
+Item 11. 
+Executive Compensation 
+73 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+73 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+73 
+Item 14. 
+Principal Accountant Fees and Services 
+73 
+Part IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+74 
+Item 16. 
+Form 10-K Summary 
+78 
+Signatures 
+79 
+PA RT I Unless the context otherwise requires, references in this Annual Report on Form 10-K to the terms "registrant" or "NNN" or the "Company" refer to NNN REIT, Inc. and its consolidated subsidiaries. NNN may elect to treat certain of its subsidiaries as taxable real estate investment trust subsidiaries ("TRS"). Forward-Looking Statements Statements contained in this Annual Report on Form 10-K, including the documents that are incorporated by reference, that are not historical facts are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 (the "Exchange Act"). Also, when NNN uses any of the words "anticipate," "assume," "believe," "estimate," "expect," "intend" or similar expressions, NNN is making forward-looking statements. Although management believes that the expectations reflected in such forward-looking statements are based upon present expectations and reasonable assumptions, NNN's actual results could differ materially from those set forth in the forward-looking statements. Further, forward-looking statements speak only as of the date they are made, and NNN undertakes no obligation to update or revise forward-looking statements to reflect changed assumptions, the occurrence of unanticipated events or changes to future operating results over time, unless required by law. NNN describes risks and uncertainties that could cause actual results and events to differ materially in "Item 1A. Risk Factors," "Item 7A. Quantitative and Qualitative Disclosures About Market Risk," and "Item 7. Management's Discussion and Analysis of Financial Conditions and Results of Operations" of this Annual Report on Form 10-K. 
+Item 1. Bu siness The Company Overview NNN, a Maryland corporation, is a fully integrated real estate investment trust ("REIT") formed in 1984. The common shares of NNN REIT, Inc. are traded on the New York Stock Exchange (the "NYSE") under the ticker symbol "NNN." NNN acquires, owns, invests in and develops high-quality properties that are leased primarily to tenants under long-term, net leases, with minimal ongoing capital expenditures and are primarily held for investment ("Properties" or "Property Portfolio," or individually a "Property"). NNN owned 3,692 Properties in all 50 states, the District of Columbia and Puerto Rico, with an aggregate gross leasable area of approximately 39,578,000 square feet and a weighted average remaining lease term of 10.2 years as of December 31, 2025. As of December 31, 2025, 98.3 percent of the Properties were leased. Competition NNN faces active competition from many sources, both domestically and internationally, for net-lease investment opportunities in commercial real estate. Competitors may be willing to accept rates of return, prices, lease terms, other transaction terms or levels of risk that NNN finds unacceptable. Qualification as a REIT NNN has made an election to be taxed as a REIT under Sections 856 through 860 of the Internal Revenue Code of 1986, as amended (the "Code"), and related regulations and intends to continue to operate so as to remain qualified as a REIT for federal income tax purposes. NNN generally will not be subject to federal income taxes on taxable income it distributes to stockholders, provided it meets certain other requirements for qualifying as a REIT. If NNN fails to qualify as a REIT in any taxable year, it will be subject to federal income tax on its taxable income at regular corporate rates and will not be permitted to qualify for treatment as a REIT for federal income tax purposes for the four years following the year during which qualification is lost. Such an event could materially adversely affect NNN's income and ability to pay dividends. NNN believes it has been structured as, and its past and present operations qualify NNN as, a REIT. Business Strategies and Policies The following is a discussion of NNN's operating strategy and certain of its investment, financing and other policies. These strategies and policies have been set by management and the Board of Directors and, in general, may be amended or revised from time to time by management and the Board of Directors without a vote of NNN's stockholders. Operating Strategies NNN's strategy is to invest in real estate that is well located within each local market for its tenants' lines of trade. Management believes that these types of properties, typically leased pursuant to triple-net leases, provide attractive opportunities for stable current returns and the potential for increased returns and capital appreciation. In most cases, the Property leases provide for initial terms of 10 to 20 years and a triple-net lease structure, pursuant to which the tenant bears responsibility for operating expenses of the Property, including utilities, real estate taxes and assessments, property and liability insurance, maintenance, repairs and capital expenditures. 
+2 
+NNN holds each Property until it determines that the sale of such Property is advantageous relative to NNN's investment objectives. In deciding whether to sell a Property, factors NNN may consider include, but are not limited to, potential capital appreciation, net cash flow, tenant's credit quality, tenant's line of trade, tenant's lease renewal probability, the composition of the Property Portfolio, market lease rates, local market conditions, future uses of the Property, potential use of sale proceeds and federal and state income tax considerations. NNN's management team focuses on certain key indicators to evaluate the financial condition and operating performance of NNN. Key indicators include items such as: the composition of the Property Portfolio (such as tenant, line of trade and geographic diversification), the occupancy rate of the Property Portfolio, certain financial performance metrics and profitability measures, industry trends and industry performance compared to that of NNN. NNN evaluates the creditworthiness of its significant current and prospective tenants. This evaluation may include reviewing available financial statements, store level financial performance, press releases, public credit ratings from major credit rating agencies, industry news publications and financial market data (debt and equity pricing). NNN may also evaluate the business and operations of its significant tenants, including past payment history and periodically meeting with senior management of certain tenants. The operating strategies employed by NNN have allowed NNN to increase the annual dividend (paid quarterly) per common share for 36 consecutive years. NNN has the third longest record of consecutive annual dividend increases of all publicly traded REITs. Investment in Real Estate or Interests in Real Estate NNN's management believes that single-tenant, freestanding net lease properties will continue to provide attractive investment opportunities and that NNN is well suited to take advantage of these opportunities because of its experience in accessing capital markets and its ability to source, underwrite and acquire such properties. In evaluating a particular acquisition, management may consider a variety of factors, including but not limited to: the location, visibility, accessibility, zoning and use restrictions of the property, the geographic area and demographic characteristics of the community, the local real estate market conditions, including potential for growth, redevelopment, market rents and existing or potential competing properties or retailers, the title status of the property, the quality of construction and design of the improvements on the property and the current physical condition of the property, including the size and age of the improvements on the property, the potential for, and current extent of, any environmental issues on or around the property, the environmental sustainability related factors pertaining to the property, the purchase price, the non-financial lease terms of the proposed acquisition, the availability of funds or other consideration for the proposed acquisition and the cost thereof, the compatibility of the property with NNN's existing Property Portfolio, the property-level operating history, the financial and other characteristics of the existing tenant, the tenant's business plan, operating history and management team, the tenant's industry, the terms of any lease, including the rent to be paid by the tenant, any existing debt encumbering the property which may be assumed in connection with acquiring or refinancing these investments, and the merits relative to other opportunities. 
+3 
+NNN intends to engage in future investment activities in a manner that is consistent with the maintenance of its status as a REIT for federal income tax purposes. Additionally, NNN does not intend to engage in activities that will make NNN an investment company under the Investment Company Act of 1940, as amended. Investments in Real Estate Mortgages and Securities of or Interests in Entities Engaged in Real Estate Activities While NNN's primary business objectives emphasize retail properties, NNN may invest in (i) a wide variety of property and tenant types, (ii) leases, mortgages and other types of real estate interests, (iii) loans secured by personal property, (iv) loans secured by partnership or membership interests in partnerships or limited liability companies, respectively, or (v) securities of other REITs, or other issuers, including for the purpose of exercising control over such entities. Financing Strategy NNN's financing objective is to manage its capital structure effectively in order to provide sufficient capital to execute its operating and investing strategies while servicing its debt obligations, maintaining its investment grade credit ratings, staggering debt maturities and providing value to NNN's stockholders. NNN's capital resources have and will continue to include, if available, (i) proceeds from issuing debt or equity in the capital markets; (ii) secured or unsecured borrowings from banks or other lenders; (iii) proceeds from the sale of Properties; and (iv) to a lesser extent, by internally generated funds as well as undistributed funds from operations. However, there can be no assurance that additional financing or capital will be available or that the terms will be acceptable or advantageous to NNN. NNN expects to fund both its short-term and long-term liquidity requirements, including investments in additional properties, with cash and cash equivalents, cash provided from operations, borrowings from its unsecured revolving credit facility ("Credit Facility") or senior unsecured term loan ("Term Loan") or proceeds from the sale of Properties. As of December 31, 2025, NNN had $5,822,000 of cash, cash equivalents and restricted cash or cash held in escrow, and $851,900,000 and $300,000,000 were available for future borrowings under the Credit Facility and Term Loan, respectively. NNN may also fund liquidity requirements with new debt or equity issuances. NNN also has the ability to limit future property acquisitions and strategically increase property dispositions. NNN expects these liquidity sources and the discretionary nature of its property acquisition funding needs will allow NNN to meet its financial obligations over the long term. As of December 31, 2025, NNN's ratio of total debt, none of which was secured debt, to total gross assets (before accumulated depreciation and amortization) was approximately 42 percent. The ratio of total debt to total market capitalization was approximately 39 percent. Certain financial agreements, to which NNN is a party, contain covenants that limit NNN's ability to incur additional debt under certain circumstances. The organizational documents of NNN do not limit the absolute amount or percentage of debt that NNN may incur. Human Capital As of January 30, 2026, the Company employed 85 talented and dedicated associates whose hard work and expertise drive NNN's success. Ingrained in the Company's talent philosophy is ensuring associates have access to engage in continuing professional and meaningful personal development opportunities. Additionally, NNN offers associate training programs and formalized talent development programs at all levels within the Company. The success of NNN's efforts to nurture the growth and development of the Company's associates is evident in the average tenure, with nearly 40% of the associates having been with the Company for 10 or more years. 
+4 
+The Company provides comprehensive benefits to ensure associates receive competitive compensation and support for work and life outside of work. NNN's total rewards system includes compensation, benefits, wellness initiatives and professional development. In addition to medical, dental and vision insurance benefits, the Company offers a 401(k) plan with employer matching contributions, fully paid parental leave, adoption benefits, flexible work schedules, college savings benefits, educational assistance, flexible spending and health savings accounts, access to an online wellness platform and Company-paid life and long-term care insurance. Community Service and Partnerships NNN supports associates volunteering in our local communities, including organized volunteer days at charities such as Ronald McDonald House of Central Florida and Orange County Animal Services. Additionally, NNN has been a long-time contributor to several local community charities, including Elevate Orlando and Boys & Girls Clubs of Central Florida. Strategies and Policy Changes Any of NNN's strategies or policies described
+
+## GEOGRAPHIC REVENUE
+enders or the institutions that hold NNN's cash balances and short-term investments, which may expose NNN to increased risks of default by these parties. There can be no assurance that actions of the United States ("U.S.") Government, the Federal Reserve or other government and regulatory bodies attempting to stabilize the economy or financial markets will achieve their intended effect. Additionally, some of these actions may adversely affect financial institutions, capital providers, retailers, consumers, NNN's financial condition, NNN's results of operations or the trading price of NNN's shares. 
+7 
+Owning real estate and indirect interests in real estate carries inherent risks. NNN's financial performance and the value of its real estate assets are subject to the risk that if the Properties do not generate revenues sufficient to meet its operating expenses and debt service, NNN's cash flow and ability to pay distributions to its stockholders will be adversely affected. NNN is susceptible to the following real estate industry risks, which are beyond its control: changes in national, regional and local economic conditions and outlook, decreases in consumer spending and retail sales or adverse changes in consumer preferences for particular goods, services or store-based retailing, economic downturns in the areas where the Properties are located, adverse changes in local real estate market conditions, such as an oversupply of space, reduction in demand for space, loss of a large employer, intense competition for tenants or a demographic change, changes in tenant or consumer preferences that reduce the attractiveness of the Properties to tenants, changes in zoning, regulatory restrictions or tax laws, and changes in interest rates or availability of financing. All of these factors could result in decreases in market rental rates and increases in vacancy rates, which could adversely affect NNN's results of operations. NNN's business is dependent upon its tenants successfully operating their businesses and their failure to do so could materially and adversely affect NNN's cash flow and results of operations. NNN's tenants encounter significant macroeconomic, governm
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,99 @@
+# METAGENOMI INC — 10-K Annual Report
+# Filed: 2026-03-05
+# CIK: 1785279
+# SIC: Biological Products, (No Diagnostic Substances)
+# Source: https://www.sec.gov/Archives/edgar/data/1785279/000119312526093976/mgx-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+5
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+34 
+Item 1B. 
+Unresolved Staff Comments 
+97 
+Item 1C. 
+Cybersecurity 
+98 
+Item 2. 
+Properties 
+98 
+Item 3. 
+Legal Proceedings 
+99 
+Item 4. 
+Mine Safety Disclosures 
+99 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+100 
+Item 6. 
+[Reserved] 
+100 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+101 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+111 
+Item 8. 
+Financial Statements and Supplementary Data 
+111 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+111 
+Item 9A. 
+Controls and Procedures 
+111 
+Item 9B. 
+Other Information 
+112 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+112 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+113 
+Item 11. 
+Executive Compensation 
+113 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+113 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+113 
+Item 14. 
+Principal Accounting Fees and Services 
+113 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+114 
+Item 16. 
+Form 10-K Summary 
+115 
+i 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains express or implied forward-looking statements that are based on our management s belief and assumptions and on information currently available to our management and which are made pursuant to the safe harbor provisions of Section 27A of the Securities Act of 1933, as amended (the Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). Although we believe that the expectations reflected in these forward-looking statements are reasonable, these statements relate to future events or our future operational or financial performance, and involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by these forward-looking statements. Forward-looking statements in this Annual Report on Form 10-K include, but are not limited to, statements about: the initiation, timing, progress and results of our research and development programs, preclinical studies and future clinical trials; our ability to demonstrate, and the timing of, preclinical proof-of-concept in vivo and ex vivo for multiple programs; our ability to advance any product candidates that we may identify and successfully complete any clinical studies, including the manufacture of any such product candidates; our ability to quickly leverage programs within our initial target indications and to progress additional programs to further develop our pipeline; the timing of our Investigational New Drug ( IND ) applications submissions; the implementation of our strategic plans for our business, programs and technology; the scope of protection we are able to establish and maintain for intellectual property rights covering our genome editing technology and platform; developments related to our competitors and our industry; our ability to leverage the clinical, regulatory, and manufacturing advancements made by genome editing programs to accelerate our clinical trials and approval of product candidates; our ability to maintain existing license agreements and collaborations and identify and enter into future license agreements and collaborations; developments related to our genome editing technology and platform; regulatory developments in the United States and foreign countries; our ability to attract and retain key scientific and management personnel; the volatility of capital markets and other adverse macroeconomic factors, including due to inflationary pressures, tariffs, and other trade protection measures that have been or may in the future be imposed by the United States (the U.S. ) or other countries, interest rate and currency rate fluctuations, economic slowdown or recession, banking instability, monetary policy changes, geopolitical tensions or the outbreak of hostilities or war, including from the ongoing Russia-Ukraine conflict, the current conflict in Israel and Gaza (including any escalation or expansion), the current conflict in Venezuela and increasing tensions between China and Taiwan; and estimates of our expenses, capital requirements, and needs for additional financing. In some cases, you can identify forward-looking statements by terminology such as may, will, should, expects, intends, plans, anticipates, believes, estimates, predicts, potential, continue or the negative of these terms or other comparable terminology. These statements are only predictions and are subject to change. You should not place undue reliance on forward-looking statements because they involve known and unknown risks, uncertainties, and other factors, which are, in some cases, beyond our control and which could materially affect results. Moreover, we operate in an evolving environment. New risk factors and uncertainties may emerge from time to time, and it is not possible for management to predict all risk factors and uncertainties. 
+1 
+Factors that may cause actual results to differ materially from current expectations include, among other things, those listed under the section entitled Risk Factors and elsewhere in this Annual Report on Form 10-K. If one or more of these risks or uncertainties occur, or if our underlying assumptions prove to be incorrect, actual events or results may vary significantly from those implied or projected by the forward-looking statements. No forward-looking statement is a guarantee of future performance. You should read this Annual Report on Form 10-K and the documents that we reference in this Annual Report on Form 10-K and have filed with the SEC as exhibits to this Annual Report on Form 10-K completely and with the understanding that our actual future results may be materially different from any future results expressed or implied by these forward-looking statements. The forward-looking statements in this Annual Report on Form 10-K represent our views as of the date of this Annual Report on Form 10-K. We anticipate that subsequent events and developments will cause our views to change. However, while we may elect to update these forward-looking statements at some point in the future, we have no current intention of doing so except to the extent required by applicable law. You should therefore not rely on these forward-looking statements as representing our views as of any date subsequent to the date of this Annual Report on Form 10-K. In addition, statements that we believe and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this 10-K, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain. This Annual Report on Form 10-K also contains estimates, projections and other information concerning our industry, our business and the markets for our programs and product candidates. Information that is based on estimates, forecasts, projections, market research or similar methodologies is inherently subject to uncertainties and actual events or circumstances may differ materially from events and circumstances that are assumed in this information. Unless otherwise expressly stated, we obtained this industry, business, market, and other data from our own internal estimates and research as well as from reports, research surveys, studies, and similar data prepared by market research firms and other third parties, industry, medical and general publications, government data and similar sources. While we are not aware of any misstatements regarding any third-party information presented in this Annual Report on Form 10-K, their estimates, in particular, as they relate to projections, involve numerous assumptions, are subject to risks and uncertainties and are subject to change based on various factors, including those discussed under the section entitled Risk Factors and elsewhere in this Annual Report on Form 10-K. From time to time, we may use our website to distribute material information about us and for complying with our disclosure obligations under Regulation FD. Our financial and other material information is routinely posted to and accessible on the Investor Relations section of our website, available at https://ir.metagenomi.co/. Investors are encouraged to review the Investor Relations section of our website because we may post material information on that site that is not otherwise disseminated by us. Information that is contained in and can be accessed through our website are not incorporated into, and does not form a part of, this Annual Report on Form 10-K. Trademarks and Service Marks This Annual Report on Form 10-K contains references to our trademarks and service marks and to those belonging to other entities. Solely for convenience, trademarks and trade names referred to in this Annual Report on Form 10-K, including logos, artwork and other visual displays, may appear without the or TM symbols, but such references are not intended to indicate in any way that we will not assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensor to these trademarks and trade names. We do not intend our use or display of other entities trade names, trademarks or service marks to imply a relationship with, or endorsement or sponsorship of us by, any other entity. 
+2 
+Market, Industry and Other Data Unless otherwise indicated, information contained in this Annual Report on Form 10-K concerning our industry and the markets in which we operate, including our general expectations about our product candidates, market position, market opportunity, market size, competitive position and the incidence of certain medical conditions, is based on or derived from publicly available information released by industry analysts and third-party sources, independent market research, industry and general publications and surveys, governmental agencies, our internal research and our industry experience. Our estimates of the potential market opportunities for our product candidates include a number of key assumptions based on our industry knowledge and industry publications, the latter of which may be based on small sample sizes and fail to accurately reflect such information, and you are cautioned not to give undue weight to such estimates. While we believe that our internal assumptions are reasonable, no independent source has verified such assumptions. Industry publications and third-party research often indicate that their information has been obtained from sources believed to be reliable, although they do not guarantee the accuracy or completeness of such information and such information is inherently imprecise. In some cases, we do not expressly refer to the sources from which this data is derived. In that regard, when we refer to one or more sources of this type of data in any paragraph, you should assume that other data of this type appearing in the same paragraph is derived from the same sources, unless otherwise expressly stated or the context otherwise requires. In addition, projections, assumptions and estimates of our future performance and the future performance of the industry in which we operate is necessarily subject to a high degree of uncertainty and risk due to a variety of factors, including those described in Part I, Item 1A of this Annual Report on Form 10-K titled Risk Factors and elsewhere in this Annual Report on Form 10-K. These and other factors could cause results to differ materially from those expressed in the estimates made by independent third parties and by us. 
+3 
+SUMMARY OF MATERIAL RISKS ASSOCIATED WITH OUR BUSINESS Our business is subject to numerous risks and uncertainties that you should be aware of in evaluating our business. These risks include, but are not limited to, the following: We have incurred significant losses since inception. We expect to incur losses for the foreseeable future and may never achieve or maintain profitability. Our operations will require substantial additional funding. If we are unable to raise additional capital when needed on acceptable terms, or at all, we may be forced to delay, reduce, or terminate certain of our research and product development programs, future commercialization efforts or other operations. We are very early in our development efforts, and we have not yet initiated clinical development of any product candidate. As a result, we expect it will be many years before we commercialize any product candidate, if ever. If we are unable to advance our future product candidates into and through clinical trials, obtain regulatory approval and ultimately commercialize our product candidates or experience significant delays in doing so, our business will be materially harmed. We are subject to additional development challenges and risks due to the novel nature of our genome editing technology. The genome editing field is relatively new and is evolving rapidly. We are focusing our research and development efforts on genome editing using programmable nucleases, base editing, and RNA and DNA-mediated integration systems (including prime editors and CRISPR-associated ( Cas ) transposases), but other genome editing technologies may be discovered that provide significant advantages over such technologies, which could materially harm our business. While we intend to seek designations for our potential product candidates with the FDA and comparable foreign regulatory authorities that are intended to confer benefits such as a faster development process or an accelerated regulatory pathway, there can be no assurance that we will successfully obtain such designations. In addition, even if one or more of our potential product candidates are granted such designations, we may not be able to realize the intended benefits of such designations. Because we are developing product candidates in the field of genetic medicines in which there is little clinical experience, there is increased risk that the FDA, the EMA or other regulatory authorities may not consider the endpoints of our clinical trials to provide clinically meaningful results and that these results may be difficult to analyze. If conflicts arise between us and our collaborators or strategic partners, these parties may act in a manner adverse to us an
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+sole source biologics to pay incremental rebates based on international benchmark prices, with participation triggered for products meeting CMS s spending and eligibility criteria. The second proposal, the Guarding U.S. Medicare Against Rising Drug Costs ( GUARD ) model for Medicare Part D, would similarly mandate manufacturer rebates for qualifying sole source drugs where the Medicare net price exceeds an MFN benchmark derived from international reference pricing methodologies. As proposed, GLOBE would begin a five year performance period on October 1, 2026 and GUARD would begin its performance period in 2027. These proposals will likely be subject to legal challenges that could delay their implementation or modify their impact on manufacturer pricing and revenue. Additionally, in November 2025, CMS introduced the GENErating cost Reductions fOr U.S. Medicaid ( GENEROUS ) Model, a voluntary MFN framework for manufacturers participating in the Medicaid Drug Rebate Program. Although it is voluntary, the GENEROUS Model could also impact the drug pricing landscape for manufacturers. The effect of these healthcare reform initiatives on our business and the pharmaceutical industry in general is not yet known, but could be substantial and materially adverse to our ability to successfully commercialize our product candidates at profitable price points. 
+55 
+We cannot predict the initiatives that may be adopted in the future. The continuing efforts of the government, insurance companies, managed care organizations and other payors of healthcare services to contain or reduce costs of healthcare and/or impose price controls may adversely affect: the demand for our product candidates, if we obtain regulatory approval; our ability to set a price that we believe is fair for our approved products; our ability to generate revenue and achieve or maintain profitability; the level of taxes that we are required to pay; and the availability of capital. Any reduction in reimbursement fro
+
+---
+Doc size: 2048KB (capped at 2MB)

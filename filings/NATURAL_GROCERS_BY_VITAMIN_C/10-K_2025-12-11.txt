@@ -1,0 +1,139 @@
+# NATURAL GROCERS BY VITAMIN C — 10-K Annual Report
+# Filed: 2025-12-11
+# CIK: 1547459
+# SIC: Retail-Grocery Stores
+# Source: https://www.sec.gov/Archives/edgar/data/1547459/000143774925037556/ngvc20250930_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+17 
+Item 1B. 
+Unresolved Staff Comments 
+39 
+Item 1C. 
+Cybersecurity 
+39 
+Item 2. 
+Properties 
+40 
+Item 3. 
+Legal Proceedings 
+40 
+Item 4. 
+Mine Safety Disclosures 
+40 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+41 
+Item 6. 
+Reserved 
+42 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+42 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+54 
+Item 8. 
+Financial Statements and Supplementary Data 
+55 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+81 
+Item 9A. 
+Controls and Procedures 
+81 
+Item 9B. 
+Other Information 
+81 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+81 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+82 
+Item 11. 
+Executive Compensation 
+82 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+82 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+82 
+Item 14. 
+Principal Accounting Fees and Services 
+82 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+83 
+Item 16. 
+Form 10-K Summary 
+86 
+SIGNATURES 
+87 
+i 
+Table of Contents 
+Except where the context otherwise requires or where otherwise indicated: (i) all references herein to we, us, our, Natural Grocers and the Company refer collectively to Natural Grocers by Vitamin Cottage, Inc. and its consolidated subsidiaries and (ii) all references to fiscal year refer to a year beginning on October 1 of the previous year and ending on September 30 of such year (for example fiscal year 2025 refers to the year from October 1, 2024 to September 30, 2025). 
+FORWARD-LOOKING STATEMENTS 
+This Annual Report on Form 10-K (this Form 10-K) includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 in addition to historical information. These forward-looking statements are included throughout this Form 10-K, including in the sections entitled Business, Risk Factors and Management s Discussion and Analysis of Financial Condition and Results of Operations. All statements that are not statements of historical fact, including those that relate to matters such as our industry, business strategy, goals and expectations concerning our market position, future operations, margins, profitability, capital expenditures, liquidity and capital resources, future growth, pending legal proceedings and other financial and operating information, are forward-looking statements. We may use the words anticipate, assume, believe, continue, could, estimate, expect, intend, may, plan, potential, predict, project, future, target and similar terms and phrases to identify forward-looking statements in this Form 10-K. 
+The forward-looking statements contained in this Form 10-K are based on management s current expectations and are subject to uncertainty and changes in circumstances. We cannot assure you that future developments affecting us will be those that we have anticipated. Actual results may differ materially from these expectations due to changes in global, national, regional or local political, economic, inflationary, disinflationary, recessionary, business, interest rate, labor market, competitive, market, regulatory, trade policy, supply chain and other factors, many of which are beyond our control. We believe that these factors include those described in Risk Factors. Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, our actual results may vary in material respects from those projected in these forward-looking statements. 
+Any forward-looking statement made by us in this Form 10-K speaks only as of the date of this report. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible for us to predict all of them. We undertake no obligation to publicly update any forward-looking statement, whether as a result of new information, future developments or otherwise, except as may be required by applicable securities laws. You are advised, however, to consult any disclosures we may make in our future reports filed with the Securities and Exchange Commission (the SEC). Our reports and other filings with the SEC are available at the SEC s website at www.sec.gov . Our reports and other filings with the SEC are also available, free of charge, through our website at www.naturalgrocers.com . 
+PART I 
+Item 1. Business. 
+General 
+Natural Grocers is an expanding specialty retailer of natural and organic groceries and dietary supplements. We focus on providing high-quality products at affordable prices, exceptional customer service, nutrition education and community outreach. We strive to generate long-term relationships with our customers based on transparency and trust by: 
+selling only natural and organic groceries, body care products and dietary supplements that meet our strict quality guidelines - we do not approve for sale grocery products that are known to contain artificial flavors, preservatives or sweeteners, synthetic colors, or partially hydrogenated or hydrogenated oils; 
+utilizing an efficient and flexible smaller-store format to offer affordable prices and a convenient, clean and shopper-friendly retail environment; 
+enhancing our customers shopping experience by providing free science-based nutrition education to help our customers make well-informed health and nutrition choices; and 
+incorporating principles of ecological sustainability into our product standards and Company practices. 
+1 
+Table of Contents 
+Our History and Founding Principles 
+Our founders, Margaret and Philip Isely, were early proponents of the connection between health and the use of natural and organic products and dietary supplements. In the mid-1950 s, Margaret transformed her health and the health of her family by applying concepts and principles she learned from books on nutrition. This inspired the Iselys to provide the same type of nutrition education to their community. The Iselys started by lending books on nutrition and providing samples of whole grain bread door-to-door in Golden, Colorado and subsequently concluded they could develop a viable business that would also improve their customers wellbeing. Over time, they fostered relationships through nutrition education and began taking orders for dietary supplements, whole grain bread and unprocessed foods. As their customers gained more knowledge about nutrition, they were empowered to make changes to their diets with the objective of supporting their health. Using this model as the foundation for their business, the Iselys opened their first store in 1958. 
+We are committed to maintaining the following founding principles, which have helped foster our growth: 
+Nutrition Education. We provide free nutrition education in the communities we serve. Empowering our customers and our employees (or our Crew members) to take charge of their lives and their health is the foundation upon which our business is built. 
+Quality. Every product on our shelves must go through a rigorous screening and approval process. Our mission includes providing the highest quality groceries and supplements, Natural Grocers brand products and only United States Department of Agriculture (USDA) certified organic, fresh produce. 
+Always Affordable Price SM . We work hard to secure the best possible prices on all of our customers favorite natural and organic foods and supplements. We believe everyone should be able to afford to help take care of their health by buying high-quality competitively priced natural and organic products. 
+Community. From free nutrition education, to bag-free checkouts, to sourcing local products, to our fundraising and donation programs, we strive to serve the communities that help shape our world. 
+Our Crew members. Our Crew members make our Company great. We work hard to ensure that our Crew members are able to live healthy, balanced lifestyles. We support them with free nutrition education programs, good pay and excellent benefits. 
+In 1998, the second generation of the Isely family, including Kemper Isely, Zephyr Isely, Heather Isely and Elizabeth Isely, purchased our predecessor and the Vitamin Cottage trademark and assumed control of the business. Since then, we have grown our store count from 11 stores in Colorado to 169 stores in 21 states as of September 30, 2025. We have also implemented numerous organizational and operational improvements that have enhanced our ability to scale our operations. We believe that by staying true to our founding principles, we have been able to continue to attract new customers, extend our geographic reach and further solidify our competitive position. 
+Our Markets 
+We operate within the natural products retail industry, which is a subset of the United States grocery industry and the dietary supplement business. This industry includes conventional supermarkets, natural, gourmet and specialty food markets, domestic and foreign-based mass and discount retailers, warehouse clubs, independent health food stores, dietary supplement retailers, drug stores, farmers markets, food co-ops, online retailers, meal delivery services and multi-level marketers. Industry-wide sales of natural and organic foods and dietary supplements have grown over the past several years, and we believe that growth will continue for the foreseeable future. 
+We believe the growth in sales of natural and organic foods and dietary supplements continues to be driven by numerous factors, including: 
+greater consumer focus on high-quality nutritional products; 
+an increased awareness of the importance of good nutrition to long-term wellness; 
+increased awareness by consumers of the importance of building and maintaining a strong immune system to mitigate health risks; 
+an aging United States population seeking to support healthy aging; 
+2 
+Table of Contents 
+heightened consumer awareness about the importance of food quality and a desire to avoid toxic residues, hormones, growth promoters, artificial ingredients, and genetically engineered ingredients in foods; 
+concerns regarding antibiotic resistance caused by industrial livestock production practices; 
+growing consumer concerns over the use of harmful chemical additives in body care and household cleaning supplies; 
+well-established natural and organic brands, which generate additional industry awareness and credibility with consumers; 
+the growth in the number of consumers with unique dietary requirements as a result of allergies, chemical sensitivities, auto-immune disorders and other conditions; and 
+concerns about the cumulative environmental impact of relying on non-renewable resources and the effects on the global climate of carbon release from conventional agriculture. 
+Our Competitive Strengths 
+We believe we are well-positioned to capitalize on favorable natural and organic grocery and dietary supplement industry dynamics as a result of the following competitive strengths: 
+Strict focus on high-quality natural and organic grocery products and dietary supplements. We offer high-quality products and brands, including an extensive selection of widely recognized natural and organic food, dietary supplements, body care products, pet care products and books. We offer our customers an average of approximately 20,000 Stock Keeping Units (SKUs) of natural and organic products per comparable store (stores open for 13 months or longer), including an average of approximately 6,500 SKUs of dietary supplements. We believe our broad product offering enables our customers to shop our stores for substantially all of their grocery and dietary supplement purchases. In our grocery departments, we only sell USDA certified organic produce and do not approve for sale grocery products that are known to contain artificial flavors, preservatives or sweeteners, synthetic colors, or partially hydrogenated or hydrogenated oils. In addition, we only sell pasture-raised, non-confinement dairy products, free-range eggs ( i.e., from chickens that are not only cage-free but also provided with sufficient space to move) and humanely and sustainably sourced meats, fish and seafood (our product standards do not allow meat from animals known to have been treated with antibiotics, hormones or growth promoters, or fed animal by-products). Consistent with this strategy, our product selection does not include items that do not meet our strict quality guidelines. Our store managers enhance our robust product offering by customizing their stores selections to address the preferences of local customers. All products undergo a stringent review process to ensure the products we sell meet our strict quality guidelines, which we believe helps us generate long-term relationships with our customers based on transparency and trust. 
+Engaging customer service experience based on education and empowerment. We strive to offer consistently exceptional customer service in a convenient, clean and shopper-friendly environment, which we believe creates a differentiated shopping experience, enhances customer loyalty and generates repeat visits from our clientele. A key aspect of our customer service model is to provide free nutrition education to our customers. We believe this focus provides an engaging retail experience while also empowering our customers to make informed decisions about their health. We offer our science-based nutrition education through our trained Crew members, our Health Hotline magazine, community outreach programs, one-on-one nutrition health coaching, nutrition classes, cooking demonstrations and our website. Our commitment to nutrition education and customer empowerment is emphasized throughout our entire organization, from executive management to store Crew members. Every store also maintains a Nutritional Health Coach (NHC) position. The NHC is responsible for educating our customers about good nutrition and for training our store employees on how to assist customers in compliance with applicable local, state and federal regulations. Each NHC must have earned a degree or certificate in nutrition or a related field from an accredited school, complete continuing education in nutrition, and be thoroughly committed to fulfilling our mission. Substantially all of our NHCs are full-time Crew members. We believe our NHC position represents a key element of our customer service model. 
+3 
+Table of Contents 
+Scalable operations and replicable, cost-effective store model. We believe our scalable operating structure, attractive new store model, flexible real estate strategy and disciplined approach to new store development allow us to maximize store performance and continue to grow our store base. O
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 1941KB (capped at 2MB)

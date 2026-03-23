@@ -1,0 +1,100 @@
+# REVOLVE GROUP INC — 10-K Annual Report
+# Filed: 2026-02-25
+# CIK: 1746618
+# SIC: Retail-Catalog & Mail-Order Houses
+# Source: https://www.sec.gov/Archives/edgar/data/1746618/000119312526071307/rvlv-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+7
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+16 
+Item 1B. 
+Unresolved Staff Comments 
+51 
+Item 1C. 
+Cybersecurity 
+51 
+Item 2. 
+Properties 
+53 
+Item 3. 
+Legal Proceedings 
+53 
+Item 4. 
+Mine Safety Disclosures 
+53 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+54 
+Item 6. 
+[Reserved] 
+56 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+57 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+74 
+Item 8. 
+Financial Statements and Supplementary Data 
+74 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+104 
+Item 9A. 
+Controls and Procedures 
+104 
+Item 9B. 
+Other Information 
+105 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+105 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+106 
+Item 11. 
+Executive Compensation 
+106 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+106 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+106 
+Item 14. 
+Principal Accountant Fees and Services 
+106 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+107 
+Item 16. 
+Form 10-K Summary 
+110 
+Signatures 
+111 
+2 
+SUMMARY RISK FACTORS Our business is subject to numerous risks and uncertainties, including those highlighted in the section of this report titled Risk Factors. The following is a summary of the principal risks we face: Economic downturns and other macroeconomic conditions or trends may adversely affect consumer discretionary spending and our business, operating results and financial condition. Tariffs imposed by the U.S. or foreign governments have increased and may in the future continue to increase the cost of our products, which could ignite a global trade war and have a material adverse effect on our business, financial condition and results of operations. If we fail to effectively manage our growth, our business, financial condition and operating results could be harmed. We purchase inventory in anticipation of sales, and if we are unable to manage our inventory effectively, our operating results could be adversely affected. Elevated merchandise returns may adversely affect our operating results and financial condition. If we are unable to anticipate and respond to changing customer preferences and shifts in fashion and industry trends in a timely and cost-effective manner, our business, financial condition and operating results could be harmed. Our business depends on our ability to maintain a strong community of brands, engaged customers and influencers. We may not be able to maintain and enhance our existing brand community if we receive customer or influencer complaints, negative publicity or otherwise fail to live up to consumers expectations, which could materially adversely affect our business, operating results and growth prospects. Use of social media and influencers may materially and adversely affect our reputation or subject us to regulatory and tax obligations, fines, lawsuits or other penalties. If we fail to acquire new customers, or fail to do so in a cost-effective manner, our financial results may be materially adversely impacted. If we fail to retain existing customers, or fail to maintain average order value levels, we may not be able to maintain our revenue base and margins, which would have a material adverse effect on our business and operating results. Our business, including our costs and supply chain, is subject to risks associated with sourcing, manufacturing and warehousing. We rely on third-party suppliers, manufacturers, distributors and other vendors and they may not continue to produce products or provide services that are consistent with our standards or applicable regulatory requirements, which could harm our brand, cause consumer dissatisfaction, and require us to find alternative suppliers of our products or services. Shipping is a critical part of our business and any changes in or interruptions to our shipping arrangements, or any damage, theft or loss of inventory during shipping, could adversely affect our business and operating results. Our industry is highly competitive and if we do not compete effectively, our operating results could be adversely affected. Our quarterly operating results may fluctuate, which could cause our stock price to decline. We may be unable to accurately forecast net sales and appropriately plan our expenses in the future. Our past growth rates are not indicative of expected results in the near term. If we do not successfully optimize, operate and manage the expansion of capacity of our fulfillment centers, our business, financial condition and operating results could be harmed. 
+Our failure to adequately and effectively staff our fulfillment centers, with our own employees or through third parties, could adversely affect our customer experience and operating results. Increases in labor costs, including wages, could adversely affect our business, financial condition and results of operations. Our operating results could be adversely affected by natural disasters, such as wildfires and earthquakes, public health crises, political crises, terrorist attacks, wars and geopolitical tensions, social unrest and other catastrophic events. We may expand our business through acquisitions, joint ventures, strategic investments and commercial collaborations, which may divert management s attention, be difficult to integrate, disrupt our business, dilute stockholder value, prove to be unsuccessful and adversely affect our business, operating results and financial condition. Any failure by us or our vendors to comply with trade and other regulations including importation, exportation, product safety, labeling, labor or other laws, or to provide safe conditions for our or their workers, may lead to investigations or actions by government regulators, damage our reputation and brands and harm our business. We have operations and do business in China, which exposes us to risks inherent in doing business there. We are exposed to fluctuations in currency exchange rates, which could negatively affect our operating results. Failure to comply with federal, state and international laws and regulations and our contractual obligations relating to privacy, data protection and consumer protection, or the expansion of current or the enactment of new laws or regulations relating to privacy, data protection and consumer protection, could harm our reputation or adversely affect our business and our financial condition. Our use of AI and machine learning could adversely affect our business and operating results. If we cannot successfully protect our intellectual property, our business would suffer. The dual class structure of our common stock concentrates voting control with our executive officers, directors and their affiliates, which may depress the trading price of our Class A common stock. Our risk factors are not guarantees that no such conditions exist as of the date of this report and should not be interpreted as an affirmative statement that such risks or conditions have not materialized, in whole or in part. 
+4 
+FORWARD-LOOKING STATEMENTS This report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act. All statements other than statements of historical fact are forward-looking statements for purposes of federal and state securities laws, including any projections of earnings, net sales or other financial items; any statements of the plans, strategies and objectives of management for future operations; any statements concerning proposed new services or developments; any statements regarding future economic conditions or performance; any statements of belief; and any statements of assumptions underlying any of the foregoing. Forward-looking statements may include, among others, the words may, will, estimate, intend, continue, believe, expect, anticipate, predict or any other similar words. Although we believe that the expectations reflected in any of our forward-looking statements are reasonable, actual results could differ materially from those projected or assumed in any of our forward-looking statements. Our future financial condition and results of operations, as well as any forward-looking statements, are subject to change and to inherent risks and uncertainties, such as those disclosed or incorporated by reference in our filings with the Securities and Exchange Commission, or the SEC. Important factors that could cause our actual results, performance and achievements, or industry results to differ materially from estimates or projections contained in our forward-looking statements include, among others, the following: economic conditions and their impact on consumer demand and our business, operating results and financial condition; the effect of tariffs imposed by the U.S. or foreign governments or a global trade war; our ability to effectively manage or sustain our growth and to effectively expand our operations; our ability to retain our existing customers and acquire new customers; our ability to sustain and expand our gross margin and Adjusted EBITDA margin, a non-GAAP financial measure; our ability to respond to changing consumer demand, spending habits and customer preferences, and our ability to accurately and effectively engage in predictive analytics; our ability to retain existing vendors and brands and to attract new vendors and brands; our ability to obtain and maintain differentiated high-quality products from appropriate brands in sufficient quantities from vendors; our ability to obtain and maintain sufficient inventory at prices that will keep our business model profitable, and of a quality that will continue to retain existing customers and attract new customers; our ability to expand our product offerings, including our owned brands; our reliance on overseas suppliers and manufacturing partners, particularly in China; our ability to expand our operations and physical store presence in an efficient and cost-effective manner; our ability to maintain and enhance our brand; our ability to optimize, operate, manage and expand our network infrastructure and our fulfillment center and delivery channels; the growth of the market for premium lifestyle and luxury products, and the online market for premium lifestyle and luxury products in particular; our ability to accurately forecast demand for our products and our results of operations; the effect of claims, lawsuits, government investigations, other legal or regulatory proceedings or commercial or contractual disputes; and the effect of natural disasters, such as wildfires and earthquakes, or other catastrophic events. 
+5 
+Additional factors that could cause actual results to differ materially from our forward-looking statements are set forth in this report, including under the headings Risk Factors and Management s Discussion and Analysis of Financial Condition and Results of Operations and in our condensed consolidated financial statements and the related notes thereto. Forward-looking statements in this report speak only as of the date hereof, and forward-looking statements in documents that are incorporated by reference speak only as of the date of those documents. We do not undertake any obligation to update or release any revisions to any forward-looking statement or to report any events or circumstances after the date hereof or to reflect the occurrence of unanticipated events, except as required by law. In addition, statements that we believe and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this report, and although we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted a thorough inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements. Furthermore, if our forward-looking statements prove to be inaccurate, the inaccuracy may be material. In light of the significant uncertainties in these forward-looking statements, you should not regard these statements as a representation or warranty by us or any other person that we will achieve our objectives and plans in any specified time frame, or at all. We undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. In this report, we, our, us, Company and Revolve refer to Revolve Group, Inc., and where appropriate its subsidiaries. 
+6 
+PAR T I Item 1. B USINESS Our Business REVOLVE is the next-generation fashion retailer for Millennial and Generation Z consumers. As a trusted premium lifestyle brand and a go-to online source for discovery and inspiration, we deliver exceptional service and an engaging customer experience with a vast yet curated offering totaling over 140,000 apparel and footwear styles, as well as beauty and accessories. Our dynamic platform connects a deeply engaged community of millions of consumers, thousands of global fashion influencers and over 1,600 emerging, established and owned brands. Through more than 20 years of investment in technology, data analytics and innovative marketing and merchandising strategies, we have built a powerful platform and brand that we believe is connecting with the next generation of consumers and is redefining fashion retail. Our co-chief executive officers founded REVOLVE in 2003 with the vision of leveraging digital channels and technology to transform the shopping experience, offering a scaled, one-stop destination for youthful, aspirational consumers. We believe that our model is more targeted and curated than premium department stores, and provides a greater selection and access than specialty retailers, which allows us to more effectively serve the next-generation consumer. To improve on the merchandise offerings of traditional retail, we have built a custom, proprietary technology platform to manage nearly all aspects of our business, with a particular focus on developing sophisticated and highly automated inventory management, pricing and trend-forecasting algorithms. Our proprietary technology leverages a comprehensive data net that encompasses millions of styles, attributes and customer interactions forming a strategic asset of hundreds of millions of data points. We have complemented these efforts with an organization built from the
+
+## GEOGRAPHIC REVENUE
+s, served 2.8 million active customers, offered over 1,600 brands and delivered over 230,000 unique styles, which we believe makes us one of the largest standalone fashion eCommerce businesses in the United States. Our average order value was $299 in 2025, which is reflective of our focus on premium merchandise sold primarily at full price and our differentiation from mass market, low price or value-based retailers. Our business is specifically targeted towards next-generation consumers, predominantly female, and we believe this more specific targeting results in a better experience for our customer, leading to strong loyalty and increases in market share over time. We further believe our brand and positioning in the market has strong network effects among our community of customers, brands and influencers, because we are able to provide increasing value to each of those constituents as our scale increases. Data-Driven Merchandising . Our data-driven merchandising approach allows us to offer a broad yet curated assortment of on-trend apparel, footwear, beauty and accessories while managing fashion and inventory risk. We employ a read and react model that combines quantitative and qualitative decision-making to identify trends, curate assortments, facilitate our merchandise planning and re-order processes, and manage pricing. Our technology enables us to automate the rapid identification of new trends and emerging brands, allowing us to offer a vast and diversified product assortment that does not rely on any given trend or style and has limited overlap with other retailers. Furthermore, by introducing new products almost daily in limited quantities, we create a sense of urgency for our customers. As a result, sales of products at full retail price represented approximately 81%, 82% and 79% of total net sales in 2025, 2024 and 2023, respectively. Our Brands . Through the REVOLVE and FWRD brands, we have established a deep connection with a loyal community of youthful, aspirational consumers through our premium positioning, strong consumer affinity and reputation as a key resource for fashion discovery and inspiration. Our customers are highly engaged, frequently
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

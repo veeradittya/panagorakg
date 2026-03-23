@@ -1,0 +1,135 @@
+# BLACKSTONE INC — 10-K Annual Report
+# Filed: 2026-02-27
+# CIK: 1393818
+# SIC: Investment Advice
+# Source: https://www.sec.gov/Archives/edgar/data/1393818/000119312526082531/d48618d10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+7
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+23 
+Item 1B. 
+Unresolved Staff Comments 
+74 
+Item 1C. 
+Cybersecurity 
+75 
+Item 2. 
+Properties 
+77 
+Item 3. 
+Legal Proceedings 
+77 
+Item 4. 
+Mine Safety Disclosures 
+77 
+Part II. 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+78 
+Item 6. 
+(Reserved) 
+79 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+80 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+143 
+Item 8. 
+Financial Statements and Supplementary Data 
+147 
+Item 8A. 
+Unaudited Supplemental Presentation of Statements of Financial Condition 
+223 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+226 
+Item 9A. 
+Controls and Procedures 
+226 
+Item 9B. 
+Other Information 
+227 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+227 
+Part III. 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+228 
+Item 11. 
+Executive Compensation 
+235 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+255 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+258 
+Item 14. 
+Principal Accountant Fees and Services 
+264 
+Part IV. 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+265 
+Item 16. 
+Form 10-K Summary 
+284 
+Signatures 
+285 
+1 
+P5Y P3Y P3Y true http://fasb.org/us-gaap/2025#UnrealizedGainLossOnInvestments http://fasb.org/us-gaap/2025#UnrealizedGainLossOnInvestments http://fasb.org/us-gaap/2025#OtherAssets http://fasb.org/us-gaap/2025#OtherAssets Forward-Looking Statements This report may contain forward-looking statements within the meaning of Section 27A of the U.S. Securities Act of 1933, as amended, and Section 21E of the U.S. Securities Exchange Act of 1934, as amended, which reflect our current views with respect to, among other things, our operations, taxes, earnings and financial performance, share repurchases and dividends. You can identify these forward-looking statements by the use of words such as outlook, indicator, believes, expects, potential, continues, may, will, should, seeks, approximately, predicts, intends, plans, scheduled, estimates, anticipates, opportunity, leads, forecast, possible or the negative version of these words or other comparable words. Such forward-looking statements are subject to various risks and uncertainties. Accordingly, there are or will be important factors that could cause actual outcomes or results to differ materially from those indicated in these statements. We believe these factors include but are not limited to those described under the section entitled Risk Factors in this report, as such factors may be updated from time to time in our subsequent filings with the United States Securities and Exchange Commission ( SEC ), which are accessible on the SEC s website at www.sec.gov. These factors should not be construed as exhaustive and should be read in conjunction with the other cautionary statements that are included in this report and in our other periodic filings. The forward-looking statements speak only as of the date of this report, and we undertake no obligation to publicly update or review any forward-looking statement, whether as a result of new information, future developments or otherwise. Risk Factor Summary The following is only a summary of the principal risks that may materially adversely affect our business, financial condition, results of operations and cash flows. The following should be read in conjunction with the more complete discussion of the risk factors we face, which are set forth more fully in Part I. Item 1A. Risk Factors. Risks Related to Our Business 
+Our business could be adversely affected by difficult market, economic and geopolitical conditions, each of which could materially reduce our revenue, earnings and cash flow and adversely affect our operating results and financial prospects and condition. 
+A slower than expected decrease in interest rates and other challenges in the financial markets could negatively impact the values of certain assets or investments and the ability of our funds and their portfolio companies to access the capital markets, which could adversely affect investment and realization opportunities. 
+A decline in the pace or size of investments made by, or poor performance of, our funds may adversely affect our revenues and obligate us to repay Performance Allocations previously paid to us, and could adversely affect our ability to raise capital. 
+Our revenue, earnings, net income and cash flow can all vary materially, which may make it difficult for us to achieve steady earnings growth on a quarterly basis. 
+The asset management business depends in large part on our ability to raise capital from third-party investors and is intensely competitive. 
+Our business could be adversely affected by the loss of services from our co-founder and other key senior managing directors and personnel or future difficulty in recruiting and retaining professionals. 
+Changes in U.S. and foreign taxation of businesses and other tax laws, regulations or treaties could adversely affect us, including by adversely impacting our effective tax rate and tax liability. 
+Cybersecurity or other operational risks could result in the loss of data, interruptions in our business and damage to our reputation, and subject us to regulatory actions, increased costs and financial losses. 2 Table of Contents 
+Technological developments in artificial intelligence could disrupt the markets in which we and our portfolio companies operate and subject us to increased competition, legal and regulatory risks and compliance costs. 
+Extensive regulation of our businesses affects our activities, creates the potential for significant liabilities and penalties, may make it more difficult for us to deploy capital in certain jurisdictions or sell assets to certain buyers, and could result in additional burdens on our business. 
+We are subject to increasing scrutiny from regulators and certain investors with respect to sustainability matters, including climate change, and the impacts of investments made by our funds. 
+Climate change, climate change-related regulation and sustainability concerns could adversely affect our businesses and the operations of our portfolio companies, and any actions we take or fail to take in response to such matters could damage our reputation. 
+Employee misconduct could impair our ability to attract and retain clients and subject us to legal liability and reputational harm. Fraud, deceptive practices or other misconduct at portfolio companies or service providers could similarly subject us to liability and reputational damage and harm performance. 
+We are subject to substantial litigation risks and may face significant liabilities and damage to our reputation as a result of allegations of improper conduct and negative publicity. 
+Certain policies and procedures implemented to mitigate potential conflicts of interest and other risk management activities may reduce the synergies across our various businesses, and failure to deal appropriately with conflicts of interest could damage our reputation and adversely affect our businesses. 
+Valuation methodologies can be subject to a significant degree of subjectivity and judgment, and the expected fair value of assets may never be realized. 
+We may be unable to consummate or successfully integrate development opportunities or increase the number and type of investment products, including those offered to retail investors and insurance companies. 
+Our underwriting activities, borrowings for our operations and dependence on significant leverage in investments by our funds exposes us to risks. 
+Investors may have certain redemption, termination or dissolution rights or may not satisfy their contractual obligation to fund capital calls when requested by us. 
+Certain of our investment funds may invest in securities of companies that rank junior to others investments or are experiencing significant financial or business difficulties, exposing us to greater risk of loss. 
+Investments in certain assets and industries, such as digital and other infrastructure, energy and real estate, may expose us to risks inherent to those assets and industries, including environmental liabilities and increased operational, construction, regulatory and market risks. 
+Our funds and our performance may be adversely affected by inaccurate financial projections of our funds portfolio companies, contingent liabilities, counterparty defaults or forced disposal of investments at a disadvantageous time. Risks Related to Our Organizational Structure 
+The significant voting power of holders of our Series I preferred stock and Series II preferred stock may limit the ability of holders of our common stock to influence our business. 
+We are not required to comply with certain provisions of U.S. securities laws relating to proxy statements and, as a controlled company, certain requirements of the New York Stock Exchange. 3 Table of Contents 
+Our certificate of incorporation provides the Series II Preferred Stockholder with certain rights that may affect or conflict with the interests of the other stockholders and could materially alter our operations. 
+We are required to pay our senior managing directors for most of the benefits relating to certain additional tax depreciation or amortization deductions we may claim. 
+If Blackstone Inc. were deemed an investment company under the 1940 Act, applicable restrictions could make it impractical for us to continue our business as contemplated. Risks Related to Our Common Stock 
+The price of our common stock may decline due to the large number of shares of common stock eligible for future sale and exchange. 
+Our certificate of incorporation provides us with a right to acquire all of the then outstanding shares of common stock under specified circumstances. 
+Our bylaws designate the Court of Chancery of the State of Delaware or U.S. federal district courts, as applicable, as the sole and exclusive forum for certain types of actions and proceedings. In this report, references to Blackstone, the Company, we, us or our refer to Blackstone Inc. and its consolidated subsidiaries. Series I Preferred Stockholder refers to Blackstone Partners L.L.C., the holder of the sole outstanding share of our Series I preferred stock. Series II Preferred Stockholder refers to Blackstone Group Management L.L.C., the holder of the sole outstanding share of our Series II preferred stock. Blackstone Holdings, Blackstone Holdings Partnerships or Holdings Partnerships refer to Blackstone Holdings I L.P., Blackstone Holdings AI L.P., Blackstone Holdings II L.P., Blackstone Holdings III L.P. and Blackstone Holdings IV L.P., collectively. Blackstone Funds, our funds and our investment funds refer to the funds and other vehicles that are managed by Blackstone. Our carry funds refers to funds managed by Blackstone that have commitment-based multi-year drawdown structures that pay carry on the realization of an investment. Our hedge funds refers to our funds of hedge funds, hedge funds, certain of our real estate debt investment funds and certain other credit-focused funds which are managed by Blackstone. We refer to our separately managed accounts as SMAs. Total Assets Under Management refers to the invested and available capital in Blackstone-managed or advised vehicles (including, without limitation, investment funds and SMAs). The Total Assets Under Management attributable to an individual vehicle is dependent on the structure and investment strategy of such vehicle and accordingly, will vary from vehicle to vehicle. Total Assets Under Management generally equals the sum of the following across Blackstone-managed or advised vehicles, as applicable: 
+(a) 
+a vehicle s invested capital at fair value which, as applicable, is measured as (1) total investments measured at fair value, or gross asset values, each of which may include the fair value of investments purchased with leverage under certain credit facilities, (2) net asset value, or (3) amount of debt and equity outstanding or aggregate par amount of assets, including principal cash for collateralized loan obligation vehicles ( CLOs ), and 4 Table of Contents 
+(b) 
+a vehicle s available capital, if any, which represents (1) uncalled commitments made by investors and (2) available borrowing capacity under certain credit facilities. Uncalled commitments represent the capital we are entitled to call from investors pursuant to the terms of their respective capital commitments, including capital commitments to funds that have yet to commence their investment periods. Drawdown funds, perpetual capital vehicles, co-investment vehicles, and SMAs can each be structured with a commitment from an investor that is called over time as opposed to fully funded upon subscription. Assets may be raised in one vehicle or business unit and subsequently invested in or managed or advised by another vehicle or business unit. Total Assets Under Management are reported in the segment where the assets are managed. Our measurement of Total Assets Under Management includes commitments to, and the fair value of, invested capital in our funds from Blackstone and our personnel. Our calculation of Total Assets Under Management may differ from the calculations of other asset managers, and as a result this measure may not be comparable to similar measures presented by other asset managers. Our definition of Total Assets Under Management differs from the manner in which affiliated investment advisors report regulatory assets under management and may differ from the definition set forth in the agreements governing the vehicles we manage or advise. Fee-Earning Assets Under Management refers to the portion of Total Assets Under Management on which we are entitled to earn management fees and/or performance revenues. The Fee-Earning Assets Under Management attributable to an individual vehicle is driven by the basis on which fees are earned and accordingly, will vary from vehicle to vehicle. Fee-Earning Assets Under Management generally equals the sum of the following across Blackstone-managed or advised vehicles, as applicable: (a) net asset value, (b) committed capital and remaining invested capital during the investment period and post-investment period, respectively, (c) invested capital (including leverage to the extent management fee-eligible), (d) gross asset value, (e) fair value of investments, or (f) the aggregate par amount of collateral assets, including principal cash, of CLOs. Assets may be raised in one vehicle or business unit and subsequently invested in or managed or advised by another vehicle or business unit. Fee-Earning Assets Under Management are reported in the segment where the Total Assets Under Management are re
+
+## GEOGRAPHIC REVENUE
+hese factors include but are not limited to those described under the section entitled Risk Factors in this report, as such factors may be updated from time to time in our subsequent filings with the United States Securities and Exchange Commission ( SEC ), which are accessible on the SEC s website at www.sec.gov. These factors should not be construed as exhaustive and should be read in conjunction with the other cautionary statements that are included in this report and in our other periodic filings. The forward-looking statements speak only as of the date of this report, and we undertake no obligation to publicly update or review any forward-looking statement, whether as a result of new information, future developments or otherwise. Risk Factor Summary The following is only a summary of the principal risks that may materially adversely affect our business, financial condition, results of operations and cash flows. The following should be read in conjunction with the more complete discussion of the risk factors we face, which are set forth more fully in Part I. Item 1A. Risk Factors. Risks Related to Our Business 
+Our business could be adversely affected by difficult market, economic and geopolitical conditions, each of which could materially reduce our revenue, earnings and cash flow and adversely affect our operating results and financial prospects and condition. 
+A slower than expected decrease in interest rates and other challenges in the financial markets could negatively impact the values of certain assets or investments and the ability of our funds and their portfolio companies to access the capital markets, which could adversely affect investment and realization opportunities. 
+A decline in the pace or size of investments made by, or poor performance of, our funds may adversely affect our revenues and obligate us to repay Performance Allocations previously paid to us, and could adversely affect our ability to raise capital. 
+Our revenue, earnings, net income and cash flow can all vary materially, which may make it difficult for us to achieve steady earnings growth on a quarterly basis. 
+The asset management business depends in large part on our ability
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the total shares of any class of our stock then outstanding (other than Series I preferred stock and Series II preferred stock) is held by persons other than the Series II Preferred Stockholder and its affiliates, we may exercise our right to call and purchase all of the then outstanding shares of common stock held by persons other than the Series II Preferred Stockholder or its affiliates or assign this right to the Series II Preferred Stockholder or any of its affiliates. As a result, a stockholder may have his or her shares of common stock purchased from him or her at an undesirable time or price and in a manner which adversely affects the ability of a stockholder to participate in further growth in our stock price. Our amended and restated bylaws designate the Court of Chancery of the State of Delaware or the federal district courts of the United States of America, as applicable, as the sole and exclusive forum for certain types of actions and proceedings that may be initiated by our stockholders, which could limit our stockholders ability to obtain a favorable judicial forum for disputes with Blackstone or our directors, officers or other employees. Our amended and restated bylaws provide that, unless we consent in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware will, to the fullest extent permitted by law, be the sole and exclusive forum for: (a) any derivative action or proceeding brought on our behalf, (b) any action asserting a breach of fiduciary duty owed by any of our current or former directors, officers, stockholders or employees to us or our stockholders, (c) any action asserting a claim against us arising under the Delaware General Corporation Law (the DGCL ), our certificate of incorporation or our amended and restated bylaws or as to which the DGCL confers jurisdiction on the Court of Chancery of the State of Delaware, or (d) any action asserting a claim against us that is governed by the inte
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,103 @@
+# TRANSMEDICS GROUP INC — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 1756262
+# SIC: Electromedical & Electrotherapeutic Apparatus
+# Source: https://www.sec.gov/Archives/edgar/data/1756262/000119312526067032/tmdx-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+26 
+Item 1B. 
+Unresolved Staff Comments 
+60 
+Item 1C. 
+Cybersecurity 
+61 
+Item 2. 
+Properties 
+61 
+Item 3. 
+Legal Proceedings 
+61 
+Item 4. 
+Mine Safety Disclosures 
+62 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+62 
+Item 6. 
+Reserved 
+64 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+65 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+78 
+Item 8. 
+Financial Statements and Supplementary Data 
+79 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+114 
+Item 9A. 
+Controls and Procedures 
+114 
+Item 9B. 
+Other Information 
+115 
+Item 9C. 
+Disclosures Regarding Foreign Jurisdictions that Prevent Inspections 
+115 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+116 
+Item 11. 
+Executive Compensation 
+116 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+116 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+116 
+Item 14. 
+Principal Accounting Fees and Services 
+116 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+117 
+Item 16 
+Form 10-K Summary 
+120 
+SIGNATURES 
+121 
+i 
+FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements, which reflect our current views with respect to, among other things, our operations and financial performance. All statements other than statements of historical facts contained in this Annual Report on Form 10-K, including statements regarding our future results of operations and financial position, business strategy and plans and our objectives for future operations, are forward-looking statements. The words believe, may, will, estimate, continue, anticipate, intend, expect, should, could, target, predict, seek and similar expressions are intended to identify forward-looking statements. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our financial condition, results of operations, business strategy, short- and long-term business operations and objectives, and financial needs. These forward-looking statements are subject to a number of risks, uncertainties and assumptions, including those described in Item 1A. Risk Factors in this Annual Report on Form 10-K, which could cause actual results to differ materially. Moreover, we operate in a very competitive and rapidly changing environment and new risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in, or implied by, any forward-looking statements we may make. In light of these risks, uncertainties and assumptions, the forward-looking events and circumstances discussed in this Annual Report on Form 10-K may not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. The forward-looking statements included in this Annual Report on Form 10-K are made only as of the date of this report and should not be relied upon as predictions of future events. Factors or events that could cause our actual results to differ may emerge from time to time, and we are not able to predict all of them. We undertake no obligation to update any forward-looking statement, whether as a result of new information, future developments, or otherwise, except as may be required by applicable law. RISK FACTORS SUMMARY An investment in our common stock involves risks. The following risks, which are discussed more fully in Item 1A. Risk Factors , and all of the other information contained in this Annual Report on Form 10-K should be considered carefully before investing in our common stock. These risks include, but are not limited to, the following: the fluctuation of our financial results from quarter to quarter; our ability to attract, train and retain key personnel; our dependence on the success of the Organ Care System, or OCS TM ; our ability to expand access to the OCS through our National OCS Program, or NOP TM ; our ability to improve the OCS platform, including by developing the next generation of the OCS products or expanding into new indications, and the development, and potential commercialization of our OCS Kidney device; the timing or results of clinical trials for the OCS, including pre- and post-approval studies; our ability to sustain profitability; our need to raise additional funding and our ability to obtain it on favorable terms, or at all; our ability to use net operating losses and research and development credit carryforwards; that we have identified a material weakness in our internal control over financial reporting, and that we may identify additional material weaknesses in the future; our ability to scale our manufacturing and sterilization capabilities to meet increasing demand for our products; the rate and degree of market acceptance of the OCS; our ability to educate patients, surgeons, transplant centers and private and public payors on the benefits offered by the OCS; our dependence on a limited number of customers for a significant portion of our revenue; our ability to maintain regulatory approvals or clearances for our OCS products in the United States, the European Union and other select jurisdictions worldwide; our ability to adequately respond to the Food and Drug Administration, or FDA, or other competent authorities, follow-up inquiries in a timely manner; 
+1 
+the impact of healthcare policy changes, including recently enacted or potential future legislation or administrative actions affecting or reforming the U.S. healthcare system, Organ Procurement and Transplantation Network, or OPTN, or the FDA; the performance of our third-party suppliers and manufacturers; our use of third parties to transport donor organs and medical personnel for our NOP and our ability to maintain and grow our transplant logistics capabilities to support our NOP to reduce dependence on third party transportation, including by means of attracting, training and retaining pilots, and the acquisition, maintenance or replacement of fixed-wing aircraft for our aviation transportation services or other acquisitions, joint ventures or strategic investments; our ability to maintain Federal Aviation Administration, or FAA, or other regulatory licenses or approvals for our aircraft transportation services; price increases of the components of our products and maintenance, parts and fuel for our aircraft; our manufacturing, sales, marketing and clinical support capabilities and strategy; attacks against our information technology infrastructure; the economic, political and other risks associated with our foreign operations; our ability to protect, defend, maintain and enforce our intellectual property rights relating to the OCS and avoid allegations that our products or services infringe, misappropriate or otherwise violate the intellectual property rights of third parties; the pricing of the OCS, as well as the reimbursement coverage for the OCS in the United States and internationally; regulatory developments in the United States, European Union and other jurisdictions; the impact of a shutdown of the U.S. government; the extent and success of competing products or procedures that are or may become available; our ability to service our 1.50% convertible senior notes, due 2028, or the Notes; our existing and any future indebtedness, including our ability to comply with affirmative and negative covenants under our credit agreements to which we will remain subject until maturity; the impact of any product recalls or improper use of our products; our international expansion plans and the costs related thereto; and our estimates regarding revenue, expenses and needs for additional financing. 
+2 
+PART I Except where the context otherwise requires or where otherwise indicated, the terms TransMedics, we, us, our, our company, the company, and our business refer to TransMedics Group, Inc. and its consolidated subsidiaries. Item 1. Business. Overview We are a medical technology company transforming organ transplant therapy for end-stage organ failure patients across multiple disease states. We developed the OCS to replace a decades-old standard of care that we believe is significantly limiting access to life-saving transplant therapy for hundreds of thousands of patients worldwide. Our innovative OCS technology replicates many aspects of the organ s natural living and functioning environment outside of the human body. As such, the OCS represents a paradigm shift that transforms organ preservation for transplantation from a static state to a dynamic environment that enables new capabilities, including organ optimization and assessment. We have also developed our NOP, an innovative turnkey solution to provide outsourced organ procurement, OCS perfusion management and transplant logistics services, to provide transplant programs in the United States with a more efficient process to procure donor organs with the OCS. Our transplant logistics services include aviation transportation, ground transportation, and other coordination activity. We believe the use of the OCS combined with the NOP has the potential to significantly increase the number of organ transplants and improve post-transplant outcomes. We designed the OCS to be a platform that allows us to leverage core technologies across products for multiple organs. To date, we have developed three OCS products, one for each of heart, lung and liver transplantations, making the OCS the only FDA approved, portable, multi-organ, warm perfusion technology platform. All three of our products, OCS Heart, OCS Lung and OCS Liver, have received Pre-Market Approval, or PMA, from the FDA, for both organs donated after brain death, or DBD organs, and organs donated after circulatory death, or DCD organs. Incidence of end-stage organ failure has been rapidly rising worldwide due to demographic trends that contribute to chronic diseases. Organ transplantation is the treatment of choice for addressing end-stage organ failure due to its positive clinical outcomes and favorable health economics. However, transplant volumes have been significantly restricted by the limitations of cold storage, the standard of care for solid organ transplantation. Cold storage is a rudimentary approach to organ preservation in which a donor organ is flushed with cold pharmaceutical solutions, placed in a plastic bag on top of ice and transported in a cooler. Cold storage subjects organs to significant injury due to a lack of oxygenated blood supply, or ischemia. Further, cold storage does not allow physicians to assess organ viability and lacks the ability to optimize an organ s condition once it has been retrieved from the donor. Time-dependent ischemic injury has been shown to result in short- and long-term post-transplant clinical complications and, together with the inability to assess or optimize organs, contributes to the severe underutilization of donor organs. With the use of cold storage, the majority of lungs and hearts donated after brain death go unutilized, and almost no available lungs and hearts donated after circulatory death are utilized. We developed the OCS to comprehensively address the major limitations of cold storage. The OCS is a portable organ perfusion, optimization and monitoring system that utilizes our proprietary and customized technology to replicate near-physiologic conditions for donor organs outside of the human body. We designed the OCS technology platform to perfuse donor organs with warm, oxygenated, nutrient-enriched blood, while maintaining the organs in a living, functioning state; the lung is breathing, the heart is beating and the liver is producing bile. Because the OCS significantly reduces injurious ischemic time on donor organs as compared to cold storage and enables the optimization and assessment of donor organs, it has demonstrated improved clinical outcomes relative to cold storage and reported high donor organ utilization rates for transplants. We developed the NOP to provide additional capabilities to transplant centers for the complicated organ procurement process that often requires resources and logistics beyond a transplant center s existing capabilities and capacity, thereby limiting the number of organs the transplant center may be able to retrieve. Our NOP provides an end-to-end service offering delivering organs from anywhere in the United States on-demand directly to transplant centers leveraging our proprietary OCS technology, trained organ procurement surgeons and clinical specialists, and specially designed and dedicated air and ground transport logistics network. Our end-to-end service offering is necessary to ensure: (i) the successful execution of procuring and delivering healthy organs; (ii) the availability of the necessary surgical and clinical resources; (iii) that the highest transportation safety standards are met; (iv) the sharing of cost efficiencies and reducing cost burden of DCD donors that do not progress to become donors; and (v) the increased access to donor organs that are historically unutilized, all of which combine to make certain that TransMedics is able to provide the highest quality of service to transplant recipients, increasing the likelihood of success in the transplant process for each individual, and ultimately increasing the number of organs transplanted each year in the United States. Our transplant logistics services include aviation transportation, ground transportation, and other coordination activity that is capable of arranging procurement missions on limited notice and at various hours of the day. Our NOP provides transplant centers with the ability to utilize the OCS to procure and transplant more organs for their patients than they would otherwise be able to do without increasing their own staff. 
+3 
+In August 2023, we acquired Summit Aviation, Inc. and Northside Property Group, LLC, or together Summit. Summit was a charter flight operator based in Bozeman, Montana. The acquisition enabled us to add aircraft transportation services to our NOP and become a comprehensive national provider of donor organ procurement and delivery in the United States. We have also acquired 22 fixed-wing aircraft to transport donor organs as part of the services offered under our NOP. We intend to opportunistically evaluate acquisitions of additional fixed-wing aircraft to enhance our logistics capabilities and support international expansion. We believe the OCS and the NOP drive significant benefits to all stakehold
+
+## GEOGRAPHIC REVENUE
+ts offered by the OCS; our dependence on a limited number of customers for a significant portion of our revenue; our ability to maintain regulatory approvals or clearances for our OCS products in the United States, the European Union and other select jurisdictions worldwide; our ability to adequately respond to the Food and Drug Administration, or FDA, or other competent authorities, follow-up inquiries in a timely manner; 
+1 
+the impact of healthcare policy changes, including recently enacted or potential future legislation or administrative actions affecting or reforming the U.S. healthcare system, Organ Procurement and Transplantation Network, or OPTN, or the FDA; the performance of our third-party suppliers and manufacturers; our use of third parties to transport donor organs and medical personnel for our NOP and our ability to maintain and grow our transplant logistics capabilities to support our NOP to reduce dependence on third party transportation, including by means of attracting, training and retaining pilots, and the acquisition, maintenance or replacement of fixed-wing aircraft for our aviation transportation services or other acquisitions, joint ventures or strategic investments; our ability to maintain Federal Aviation Administration, or FAA, or other regulatory licenses or approvals for our aircraft transportation services; price increases of the components of our products and maintenance, parts and fuel for our aircraft; our manufacturing, sales, marketing and clinical support capabilities and strategy; attacks against our information technology infrastructure; the economic, political and other risks associated with our foreign operations; our ability to protect, defend, maintain and enforce our intellectual property rights relating to the OCS and avoid allegations that our products or services infringe, misappropriate or otherwise violate the intellectual property rights of third parties; the pricing of the OCS, as well as the reimbursement coverage for the OCS in the United States and internationally; regulatory developments in the United States, European Union and other jurisdictions; the impact of a shutdown of the U.S. government; the extent
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+largest customers. Our future success will depend upon the timing and volume of business from our largest customers and the financial and operational success of these customers. If we were to lose a key customer or have a key customer significantly reduce their volume of business with us, our revenue may be materially reduced, which would materially and adversely affect our business, financial condition, operating results, cash flows and prospects. Substantially all of our U.S. customers now participate in our NOP and our success will depend on our ability to maintain the function and efficiency, while increasing capacity and capability, of the NOP. If we are unable to deliver OCS products to customers through their participation in the NOP, our revenue would be materially reduced, which would materially and adversely affect our business, financial condition, operating results, cash flows and prospects. 
+32 
+We depend on single-source suppliers and, in a few cases, sole-source suppliers for many of the components used in the OCS, and any supply interruption could harm our business. We rely on single-source suppliers and, in a few cases, sole-source suppliers for many of the components used in the OCS. For example, each of Fresenius Kabi Austria GmbH and Fresenius Kabi AB, which we refer to collectively as Fresenius, is our single-source supplier of OCS Solutions for the OCS Lung and the OCS Heart, respectively. While we have manufacturing and supply agreements with certain of our suppliers, for most of our suppliers, we place purchase orders on an as-needed basis. Our suppliers could discontinue the manufacturing or supply of these components at any time. We do not carry a significant inventory of some of these components. Our suppliers may not be able to meet our demand for their products, either because of acts of nature, the nature of our agreements with those manufacturers or our relative importance to them as a customer, and our manufacturers may decide in the
+
+---
+Doc size: 2048KB (capped at 2MB)

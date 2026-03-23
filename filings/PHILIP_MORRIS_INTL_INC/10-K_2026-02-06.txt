@@ -1,0 +1,14 @@
+# PHILIP MORRIS INTL INC — 10-K Annual Report
+# Filed: 2026-02-06
+# CIK: 1413329
+# SIC: Cigarettes
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1413329/000162828026005939/pm-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+7 Item&#160;1B.
+
+## GEOGRAPHIC REVENUE
+segment"> pm:segment pm:business iso4217:GBP xbrli:pure iso4217:CAD iso4217:EUR iso4217:SEK pm:year pm:driver pm:metric iso4217:IDR pm:claim pm:case pm:patient pm:entity pm:plaintiff pm:defendant iso4217:BRL pm:patent pm:arrangement pm:subsidiary 0001413329 2025-01-01 2025-12-31 0001413329</xbrli:identif
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

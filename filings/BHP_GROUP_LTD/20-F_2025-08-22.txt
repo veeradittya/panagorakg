@@ -1,0 +1,41 @@
+# BHP GROUP LTD — 20-F Annual Report
+# Filed: 2025-08-22
+# CIK: 811809
+# SIC: Metal Mining
+# Source: https://www.sec.gov/Archives/edgar/data/811809/000119312525185641/d941636d20f.htm
+
+## BUSINESS DESCRIPTION
+(Not extracted)
+
+## RISK FACTORS
+ set out in OFR 11. In addition, there are limitations with respect to scenario analysis, including any climate-related scenario analysis, and it is difficult to predict which, if any, of the scenarios might eventuate. Scenario analysis is not an indication of probable outcomes and relies on assumptions that may or may not prove to be correct or eventuate. Except as required by applicable regulations or by law, BHP does not undertake to publicly update or review any forward-looking statements, whether as a result of new information or future events. Past performance cannot be relied on as a guide to future performance. Emissions and energy consumption data Due to the inherent uncertainty and limitations in measuring GHG emissions and operational energy consumption under the calculation methodologies used in the preparation of such data, all GHG emissions and operational energy consumption data or references to GHG emissions and operational energy consumption volumes (including ratios or percentages) in this Report are estimates. There may also be differences in the manner that third parties calculate or report GHG emissions or operational energy consumption data compared to BHP, which means third-party data may not be comparable to our data. 
+ ii 
+
+ Table of Contents 
+
+ Form 20-F Cross Reference Table 
+
+ Item Number 
+ 
+ Description 
+ 
+ Report section reference 
+
+ 1. 
+
+ Identity of Directors, Senior Management and Advisors 
+ 
+ Not applicable 
+ 
+ 2. 
+
+ Offer Statistics and Expected Timetable 
+ 
+ Not applicable 
+ 
+ 3. 
+
+ 
+
+---
+Document size: 9283 KB

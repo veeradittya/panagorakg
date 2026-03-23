@@ -1,0 +1,14 @@
+# DEVON ENERGY CORP NEW — 10-K Annual Report
+# Filed: 2026-02-18
+# CIK: 1090012
+# SIC: Crude Petroleum & Natural Gas
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1090012/000119312526056485/dvn-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+&#160; 16
+
+## GEOGRAPHIC REVENUE
+segment> dvn:MarketingAndMidstreamRevenuesMember srt:OilReservesMember 2025-01-01 2025-12-31 0001090012 dvn:BarnettShaleMember 2023-01-01 2023-03-31 0001090012 us-gaap:PensionPlansDefinedBenefitMember 2025-01-01 2025-12-31 0001090012 dvn:ShortTermDerivativeLiabilityMember 2024-12-31 0001090012 dvn:ShortTermDerivativeLiabilityMem
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customers were to stop purchasing our production, the Company believes there are a number of other purchasers to whom the company could sell Devon&#8217;s production. If multiple significant customers were to discontinue purchasing Devon&#8217;s production abruptly, the Company believes it would have the resources needed to access alternative customers or markets and avoid or materially mitigate associated sales disruptions. Derivative Financial Instruments<

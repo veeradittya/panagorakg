@@ -1,0 +1,14 @@
+# PFIZER INC — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 78003
+# SIC: Pharmaceutical Preparations
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+16 ITEM&#160;1B.
+
+## GEOGRAPHIC REVENUE
+segment" contextRef="c-1" decimals="INF" name="us-gaap:NumberOfReportableSegments" scale="0" id="f-586">1 P4Y P18M P1Y P5Y Consolidated Statements of Operations Consolidated Statements of Operations Consolidated Statements of Operations http://fasb.org/us-gaap/2025#OtherAssetsCurrent http://fasb.org/us-gaap/2025#OtherAssetsCurrent http://fasb.org/us-gaap/2025#OtherAssetsNoncurrent <ix:nonNumeric contextRef="c-19" name="us-gaap:DerivativeAssetNoncurrentStatementOfFinancialPositionExtensibleEnumerat
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers, see Note 17C . We promote our products to healthcare providers and patients consistent with applicable laws, regulations and policies

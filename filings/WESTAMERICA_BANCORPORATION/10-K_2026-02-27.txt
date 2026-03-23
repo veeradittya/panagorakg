@@ -1,0 +1,163 @@
+# WESTAMERICA BANCORPORATION — 10-K Annual Report
+# Filed: 2026-02-27
+# CIK: 311094
+# SIC: National Commercial Banks
+# Source: https://www.sec.gov/Archives/edgar/data/311094/000117184326001195/wabc20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1 
+Business 
+2
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+9 
+Item 1B 
+Unresolved Staff Comments 
+16 
+Item 1C 
+Cybersecurity 
+16 
+Item 2 
+Properties 
+17 
+Item 3 
+Legal Proceedings 
+17 
+Item 4 
+Mine Safety Disclosures 
+17 
+PART II 
+Item 5 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+17 
+Item 6 
+[Reserved] 
+19 
+Item 7 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+20 
+Item 7A 
+Quantitative and Qualitative Disclosures About Market Risk 
+48 
+Item 8 
+Financial Statements and Supplementary Data 
+48 
+Item 9 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+92 
+Item 9A 
+Controls and Procedures 
+92 
+Item 9B 
+Other Information 
+92 
+Item 9C 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+92 
+PART III 
+Item 10 
+Directors, Executive Officers and Corporate Governance 
+92 
+Item 11 
+Executive Compensation 
+92 
+Item 12 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+93 
+Item 13 
+Certain Relationships, Related Transactions and Director Independence 
+93 
+Item 14 
+Principal Accountant Fees and Services 
+93 
+PART IV 
+Item 15 
+Exhibits, Financial Statement Schedules 
+93 
+Item 16 
+Form 10-K Summary 
+95 
+Signatures 
+96 
+-1- 
+FORWARD-LOOKING STATEMENTS 
+This Report on Form 10-K contains forward-looking statements about Westamerica Bancorporation (the Company ) for which it claims the protection of the safe harbor provisions contained in the Private Securities Litigation Reform Act of 1995. 
+Examples of forward-looking statements include, but are not limited to: (i) projections of revenues, expenses, future credit quality and performance, the appropriateness of the allowance for credit losses, loan growth or reduction, mitigation of risk in the Company s loan and investment securities portfolios, income or loss, earnings or loss per share, the payment or nonpayment of dividends, stock repurchases, capital structure and other financial items; (ii) statements of plans, objectives and expectations of the Company or its management or board of directors, including those relating to products or services; (iii) statements of future economic performance; and (iv) statements of assumptions underlying such statements. Words such as "believes", "anticipates", "expects", estimates , "intends", "targeted", "projected", forecast , "continue", "remain", "will", "should", "may" and other similar expressions are intended to identify forward-looking statements but are not the exclusive means of identifying such statements. 
+These forward-looking statements are based on the current knowledge and belief of the management ( Management ) of the Company and include information concerning the Company s possible or assumed future financial condition and results of operations. A number of factors, some of which are beyond the Company s ability to predict or control, could cause future results to differ materially from those contemplated. 
+These factors include but are not limited to (1) the length and severity of any difficulties in the global, national and California economies and the effects of government efforts to address those difficulties; (2) liquidity levels in capital markets; (3) fluctuations in asset prices including, but not limited to stocks, bonds, real estate, and commodities; (4) the effect of acquisitions and integration of acquired businesses; (5) economic uncertainty created by riots, terrorist threats and attacks on the United States, the actions taken in response, and the uncertain effect of these events on the local, regional and national economies; (6) changes in the interest rate environment and monetary policy; (7) changes in the regulatory environment; (8) competitive pressure in the banking industry; (9) operational risks including a failure or breach in data processing or security systems or those of third party vendors and other service providers, including as a result of cyber attacks or fraud; (10) volatility of interest rate sensitive loans, deposits and investments, particularly the impact of rising interest rates on the Company s securities portfolio; (11) asset/liability management risks; (12) liquidity risks including the impact of recent adverse developments in the banking industry; (13) the effect of climate change, natural disasters, including earthquakes, hurricanes, fire, flood, drought, and other disasters, on the uninsured value of the Company s assets and of loan collateral, the financial condition of debtors and issuers of investment securities, the economic conditions affecting the Company s market place, and commodities and asset values; (14) changes in the securities markets; (15) tariffs and internation trade tensions; (16) inflation and (17) the outcome of contingencies, such as legal proceedings. However, the reader should not consider the above-mentioned factors to be a complete set of all potential risks or uncertainties. 
+Forward-looking statements speak only as of the date they are made. The Company undertakes no obligation to update any forward-looking statements in this report to reflect circumstances or events that occur after the date forward looking statements are made, except as may be required by law. The reader is directed to Part II Item 1A Risk Factors of this report and other risk factors discussed elsewhere in this report, for further discussion of factors which could affect the Company's business and cause actual results to differ materially from those expressed in any forward-looking statement made in this report. 
+PART I 
+ITEM 1. BUSINESS 
+Westamerica Bancorporation is a bank holding company registered under the Bank Holding Company Act of 1956, as amended ( BHCA ). Its legal headquarters are located at 1108 Fifth Avenue, San Rafael, California 94901. Its principal administrative offices are located at 4550 Mangels Boulevard, Fairfield, California 94534, its telephone number is (707) 863-6000 and its website address is www.westamerica.com. The Company provides a full range of banking services to individual and commercial customers in Northern and Central California through its subsidiary bank, Westamerica Bank (the Bank ). The Bank is a California-chartered commercial bank whose deposits are insured by the Federal Deposit Insurance Corporation (the FDIC ) up to applicable limits. The principal communities served are located in Northern and Central California, from Mendocino, Lake and Nevada Counties in the north to Kern County in the south. The Company s strategic focus is on the banking needs of small businesses. In addition, the Bank owns 100% of the capital stock of Community Banker Services Corporation ( CBSC ), a company engaged in providing the Company and its subsidiaries with data processing services and other support functions. 
+-2- 
+The Company was incorporated under the laws of the State of California in 1972 as Independent Bankshares Corporation pursuant to a plan of reorganization among three previously unaffiliated Northern California banks. The Company operated as a multi-bank holding company until mid-1983, at which time the then six subsidiary banks were merged into a single bank named Westamerica Bank and the name of the holding company was changed to Westamerica Bancorporation. 
+The Company acquired five banks within its immediate market area during the early to mid 1990 s. In April 1997, the Company acquired ValliCorp Holdings, Inc., parent company of ValliWide Bank, the largest independent bank holding company headquartered in Central California. Under the terms of all of the merger agreements, the Company issued shares of its common stock in exchange for all of the outstanding shares of the acquired institutions. The subsidiary banks acquired were merged with and into the Bank. During the period 2000 through 2005, the Company acquired three additional banks. In 2009 and 2010, the Bank acquired the banking operations of two failed banks, the former County Bank and Sonoma Valley Bank, from the Federal Deposit Insurance Corporation ( FDIC ). 
+At December 31, 2025, the Company had consolidated assets of approximately $6.0 billion, deposits of approximately $4.8 billion and shareholders equity of approximately $934 million. 
+The Company assesses and is careful to address potential health, safety, and environmental risks. The Company cares for the environment and works to mitigate pollution and the potential risks related to climate change by implementing practices such as recycling and reusing materials, and controlling energy usage. 
+The Company s Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to those reports as well as beneficial ownership reports on Forms 3, 4 and 5 are available through the SEC s website (https://www.sec.gov). Such documents as well as the Company s director, officer and employee Code of Conduct and Ethics are also available free of charge from the Company by request to: 
+Westamerica Bancorporation 
+Corporate Secretary A-2M 
+Post Office Box 1200 
+Suisun City, California 94585-1200 
+Human Capital Resources 
+The Company and its subsidiaries employed 627 employees (608 full-time equivalent staff) as of December 31, 2025. The employees are not represented by a collective bargaining unit, and the Company believes its relationship with its employees is good. 
+The Company s ability to attract and retain employees is a key to its success. Employees receive a comprehensive benefits package that includes paid time off, sick time, company contributions of up to 6% to qualified retirement plans, discretionary profit-sharing retirement plan contributions, and other health and wellness benefits including participation in Company paid or subsidized medical, dental, vision, term-life, accidental death and dismemberment (AD&D), long-term disability, and employee assistance programs. Certain employees participate in one of the Company s performance-based incentive programs, which may include additional bonus and incentive compensation, company contributions to supplemental retirement plans, and equity-based awards. Certain benefits are subject to eligibility, vesting, and performance requirements. Employee performance is measured at least quarterly and formal performance evaluations are conducted at least annually. 
+The Company s code of ethics prohibits discrimination or harassment. The Company requires all employees to agree to the code of ethics and participate in harassment prevention training annually. 
+Supervision and Regulation 
+The following is not intended to be an exhaustive description of the statutes and regulations applicable to the Company s or the Bank s business. The description of statutory and regulatory provisions is qualified in its entirety by reference to the particular statutory or regulatory provisions. Moreover, major new legislation and other regulatory changes affecting the Company, the Bank, and the financial services industry in general have occurred in the last several years and can be expected to occur in the future. The nature, timing and impact of new and amended laws and regulations cannot be accurately predicted. 
+-3- 
+Regulation and Supervision of Bank Holding Companies 
+The Company is a bank holding company that is subject to the BHCA. The Company files reports with and is subject to examination and supervision by the Board of Governors of the Federal Reserve System ( FRB ). The FRB also has the authority to examine the Company s subsidiaries. The Company is a bank holding company within the meaning of Section 3700 of the California Financial Code. As such, the Company and the Bank are subject to examination by, and may be required to file reports with, the Commissioner of the California Department of Financial Protection and Innovation (the Commissioner ). 
+The FRB has significant supervisory and regulatory authority over the Company and its affiliates. Among other things, the FRB requires the Company to maintain certain levels of capital. See Capital Standards. The FRB also has the authority to take enforcement action against any bank holding company that commits any unsafe or unsound practice, or violates certain laws, regulations or conditions imposed in writing by the FRB. Under the BHCA, the Company is required to obtain the prior approval of the FRB before it acquires, merges or consolidates with any bank or bank holding company. Any company seeking to acquire control of or to merge or consolidate with the Company also would be required to obtain the prior approval of the FRB. 
+The Company is generally prohibited under the BHCA from acquiring ownership or control of more than 5% of any class of voting shares of any company that is not a bank or bank holding company and from engaging directly or indirectly in activities other than banking, managing banks, or providing services to affiliates of the holding company. However, a bank holding company, with the approval of the FRB, may engage, or acquire the voting shares of companies engaged, in activities that the FRB has determined to be closely related to banking or managing or controlling banks. A bank holding company must demonstrate that the benefits to the public of the proposed activity will outweigh the possible adverse effects associated with such activity. 
+The FRB generally prohibits a bank holding company from declaring or paying a cash dividend that would impose undue pressure on the capital of subsidiary banks or would be funded only through borrowing or other arrangements which might adversely affect a bank holding company s financial position. Under the FRB policy, a bank holding company should not continue its existing rate of cash dividends on its common stock unless its net income is sufficient to fully fund each dividend and its prospective rate of earnings retention appears consistent with its capital needs, asset quality and overall financial condition. See the section entitled Restrictions on Dividends and Other Distributions for additional restrictions on the ability of the Company and the Bank to pay dividends. 
+Transactions between the Company and the Bank are restricted under the FRB s Regulation W and Sections 23A and 23B of the Federal Reserve Act. In general, subject to certain specified exemptions, a bank or its subsidiaries are limited in their ability to engage in covered transactions with affiliates: (a) to an amount equal to 10% of the bank s capital and surplus, in the case of covered transactions with any one affiliate; and (b) to an amount equal to 20% of the bank s capital and surplus, in the case of covered transactions with all affiliates. The Company is considered to be an affiliate of the Bank. A covered transaction includes, among other things, a loan or extension of credit to an affiliate; a purchase of securities issued by an affiliate; a purchase of assets from an affiliate, with some exceptions; and the issuance
+
+## GEOGRAPHIC REVENUE
+mentsRecurringMember wabc:AgencyResidentialMBSMember 2025-12-31 
+0000311094 us-gaap:StateAndLocalJurisdictionMember us-gaap:CaliforniaFranchiseTaxBoardMember 2025-01-01 2025-12-31 
+0000311094 us-gaap:DomesticCountryMember us-gaap:InternalRevenueServiceIRSMember 2025-01-01 2025-12-31 
+0000311094 wabc:WestamericaBankMember 2024-12-31 
+0000311094 wabc:WestamericaBankMember 2025-12-31 
+0000311094 us-gaap:CommonClassBMember 2025-12-31 
+0000311094 us-gaap:StockAppreciationRightsSARSMember 2023-01-01 2023-12-31 
+0000311094 us-gaap:StockAppreciationRightsSARSMember 2024-01-01 2024-12-31 
+0000311094 us-gaap:StockAppreciationRightsSARSMember 2025-01-01 2025-12-31 
+0000311094 wabc:RestrictedPerformanceSharesMember 2023-01-01 2023-12-31 
+0000311094 wabc:RestrictedPerformanceSharesMember 2024-01-01 2024-12-31 
+0000311094 wabc:RestrictedPerformanceSharesMember 2025-01-01 2025-12-31 
+utr:Y 
+0000311094 us-gaap:EmployeeStockOptionMember 2025-01-01 2025-12-31 
+0000311094 us-gaap:EmployeeStockOptionMember 2025-12-31 
+0000311094 2025-12-31 2025-12-31 
+0000311094 wabc:Range5Member 2025-12-31 
+0000311094 wabc:Range5Member 2025-01-01 2025-12-31 
+0000311094 wabc:Range5Member 2025-12-31 2025-12-31 
+0000311094 wabc:Range4Member 2025-12-31 
+0000311094 wabc:Range4Member 2025-01-01 2025-12-31 
+0000311094 wabc:Range4Member 2025-12-31 2025-12-31 
+0000311094 wabc:Range3Member 2025-12-31 
+0000311094 wabc:Range3Member 2025-01-01 2025-12-31 
+0000311094 wabc:Range3Member 2025-12-31 2025-12-31 
+0000311094 wabc:Range2Member 2025-12-31 
+0000311094 wabc:Range2Member 2025-01-01 2025-12-31 
+0000311094 wabc:Range2Member 2025-12-31 2025-12-31 
+0000311094 wabc:Range1Member 2025-12-31 
+0000311094 wabc:Range1Member 2025-01-01 2025-12-31 
+0000311094 wabc:Range1Member 2025-12-31 2025-12-31 
+0000311094 wabc:NQSOMember 2025-01-01 2025-12-31 
+0000311094 us-gaap:SecuritiesSoldUnderAgreementsToRepurchaseMember 2024-01-01 2024-12-31 
+0000311094 us-gaap:SecuritiesSoldUnderAgreementsToRepurchaseMember 2025-01-01 2025-12-31 
+0000311094 wabc:BankTermFundingProgramMember 2024-12-31 
+0000311094 wabc:BankTermFundingProgramMember 2025-12-31 
+0000311094 wabc:FederalReserveMember wabc:AssetsAvailableToBePledgedAsCollateralMem
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the bank s capital and surplus, in the case of covered transactions with any one affiliate; and (b) to an amount equal to 20% of the bank s capital and surplus, in the case of covered transactions with all affiliates. The Company is considered to be an affiliate of the Bank. A covered transaction includes, among other things, a loan or extension of credit to an affiliate; a purchase of securities issued by an affiliate; a purchase of assets from an affiliate, with some exceptions; and the issuance of a guarantee, acceptance or letter of credit on behalf of an affiliate. 
+Federal regulations governing bank holding companies and change in bank control (Regulation Y) provide for a streamlined and expedited review process for bank acquisition proposals submitted by well-run bank holding companies. These provisions of Regulation Y are subject to numerous qualifications, limitations and restrictions. In order for a bank holding company to qualify as well-run, both it and the insured depository institutions which it controls must meet the well capitalized and well managed criteria set forth in Regulation Y. 
+The Gramm-Leach-Bliley Act (the GLBA ), or the Financial Services Act of 1999, repealed provisions of the Glass-Steagall Act, which had prohibited commercial banks and securities firms from affiliating with each other and engaging in each other s businesses. Thus, many of the barriers prohibiting affiliations between commercial banks and securities firms have been eliminated. 
+The BHCA was also amended by the GLBA to allow new financial holding companies ( FHCs ) to offer banking, insurance, securities and other financial products to consumers. Specifically, the GLBA amended section 4 of the BHCA in order to provide for a framework for the engagement in new financial activities. A bank holding company ( BHC ) may elect to become an FHC if all its subsidiary depository institutions are well capitalized and well managed. If these requirements are met, a BHC may fi
+
+---
+Doc size: 2048KB (capped at 2MB)

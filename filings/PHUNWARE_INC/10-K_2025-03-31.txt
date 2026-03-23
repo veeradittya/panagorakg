@@ -1,0 +1,45 @@
+# PHUNWARE INC — 10-K Annual Report
+# Filed: 2025-03-31
+# CIK: 1665300
+# SIC: Services-Computer Processing & Data Preparation
+# Source: https://www.sec.gov/Archives/edgar/data/1665300/000095017025047919/phun-20241231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+2 
+PART I 
+4 
+Item 1. 
+Business 
+4 
+Item 1A. 
+Risk Factors 
+11 
+Item 1B. 
+Unresolved Staff Comments 
+42 
+Item 1C. 
+Cybersecurity 
+42
+
+## GEOGRAPHIC REVENUE
+tyIncentivePlanMember 2023-12-31 0001665300 us-gaap:EmployeeStockOptionMember 2023-01-01 2023-12-31 0001665300 us-gaap:CostOfSalesMember 2024-01-01 2024-12-31 0001665300 2022-12-31 0001665300 us-gaap:DomesticCountryMember 2024-12-31 0001665300 us-gaap:ResearchMember us-gaap:StateAndLocalJurisdictionMember 2024-12-31 0001665300 us-gaap:RestrictedStockUnitsRSUMember phun:PhunwareInc2022InducementPlanMember 2023-01-31 0001665300 phun:TwoThousandNineEquityIncentivePlanMember 2023-01-01 2023-12-31 0001665300 phun:TwoThousandTwentyTwoPromissoryNoteMember 2022-07-06 0001665300 us-gaap:SegmentDiscontinuedOperationsMember phun:LyteTechnologyIncMember 2023-12-31 0001665300 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember phun:CustomerFMember 2023-01-01 2023-12-31 0001665300 us-gaap:AdvertisingMember 2023-01-01 2023-12-31 0001665300 phun:AtTheMarketFacilityMember 2024-06-04 2024-06-04 0001665300 phun:WSGRCaseMember 2024-01-01 2024-12-31 0001665300 us-gaap:CommonStockMember 2022-12-31 0001665300 us-gaap:ResearchMember us-gaap:DomesticCountryMember 2024-12-31 0001665300 phun:DigitalAssetsMember 2023-01-01 2023-12-31 0001665300 us-gaap:RetainedEarningsMember 2024-12-31 0001665300 phun:CustomerGMember us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2023-01-01 2023-12-31 0001665300 phun:ManufacturingFacilityAndWarehouseMember 2022-03-15 0001665300 us-gaap:SettledLitigationMember phun:WSGRCaseMember 2024-01-01 2024-12-31 0001665300 2024-12-31 0001665300 us-gaap:GeneralAndAdministrativeExpenseMember 2024-01-01 2024-12-31 0001665300 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-12-31 0001665300 us-gaap:RetainedEarningsMember 2023-12-31 0001665300 phun:TwoThousandEighteenEmployeeStockPurchasePlanMember 2024-12-31 0001665300 srt:OfficeBuildingMember 2022-06-03 0001665300 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-12-31 0001665300 phun:EthereumMember phun:DigitalAssetsMember 2023-12-31 0001665300 us-gaap:ResearchAndDevelopmentExpenseMember 2023-01-01 2023-12-31 0001665300 us-gaap:AccountsReceivableMember phun:CustomerBMember us-gaap:CustomerConcentrationRiskMember 2024-01-01 2024-12-31 0001665300 2023-01-01 2023-12-31 000
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Major Customers 
+Due to the nature of our business, we have in the past and may at times in the future, have a material concentration of our revenue with a small number of customers. For the year ended December 31, 2024, three customers collectively represented 34% of our net revenues. 
+5 
+Table of Contents 
+Our Growth Strategy 
+Key elements of our growth strategy include: 
+Expansion and scaling of mobile products and services. Mobile applications and in-application advertising media are among the fastest-growing and complex technology markets. We have made significant investments in research and development and plan to continue extending the functionality and scale of our mobile applications in the future. 
+Deepening of existing customer relationships. We believe that we are well positioned to identify new opportunities or enhance existing services and solutions within and provide additional products and services to our existing customer base. We have historically created and expect to continue to create cross and upsell opportunities as our customers seek to deepen their approach to mobile application lifecycle management. 
+Continued growth of our customer base through targeted marketing and outreach. We intend to continue to opportunistically expand our reach in existing industry verticals and into and within new industry verticals that benefit from our integrated solutions, comprehensive lifecycle approach and ability to engage users in both digital and physical worlds, particularly healthcare and hospitality. 
+Addition of new capabilities and geographic regions through strategic transactions. We operate in a fragmented market that offers significant consolidation opportunities. We plan to continue to evaluate strategic acquisitions, partnerships and other transactions that enhance our capabilities. 
+Expansion of our partnership network with third-party providers of products and services. We are able to leverage our mobile expertise and capabilities to compete e
+
+---
+Doc size: 2048KB (capped at 2MB)

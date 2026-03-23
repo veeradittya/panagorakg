@@ -1,0 +1,20 @@
+# QUEST DIAGNOSTICS INC — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1022079
+# SIC: Services-Medical Laboratories
+# Source: https://www.sec.gov/Archives/edgar/data/1022079/000102207926000015/dgx-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. Business 1 Introduction 1 Our Strategy 2 Our Strengths 5 Business Operations 8 The Clinical Testing Industry 10 General 18 Regulation 22 Available Information 25 Information about Our Executive Officers 26
+
+## RISK FACTORS (Item 1A)
+Risk Factors 28 Cautionary Factors That May Affect Future Results 39 Item 1B. Unresolved Staff Comments 42 Item 1C. Cybersecurity 42
+
+## GEOGRAPHIC REVENUE
+context, our diagnostic insights can inspire actions that transform lives and create a healthier world. The patients we serve annually comprise approximately one-third of the adult population of the United States, and over a three-year period, we serve approximately one-half of the adult population of the United States. We estimate that annually we serve approximately half of the physicians and half of the hospitals in the United States. The Quest Way We operate our business and achieve our goals according to a clear set of principles we call The Quest Way, which consists of the following: Our Purpose, or why we exist, is to work together to create a healthier world, one life at a time. Our Strategy, or how we grow, is to provide solutions that serve the evolving needs of our customers, based on our high quality, innovative, convenient and affordable services. Our Culture, or how we work, is powered by what we call the 5Cs : customer first, collaboration, care, continuous improvement, and curiosity. We play a critical role in healthcare decisions for customers across the healthcare ecosystem, including physicians, hospitals, patients and consumers, health plans, government agencies, employers, retailers, pharmaceutical companies and insurers. We believe The Quest Way is aligned with the triple aim of healthcare of improving medical quality and the patient experience while reducing the overall cost of care. We believe our employees are critical to our success, and we continually strive to create an environment that allows them to contribute to our goal of creating a healthier world. We are focused on delivering services that help improve the physician and healthcare provider experience to enable us and them to deliver high quality, effective and affordable care to patients. We provide a number of innovative ways for patients to access services from us, including consumer-initiated services offered through QuestHealth.com, which provides a high quality, self-directed option with physician oversight for individuals to gain insights into their health. During 2025, we generated net revenues of $11.0 billion. Additional financial information concerning Quest Diagnost
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

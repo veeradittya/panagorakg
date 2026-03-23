@@ -1,0 +1,37 @@
+# PRIMERICA INC — 10-K Annual Report
+# Filed: 2026-02-27
+# CIK: 1475922
+# SIC: Life Insurance
+# Source: https://www.sec.gov/Archives/edgar/data/1475922/000119312526082233/pri-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors Summary 
+iii 
+PART I 
+1 
+Item 1. 
+Business 
+1 
+Item 1A. 
+Risk Factors 
+23 
+Item 1B. 
+Unresolved Staff Comments 
+38 
+Item 1C. 
+Cybersecurity 
+38
+
+## GEOGRAPHIC REVENUE
+. We may not be able to effectively execute our corporate strategy, which could have a material adverse effect on our business. We may be materially adversely affected by currency fluctuations in the United States dollar versus the Canadian dollar. The market price of our common stock may fluctuate. 
+v 
+P ART I I TEM 1. BUSINESS. Primerica, Inc. ( Primerica or the Parent Company and, together with its direct and indirect subsidiaries, we , us or the Company ) is a leading provider of financial products and services to middle-income households in the United States and Canada with 151,524 life insurance-licensed sales representatives as of December 31, 2025. These independent licensed representatives ( independent sales representatives or independent sales force ) assist our clients in meeting their needs for term life insurance, which we underwrite, and mutual funds, annuities, managed investments, and other financial products, which we distribute primarily on behalf of third parties. We insured over 5.5 million lives and had approximately 3.1 million client investment accounts as of December 31, 2025. Our business model uniquely positions us to reach underserved middle-income consumers in a cost-effective manner and has proven itself in both favorable and challenging economic environments. Our purpose is to create financially independent families. Our strategic vision, in support of this purpose, is to build unparalleled financial services distribution capabilities that enable our clients, independent sales force, home office associates and stockholders to achieve their financial goals. The guiding principles that underlie our strategic vision are serving middle-income families, maximizing the success of the independent sales force, preserving and strengthening our culture, and protecting our business model. Our strategic plan includes the following growth pillars: Understand and solve the financial challenges faced by current and prospective clients; Enable leaders in the independent sales force to grow their teams and build new leaders, expanding our distribution capabilities across business lines; Expand representative and client digital experiences to create
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

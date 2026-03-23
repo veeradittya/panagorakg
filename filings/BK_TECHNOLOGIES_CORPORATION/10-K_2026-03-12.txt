@@ -1,0 +1,171 @@
+# BK TECHNOLOGIES CORPORATION — 10-K Annual Report
+# Filed: 2026-03-12
+# CIK: 2186
+# SIC: Radio & Tv Broadcasting & Communications Equipment
+# Source: https://www.sec.gov/Archives/edgar/data/2186/000143774926007826/bkti20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business. 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors. 
+5 
+Item 1B. 
+Unresolved Staff Comments. 
+14 
+Item 1C. 
+Cybersecurity. 
+14 
+Item 2. 
+Properties. 
+15 
+Item 3. 
+Legal Proceedings. 
+15 
+Item 4. 
+Mine Safety Disclosures. 
+15 
+PART II 
+16 
+Item 5. 
+Market For Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+16 
+Item 6. 
+[Reserved] 
+16 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+17 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk. 
+23 
+Item 8. 
+Financial Statements and Supplementary Data. 
+23 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+24 
+Item 9A. 
+Controls and Procedures. 
+24 
+Item 9B. 
+Other Information. 
+25 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. 
+25 
+PART III 
+26 
+Item 10. 
+Directors, Executive Officers and Corporate Governance. 
+26 
+Item 11. 
+Executive Compensation. 
+26 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+26 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence. 
+26 
+Item 14. 
+Principal Accounting Fees and Services. 
+26 
+PART IV 
+27 
+Item 15. 
+Exhibits and Financial Statement Schedules. 
+27 
+Item 16. 
+Form 10-K Summary. 
+29 
+SIGNATURES 
+30 
+i
+Table of Contents 
+PART I 
+Item 1. Business. 
+General 
+BK Technologies Corporation (NYSE American: BKTI) (together with its wholly owned subsidiaries, BK, the Company, we or us ) is a holding company that, through BK Technologies, Inc., its operating subsidiary, provides public safety grade communications products and services designed to make first responders safer and more efficient. All operating activities described herein are undertaken by our operating subsidiary. 
+In business for over 70 years, BK operates two key product group offerings: Radio and Solutions. 
+The Radio product group designs, manufactures and markets wireless communications products and related accessories consisting of two-way land mobile radios ( LMRs ). Two-way LMRs can be radios that are hand-held (portable) or installed in vehicles (mobile). 
+Generally, BK Technologies-branded products serve government markets, including, but not limited to, emergency response, public safety, homeland security and military customers of federal, state and municipal government agencies, as well as various industrial and commercial enterprises. We believe that our products and solutions provide superior value by offering high specification, ruggedized, durable, reliable, feature rich, Project 25 ( P25 ) compliant radio products at a lower cost relative to comparable offerings. 
+The Solutions product group focuses on delivering innovative products and smartphone applications which operate ubiquitously over public cellular networks. Our BK ONE branded solutions are designed to provide advanced field applications that enhance situational awareness, decision-making and interagency coordination that enable the first responder to be safer and more efficient. Our BK ONE portfolio provides law enforcement improved safety and productivity, fire incident first responders more situational awareness and EMS first responders with enhanced patient safety and advanced care measures. When tethered to our radios, the combined solution offers an enhanced user experience with more unique capability which increases the sales reach of our radios. 
+We were incorporated under the laws of the State of Nevada on October 24, 1997. We are the corporation resulting from the reincorporation merger of our predecessor, Adage, Inc., a Pennsylvania corporation, which reincorporated from Pennsylvania to Nevada effective as of January 30, 1998. Effective on June 4, 2018, we changed our corporate name from RELM Wireless Corporation to BK Technologies, Inc. 
+On March 28, 2019, we implemented a holding company reorganization. The reorganization created a new holding company, BK Technologies Corporation, which became the new parent company of BK Technologies, Inc. BK Technologies Corporation s only significant assets are the outstanding equity interests in BK Technologies, Inc. and any other future subsidiaries of BK Technologies Corporation. The holding company reorganization was intended to create a more efficient corporate structure and increase operational flexibility. 
+For the purpose of this report, references to we or the Company or our management or business at any period prior to the holding company reorganization (March 28, 2019) refer to those of BK Technologies, Inc. as the predecessor company and its subsidiaries and thereafter to those of BK Technologies Corporation and its subsidiaries, except as otherwise specified or to the extent the context otherwise indicates. 
+Our principal executive offices are located at 7100 Technology Drive, West Melbourne, Florida 32904 and our telephone number is (321) 984-1414. 
+Available Information 
+Our Internet website address is www.bktechnologies.com. The information contained on or accessible from our website is not incorporated by reference in this report. Any reference to our website is intended to be an inactive textual reference only. We make available on our Internet website, free of charge, our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statements and amendments to these reports as soon as practicable after we file such material with, or furnish it to, the U.S. Securities and Exchange Commission (the SEC ). In addition, our Code of Business Conduct and Ethics, Code of Ethics for the CEO and Senior Financial Officers, Audit Committee Charter, Compensation Committee Charter, Nominating and Governance Committee Charter and other corporate governance policies are available on our website, under Investor Relations. A copy of any of these materials may be obtained, free of charge, upon request from our investor relations department. The SEC maintains an internet site that contains reports, proxy and information statements, and other information filed by the Company at http://www.sec.gov. All reports that the Company files with or furnishes to the SEC also are available free of charge via the SEC s website. 
+Significant Events 
+On October 30, 2024, a wholly owned subsidiary of the Company entered into a new credit facility with Fifth Third Bank, National Association, which provided for a one-year revolving line of credit with a maximum commitment of $6 million, with an accordion feature, if certain conditions are met, for up to a maximum commitment of $10 million. On October 30, 2025, the subsidiary entered into an amendment to the credit facility, which provided for a three-year extension of the agreement and revised the availability under the $6 million revolving credit facility, if certain conditions are met, to increase the accordion feature for a maximum commitment of $14 million, among other things. For additional information, see "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations" and Note 6 of the accompanying consolidated financial statements. 
+1
+Table of Contents 
+On December 17, 2021, a share repurchase program was authorized under which we may repurchase up to an aggregate of $5 million of our Common Stock. Share repurchases under this program were authorized to begin immediately. Repurchases may be made through a variety of methods, which could include open market purchases, accelerated share repurchase transactions, negotiated block transactions, Rule 10b5-1 plans, other transactions that may be structured through investment banking institutions or privately negotiated, or a combination of the foregoing. The program does not have an expiration date. The actual timing, manner and number of shares repurchased under the program will be determined by management and the Board of Directors at their discretion, and will depend on several factors, including the market price of our Common Stock, general market and economic conditions, alternative investment opportunities, and other business considerations in accordance with applicable securities laws and exchange rules. The authorization of the share repurchase program does not require BK to acquire any particular number of shares and repurchases may be suspended or terminated at any time at our discretion. All repurchases under the plan have been and will be funded using cash on hand and cash from operations. 
+Industry Overview 
+LMR end user communications devices consist of hand-held (portable) and vehicle-mounted (mobile) two-way radios commonly used by the public safety sector (e.g., police, fire, and emergency medical responders), military and commercial business concerns (e.g., corporate disaster recovery, hotels, airports, farms, transportation service providers, and construction firms), and government agencies within the U.S. and abroad. LMR systems are constructed to meet an organization s specific communications needs typically over an operating area which exceeds the direct mode (radio to radio) communications range. The cost of a complete LMR system can vary widely, depending on the size and configuration. Likewise, the cost of end user LMR radios can range from under $ 100 for a basic analog portable, to thousands of dollars for a fully featured P25 digital unit. 
+LMR systems are the most widely used and longest-used form of wireless dispatch communications in the U.S., having been first placed into service in 1921. LMR was initially used almost exclusively by law enforcement, and all radio communications were transmitted in an analog format. Analog transmissions typically consist of a voice or other signal modulated directly onto a continuous radio carrier wave. Over time, advances in technology decreased the cost of LMR products and increased their popularity and usage by businesses and other agencies. Responding to the growing usage, additional radio frequency spectrum was allocated by the Federal Communications Commission ( FCC ) for LMR use. 
+More recently, growth of the LMR industry has been limited by several factors such as the maturity of markets, funding and budgets for government and public safety agencies, and limited availability of radio frequency spectrum, which hinders existing users in expanding their systems and potential new users from establishing new systems. 
+Years ago, as a result of the limited spectrum availability, the FCC mandated that new LMR equipment utilize technology that is more spectrum efficient. This effectively meant that the industry had to migrate to digital technology. Responding to the mandate, the Association of Public-Safety Communications Officials-International ( APCO ), the National Association of State Technology Directors ( NASTD ), the United States ( U.S. ) Federal Government and the Telecommunications Industry Association ( TIA ), in concert with several LMR manufacturers, including BK, recommended a standard for digital LMR devices that would meet the FCC spectrum-efficiency requirements and provide solutions to several problems experienced primarily by public safety users. The standard is called Project 25 ( P25 ). The primary objectives of P25 are to: (i) allow effective and reliable communication among users of compliant equipment, regardless of its manufacturer, known as interoperability, (ii) maximize radio spectrum efficiency and (iii) promote competition among LMR providers through an open system architecture. 
+Although the FCC does not require public safety agencies or any radio users to purchase P25 equipment or otherwise adopt the standard, compliance with the standard is a primary consideration for government and public safety purchasers. In addition, U.S. Federal Government grant programs that provide assistance in funding for state and local agencies to purchase interoperable communications equipment for first responders strongly encourage and often require compliance with the P25 standard. Accordingly, although funding for LMR purchases by many government agencies is limited, we believe that, as users upgrade and replace equipment, demand for P25 LMR equipment will continue to grow. Additionally, the P25 standard has also been widely adopted in other countries. The migration to P25 equipment is primarily limited to government and public safety agencies. Radio users in the business and industrial market utilize alternative digital technologies (e.g., Digital Mobile Radio) and analog LMR products. 
+Presently, the market is dominated by one supplier, Motorola Solutions, Inc., which offers a broader range of products than we do. However, the open architecture of the P25 standard is designed to eliminate the ability of one or more suppliers to lock out competitors. Formerly, because of proprietary characteristics incorporated in many LMR systems, a customer was effectively precluded from purchasing additional LMR products from a supplier other than the initial supplier of the system. Additionally, the system infrastructure technology was prohibitive for smaller suppliers to develop and implement. P25 provides an environment in which users will increasingly have a wider selection of LMR suppliers, including smaller suppliers such as BK. 
+Today, public safety communications includes both LMR and cellular technologies. LMR is typically used when mission critical or life safety voice communications is required or in direct mode (radio-to-radio) communications applications. Cellular (LTE or 5G) is typically used to support broadband data applications in the field. Since the introduction of broadband data LTE cellular technology by U.S. cellular carriers in 2010, the industry has seen a rapid growth of public safety mobile applications which have made the first responder safer and more efficient. 
+As cellular coverage continues to improve terrestrially and soon from low earth orbit satellites, the opportunity to further extend mobile applications from public safety vehicles to the first responder s smartphone opens a new era of services and opportunities. 
+Description of Radio Products and P25 CAP Compliance 
+We offer products under the company brand name BK Technologies. Our BKR and legacy KNG series radios operate in both the P25 digital and analog modes of operations in the FCC licensed bands; very high frequency ( VHF ) (136MHz - 174MHz), ultra-high frequency ( UHF ) (380MHz - 470MHz, 450MHz - 520MHz), and 700-800 MHz bands. 
+2
+Table of Contents 
+Our P25 digital technology is compliant with the Project 25 standard for digital LMR equipment. P25 has been adopted by representatives from APCO, NASTD, the U.S. Federal Government and other public safety user organizations. 
+The Department of Homeland Security s ("DHS") P25 Compliance Assessment Program ( CAP ) is a voluntary program that allows LMR equipment suppliers to formally demonstrate their products compliance with P25 requirements. The purpose of
+
+## GEOGRAPHIC REVENUE
+2025-12-31 
+0000002186 bkti:OregonTaxMember 2025-01-01 2025-12-31 
+0000002186 bkti:IdahoTaxMember 2025-01-01 2025-12-31 
+0000002186 bkti:OtherStatesTaxMember 2025-01-01 2025-12-31 
+0000002186 us-gaap:DomesticCountryMember 2025-12-31 
+0000002186 us-gaap:DomesticCountryMember 2024-12-31 
+0000002186 us-gaap:DomesticCountryMember us-gaap:InternalRevenueServiceIRSMember 2025-01-01 2025-12-31 
+0000002186 us-gaap:EmployeeStockOptionMember 2025-01-01 2025-12-31 
+0000002186 us-gaap:RestrictedStockUnitsRSUMember 2025-01-01 2025-12-31 
+0000002186 us-gaap:EmployeeStockOptionMember 2024-01-01 2024-12-31 
+0000002186 us-gaap:RestrictedStockUnitsRSUMember 2024-01-01 2024-12-31 
+0000002186 bkti:IncentiveCompensationPlan2025Member 2025-06-18 
+0000002186 bkti:EmployeeStockPurchasePlanMember 2025-06-18 
+0000002186 bkti:EmployeeStockPurchasePlanMember 2025-01-01 2025-12-31 
+0000002186 us-gaap:EmployeeStockOptionMember bkti:EmployeeAndNonemployeeDirectorMember 2025-01-01 2025-12-31 
+0000002186 us-gaap:EmployeeStockOptionMember bkti:EmployeeAndNonemployeeDirectorMember 2024-01-01 2024-12-31 
+0000002186 bkti:RangeOneMember 2025-01-01 2025-12-31 
+0000002186 bkti:RangeOneMember 2025-12-31 
+0000002186 bkti:RangeTwoMember 2025-01-01 2025-12-31 
+0000002186 bkti:RangeTwoMember 2025-12-31 
+0000002186 bkti:RangeThreeMember 2025-01-01 2025-12-31 
+0000002186 bkti:RangeThreeMember 2025-12-31 
+0000002186 bkti:RangeFourMember 2025-01-01 2025-12-31 
+0000002186 bkti:RangeFourMember 2025-12-31 
+0000002186 us-gaap:RestrictedStockUnitsRSUMember 2024-12-31 
+0000002186 us-gaap:RestrictedStockUnitsRSUMember 2025-12-31 
+0000002186 bkti:The2024ExecutiveSalarySwapPlanMember srt:MinimumMember 2024-01-01 2024-12-31 
+0000002186 bkti:The2024ExecutiveSalarySwapPlanMember srt:MaximumMember 2024-01-01 2024-12-31 
+0000002186 bkti:The2024ExecutiveSalarySwapPlanMember 2024-12-31 
+0000002186 bkti:The2024ExecutiveSalarySwapPlanMember 2025-01-01 2025-12-31 
+0000002186 bkti:The2024ExecutiveSalarySwapPlanMember 2024-01-01 2024-12-31 
+0000002186 bkti:The2023ExecutiveSalarySwapPlanMember srt:MinimumMember 2023-01-01 2023-12-31 
+0000002186 bkti:The2023ExecutiveSalarySwapPlanMember srt:MaximumMember 2023-01-01 2023-12-31 
+00000
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Significant Customers 
+Sales to the U.S. Government represented approximately 29% and 38% of our total sales for the years ended December 31, 2025 and 2024, respectively. These sales were primarily to various government agencies, including those within the U.S. Department of Homeland Security ("DHS"), the U.S. Department of Defense ( DoD ), the U.S. Forest Service and the U.S. Department of Interior ( DoI ). 
+Backlog 
+Our backlog of unshipped customer orders was approximately $14.2 million and $21.8 million as of December 31, 2025 and 2024, respectively. Changes in the backlog are attributed primarily to the timing of orders and their fulfillment, which can be impacted by factors related to our supply chain. 
+Competition 
+We compete with other domestic and foreign companies primarily in the North American market, but also internationally. One dominant competitor, Motorola Solutions, Inc., is estimated to have well in excess of half the market for LMR products. We compete by capitalizing on our advantages and strengths, which include price, product quality and customer responsiveness. 
+Governmental Regulation 
+We are subject to various international and U.S. federal, state and local laws affecting our business. Any finding that we have been or are in noncompliance with such laws could result in, among other things, governmental penalties. Further, changes in existing laws or new laws may adversely affect our business and could also have the effect of limiting capital expenditures by our customers, which could have a material adverse effect on our business, financial condition and results of operations. 
+In connection with our U.S. Government contracts, we are subject to the U.S. Federal Government procurement regulations that may provide the buyer with the right to audit and review our performance, as well as our compliance with applicable laws and regulations. In addition, our business is subject to government regulation based on the products we sell that may be sub
+
+---
+Doc size: 1481KB (capped at 2MB)

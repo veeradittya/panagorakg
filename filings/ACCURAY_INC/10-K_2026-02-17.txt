@@ -1,0 +1,156 @@
+# ACCURAY INC — 10-K Annual Report
+# Filed: 2026-02-17
+# CIK: 1138723
+# SIC: Surgical & Medical Instruments & Apparatus
+# Source: https://www.sec.gov/Archives/edgar/data/1138723/000143774926004219/aray20260630_10ka.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1A. Risk Factors 
+Part II Item 8. Financial Statements and Supplementary Data 
+Part II Item 9A. Controls and Procedures 
+Part IV Item 15. Exhibits and Financial Statement Schedules 
+The remaining Items of the Original Filing are not being amended by this Form 10 K/A and, accordingly, have not been repeated in this Form 10-K/A. 
+The Company is filing this Form 10-K/A in order to (i) amend the disclosure of RPO included in Note 2, Revenue, within Item 8; (ii) include the new Note 15, Restatement of Quarterly Financial Information (Unaudited) ; (iii) amend Item 9A to reflect the inclusion of two items: (a) management s revised conclusion that our disclosure controls and procedures and internal control over financial reporting were not effective as of June 30, 2025 due to the material weaknesses identified after the Original Filing and (b) Grant Thornton LLP s revised report of the effectiveness of our internal control over financial reporting as of and for the year ended June 30, 2025; and (iv) amend the risk factors to include reference to the material weaknesses identified after the Original Filing. This Form 10-K/A also includes the following updates to Item 15 (i) a new consent of Grant Thornton LLP, (ii) new certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 and Section 906 of the Sarbanes-Oxley Act of 2002, each of which is filed or furnished herewith, as applicable, and (iii) Exhibit 101 (Interactive Data Files) and Exhibit 104 (contained in Exhibit 101). 
+Please note that the only changes to the Original Filing are those related to the matters described in this Explanatory Note and only in the items listed above. Except as described in this Explanatory Note, no changes have been made to the Original Filing, and this Form 10-K/A does not modify, amend, or update any of the other financial information or other information contained in the Original Filing. Otherwise, the information contained in this Form 10-K/A is as of the Original Filing Date and does not reflect any information or events occurring after the Original Filing Date. Accordingly, this Form 10-K/A should be read in conjunction with the Original Filing and any subsequent filing with the SEC. 
+3
+Table of Contents 
+TABLE OF CONTENTS 
+Page No. 
+PART I
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+Part II Item 8. Financial Statements and Supplementary Data 
+Part II Item 9A. Controls and Procedures 
+Part IV Item 15. Exhibits and Financial Statement Schedules 
+The remaining Items of the Original Filing are not being amended by this Form 10 K/A and, accordingly, have not been repeated in this Form 10-K/A. 
+The Company is filing this Form 10-K/A in order to (i) amend the disclosure of RPO included in Note 2, Revenue, within Item 8; (ii) include the new Note 15, Restatement of Quarterly Financial Information (Unaudited) ; (iii) amend Item 9A to reflect the inclusion of two items: (a) management s revised conclusion that our disclosure controls and procedures and internal control over financial reporting were not effective as of June 30, 2025 due to the material weaknesses identified after the Original Filing and (b) Grant Thornton LLP s revised report of the effectiveness of our internal control over financial reporting as of and for the year ended June 30, 2025; and (iv) amend the risk factors to include reference to the material weaknesses identified after the Original Filing. This Form 10-K/A also includes the following updates to Item 15 (i) a new consent of Grant Thornton LLP, (ii) new certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 and Section 906 of the Sarbanes-Oxley Act of 2002, each of which is filed or furnished herewith, as applicable, and (iii) Exhibit 101 (Interactive Data Files) and Exhibit 104 (contained in Exhibit 101). 
+Please note that the only changes to the Original Filing are those related to the matters described in this Explanatory Note and only in the items listed above. Except as described in this Explanatory Note, no changes have been made to the Original Filing, and this Form 10-K/A does not modify, amend, or update any of the other financial information or other information contained in the Original Filing. Otherwise, the information contained in this Form 10-K/A is as of the Original Filing Date and does not reflect any information or events occurring after the Original Filing Date. Accordingly, this Form 10-K/A should be read in conjunction with the Original Filing and any subsequent filing with the SEC. 
+3
+Table of Contents 
+TABLE OF CONTENTS 
+Page No. 
+PART I 
+Item 1A. 
+Risk Factors 
+5 
+PART II 
+Item 8. 
+Financial Statements and Supplementary Data 
+45 
+Item 9A. 
+Controls and Procedures 
+91 
+PART IV 
+Item 15 
+Exhibits and Financial Statement Schedules 
+94 
+Signatures 
+98 
+4
+Table of Contents 
+Item 1A. RISK FACTORS 
+Risk Factors Summary 
+Our business is subject to numerous risks and uncertainties, including those highlighted in Part I, Item 1A titled Risk Factors. These risks include, but are not limited to, the following: 
+Risks related to our business and results of operations 
+We face risks related to the current global economic environment, which could adversely affect our business, financial condition and results of operations. 
+If our products do not achieve widespread market acceptance, we will not be able to generate the revenue necessary to support our business. 
+Our ability to achieve profitability depends in part on maintaining or increasing our gross margins on product sales and services, which we may not be able to achieve. 
+We have substantial indebtedness and may incur other debt in the future, which may adversely affect our financial condition and future financial results. In the past, we have not been in compliance with certain financial covenants relating to our indebtedness and have been required to obtain waivers to avoid defaulting under such indebtedness. 
+Enhanced international tariffs, including tariffs imposed by the United States and China that affect our products or components within our products, other trade barriers or a global trade war could decrease the volume of product sales in China and increase our costs and materially and adversely affect our business condition and results of operations. 
+Our operating results, including our cash flows, quarterly orders, revenues and margins fluctuate from quarter to quarter and may be unpredictable. 
+Our industry is subject to intense competition and rapid technological change, which may result in products or new tumor treatments that are superior to the CyberKnife and TomoTherapy platforms. If we are unable to anticipate or keep pace with changes in the marketplace and the direction of technological innovation and customer demands, our products may become obsolete or less useful and our operating results will suffer. 
+We are subject to risks arising from our international operations, which may adversely affect our business, financial condition, and results of operations. 
+Our results have been and may continue to be impacted by changes in foreign currency exchange rates. 
+If we encounter manufacturing problems, or if our manufacturing facilities do not continue to meet federal, state or foreign manufacturing standards, we may be required to temporarily cease all or part of our manufacturing operations, which would result in delays and lost revenue. 
+If we are unable to develop new products or enhance existing products to meet our customers needs and compete favorably in the market, we may be unable to attract or retain customers. 
+If we do not effectively manage our growth, our business may be significantly harmed. 
+We could become subject to product liability claims, product recalls, other field actions and warranty claims that could be expensive, divert management s attention and harm our business. 
+Our reliance on single-source suppliers for critical components of our products could harm our ability to meet demand for our products in a timely and cost effective manner. 
+We depend on key employees, the loss of whom would adversely affect our business. If we fail to attract and retain employees with the expertise required for our business, we may be unable to continue to grow our business. 
+Disruption of critical information technology systems, infrastructure and data or cyberattacks or other security breaches or incidents could harm our business and financial condition. 
+5
+Table of Contents 
+Any actual or perceived failure by us to comply with legal or regulatory requirements related to privacy, cybersecurity and data protection could result in proceedings, actions or penalties against us. 
+If third-party payors do not provide sufficient coverage and reimbursement to healthcare providers for use of our product platforms or if the number of patients covered by health insurance reduces, demand for our products and our revenue could be adversely affected. 
+The safety and efficacy of our products for certain uses is not yet supported by long term clinical data, and our products may therefore prove to be less safe and effective than initially thought. 
+Failures or disruptions at our logistics providers have occurred and could occur in the future, which could adversely impact our business. 
+Third parties may claim we are infringing their intellectual property or that we are operating outside the scope of or violating a license or other agreement relating to their intellectual property. 
+It is difficult and costly to protect our intellectual property and our proprietary technologies and we may not be able to ensure their protection. 
+We have identified material weaknesses in our system of internal controls as of June 30, 2025 and are in the process of remediation. If we fail to remediate such material weaknesses or otherwise fail to achieve and maintain an effective system of internal control over financial reporting, our ability to produce timely and accurate financial results could be adversely impacted. 
+Risks related to the regulation of our products and business 
+Modifications, upgrades, new indications and future products related to our products may require new Food and Drug Administration ( FDA ) 510(k) clearances or premarket approvals and similar licensing or approvals in international markets. 
+We are subject to federal, state and foreign laws and regulations applicable to our operations, the violation of which could result in substantial penalties and harm our business. 
+If we or our distributors do not obtain and maintain the necessary regulatory approvals in a specific country, we will not be able to market and sell our products in that country. 
+Risks related to our common stock 
+The price of our common stock is volatile and may continue to fluctuate significantly, which could lead to losses for stockholders. 
+Future issuances of shares of our common stock could dilute the ownership interests of our stockholders. 
+The exercise of outstanding warrants for our common stock would increase the number of shares eligible for future resale in the public market and result in dilution to our stockholders. 
+The conditional conversion features of the 2026 Notes, if triggered, may adversely affect our financial condition and operating results. 
+Provisions in the indenture for the 2026 Notes, the financing agreement for our Credit Facilities (as defined below), our certificate of incorporation and our bylaws could discourage or prevent a takeover, even if an acquisition would be beneficial in the opinion of our stockholders. 
+General Risks 
+Our liquidity could be adversely impacted by adverse conditions in the financial markets. 
+6
+Table of Contents 
+Risk Factors 
+We operate in a rapidly changing environment that involves significant risks, a number of which are beyond our control. In addition to the other information contained in this Form 10 K/A, the following discussion highlights some of these risks and the possible impact of these factors on our business, financial condition and future results of operations. If any of the following risks actually occur, our business, financial condition or results of operations may be adversely impacted, causing the trading price of our common stock to decline. In addition, these risks and uncertainties may impact the forward looking statements described elsewhere in this Form 10 K/A and in the documents incorporated herein by reference. They could affect our actual results of operations, causing them to differ materially from those expressed in forward looking st atements. 
+Risks Related to Our Business and Results of Operations 
+We face risks related to the current global economic environment, including risks arising in connection with tariffs, inflation, recession or currency fluctuations, any of which could adversely affect our business, financial condition and results of operations by, among other things, delaying or preventing our customers from obtaining financing to purchase our products and services or implementing the required facilities to house our systems. 
+Our business and results of operations are materially affected by conditions in the global markets and the economy generally. We expect that the business of our customers and our own business will continue to be adversely impacted, directly or indirectly, by macroeconomic and geopolitical issues. Concerns over economic and political stability; inflation levels and related efforts to mitigate inflation; a potential recession; the level of U.S. national debt, the U.S. debt credit rating and U.S. budgetary concerns; currency fluctuations and volatility; the rate of growth of Japan, China and other Asian economies, including the impact of the China anti-corruption campaign and timing of China stimulus program on those economies; unemployment; the availability and cost of credit; trade relations, including the imposition of various sanctions, export controls, and tariffs by the United States and other countries; energy costs; instability in the banking and financial services sector; geopolitical uncertainty and conflict, including with respect to Russia-Ukraine and the Middle East conflicts, including with respect to Iran; changes in government administration policy positions and recent executive orders to impose new tariffs on global imports that could result in additional tariffs on specific industries, and uncertainties regarding impact, retaliations and further escalation, have contributed to increased volatility and diminished expectations for the economy and the markets in general. In turn, periods of economic slowdown or recession could lead to a reduction in demand for our products and services, which in turn would reduce our revenues and adversely affect our results of operations and our financial position. The results of these macroeconomic conditions, and the actions taken by governments, central banks, companies, and consumers in response, have and may continue to result in higher inflation in the U.S. and globally, which has led to an increase in costs and caused changes in fiscal and monetary policy, including increased interest rates. Other adverse impacts of recent macroeconomic conditions that have impacted us and may continue to impact us are foreign exchange rate fluctuations, supply chain constraints, logistics challenges, and fluctuations in labor availability. Thus, if general macroeconomic conditions deteriorate, our business and financial results could be materially and adversely affected. 
+In an inflationary environment, we may be unable to raise the prices of our products and services sufficiently to keep up with the rate of inflation. Impacts from inflationary pressures could be more pronounced and materially adversely impact aspects of our business where revenue streams and cost commitments are linked to contractual agreements that extend many years into the future, as we may not be able to quickly or easily adjust pricing, reduce costs, or implement counter measures. A higher inflationary environment can also negatively impact raw material, component, and logistics costs that, in turn, has increased the costs of producing and distributing our products. For example, inflationary pressures as well as ongoing supply chain challenges beginning in fiscal year 2023 have resulted in rising costs for certain materials, including increased logistics and duties costs, that have materially affected our gross margins and net income (loss), which have had a material effect on our business, financial condition or results of operations. We expect that gross margins and net income (loss) will continue to be adversely affected by increased material costs and freight and logistics expenses through at least calendar year 2025, and potentially longer. In addition, we expect inflation and the ongoing supply chain challenges and logistics costs to impact our cash from operations through at least calendar year 2025, as we are unable to pass all of these increased costs to our customers. 
+Further, the U.S. federal government has called for, or enacted, substantial changes to healthcare, trade, fiscal, and tax policies, which may include changes to existing trade agreements and may have a significant impact on our operations. For example, the United States has imposed t
+
+## GEOGRAPHIC REVENUE
+nsDefinedBenefitMember 2024-07-01 2025-06-30 
+0001138723 us-gaap:PensionPlansDefinedBenefitMember 2023-07-01 2024-06-30 
+0001138723 us-gaap:PensionPlansDefinedBenefitMember 2025-06-30 
+0001138723 srt:AmericasMember 2024-07-01 2025-06-30 
+0001138723 srt:AmericasMember 2023-07-01 2024-06-30 
+0001138723 aray:EimeaMember 2024-07-01 2025-06-30 
+0001138723 aray:EimeaMember 2023-07-01 2024-06-30 
+0001138723 country:CN 2024-07-01 2025-06-30 
+0001138723 country:CN 2023-07-01 2024-06-30 
+0001138723 country:JP 2024-07-01 2025-06-30 
+0001138723 country:JP 2023-07-01 2024-06-30 
+0001138723 srt:AsiaPacificMember 2024-07-01 2025-06-30 
+0001138723 srt:AsiaPacificMember 2023-07-01 2024-06-30 
+0001138723 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:US 2024-07-01 2025-06-30 
+0001138723 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:US 2023-07-01 2024-06-30 
+0001138723 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:CN 2024-07-01 2025-06-30 
+0001138723 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:CN 2023-07-01 2024-06-30 
+0001138723 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:JP 2024-07-01 2025-06-30 
+0001138723 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:JP 2023-07-01 2024-06-30 
+0001138723 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember aray:RestOfWorldMember 2024-07-01 2025-06-30 
+0001138723 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember aray:RestOfWorldMember 2023-07-01 2024-06-30 
+0001138723 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember aray:TotalWorldMember 2024-07-01 2025-06-30 
+0001138723 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember aray:TotalWorldMember 2023-07-01 2024-06-30 
+0001138723 srt:AmericasMember 2025-06-30 
+0001138723 srt:AmericasMember 2024-06-30 
+0001138723 aray:EimeaMember 2025-06-30 
+0001138723 aray:EimeaMember 2024-06-30 
+0001138723 country:CN 2025-06-30 
+0001138723 country:CN 2024-06-30 
+0001138723 country:JP 2025-06-30 
+0001138723 country:JP 2024-06-30
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customer could have a material adverse effect on our revenue and operating results. We had one customer that represented 10% or more of total net revenue for the years ended June 30, 2025 and 2024, respectively. In the future, our major customer may decide not to purchase our products at all, may purchase fewer products than they did in the past, or may defer or cancel purchases or otherwise alter their purchasing patterns. 
+Our ability to successfully develop and introduce new products, treatment systems and product enhancements and simplifications, and the revenues and costs associated with these efforts, will be affected by our ability to: 
+properly identify and address customer needs; 
+prove feasibility of new products in a timely manner; 
+educate physicians about the use of new products and procedures; 
+comply with internal quality assurance systems and processes timely and efficiently; 
+manage the timing and cost of obtaining regulatory approvals or clearances; 
+accurately predict and control costs associated with inventory overruns caused by phase in of new products and phase out of old products; 
+price new products competitively; 
+17
+Table of Contents 
+manufacture and deliver our products in sufficient volumes on time and accurately predict and control costs associated with manufacturing, installation, warranty and maintenance of the products; 
+meet our product development plan and launch timelines; 
+enter into collaborations with third parties. For example, a key component of our research and development program is our collaboration with research programs at selected hospitals, cancer treatment centers, academic institutions and research institutions worldwide; 
+improve manufacturing yields of components; and 
+manage customer demands for retrofits of both old and new products. 
+Even if customers accept new products or product enhancements, the revenues from these products may not be sufficient to offset the significant costs associated with making the
+
+---
+Doc size: 2048KB (capped at 2MB)

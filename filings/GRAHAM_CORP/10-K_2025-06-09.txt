@@ -1,0 +1,99 @@
+# GRAHAM CORP — 10-K Annual Report
+# Filed: 2025-06-09
+# CIK: 716314
+# SIC: General Industrial Machinery & Equipment
+# Source: https://www.sec.gov/Archives/edgar/data/716314/000095017025083450/ghm-20250331.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+8 
+Item 1B 
+Unresolved Staff Comments 
+21 
+Item 1C 
+Cybersecurity 
+21 
+Item 2 
+Properties 
+23 
+Item 3 
+Legal Proceedings 
+23 
+Item 4 
+Mine Safety Disclosures 
+23 
+PART II 
+Item 5 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+24 
+Item 6 
+Reserved 
+24 
+Item 7 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+25 
+Item 7A 
+Quantitative and Qualitative Disclosures About Market Risk 
+36 
+Item 8 
+Financial Statements and Supplementary Data 
+38 
+Item 9 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+68 
+Item 9A 
+Controls and Procedures 
+68 
+Item 9B 
+Other Information 
+69 
+Item 9C 
+Disclosure Regarding Foreign Jurisdictions That Prevent Inspections 
+69 
+PART III 
+Item 10 
+Directors, Executive Officers and Corporate Governance 
+70 
+Item 11 
+Executive Compensation 
+70 
+Item 12 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+70 
+Item 13 
+Certain Relationships and Related Transactions, and Director Independence 
+70 
+Item 14 
+Principal Accounting Fees and Services 
+70 
+PART IV 
+Item 15 
+Exhibits, Financial Statement Schedules 
+71 
+Item 16 
+Form 10-K Summary 
+74 
+1 
+Cautionary Note R egarding Forward-Looking Statements This Annual Report on Form 10-K (the "Form 10-K") and other documents we file with the Securities and Exchange Commission ("SEC") include forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements other than statements of historical fact are forward-looking statements for purposes of this Form 10-K. These statements involve known and unknown risks, uncertainties and other factors that may cause actual results to be materially different from any future results implied by the forward-looking statements. Forward-looking statements are indicated by words such as "anticipate," "believe," "continue," "could," "estimate," "can," "may," "might," "intend," "expect," "plan," "goal," "predict," "project," "outlook," "encourage," "potential," "should," "will," strive, future, and similar words and expressions. Forward-looking statements are not a guarantee of future performance and involve risks and uncertainties, and there are certain important factors that could cause our actual results to differ, possibly materially, from expectations or estimates reflected in such forward-looking statements including those described in the "Risk Factors" and elsewhere in this Form 10-K. Undue reliance should not be placed on our forward-looking statements. New risks and uncertainties arise from time to time and we cannot predict these events or how they may affect us and cause actual results to differ materially from those expressed or implied by our forward-looking statements. Therefore, you should not rely on our forward-looking statements as predictions of future events. When considering these risks, uncertainties and assumptions, you should keep in mind the cautionary statements contained in this Form 10-K and any documents incorporated herein by reference. You should read this document and the documents that we reference in this Form 10-K completely and with the understanding that our actual future results may be materially different from what we expect. All forward-looking statements attributable to us are expressly qualified by these cautionary statements. All forward-looking statements included in this Form 10-K are made only as of the date indicated or as of the date of this Form 10-K. Except as required by law, we undertake no obligation to update or announce any revisions to forward-looking statements contained in this Form 10-K, whether as a result of new information, future events or otherwise. 
+2 
+PAR T I (Dollar amounts in thousands except per share data) Item 1. Business Graham Corporation ("we," "us," "our" or the "Company") is a global leader in the design and manufacture of mission critical fluid, power, heat transfer and vacuum technologies for the Defense, Energy & Process, and Space industries. We design and manufacture custom-engineered vacuum, heat transfer, cryogenic pump and turbomachinery technologies. For the Defense industry, our equipment is used in nuclear and non-nuclear propulsion, power, fluid transfer, and thermal management systems. For the Energy & Process industries we supply equipment for vacuum, heat transfer, and fluid transfer applications used in oil refining, downstream chemical facilities, fertilizers, ethylene, methanol, edible oil, food & beverage, pulp & paper, and multiple alternative energy applications such as hydrogen, small modular nuclear, concentrated solar and geothermal processes. For the Space industry our equipment is used in propulsion, power and thermal management systems, and for life support systems. Our corporate headquarters is located with our production facilities in Batavia, NY, where surface condensers and ejectors are designed, engineered, and manufactured for the Defense and Energy & Process markets. Our wholly-owned subsidiary, Barber-Nichols, LLC ("BN"), based in Arvada, CO, designs, develops, manufactures and sells specialty turbomachinery products for the Defense, Space, Aerospace, Cryogenic, and New Energy markets. In November 2023, we acquired P3 Technologies, LLC ("P3"), located in Jupiter, FL (See "Acquisition" below). We also have wholly-owned foreign subsidiaries, Graham Vacuum and Heat Transfer Technology Co., Ltd. ("GVHTT"), located in Suzhou, China and Graham India Private Limited ("GIPL"), located in Ahmedabad and Pune, India. GVHTT provides sales and engineering support for us throughout Southeast Asia. GIPL provides sales and engineering support for us in India and the Middle East. We were incorporated in Delaware in 1983 and are the successor to Graham Manufacturing Co., Inc., which was incorporated in New York in 1936. Our stock is traded on the New York Stock Exchange ("NYSE") under the ticker symbol "GHM". Our fiscal year ends on March 31 of each year. We refer to our fiscal year, which ended March 31, 2025, as fiscal 2025. Likewise, we refer to our fiscal years that will end or have ended March 31, 2027, March 31, 2026, March 31, 2024 and March 31, 2023 as fiscal 2027, fiscal 2026, fiscal 2024, and fiscal 2023, respectively. Acquisition - On November 9, 2023, we completed our acquisition of P3, a privately-owned custom turbomachinery engineering, product development, and manufacturing business located in Jupiter, FL that serves the Space, New Energy, Defense and Medical markets. We believe this acquisition advances our growth strategy, further diversifies our market and product offerings, and broadens our turbomachinery solutions. P3 is managed through BN, is highly complementary to BN's technology, and enhances its turbomachinery solutions. Our Products, Customers and Markets We manufacture high quality, highly reliable custom-engineered products for critical applications. We have updated our end market disclosures to better align with how management evaluates the business and product portfolio. As part of this change, revenue previously classified as Refining, Chemical/Petrochemical, and Other, which included New Energy product sales, will now be consolidated into one market, which has been renamed Energy & Process. The Defense and Space end market classifications remain unchanged. Defense Power plant systems - ejectors, surface condensers Torpedo ejection, propulsion & power systems - turbines, alternators, regulators, pumps, blowers Thermal management systems - pumps, blowers, drive electronics Energy & Process Heat transfer & vacuum systems - ejectors, process condensers, surface condensers, liquid ring pumps, heat exchangers, nozzles Power generation systems - turbines, generators, compressors, pumps Thermal management systems - pumps, blowers, electronics Space Rocket propulsion systems - turbopumps, fuel pumps, cryogenic pumps, nuclear propellant pump Cooling systems - pumps, compressors, fans, blowers Life support systems - fans, pumps, blowers 
+3 
+Our products are used in a wide range of applications, including: Defense Aircraft carrier program (CVN) Virginia fast-attack submarine program (SSN) Columbia and Ohio ballistic submarine program (SSBN) U.S. Navy torpedoes (all size classes) Refueling, overhaul replacement, and fleet sustainment equipment Advanced radar and laser systems Energy & Process Conventional oil refining Oil sands extraction and upgrading Ethanol plants Cogeneration power plants Geothermal and biomass power plants with lithium extraction Concentrated solar power Molten salt reactor development Small modular nuclear reactor development Hydrogen fuel cell power Hydrogen production, transportation, distribution, fueling Zero-emission aviation Ethylene, methanol and nitrogen producing plants Urea and fertilizer plants Plastics, resins and fibers plants Downstream petrochemical plants Coal-to-chemicals plants Gas-to-liquids plants Edible oil plants Food & beverage plants Pulp & paper plants Space NASA xEMU next-generation space suit and commercial derivatives In-space nuclear thermal propulsion turbomachinery Propellant recirculation pumps Space exploration blowers Satellite active cooling pumps Various commercial space propulsion, fluid and heat transfer applications Space simulation chambers Our principal customers include tier one and tier two suppliers to the Defense and Aerospace industry, refineries, petrochemical plants, large engineering companies that build installations for companies in the Energy & Process industries (or Engineering Procurement Contractors), and original equipment manufacturers ("OEM"). A representative list of our customers include: Air Liquide, Applied Research Laboratory at Pennsylvania State University, Aramco, Axiom Space, Bechtel Plant Machinery Inc., Blue Origin, Boeing, CERN, China State-owned Refiners, Cummins, Dow Chemical, DuPont, Echogen Power Systems, General Atomics, General Dynamics, ExxonMobil, Fluor Corporation, Intuitive Machines, Jacobs Engineering Group Inc., Kairos Power, Koch Fertilizer ENID LLC, L3Harris, Lockheed Martin, MHI Compressor International Corporation, NASA, Newport News Shipbuilding, Northrop Grumman, Oak Ridge National Laboratory, Radiant Nuclear, Raytheon Technologies, Relativity, Rolls-Royce North America, SAIC, SES, Sierra Space, U.S. Navy, United Launch Alliance, and Varian. Our products are sold by a team of sales engineers whom we employ directly. Two customers each accounted for more than 10% of our revenue in the fiscal 2025. As a result of our diversification efforts to more extensively support the U.S. Navy we have increased our concentration in domestic and Defense sales. Domestic sales accounted for approximately 81% of total sales in fiscal 2025, while sales to the Defense industry were 58%. Our funded and unfunded backlog at March 31, 2025 was $412,335 compared with $390,868 at March 31, 2024. For more information on this performance indicator see "Orders, Backlog and Book-to-Bill Ratio" below. 
+4 
+Our Strengths Our core strengths include: We have a value-enhancing engineering sales and product development platform. We believe our customer-facing platform of technical sales, project estimating and application engineering are competitive advantages. We have tools and capabilities that we believe allow us to move quickly and comprehensively to meet the unique needs of our customers. We believe that our early and deep involvement in our customers' projects adds significant value and is an important competitive differentiator in the industries we serve. We believe customers need our engineering and fabrication expertise early in a project life cycle to understand how best to utilize our equipment in the optimization of their systems. We are known for our strong capabilities to handle complex, custom orders . The orders we receive are extremely complex. In our markets, we believe that order administration, risk management, cost containment, quality control and engineering documentation are as important as the equipment itself. We have developed order management capabilities to enable us to deliver high quality, engineered-to-order, as well as build-to-spec, process-critical equipment in a timely manner. For our customers complex, custom orders we typically manage very rigorous interaction between our project management teams and the end user or its engineering firm, as product design and quality requirements are finalized. Customers' supplier selection process begins by assessing these order management capabilities. We maintain a responsive, flexible production environment. Our operations teams are experienced at handling low volume, high mix orders of highly customized solutions. While certain equipment in a product group may look similar, there are often subtle technical differences which are required to deliver the desired specification. Also, during production it is not uncommon for customer-driven engineering changes to occur that alter the configuration of what had been initially released into production. The markets we serve demand this flexible operating model. We have the capability to manage outsourced production. Effectively accessing the global fabrication supply chain expands our market reach, increases execution capacity and can improve competitiveness. We use this capability for three primary reasons: 1. delivering a lower cost manufacturing option; 2. expanding capacity to execute an order to meet customer timing requirements; and 3. addressing localized content requirements. We have proven capability to deliver our specialized product designs with outsourced fabrication that meets our high quality standards. We provide robust technical support. Our engineering and performance improvement personnel work with our customers to optimize the performance of our equipment, provide operator training and troubleshoot performance issues. Technical expertise is important to our customers throughout the full product lifecycle and we believe their focus is on leveraging our equipment to maximize their systems' productivity. We have a highly trained workforce . We maintain a long-tenured, highly skilled and flexible workforce. We support the development of our employees through programs such as our internal weld school, our partnerships with community colleges, our apprenticeship programs, and other external training programs. We continually strive to enhance our corporate culture, develop our employees and improve employee engagement. We have the capability to manufacture to tight tolerances. Our manufacturing abilities include the capability to fabricate to tight tolerances. Additionally, we possess highly specialized manufacturing and electrochemical milling expertise on turbomachinery equipment. We believe this, comb
+
+## GEOGRAPHIC REVENUE
+Batavia and related equipment. We currently do not expect to receive any additional welder training grants in fiscal 2026. The BlueForge Alliance is a nonprofit, neutral integrator that supports the United States ("U.S.") Navy's Submarine Industrial Base Initiatives. Selling, general and administrative expenses ("SG&A"), including intangible amortization, for fiscal 2025 increased $5,305 over fiscal 2024 and reflects the investments we are making in our people, our processes, and our technology. Incremental SG&A from the acquisition of P3 accounted for $776 of this increase. Additionally, SG&A increased $3,987 over the prior year due to increased staffing and performance-based compensation in connection with our growth and strategic initiatives, and $220 due to increased investment in research and development. The increase in SG&A is also due to costs related to the implementation of a new enterprise resource planning ("ERP") system at our Batavia facility of $642, and increased bad debt reserves related to non-U.S. and Space customers of $299 over the prior year. These increases were partially offset by lower professional fees of $336 and lower acquisition related expenses of $306. In connection with the acquisition of BN, we entered into a Performance Bonus Agreement to provide employees of BN with a supplemental bonus based on the achievement of BN performance objectives for fiscal 2024, 2025, and 2026, which can range between $2,000 to $4,000 per year (the "BN Performance Bonus"). During fiscal 2025 and fiscal 2024, we recorded $4,258 related to the BN Performance Bonus, which includes the applicable employer related payroll taxes. Net income and net income per diluted share for fiscal 2025 were $12,230 and $1.11 per share, respectively, compared with $4,556 and $0.42 per share, respectively, for fiscal 2024. Adjusted net income and adjusted net income per diluted share for fiscal 2025 were $13,716 and $1.24 per share, respectively, compared with $6,796 and $0.63 per share, respectively, for fiscal 2024. See "Non-GAAP Measures" below for important information about these measures and a reconciliation of adjusted net income and adjusted net income per dilute
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customers, a decrease or delay in orders or anticipated spending by such customers, or a delay in the production of existing orders could materially adversely affect our revenues and results of operations. The size of our contracts with the Defense industry, primarily the U.S. Navy, may produce volatility in short term financial results. 
+8 
+We believe our strategy to increase the penetration of Defense related opportunities, primarily the U.S. Navy, which are often much larger contracts than our commercial contracts, can, on occasion, be delayed before or during the revenue recognition cycle. If we are unable to reallocate resources to other projects, we may see an increase in volatility in our near-term financial results that may impact our ability to effectively provide accurate investor guidance. Efforts to reduce large U.S. federal budget deficits could result in government cutbacks or shifts in focus in Defense spending or in reduced incentives to pursue alternative energy projects, resulting in reduced demand for our products, which could harm our business and results of operations. Our business strategy calls for us to continue to pursue Defense-related projects as well as projects for end users in the alternative energy markets in the U.S. In recent years, the U.S. federal government has incurred large budget deficits. Additionally, the Department of Government Efficiency ("DOGE") has begun taking steps to reduce government spending which may include reduction in funding for government contractors. In the event that U.S. federal government Defense spending is reduced or alternative energy related incentives are reduced or eliminated in an effort to reduce federal budget deficits, projects related to Defense or alternative energy may decrease demand for our products. The impact of such reductions could have a material adverse effect on our business and results of operations, as well as our growth opportunities. Defense orders are subject to annual gove
+
+---
+Doc size: 2041KB (capped at 2MB)

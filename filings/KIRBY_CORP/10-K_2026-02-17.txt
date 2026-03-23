@@ -1,0 +1,221 @@
+# KIRBY CORP — 10-K Annual Report
+# Filed: 2026-02-17
+# CIK: 56047
+# SIC: Water Transportation
+# Source: https://www.sec.gov/Archives/edgar/data/56047/000119312526054016/kex-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. Business 
+4 
+THE COMPANY 
+4 
+Documents and Information Available on Website 
+4 
+BUSINESS AND PROPERTY 
+4 
+MARINE TRANSPORTATION 
+5 
+Marine Transportation Industry Fundamentals 
+6 
+Inland Tank Barge Industry 
+6 
+Coastal Tank Barge Industry 
+7 
+Competition in the Tank Barge Industry 
+7 
+Products Transported 
+8 
+Demand Drivers in the Tank Barge Industry 
+8 
+Marine Transportation Operations 
+9 
+Contracts and Customers 
+11 
+DISTRIBUTION AND SERVICES 
+12 
+Commercial and Industrial Operations 
+12 
+Commercial and Industrial Customers 
+13 
+Commercial and Industrial Competitive Conditions 
+14 
+Power Generation Operations 
+14 
+Power Generation Customers 
+14 
+Power Generation Competitive Conditions 
+14 
+Oil and Gas Operations 
+14 
+Oil and Gas Customers 
+15 
+Oil and Gas Competitive Conditions 
+15 
+Governmental Regulations 
+15 
+Environmental Regulations 
+16 
+Human Capital 
+18 
+Information about the Company s Executive Officers 
+20
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+21 
+Item 1B. Unresolved Staff Comments 
+29 
+Item 1C. Cybersecurity 
+29 
+Item 2. Properties 
+31 
+Item 3. Legal Proceedings 
+32 
+Item 4. Mine Safety Disclosures 
+32 
+PART II 
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+33 
+Item 6. Reserved 
+33 
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+34 
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk 
+48 
+Item 8. Financial Statements and Supplementary Data 
+48 
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+48 
+Item 9A. Controls and Procedures 
+49 
+Item 9B. Other Information 
+49 
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+49 
+PART III 
+Items 10 Through 14 
+49 
+PART IV 
+Item 15. Exhibits and Financial Statement Schedules 
+80 
+Item 16. Form 10-K Summary 
+81 
+3 
+PART I Item 1. Busi ness THE COM PANY Kirby Corporation (the Company ) is the nation s largest domestic tank barge operator, transporting bulk liquid products throughout the Mississippi River System, on the Gulf Intracoastal Waterway, and coastwise along all three United States coasts. The Company, through its marine transportation segment ( KMT ), transports petrochemicals, black oil, refined petroleum products, and agricultural chemicals by tank barge. In addition, the Company participates in the transportation of dry-bulk commodities in United States coastwise trade. Through its distribution and services segment ( KDS ), the Company provides equipment, after-market parts and services for power generation systems in applications that include behind the meter power systems and emergency backup systems, after-market and genuine replacement parts and services for engines, transmissions, reduction gears, electric motors, drives, and controls, specialized electrical distribution and controls systems, and related equipment used in power generation, marine, on-highway, oilfield services, and other industrial applications. The Company also rents equipment including generators, industrial compressors, high-capacity lift trucks, construction equipment and refrigeration trailers for use in a variety of industrial markets. The Company also manufactures and remanufactures specialized equipment, including pressure pumping units and electric fracturing systems, electric power generation equipment, and specialized electrical distribution and control equipment for data centers, oilfield service, railroad and other industrial customers. Unless the context otherwise requires, all references herein to the Company include the Company and its subsidiaries. The Company s principal executive office is located at 55 Waugh Drive, Suite 1000, Houston, Texas 77007, and its telephone number is 713-435-1000. The Company s mailing address is P.O. Box 1745, Houston, Texas 77251-1745. Kirby Corporation is a Nevada corporation and was incorporated in 1969 although the history of the Company goes back to 1921. Documents and Information Ava ilable on Website The Internet address of the Company s website is http://www.kirbycorp.com. The Company makes available free of charge through its website, all of its filings with the Securities and Exchange Commission ( SEC ), including its Annual Report on Form 10 K, Quarterly Reports on Form 10 Q, Current Reports on Form 8 K and amendments to those reports, as soon as reasonably practicable after they are electronically filed with or furnished to the SEC. The SEC maintains an internet site at http://www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. The following documents are available on the Company s website in the Investor Relations section under Governance Documents: 
+Audit Committee Charter 
+Corporate Governance Guidelines 
+Compensation Committee Charter 
+Clawback Policy 
+ESG and Nominating Committee Charter 
+Insider Trading Policy 
+Business Ethics Guidelines 
+The Company is required to make prompt disclosure of any amendment to or waiver of any provision of its Business Ethics Guidelines that applies to any director or executive officer or to its chief executive officer, chief financial officer, chief accounting officer or controller or persons performing similar functions. The Company will make any such disclosure that may be necessary by posting the disclosure on its website in the Investor Relations section under Corporate Governance. BUSINESS AND P ROPERTY The Company, through its subsidiaries, conducts operations in two reportable business segments: marine transportation and distribution and services. The Company, through KMT, is a provider of marine transportation services, operating tank barges and towing vessels transporting bulk liquid products throughout the Mississippi River System, on the Gulf Intracoastal Waterway, and coastwise along all three United States coasts. The Company transports petrochemicals, black oil, refined petroleum products, and agricultural chemicals by tank barge. The Company operates offshore dry-bulk barge and tugboat units engaged in the offshore transportation of dry-bulk cargoes in the United States coastal trade. The segment is a provider of transportation services for its customers and, in almost all cases, does not assume ownership of the products that it transports. All of the Company s vessels operate under the United States flag and are qualified for domestic trade under the Jones Act. The Company, through KDS, provides equipment, after-market parts and services for power generation systems in applications that include behind the meter power systems and emergency backup systems, after-market and genuine replacement parts and services for engines, transmissions, reduction gears, electric motors, drives, and controls, specialized electrical distribution and controls systems, and related equipment used in power generation, marine, on-highway, oilfield services, and other industrial applications. The Company 
+4 
+also rents equipment including generators, industrial compressors, high-capacity lift trucks, construction equipment and refrigeration trailers for use in a variety of industrial markets. The Company also manufactures and remanufactures specialized equipment, including pressure pumping units and electric fracturing systems, electric power generation equipment, and specialized electrical distribution and control equipment for data centers, oilfield service, railroad and other industrial customers. The Company has approximately 5,233 employees, the large majority of whom are in the United States. MARINE TRANSPORTA TION KMT is primarily a provider of transportation services by tank barge for the inland and coastal markets. As of December 31, 2025, the equipment owned or operated by KMT consisted of 1,105 inland tank barges with 24.5 million barrels of capacity, and an average of 266 inland towboats during the fourth quarter of 2025, as well as 28 coastal tank barges with 2.9 million barrels of capacity, 24 coastal tugboats, four offshore dry-bulk cargo barges, three offshore tugboats and one docking tugboat with the following specifications and capacities: 
+Class of equipment 
+Number in class 
+Average age (in years) 
+Barrel capacities 
+Inland tank barges (owned and leased): 
+Regular double hull: 
+20,000 barrels and under 
+433 
+19.5 
+5,257,000 
+Over 20,000 barrels 
+672 
+16.7 
+19,257,000 
+Total inland tank barges 
+1,105 
+17.8 
+24,514,000 
+Inland towboats (owned and chartered): 
+800 to 1300 horsepower 
+24 
+35.3 
+1400 to 1900 horsepower 
+27 
+19.0 
+2000 to 2400 horsepower 
+160 
+14.6 
+2500 to 3200 horsepower 
+38 
+12.4 
+3300 to 4800 horsepower 
+10 
+12.4 
+Greater than 5000 horsepower 
+7 
+19.7 
+Total inland towboats 
+266 
+16.7 
+Coastal tank barges (owned): 
+30,000 barrels and under 
+2 
+31.0 
+37,000 
+50,000 to 70,000 barrels 
+3 
+20.3 
+111,000 
+80,000 to 90,000 barrels 
+8 
+21.9 
+677,000 
+100,000 to 110,000 barrels 
+6 
+19.5 
+630,000 
+120,000 to 150,000 barrels 
+3 
+24.0 
+416,000 
+Over 150,000 barrels 
+6 
+10.0 
+1,046,000 
+Total coastal tank barges 
+28 
+19.6 
+2,917,000 
+Coastal tugboats (owned and chartered): 
+3000 to 3900 horsepower 
+2 
+23.0 
+4000 to 4900 horsepower 
+6 
+17.2 
+5000 to 6900 horsepower 
+10 
+9.8 
+Greater than 7000 horsepower 
+6 
+15.5 
+Total coastal tugboats 
+24 
+13.8 
+Deadweight Tonnage 
+Offshore dry-bulk cargo barges (owned) 
+2 
+12.3 
+37,000 
+Offshore tugboats and docking tugboat (owned) 
+3 
+24.1 
+The 266 inland towboats, 24 coastal tugboats, two offshore tugboats and one docking tugboat provide the power source and the 1,105 inland tank barges, 28 coastal tank barges and two offshore dry-bulk cargo barges provide the freight capacity for KMT. When the power source and freight capacity are combined, the unit is called a tow. The Company s inland tows generally consist of one 
+5 
+towboat and from one to up to 25 tank barges, depending upon the horsepower of the towboat, the waterway infrastructure capacity and conditions, and customer requirements. The Company s coastal and offshore tows primarily consist of one tugboat and one tank barge or dry-bulk cargo barge. Marine Transportation Industry Fundamentals The United States inland waterway system, composed of a network of interconnected rivers and canals that serve the nation as water highways, is one of the world s most efficient transportation systems. The nation s inland waterways are vital to the United States distribution system, with over one billion short tons of cargo moved annually on United States shallow draft waterways. The inland waterway system extends approximately 26,000 miles, 12,000 miles of which are generally considered significant for domestic commerce, through 38 states, with 635 shallow draft ports. These navigable inland waterways link the United States heartland to the world. The United States coastal waterway system consists of ports along the Atlantic, Gulf and Pacific coasts, as well as ports in Alaska, Hawaii and on the Great Lakes. Like the inland waterways, the coastal trade is vital to the United States distribution system, particularly the regional distribution of refined petroleum products from refineries and storage facilities to a variety of destinations, including other refineries, distribution terminals, power plants and ships. In addition to distribution directly from refineries and storage facilities, coastal tank barges are used frequently to distribute products from pipelines. Many coastal markets receive refined petroleum products principally from coastal tank barges. Smaller volumes of petrochemicals are distributed from Gulf Coast plants to end users whereas black oil, including crude oil and natural gas condensate, is distributed regionally from refineries and terminals along the United States coast to refineries, power plants and distribution terminals. Based on cost, safety, and level of emissions, barge transportation is often the most efficient and safest means of surface transportation of bulk commodities when compared to railroads and trucks. The cargo capacity of a 27,500 barrel inland tank barge is the equivalent of 46 railroad tank cars or 144 tractor-trailer tank trucks. A typical Company lower Mississippi River linehaul tow of 15 barges has the carrying capacity of approximately 216 railroad tank cars plus six locomotives, or approximately 1,050 tractor-trailer tank trucks. The Company s inland tank barge fleet capacity of 24.5 million barrels equates to approximately 41,000 railroad tank cars or approximately 128,000 tractor-trailer tank trucks. Furthermore, barging is much more energy efficient when compared to other modes of transportation. One ton of bulk product can be carried 675 miles by inland barge on one gallon of fuel on a typical tow, compared to 472 miles by railcar or 151 miles by truck for typical transits. From an emissions perspective, transport by rail and tractor-trailer tank trucks emit approximately 40% and 800%, respectively, more CO 2 per ton mile of cargo transported than by inland tank barge. In the coastal trade, the carrying capacity of a 100,000 barrel tank barge is the equivalent of approximately 165 railroad tank cars or approximately 525 tractor-trailer tank trucks. The Company s coastal tank barge fleet capacity of 2.9 million barrels equates to approximately 4,800 railroad tank cars or approximately 15,300 tractor-trailer tank trucks. Marine transportation generally involves less urban exposure than railroad or truck transportation and operates on a system with fewer crossing junctures and often in areas relatively remote from population centers. These factors generally help to reduce the number of waterway incidents. Inland Tank B arge Industry The Company operates within the United States inland tank barge industry, a diverse and independent mixture of approximately 25 large integrated transportation companies and small operators, as well as captive fleets owned by refining and petrochemical companies. The inland tank barge industry provides marine transportation of bulk liquid cargoes for customers and, in the case of captives, for their own account, throughout the Mississippi River and its tributaries and on the Gulf Intracoastal Waterway. The most significant markets in this industry include the transportation of petrochemicals, black oil, refined petroleum products, and agricultural chemicals. The Company operates in each of these markets. The use of marine transportation by the petroleum and petrochemical industry is a major reason for the location of United States refineries and petrochemical facilities on navigable inland waterways. Texas and Louisiana currently account for approximately 80% of the United States production of petrochemicals. Much of the United States farm belt is likewise situated with access to the inland waterway system, relying on marine transportation of farm products, including agricultural chemicals. The Company s principal distribution system encompasses the Gulf Intracoastal Waterway from Brownsville, Texas, to Port St. Joe, Florida, the Mississippi River System and the Houston Ship Channel. The Mississippi River System includes the Arkansas, Illinois, Missouri, Ohio, Red, Tennessee, Yazoo, Ouachita and Black Warrior Rivers and the Tennessee-Tombigbee Waterway. The number of tank barges that operate on the inland waterways of the United States increased from 2,750 in 2006 to approximately 4,000 by the end of 2019. The increase from 2,750 tank barges in 2006 to approximately 4,000 by the end of 2019 primarily resulted from increased barge construction and deferred retirements due to strong demand and resulting capacity shortages. The number of industry tank barges has remained relatively constant from 2019 through the end of 2025. The Company s 1,105 inland tank barges represent approximately 28% of the industry s approximately 4,004 inland tank barges. For 202
+
+## GEOGRAPHIC REVENUE
+tems and emergency backup systems for data center and other businesses, railcar moving equipment, and oilfield service equipment, including pressure pumping units and electric fracturing systems, for North American as well as for international oilfield service companies, and oil and gas operator and producer markets. The Company also sells engines, transmissions, and power generation systems and rents equipment including generators, industrial compressors, high-capacity lift trucks, construction equipment and refrigeration trailers for use in a variety of commercial and industrial applications. Effective January 1, 2024, the power generation revenue source within the distribution and services segment has been broken out from the commercial and industrial and oil and gas revenue sources due to the significance of the power generation market to the Company s growth. This change had no net impact on overall Company or segment revenues and has been reflected retrospectively for all periods presented. For the commercial and industrial market, the Company sells Original Equipment Manufacturers ( OEM ) replacement parts and new diesel engines, provides service mechanics and maintains facilities to overhaul and repair diesel engines and ancillary products for marine and on-highway transportation companies, and industrial companies. The Company rents equipment including generators, industrial compressors, high-capacity lift trucks, construction equipment and refrigeration trailers for use in a variety of industrial markets. For the power generation market, the Company provides engineered products and field services, OEM replacement parts and safety-related products to power generation operators and to the nuclear industry, manufactures engine generator and pump packages for power generation operators and municipalities, offers customized power generation systems for specific commercial and industrial applications including data centers, and rents equipment including generators. For the oil and gas market, the Company sells OEM replacement parts, sells and services diesel engines, pumps and transmissions, manufactures and remanufactures pressure pumping units, manufacture
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer of KMT accounted for 10% or more of the Company s revenues in 2025, 2024, or 2023. 
+11 
+DISTRIBU TION AND SERVICES The Company, through its wholly owned subsidiary Kirby Distribution & Services, Inc. and its wholly owned subsidiaries Kirby Engine Systems LLC, ( Kirby Engine Systems ), Stewart & Stevenson LLC ( S&S ), United Holdings LLC ( United ), and through Kirby Engine Systems wholly owned subsidiaries Marine Systems, Inc. ( Marine Systems ) and Engine Systems, Inc. ( Engine Systems ), serves three markets, commercial and industrial, power generation, and oil and gas. The Company provides equipment, after-market parts and services for power generation systems in applications that include behind the meter power systems and emergency backup systems, after-market and genuine replacement parts and services for engines, transmissions, reduction gears, electric motors, drives, and controls, specialized electrical distribution and controls systems, and related equipment used in power generation, marine, on-highway, oilfield services, and other industrial applications. The Company operations include service mechanics to overhaul and repair engines, transmissions, reduction gears and related equipment used in marine, oilfield services, on-highway and other commercial and industrial applications, as well as rebuilding component parts or entire diesel engines, transmissions and reduction gears, electrical motors, drives, and controls, specialized electrical distribution and control systems, and related equipment. Customers are served through a network of 62 branch locations across 16 states and Colombia, South America. The Company manufactures and remanufactures power generation equipment, including behind the meter power systems and emergency backup systems for data center and other businesses, railcar moving equipment, and oilfield service equipment, including pressure pumping units and electric fracturing systems, for North American as well as for intern
+
+---
+Doc size: 2044KB (capped at 2MB)

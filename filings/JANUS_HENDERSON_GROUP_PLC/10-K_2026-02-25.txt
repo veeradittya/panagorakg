@@ -1,0 +1,346 @@
+# JANUS HENDERSON GROUP PLC — 10-K Annual Report
+# Filed: 2026-02-25
+# CIK: 1274173
+# SIC: Investment Advice
+# Source: https://www.sec.gov/Archives/edgar/data/1274173/000143774926005628/jhg20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+11 
+Item 1B. 
+Unresolved Staff Comments 
+21 
+Item 1C. 
+Cybersecurity 
+21 
+Item 2. 
+Properties 
+22 
+Item 3. 
+Legal Proceedings 
+22 
+Item 4. 
+Mine Safety Disclosures 
+22 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities 
+22 
+Item 6. 
+[Reserved] 
+23 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+24 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+39 
+Item 8. 
+Financial Statements and Supplementary Data 
+41 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+79 
+Item 9A. 
+Controls and Procedures 
+79 
+Item 9B. 
+Other Information 
+79 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions That Prevent Inspections 
+79 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+79 
+Item 11. 
+Executive Compensation 
+79 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+79 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+79 
+Item 14. 
+Principal Accountant Fees and Services 
+79 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+80 
+Item 16. 
+Form 10-K Summary 
+82 
+Signatures 
+83 
+2
+Table of Contents 
+PART I 
+FORWARD-LOOKING STATEMENTS 
+Certain statements in this report not based on historical facts are forward-looking statements within the meaning of the federal securities laws, including the Private Securities Litigation Reform Act of 1995, as amended, Section 21E of the Securities Exchange Act of 1934, as amended ( Exchange Act ), and Section 27A of the Securities Act of 1933, as amended ( Securities Act ). Such forward-looking statements involve known and unknown risks and uncertainties that are difficult to predict and could cause our actual results, performance or achievements to differ materially from those discussed. These include statements as to our future expectations, beliefs, plans, strategies, objectives, events, conditions, financial performance, prospects or future events. In some cases, forward-looking statements can be identified by the use of words such as may, could, expect, intend, plan, seek, anticipate, believe, estimate, predict, potential, continue, likely, will, would and similar words and phrases. Forward-looking statements are necessarily based on estimates and assumptions that, while considered reasonable by us and our management, are inherently uncertain. Accordingly, you should not place undue reliance on forward-looking statements, which speak only as of the date they are made and are not guarantees of future performance. We do not undertake any obligation to publicly update or revise these forward-looking statements. 
+Various risks, uncertainties, assumptions and factors that could cause our future results to differ materially from those expressed by the forward-looking statements included in this report include, but are not limited to, Janus Henderson s ability to obtain the regulatory, shareholder and other approvals required to consummate the previously announced merger transaction (the Proposed Transaction ) and the timing of the closing of the Proposed Transaction, including the risks that a condition to closing would not be satisfied within the expected timeframe or at all or that the closing of the Proposed Transaction would not occur, the outcome of any legal proceedings that may be instituted against the parties and others related to the merger agreement, that shareholder litigation in connection with the Proposed Transaction may affect the timing or occurrence of the Proposed Transaction or result in significant costs of defense, indemnification and liability, unanticipated difficulties or expenditures relating to the Proposed Transaction, including the impact of the Proposed Transaction on Janus Henderson s business, that the Proposed Transaction generally may involve unexpected costs, liabilities or delays, that the business of the Company may suffer as a result of uncertainty surrounding the Proposed Transaction or the identity of the purchaser, that the Company may be adversely affected by other economic, business, and/or competitive factors, including the net asset value of assets in certain of the Company s funds, and/or potential difficulties in employee retention as a result of the announcement and pendency of the Proposed Transaction, changes in interest rates and inflation, changes in trade policies, including the imposition of new or increased tariffs, changes to tax laws, volatility or disruption in financial markets, our investment performance as compared to third-party benchmarks or competitive products, redemptions and other withdrawals from the funds and accounts we manage, and other risks, uncertainties, assumptions, and factors discussed under headings such as Risk Factors, Management s Discussion and Analysis of Financial Condition and Results of Operations, and Quantitative and Qualitative Disclosures About Market Risk, and in other filings or furnishings made by the Company with the Securities and Exchange Commission ( SEC ) from time to time. 
+ITEM 1. 
+BUSINESS 
+Overview 
+Janus Henderson Group plc ( JHG, the Company, we, us, our and similar terms), a company incorporated and registered in Jersey, Channel Islands, is an independent global asset manager, specializing in investment management across all major asset classes. Through its predecessor companies, JHG traces its lineage back to 1934 when Henderson Group plc ( Henderson ) was founded. 
+We are a client-focused global business with more than 2,300 employees worldwide and assets under management ( AUM ) of $493.2 billion as of December 31, 2025. We have operations in North America, the United Kingdom ( UK ), continental Europe, Latin America, the Middle East, Asia and Australia. Our mission is to help clients define and achieve superior financial outcomes through differentiated insights, disciplined investments and world-class service. We bring people and ideas together to help shape the futures of millions of people as we fulfill our purpose of Investing in a brighter future together. We manage a broad range of investment products for institutional and retail investors across four capabilities: Equities, Fixed Income, Multi-Asset and Alternatives. 
+Clients entrust money to us, either their own or money they manage or advise on for their clients, and expect us to deliver the benefits specified in their mandate or by the prospectus for the fund in which they invest. We measure the amount of these funds as AUM. AUM increases or decreases primarily depending on our ability to attract and retain client investments, on investment performance and as a function of market and currency movements. AUM is also impacted when we invest in new asset management teams or businesses or divest from existing businesses. 
+Clients pay a management fee, which is usually calculated as a percentage of AUM. Certain investment products are also subject to performance fees, which vary based on when performance hurdles or other specified criteria are achieved. The level of assets subject to such fees can positively or negatively affect our revenue. Management and performance fees are generated from a diverse group of funds and other investment products and are the primary drivers of our revenue. We believe that the more diverse the range of investment strategies from which management and performance fees are derived, the more successful our business model will be through market cycles. 
+Strategy 
+Our strategy is based on three strategic pillars: Protect & Grow, Amplify and Diversify. Our strategy is centered on the belief that a combination of relentless focus and disciplined execution across our core business will drive future success as a global active asset manager. Specifically, our strategy lays a strong foundation for sustained organic growth and opportunistic inorganic growth to create value for all of our stakeholders, including clients, shareholders and employees. Each of our three strategic pillars is further detailed below. 
+Protect and grow our core business : We have identified existing opportunities in our core business where we believe we can increase market share, including regional intermediary distribution and good-performing smaller strategies. 
+Amplify strengths not fully leveraged : Our investment and client service strengths can be amplified with adjacent products, channels, geographies and vehicles (e.g., Institutional and development and expansion of other products). 
+Diversify where clients give us the right to win : We are seeking to expand our investment capabilities in areas where our clients are seeking more solutions from us and new investment capabilities that can open new client types (e.g., private credit and emerging market debt). 
+3
+Table of Contents 
+Financial Highlights 
+We report our financial results in accordance with accounting principles generally accepted in the United States of America ( U.S. GAAP ). However, we evaluate our profitability and our ongoing operations using additional non-GAAP financial measures that are consistent with internal management reporting. See Part II, Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations, for additional information on non-GAAP adjusted measures, including a reconciliation to the comparable GAAP measure. 
+Year ended December 31, 
+2025 
+2024 
+2023 
+GAAP basis (in millions, except per share data): 
+Revenue 
+$ 
+3,097.3 
+$ 
+2,473.2 
+$ 
+2,101.8 
+Operating expenses 
+$ 
+2,120.5 
+$ 
+1,827.5 
+$ 
+1,618.1 
+Operating income 
+$ 
+976.8 
+$ 
+645.7 
+$ 
+483.7 
+Operating margin 
+31.5 
+% 
+26.1 
+% 
+23.0 
+% 
+Net income attributable to JHG 
+$ 
+815.9 
+$ 
+408.9 
+$ 
+392.0 
+Diluted earnings per share 
+$ 
+5.23 
+$ 
+2.56 
+$ 
+2.37 
+Adjusted basis (in millions, except per share data): 
+Revenue 
+$ 
+2,535.8 
+$ 
+1,940.8 
+$ 
+1,645.9 
+Operating expenses 
+$ 
+1,624.0 
+$ 
+1,272.7 
+$ 
+1,137.2 
+Operating income 
+$ 
+911.8 
+$ 
+668.1 
+$ 
+508.7 
+Operating margin 
+36.0 
+% 
+34.4 
+% 
+30.9 
+% 
+Net income attributable to JHG 
+$ 
+746.0 
+$ 
+563.7 
+$ 
+435.2 
+Diluted earnings per share 
+$ 
+4.78 
+$ 
+3.53 
+$ 
+2.63 
+Assets Under Management 
+Our AUM by client type, capability and client location as of December 31, 2025, is presented below (in billions). 
+Client Type and Distribution Channel 
+We have a diverse group of intermediary, institutional and self-directed clients around the globe. While we seek to leverage our global model where possible, we also recognize the importance of tailoring our services to the needs of clients in different regions. For this reason, we maintain a local presence in most of the markets in which we operate and provide investment material that takes into account local customs, preferences and language needs. We have a global distribution team of approximately 400 people. A description of each client type and distribution channel is presented below. 
+Intermediary Channel 
+The intermediary channel distributes U.S. mutual funds, separately managed accounts ( SMAs ), exchange-traded funds ( ETFs ), UK Open Ended Investment Companies ( OEICs ), Soci t d Investissement Capital Variable ( SICAVs ), Collective Investment Trusts ( CITs ), Undertakings for Collective Investments in Transferable Securities ( UCITS ), hedge funds, closed-end interval and tender funds, and model portfolios through financial intermediaries, including banks, broker-dealers, financial advisors, fund platforms and discretionary wealth managers. We have made significant investments to grow our presence in the financial advisor subchannel, including enhancing our technology platform and recruiting highly seasoned leaders and client relationship managers. At December 31, 2025, AUM in our intermediary channel totaled $242.9 billion, or 49% of total AUM. 
+4
+Table of Contents 
+Institutional Channel 
+The institutional channel serves corporations, endowments, pension funds, foundations, Taft-Hartley funds, public fund clients and sovereign entities, with distribution direct to the plan sponsor and through consultants. At December 31, 2025, AUM in our institutional channel totaled $152.2 billion, or 31% of total AUM. 
+Self-Directed Channel 
+The self-directed channel serves individual investors who invest in our products through a mutual fund supermarket or directly with us. At December 31, 2025, AUM in our self-directed channel totaled $98.1 billion, or 20% of total AUM. 
+Investment Capabilities 
+Equities 
+We offer a wide range of equity strategies encompassing different geographic focuses and investment styles. The Equities teams include those with a global perspective, those with a regional focus (including the U.S., Europe and Asia) and those invested in specialist sectors. A range of growth, value and absolute return styles are employed. These teams generally apply processes based on fundamental research and bottom-up stock picking. As of December 31, 2025, AUM in our Equities capability totaled $256.6 billion, or 52% of total AUM. 
+Fixed Income 
+Our Fixed Income teams provide coverage across the asset class, applying a wide range of innovative and differentiated techniques in support of a variety of investment objectives and risk criteria. Our fixed income offering includes teams that apply global unconstrained approaches as well as teams with more focused mandates based in the U.S., Europe, Asia and Australia. The capabilities of these teams are available through individual strategies and, where appropriate, combined to create multi-strategy offerings. As of December 31, 2025, AUM in our Fixed Income capability totaled $155.8 billion, or 32% of total AUM. 
+Multi-Asset 
+Our Multi-Asset capability includes teams in the U.S. and UK that focus on balanced, multi-asset income and strategic asset allocation, as well as multiple adaptive asset allocation strategies. As of December 31, 2025, AUM in our Multi-Asset capability totaled $58.8 billion, or 12% of total AUM. 
+Alternatives 
+Our Alternatives capability includes teams with various areas of focus and approach. Alternatives brings together a cross-asset class combination of alpha generation, risk management and efficient beta replication strategies. These include Global Multi-Strategy, Managed Futures, Risk Premia and Global Commodities, Private Credit and Long/Short Equity. As of December 31, 2025, AUM in our Alternatives capability totaled $22.0 billion, or 4% of total AUM. 
+Client Locations 
+North America 
+Our North America region serves clients throughout North America and represents our largest geographical concentration of AUM. The North America distribution network serves a diverse set of clients across financial intermediaries, institutions and self-directed channels. As of December 31, 2025, total North America AUM was $321.9 billion, and we employed 223 and 207 investment and distribution prof
+
+## GEOGRAPHIC REVENUE
+t types (e.g., private credit and emerging market debt). 
+3
+Table of Contents 
+Financial Highlights 
+We report our financial results in accordance with accounting principles generally accepted in the United States of America ( U.S. GAAP ). However, we evaluate our profitability and our ongoing operations using additional non-GAAP financial measures that are consistent with internal management reporting. See Part II, Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations, for additional information on non-GAAP adjusted measures, including a reconciliation to the comparable GAAP measure. 
+Year ended December 31, 
+2025 
+2024 
+2023 
+GAAP basis (in millions, except per share data): 
+Revenue 
+$ 
+3,097.3 
+$ 
+2,473.2 
+$ 
+2,101.8 
+Operating expenses 
+$ 
+2,120.5 
+$ 
+1,827.5 
+$ 
+1,618.1 
+Operating income 
+$ 
+976.8 
+$ 
+645.7 
+$ 
+483.7 
+Operating margin 
+31.5 
+% 
+26.1 
+% 
+23.0 
+% 
+Net income attributable to JHG 
+$ 
+815.9 
+$ 
+408.9 
+$ 
+392.0 
+Diluted earnings per share 
+$ 
+5.23 
+$ 
+2.56 
+$ 
+2.37 
+Adjusted basis (in millions, except per share data): 
+Revenue 
+$ 
+2,535.8 
+$ 
+1,940.8 
+$ 
+1,645.9 
+Operating expenses 
+$ 
+1,624.0 
+$ 
+1,272.7 
+$ 
+1,137.2 
+Operating income 
+$ 
+911.8 
+$ 
+668.1 
+$ 
+508.7 
+Operating margin 
+36.0 
+% 
+34.4 
+% 
+30.9 
+% 
+Net income attributable to JHG 
+$ 
+746.0 
+$ 
+563.7 
+$ 
+435.2 
+Diluted earnings per share 
+$ 
+4.78 
+$ 
+3.53 
+$ 
+2.63 
+Assets Under Management 
+Our AUM by client type, capability and client location as of December 31, 2025, is presented below (in billions). 
+Client Type and Distribution Channel 
+We have a diverse group of intermediary, institutional and self-directed clients around the globe. While we seek to leverage our global model where possible, we also recognize the importance of tailoring our services to the needs of clients in different regions. For this reason, we maintain a local presence in most of the markets in which we operate and provide investment material that takes into account local customs, preferences and language needs. We have a global distribution team of approximately 400 people. A description of each client type and distribution channel is presented below. 
+Intermediary Channel
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the higher of the liabilities and the assets of the scheme ( corridor ) have no immediate impact on net income and are instead recognized through other comprehensive income. Cumulative gains or losses greater than this corridor are amortized to net income over the average future lifetime of inactive members of the plan on the grounds that there are no further active members of the plan remaining. 
+Net periodic benefit cost is recorded as a component of net income in the Consolidated Statements of Comprehensive Income and includes service cost, interest cost and the expected return on plan assets. 
+The net periodic benefit costs and period-end obligations under defined benefit pension plans are determined using actuarial valuations. The actuarial valuation involves making a number of assumptions, including those related to the discount rate, the expected rate of return on assets, future salary increases, mortality rates and future pension increases. Due to the long-term nature of these plans, such estimates are subject to significant uncertainty. 
+The table below shows the movement in funded status that would result from certain sensitivity changes (in millions): 
+Hypothetical decrease 
+in funded status at 
+December 31, 2025 
+Discount rate: -0.1% 
+$ 
+5.1 
+Inflation: +0.1% 
+$ 
+1.2 
+Life expectancy: +1 year at age 65 
+$ 
+15.9 
+Market value of return seeking portfolio falls 25% 
+$ 
+0.3 
+Income Taxes 
+We operate in several countries, states and other taxing jurisdictions through various subsidiaries and branches, and must allocate income, expenses and earnings under the various laws and regulations of each of these taxing jurisdictions. Accordingly, the provision for income taxes represents the total estimate of the liability that we have incurred for doing business each year in all of the locations. We file tax returns annually that represent filing positions within each jurisdiction and settle return liabilities. Each jurisdiction has the right to audit those re
+
+---
+Doc size: 2048KB (capped at 2MB)

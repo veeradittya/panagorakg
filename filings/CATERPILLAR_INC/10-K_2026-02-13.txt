@@ -1,0 +1,14 @@
+# CATERPILLAR INC — 10-K Annual Report
+# Filed: 2026-02-13
+# CIK: 18230
+# SIC: Construction Machinery & Equip
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+9 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment"> cat:segment 0000018230 2025-01-01 2025-12-31 0000018230 us-gaap:CommonStockMember 2025-01-01 2025-12-31 0000018230 cat:A5.3DebenturesDueSeptember152035Member 2025-01-01 2025-12-31 0000018230 2025-12-31 0000018230 cat:MachineryPowerEnergyMember 2025-01-01 2025-12-31 0000018230 cat:MachineryP
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

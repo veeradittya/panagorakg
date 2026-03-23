@@ -1,0 +1,99 @@
+# TAYSHA GENE THERAPIES INC — 10-K Annual Report
+# Filed: 2026-03-19
+# CIK: 1806310
+# SIC: Biological Products, (No Diagnostic Substances)
+# Source: https://www.sec.gov/Archives/edgar/data/1806310/000119312526115202/tsha-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+28 
+Item 1B. 
+Unresolved Staff Comments 
+81 
+Item 1C. 
+Cybersecurity 
+81 
+Item 2. 
+Properties 
+82 
+Item 3. 
+Legal Proceedings 
+82 
+Item 4. 
+Mine Safety Disclosures 
+82 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+83 
+Item 6. 
+Reserved 
+83 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operation 
+84 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+98 
+Item 8. 
+Financial Statements and Supplementary Data 
+F- 1 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+101 
+Item 9A. 
+Controls and Procedures 
+101 
+Item 9B. 
+Other Information 
+101 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdiction that Prevent Inspections 
+101 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+102 
+Item 11. 
+Executive Compensation 
+102 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+102 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+102 
+Item 14. 
+Principal Accounting Fees and Services 
+102 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+103 
+Item 16. 
+Form 10-K Summary 
+105 
+Signatures 
+106 
+i 
+SPECIAL CAUTIONARY NOTICE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K, or this Annual Report, contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act, that involve substantial risks and uncertainties. The forward-looking statements are contained principally in Part I, Item 1. Business, Part I, Item 1A. Risk Factors, and Part II, Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations, but are also contained elsewhere in this Annual Report. In some cases, you can identify forward-looking statements by the words may, might, will, could, would, should, expect, intend, plan, objective, anticipate, believe, estimate, predict, project, potential, continue and ongoing, or the negative of these terms, or other comparable terminology intended to identify statements about the future. These statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to be materially different from the information expressed or implied by these forward-looking statements. Although we believe that we have a reasonable basis for each forward-looking statement contained in this Annual Report, we caution you that these statements are based on a combination of facts and factors currently known by us and our expectations of the future, about which we cannot be certain. Forward-looking statements include statements about: the timing, progress and results of our preclinical studies and clinical trials of our product candidates, including statements regarding the timing of initiation and completion of studies or trials and related preparatory work, the period during which the results of the trials will become available and our research and development programs; the timing of our planned Investigational New Drug and Clinical Trial Agreement submissions, initiation of clinical trials and timing of expected clinical results for TSHA-102 for Rett syndrome and any other current and future product candidates that we advance; the timing of any submission of filings for regulatory approval of, and our ability to obtain and maintain regulatory approvals for, our current and future product candidates; our ability to identify patients with the diseases treated by our product candidates, and to enroll patients in trials; our expectations regarding the size of the patient populations, market acceptance and opportunity for and clinical utility of our product candidates, if approved for commercial use; our manufacturing process and strategy, including the scalability and commercial viability of our manufacturing methods and processes; our expectations regarding the scope of any approved indication for TSHA-102 or any other current or future product candidate that we advance; our ability to successfully commercialize our product candidates; our ability to leverage our platform, including our next-generation technologies, to identify and develop future product candidates; our estimates of our expenses, ongoing losses, future revenue, capital requirements and our need for or ability to obtain additional funding before we can expect to generate any revenue from product sales; our ability to establish or maintain collaborations or strategic relationships; the costs of litigation and our expectations regarding the outcome of lawsuits and other claims against us and any regulatory or legal proceedings; our ability to identify, recruit and retain key personnel; our reliance upon intellectual property licensed from third parties and our ability to obtain such licenses on commercially reasonable terms or at all; our ability to protect and enforce our intellectual property position for our product candidates, and the scope of such protection; our ability to comply with the terms of our term loan agreement; our financial performance; our competitive position and the development of and projections relating to our competitors or our industry; our estimates regarding future revenue, expenses and needs for additional financing; and 
+our expectations regarding the time during which we will be an emerging growth company under the JOBS Act. You should refer to Item 1A. Risk Factors in this Annual Report for a discussion of important factors that may cause our actual results to differ materially from those expressed or implied by our forward-looking statements. As a result of these factors, we cannot assure you that the forward-looking statements in this Annual Report will prove to be accurate. Furthermore, if our forward-looking statements prove to be inaccurate, the inaccuracy may be material. In light of the significant uncertainties in these forward-looking statements, you should not regard these statements as a representation or warranty by us or any other person that we will achieve our objectives and plans in any specified time frame, or at all. The forward-looking statements in this Annual Report represent our views as of the date of this Annual Report. We anticipate that subsequent events and developments may cause our views to change. However, while we may elect to update these forward-looking statements at some point in the future, we undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. You should, therefore, not rely on these forward-looking statements as representing our views as of any date subsequent to the date of this Annual Report. You should read this report and the documents that we reference in this report, completely and with the understanding that our actual future results may be materially different from what we expect. We qualify all of our forward-looking statements by these cautionary statements. All brand names or trademarks appearing in this Annual Report are the property of their respective owners. Solely for convenience, the trademarks and trade names in this Annual Report are referred to without the symbols and TM , but such references should not be construed as any indication that their respective owners will not assert, to the fullest extent under applicable law, their rights thereto. Unless the context requires otherwise, references in this report to Taysha, the Company, we, us, and our refer to Taysha Gene Therapies, Inc. together with its consolidated subsidiaries. 
+PA RT I Item 1. Bu siness. Overview We are a clinical-stage biotechnology company focused on advancing AAV-based gene therapies for the treatment of severe monogenic diseases of the central nervous system, or CNS. Our lead clinical program TSHA-102 is in development for the treatment of Rett syndrome, a rare neurodevelopmental disorder with no approved disease-modifying therapies that address the genetic root cause of the disease. With a singular focus on developing transformative medicines, we aim to address severe unmet medical needs and dramatically improve the lives of patients and their caregivers. Our management team has proven experience in gene therapy development and commercialization. We leverage this experience, our manufacturing process and a clinically and commercially proven AAV9 capsid in an effort to rapidly translate treatments from bench to bedside. We are evaluating TSHA-102 for the treatment of females with Rett syndrome in our REVEAL and ASPIRE clinical trials. The REVEAL Phase 1/2 Adolescent and Adult Trial, also known as Part A, is a first-in-human, open-label, randomized, dose-escalation and dose-expansion study evaluating the safety and preliminary efficacy of TSHA-102 as a single lumbar intrathecal administration in adolescent and adult females aged 12 years and older with Rett syndrome due to MECP2 loss-of-function mutation. The trial is taking place in Canada and the United States. A total of six participants aged 15 to 21 years were treated with TSHA-102 in this study, and enrollment for this trial is complete. Part A also includes the REVEAL Phase 1/2 Pediatric Trial, which is a first-in-human, open-label, randomized, dose-escalation and dose-expansion study evaluating the safety and preliminary efficacy of TSHA-102 as a single lumbar intrathecal administration in pediatric females aged 5 to 8 years with Rett syndrome due to MECP2 loss-of-function mutation. The trial is taking place in the United States and Canada. A total of six participants aged 6 to 8 years were treated with TSHA-102 in this study, and enrollment for this trial is also complete. We have completed dosing of the 12 patients in Part A of both REVEAL trials, which includes eight patients in cohort two (high dose, 1x10 15 total vg) and four patients in cohort one (low dose, 5.7x10 14 total vg). We reported positive clinical data in May 2025, demonstrating that the first 10 patients gained or regained one or more developmental milestone across communication, fine motor and gross motor function following TSHA-102 as of the May 19, 2025 data cutoff. Patients also showed improvements across multiple standardized Rett syndrome assessments. There have been no treatment-related serious adverse events or dose-limiting toxicities across the 12 participants treated with TSHA-102 as of the March 2026 data cutoff. An update on longer-term safety and efficacy data from the Part A REVEAL Phase 1/2 trials is expected in the second quarter of 2026. The TSHA-102 clinical development program is designed to support the potential future approval of TSHA-102 for a broad population of patients aged 2 years and older with Rett syndrome through an efficient and rigorously designed pathway. In close collaboration with the United States Food and Drug Administration, or FDA, we designed the TSHA-102 pivotal program so that efficacy data from the REVEAL pivotal trial in participants aged 6 to 22 years who have reached developmental plateau can be used to represent patients aged 2 to 6 years, while safety data in younger children are generated through the separate ASPIRE trial to support the potential for a broad label for TSHA-102. The REVEAL pivotal trial, also known as Part B, is a single-arm, open-label study evaluating the efficacy and safety of TSHA-102 in females with Rett syndrome, with each patient serving as their own control. Each participant will receive a single administration of the high dose (1x10 15 total vg) of TSHA-102 delivered by lumbar intrathecal injection. The study will enroll 15 females aged 6 to 22 years in the developmental plateau population of Rett syndrome; these patients have an exceedingly low likelihood (0% to 6.7%) of gaining new or regaining developmental milestones that were lost after a defined number of years, based on our analysis of the National Institutes of Health, or NIH, -funded International Rett Syndrome Foundation s natural history study data. The primary endpoint will assess response rate, defined as the percentage of patients who gain or regain at least one developmental milestone from a list of 28 defined milestones across the core functional domains of communication, fine motor and gross motor, following administration of TSHA-102. Standardized milestone assessments will be administered and captured on video at pre- and post-treatment timepoints, with determination of milestone gain/regain upon video-evidence review by independent, blinded central raters based on prespecified definitions of achievement for each milestone. We have finalized FDA alignment on the REVEAL pivotal trial protocol and statistical analysis plan, which includes a 6-month interim analysis that may serve as the basis for a biologics license application, or BLA, submission. Multiple patients have been dosed in the REVEAL pivotal trial, with the first patient dosed in the fourth quarter of 2025. Additional patient enrollment continues to advance across multiple clinical trial sites. There have been no treatment-related serious adverse events or dose-limiting toxicities across the participants treated with TSHA-102 in the REVEAL pivotal trial as of the March 2026 data cutoff. We expect to complete dosing of all patients in the REVEAL pivotal trial in the second quarter of 2026. 
+1 
+We also obtained written alignment from the FDA on an extrapolation approach in a separate safety-focused study, which we refer to as the ASPIRE trial, and the data for inclusion in the planned BLA submission to enable potential broad labeling of TSHA-102 for patients aged 2 years with Rett syndrome. ASPIRE will enroll three females aged 2 to 4 years with Rett syndrome to evaluate the safety and preliminary efficacy of a single intrathecal administration of high dose TSHA-102 (1x10 15 total vg), scaled to account for the lower brain volume in 2 to 4 year olds. A minimum of three months of ASPIRE safety data will be included in the planned BLA submission, while efficacy in the 2 to 6-year-old population will be extrapolated from data collected in the REVEAL pivotal trial, to support the potential for a broad label for TSHA-102 in patients aged 2 years with Rett syndrome. We expect to complete dosing in the ASPIRE trial in the second quarter of 2026. We reached written alignment with the FDA on Chemistry, Manufacturing and Controls requirements to support a planned BLA submission for TSHA-102 following a Type C meeting. We further aligned with the FDA on our proposed comparability approach between TSHA-102 material derived from the clinical and final commercial manufacturing processes. The FDA agreed that this
+
+## GEOGRAPHIC REVENUE
+dOptionsMember 2025-01-01 2025-12-31 0001806310 tsha:Performance-BasedRestrictedStockUnitsMember 2025-08-01 2025-08-31 0001806310 us-gaap:StateAndLocalJurisdictionMember 2024-12-31 0001806310 us-gaap:DomesticCountryMember 2024-12-31 0001806310 tsha:TwoThousandTwentyFiveTrinityTermLoanAgreementMember us-gaap:GeneralAndAdministrativeExpenseMember tsha:TwoThousandTwentyFiveTrinityTermLoansMember tsha:ThirdPartiesMember 2025-01-01 2025-12-31 0001806310 tsha:AstellasMember tsha:LicenseForGanMember 2025-01-01 2025-12-31 0001806310 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-12-31 0001806310 us-gaap:PerformanceSharesMember tsha:InitialOptionsAndOriginalOptionsMember 2025-01-01 2025-12-31 0001806310 tsha:InducementPlanMember us-gaap:SubsequentEventMember 2026-02-01 2026-03-31 0001806310 tsha:SecuritiesPurchaseAgreementMember tsha:AstellasMember us-gaap:PrivatePlacementMember 2022-10-21 2022-10-21 0001806310 tsha:UnderwritingAgreementMember tsha:JuneTwentyTwentyFourPreFundedWarrantsMember 2024-06-26 2024-06-26 0001806310 us-gaap:SubsequentEventMember tsha:Performance-BasedRestrictedStockUnitsMember 2026-01-01 0001806310 us-gaap:ComputerEquipmentMember 2025-12-31 0001806310 tsha:UnderwritingAgreementMember tsha:MayTwentyTwentyFivePreFundedWarrantsMember 2025-05-28 2025-05-28 0001806310 tsha:TwoThousandTwentyStockIncentivePlanMember 2024-01-01 2024-12-31 0001806310 us-gaap:FairValueInputsLevel1Member 2024-12-31 0001806310 us-gaap:RetainedEarningsMember 2023-12-31 0001806310 tsha:TwoThousandTwentyStockIncentivePlanMember 2025-01-01 2025-12-31 0001806310 tsha:UnderwritingAgreementMember tsha:JuneTwentyTwentyFourPreFundedWarrantsMember 2024-07-01 2024-07-31 0001806310 tsha:InducementPlanMember 2024-12-12 0001806310 tsha:SecuritiesPurchaseAgreementMember tsha:AugustTwoThousandAndTwentyThreePrivatePlacementMember 2023-08-14 0001806310 tsha:AbeonaCLN1AgreementsMember 2020-10-01 2020-10-31 0001806310 tsha:AbeonaRettAgreementMember 2024-01-01 2024-12-31 0001806310 us-gaap:StateAndLocalJurisdictionMember 2025-12-31 0001806310 tsha:Performance-BasedRestrictedStockUnitsMember tsha:TwoThousandTwentyStockIncentivePlanMember 2025-08-31 0001806310 tsha:LaboratoryEquipmentMembe
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of normal levels). FMRP expression in unaffected persons varies greatly from person to person. Current pharmacotherapeutic treatments for Fragile X syndrome are solely directed towards symptom relief. We conducted proof of concept studies in animal models of Fragile X (Fmr1 KO) with TSHA-114. No significant adverse effects were observed in behavioral, serological or pathohistological markers up to 12 months after intrathecal administration of TSHA-114 in wild-type mice. TSHA-114-treated Fmr1 KO mice showed widespread FMRP expression throughout the brain post administration and robust suppression of audiogenic seizures and normalization of fear conditioning behavior. In addition, assessment of circadian locomotor activity revealed restoration of hyperactivity and sleep. Assessment of transgene expression and behavioral responses in individual mice demonstrated correlations between the level of FMRP expression and potential drug efficacy. The results from the study support continued development. Ongoing and future work is focused on optimal dose and route of administration determination for IND-enabling studies. There are an estimated 75,000 patients with Fragile X syndrome in the United States and Europe. TSHA-106 for Angelman syndrome We were previously developing TSHA-106 for the treatment of Angelman syndrome, a neurodevelopmental disorder caused by a maternal deficiency of the UBE3A gene. In 2025, we discontinued the evaluation of TSHA-106. 
+9 
+License Agreements Research, Collaboration and License Agreement with The University of Texas Southwestern Medical Center In November 2019, we entered into a research, collaboration and license agreement, or the UT Southwestern Agreement, with The Board of Regents of the University of Texas System on behalf of The University of Texas Southwestern Medical Center, or UT Southwestern, as amended in April 2020. In connection with the UT Southwestern Agreement, we obtained an exclusive, worldwide, royalty-free license under
+
+---
+Doc size: 2036KB (capped at 2MB)

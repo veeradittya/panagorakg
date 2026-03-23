@@ -1,0 +1,14 @@
+# GE AEROSPACE — 10-K Annual Report
+# Filed: 2015-02-27
+# CIK: 40554
+# SIC: Personal Credit Institutions
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/40554/000004054515000032/gecc10k2014.htm)
+
+## RISK FACTORS (Item 1A)
+&#160; 9 Item 1B.
+
+## GEOGRAPHIC REVENUE
+SEGMENTS Operating businesses that are reported as segments include Commercial Lending and Leasing (CLL), Consumer, Real Estate, Energy Financial Services and GE Capital Aviation Services (GECAS). These operations are subject to a variety of regulations in their respective jurisdictions and are located in North America, South America, Europe, Australia and Asia. We also continue our longstanding practice of providing supplemental information for certain businesses within the segments. Segment revenue and profit information and additional financial data and commentary on recent financial results for operating segments are provided in the Segment Operations section in Part II, Item 7. "Management's Discussion and Analysis of Financial Condition and Results of Operations" and in Note 20 to the consolidated financial statements in Part II, Item 8. "Financial Statements and Supplementary Data" of this Form 10-K Report. COMMERCIAL LENDING AND LEASING
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

@@ -1,0 +1,14 @@
+# VENTAS INC — 10-K Annual Report
+# Filed: 2026-02-06
+# CIK: 740260
+# SIC: Real Estate Investment Trusts
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/740260/000074026026000006/vtr-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+&#8221; below and in &#8220;Risk Factors&#8221; in Part 1A of this Annual Report. i Table of Contents Summary Risk Factors Our business is subject to significant risks and uncertainties that make an investment in us speculative and risky. Below we summarize what we believe are the principal risk factors, but these risks are not the only ones we face. You should carefully review and consider the full discussion of our risk factors in the section titled &#8220;Risk Factors&#8221; in Part I, Item 1A of this Annual Report, together with the other information in this Annual Report. If any of the following risks, or any other risks and uncertainties that are not addressed below or elsewhere in this Annual Report or that we have not yet identified, actually occur, our business, financial condition and results of operations could be materially adversely affected and the value of our securities could decline. Risks Relating to Our Business Operations and Strategy &#8226; Macroeconomic trends, including trends relating to labor costs, unemployment, inflation, interest rates and exchange rates, may affect our business and financial results &#8226; Changes in the U.S. political and regulatory environment could affect availability of government funding that we or our managers, tenants or borrowers rely on, which could negatively impact our business &#8226; To the extent that we or our managers, tenants and borrowers are unable to navigate successfully the trends affecting our or their businesses and the industries in which we or they operate, we may be adversely affected &#8226; Our managers and tenants operate or exert substantial control over the
+
+## GEOGRAPHIC REVENUE
+segment" contextRef="c-1" decimals="INF" name="us-gaap:NumberOfReportableSegments" format="ixt-sec:numwordsen" scale="0" id="f-583">three http://fasb.org/us-gaap/2025#OtherAssets http://fasb.org/us-gaap/2025#OtherAssets http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent P3Y P1Y iso4217:USD xbrli:shares iso4217:USD xbrli:shares vtr:property xbrli:pure vtr:Segment</
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

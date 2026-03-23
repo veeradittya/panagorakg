@@ -1,0 +1,21 @@
+# TOPBUILD CORP — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1633931
+# SIC: Construction - Special Trade Contractors
+# Source: https://www.sec.gov/Archives/edgar/data/1633931/000110465926020481/bld-20251231x10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. Business 4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 13 Item 1B. Unresolved Staff Comments 25 Item 1C. Cyber Risk Management, Strategy and Governance 25
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers or suppliers experience similar events that disrupt their operations or damage their reputations. Risks Relating to Liquidity and Our Ability to Finance Our Operations If we are required to take significant non-cash charges, our financial resources could be reduced, and our financial flexibility may be negatively affected. We carry substantial amounts of goodwill and other intangible assets on our balance sheet, primarily resulting from business combinations. The valuation of these assets is largely determined by our expectations regarding the future performance of our operations. Changes in anticipated growth within residential new construction, commercial and industrial construction, residential repair and remodeling, commercial roofing or re-roofing, and the utilization of industrial facilities could require us to recognize non-cash, pretax impairment charges related to goodwill, other indefinite-lived intangible assets, or other long-lived assets. Should impairments occur to the value of our goodwill, intangible assets, or long-lived assets, our earnings and shareholders equity would be negatively impacted, which may also affect our ability to raise capital in the future. 22 
+Table of Contents We may have future capital needs and may not be able to obtain additional financing on acceptable terms. Our capital needs will be influenced by a variety of factors, such as trends within our industry and markets, our success in completing business combinations, and the expansion of our current operations. To support our growth and execute our business strategy, we expect that additional funding may be necessary. However, economic and credit market conditions, the overall performance of the construction industry, our financial results, and other factors many of which are outside our control could restrict our access to financing. Our ability to obtain additional financing and meet our financial obligations will depend on our operating results, the av
+
+---
+Doc size: 2048KB (capped at 2MB)

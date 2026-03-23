@@ -1,0 +1,95 @@
+# ORTHOFIX MED INC — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 884624
+# SIC: Surgical & Medical Instruments & Apparatus
+# Source: https://www.sec.gov/Archives/edgar/data/884624/000119312526065189/ofix-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+6
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+27 
+Item 1B. 
+Unresolved Staff Comments 
+51 
+Item 1C. 
+Cybersecurity 
+52 
+Item 2. 
+Properties 
+53 
+Item 3. 
+Legal Proceedings 
+53 
+Item 4. 
+Mine Safety Disclosure 
+53 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+54 
+Item 6. 
+Reserved 
+55 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+56 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+68 
+Item 8. 
+Financial Statements and Supplementary Data 
+69 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+69 
+Item 9A. 
+Controls and Procedures 
+69 
+Item 9B. 
+Other Information 
+72 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+72 
+PART III 
+Item 10. 
+Directors, Executive Officers, and Corporate Governance 
+73 
+Item 11. 
+Executive Compensation 
+73 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+73 
+Item 13. 
+Certain Relationships, Related Transactions, and Director Independence 
+73 
+Item 14. 
+Principal Accountant Fees and Services 
+73 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+74 
+Item 16. 
+Form 10-K Summary 
+82 
+Forward-Looking Statements This Annual Report contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended ("the Exchange Act"), and Section 27A of the Securities Act of 1933, as amended, relating to our business and financial outlook, which are based on our current beliefs, assumptions, expectations, estimates, forecasts, and projections. In some cases, you can identify forward-looking statements by terminology such as "may," "will," "should," "expects," "plans," "anticipates," "believes," "estimates," "projects," "intends," "predicts," "potential," "continue," or other comparable terminology. Forward-looking statements include, but are not limited to, statements about: our intentions, beliefs, and expectations regarding our operations, sales, expenses, and future financial performance; our operating results; our plans for future products and enhancements of existing products; anticipated growth and trends in our business; the timing of, and our ability to maintain and obtain, regulatory clearances or approvals; our belief that our cash and cash equivalents, investments, and access to our credit facilities will be sufficient to satisfy our anticipated cash requirements; our expectations regarding our revenues, customers, and distributors; our ability to persuade surgeons to use our products; our ability to attract and retain distributors and/or sales and other personnel; our expectations regarding our costs, suppliers, and manufacturing abilities; our beliefs and expectations regarding our market penetration and expansion efforts; our anticipated trends and challenges in the markets in which we operate; and our expectations and beliefs regarding, and the impact of, investigations, claims, and litigation. These forward-looking statements are not guarantees of future performance and involve risks, uncertainties, estimates, and assumptions that are difficult to predict. Any or all forward-looking statements that we make may turn out to be wrong (due to inaccurate assumptions that we make or otherwise) and our actual outcomes and results may differ materially from those expressed in these forward-looking statements. Potential risks and uncertainties that could cause actual results to differ materially include, but are not limited to, those set forth in Part I, Item 1A under the heading "Risk Factors", Part II, Item 7 under the heading "Management s Discussion and Analysis of Financial Condition and Results of Operations" and elsewhere throughout this Annual Report and in any other documents incorporated by reference to this Annual Report. You should not place undue reliance on any of these forward-looking statements. Further, any forward-looking statement speaks only as of the date hereof, unless it is specifically otherwise stated to be made as of a different date. We undertake no obligation to update, and expressly disclaim any duty to update, our forward-looking statements, whether as a result of circumstances or events that arise after the date hereof, new information, or otherwise. Summary of Risk Factors This section provides a summary of many of the risks we are exposed to in the normal course of our business activities. The summary does not contain all of the information that may be important to you, and you should read the summary together with the more detailed discussion of risks set forth following this section as well as elsewhere in this report. We continue to integrate legacy businesses that operate in different market segments, and we may not be able to achieve all of our intended synergies between such legacy businesses. Our business may be adversely affected if consolidation in the healthcare industry leads to demand for price concessions or if a group purchasing organization or similar entity excludes us from being a supplier. The industry in which we operate is highly competitive. New product developments and improvements by our competitors could make our products or technologies non-competitive or obsolete. Similarly, unless clinical studies 
+demonstrate the safety and efficacy of our products, alone and relative to competitive products, our sales may be adversely affected. Pandemics, wars and armed conflicts, terrorist attacks, and other such global events, and the related effects thereof, could materially and/or adversely affect, our operations, supply chain, manufacturing, product demand, product distribution, customers, and other business activities. Our ability to market products successfully depends, in part, upon the acceptance of the products not only by consumers, but also by independent third parties, including physicians, hospitals, and third-party payors. Clinical development is a lengthy and expensive process with an inherently uncertain outcome. Failure to successfully complete clinical trials and obtain regulatory approval for our product candidates within our anticipated timelines at reasonable costs to us, or at all, could have a material adverse effect on our business, operating results, and financial condition. If the third parties on which we rely to conduct our clinical studies do not perform as contractually required or expected, we may not obtain required approvals for, or be able to successfully commercialize, our products. Unfavorable negative publicity concerning both alleged improper methods of tissue recovery from donors and disease transmission from donated tissue could limit widespread acceptance of some of our products. We may not be able to successfully introduce new products to the market and, if we do, market acceptance or the market size for our products may not be as we expect. There is no guarantee that regulatory authorities, whether in the United States ("U.S.") or foreign countries, will grant clearance or premarket approval of our future products, or that we will be able to maintain such clearances or approvals for current products. Our success depends on our ability to successfully educate and train surgeons and their staff on the benefits, safety, cost-effectiveness, and proper use of our products. Security breaches, cyber-attacks, loss of data, misappropriation of protected health information or personally identifiable information, and other disruptions to our information technology systems could compromise sensitive information and/or adversely affect our business. Our business could be harmed if any of our manufacturing, development, or research facilities are damaged and/or our manufacturing processes are interrupted, including as the result of natural disasters and other catastrophic events outside our control. We depend on a limited number of third-party manufacturers and suppliers for manufacturing and processing activities, components, and raw materials. Failure of these third parties to perform as expected could result in substantial delays, increased costs or failures of our product development programs, or delayed or unsuccessful commercialization of our products. We may not maintain or grow our revenue if we are unable to maintain and expand our network of independent sales representatives and distributors. Our success depends on the services of key members of our senior management and other key employees. Our business is subject to economic, political, regulatory, and other risks associated with international sales and operations. We are subject to a wide range of requirements, regulations, and laws due to our international operations and related to the medical device industry in which we operate, the violation of any of which could subject us to adverse consequences. Ongoing healthcare reform initiatives and changes in third-party reimbursement policies and in the healthcare industry aimed at cost containment may adversely impact our business. We and certain of our suppliers are subject to extensive government regulation that increases our costs and could limit our ability to market or sell our products. Oversight of the medical device industry might affect the way we sell medical devices and compete in the marketplace. A U.S. Food and Drug Administration ("FDA") panel recommended that bone growth stimulator devices be reclassified by the FDA from Class III to Class II devices, which could increase future competition for us in this product category and negatively affect our future sales of such products. We are subject to requirements relating to hazardous materials which may impose significant compliance, or other costs, on us. Our failure to adequately protect or enforce our intellectual property rights could harm our position in the marketplace or prevent or impede the commercial protection of our products. We may be subject to third-party claims and litigation for infringement or misappropriation of their intellectual property, which are inherently costly, divert significant time and other resources, and have unpredictable outcomes. 
+We may have significant product or other liability exposure, some of which may not be covered by insurance, and if covered by insurance, such coverage may not cover all claims, which could require us to pay substantial sums. Ongoing litigation and arbitration matters could negatively affect our business operations. Our efforts to identify, pursue, and implement new business opportunities (including acquisitions) may be unsuccessful. Our sales volumes and our operating results may fluctuate. Our goodwill, intangible assets, and fixed assets are subject to potential impairment which could adversely affect our future financial results. We maintain a $275.0 million credit agreement secured by a pledge of substantially all of our property. Our failure to repay borrowed amounts or comply with the facility s covenants could result in an event of default, which could adversely affect our future. We must maintain high levels of inventory, which could consume a significant amount of our resources and reduce our cash flows. Our future capital needs are uncertain and we may need to raise additional funds in the future, and such funds may not be available on acceptable terms or at all. Our business could be negatively impacted by corporate citizenship and environmental, social, and governance matters and/or our reporting of such matters. Trademarks Solely for convenience, our trademarks and trade names in this Annual Report are referred to without the and symbols, but such references should not be construed as any indicator that we will not assert, to the fullest extent under applicable law, our rights thereto. 
+PART I Item 1. Bu siness In this Annual Report, the terms "we," "us," "our," "Orthofix," and "the Company" refer to the combined operations of Orthofix Medical Inc. and its consolidated subsidiaries and affiliates, unless the context requires otherwise. Company Overview Orthofix is a global medical technology company headquartered in Lewisville, Texas. By providing medical technologies that heal musculoskeletal pathologies, Orthofix delivers exceptional experiences and life-changing solutions to patients around the world. Orthofix offers a comprehensive portfolio of spinal hardware, bone growth therapies, limb reconstruction solutions, biologics and enabling technologies, including the 7D FLASH Navigation System. The Company was founded in Verona, Italy in 1980 and formally incorporated in 1987 in Cura ao as "Orthofix International N.V." In 2018, we completed a change in our jurisdiction of organization from Cura ao to the State of Delaware and changed our name to "Orthofix Medical Inc." As a result, we are a corporation existing under the laws of the State of Delaware. In January 2023, we completed a "merger of equals" transaction with SeaSpine Holdings Corporation ("SeaSpine") whereby we acquired SeaSpine via an all-stock merger (the "Merger"). As a result of the Merger, each share of SeaSpine common stock issued and outstanding immediately prior to the closing of the Merger was converted into 0.4163 shares of Orthofix common stock. Following the Merger, the shares of common stock of Orthofix, as the corporate parent entity in the combined company structure, continued to trade on NASDAQ under the symbol "OFIX". Available Information and Orthofix Website Our filings with the Securities and Exchange Commission ("SEC"), including our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Proxy Statements for Meetings of Shareholders, registration statements, and amendments to those filings, are available free of charge on our website as soon as reasonably practicable after they are filed with, or furnished to, the SEC. Information contained on our website or connected to our website is not incorporated by reference into this Annual Report. Our website is located at www.orthofix.com. Our SEC filings are also available on the SEC website at www.sec.gov. Business Segments Orthofix operates the business through two reporting segments, Global Spine and Global Limb Reconstruction (formerly "Global Orthopedics"), which accounted for 84% and 16% of our total net sales in 2025, respectively. The chart below presents reported net sales, which includes product sales and marketing service fees, by reporting segment for each of the years ended December 31, 2025, 2024, and 2023. 
+6 
+Financial information regarding our reportable business segments and certain geographic information is included in Part II, Item 7 of this Annual Report under the heading "Management s Discussion and Analysis of Financial Condition and Results of Operations," and Note 16 of the Notes to the Consolidated Financial Statements in Item 8 of this Annual Report. Global Spine Within the Global
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,20 @@
+# INCYTE CORP — 10-K Annual Report
+# Filed: 2026-02-10
+# CIK: 879169
+# SIC: Services-Commercial Physical & Biological Research
+# Source: https://www.sec.gov/Archives/edgar/data/879169/000087916926000010/incy-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 5 PART I Item 1. Business 6 Item 1A. Risk Factors 28 Item 1B. Unresolved Staff Comments 56 Item 1C. Cybersecurity 56
+
+## GEOGRAPHIC REVENUE
+ug products and drug candidates; the regulatory approval process, including obtaining U.S. Food and Drug Administration and other international regulatory authorities approval for our products in the United States and abroad; the safety, effectiveness and potential benefits and indications of our drug candidates and other compounds under development; the timing, structure and size of our clinical trials; the compounds expected to enter clinical trials; the nature and timing of clinical trial results; our ability to manage expansion of our drug discovery and development operations; future required expertise relating to clinical trials, manufacturing, sales and marketing; obtaining and terminating licenses to products, drug candidates or technology, or other intellectual property rights; the receipt from or payments pursuant to collaboration or license agreements resulting from milestones or royalties; plans to develop and commercialize products on our own; plans for our manufacturing operations, including plans relating to the use of third-party manufacturers; expected expenses and expenditure levels; expected uses of cash; expected revenues and sources of revenues; expectations with respect to inventory; expectations with respect to reimbursement for our products; expectations with respect to the impact on our revenues of U.S. or other government proposals regarding drug pricing; the expected impact of recent accounting pronouncements and changes in tax laws; expected losses; the fluctuation of losses; the currency translation impact associated with non-U.S. operations and collaboration royalties; our profitability; the adequacy of our capital resources to continue operations; our expectations with respect to the need or ability to raise additional capital; the costs and other financial impacts associated with resolving matters in litigation and governmental proceedings; our expectations regarding competition; our investments, including anticipated expenditures, losses and expenses; and our patent prosecution and maintenance efforts. 2 Table of Contents These forward-looking statements reflect our current views with respect to future events, are based on assumpt
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

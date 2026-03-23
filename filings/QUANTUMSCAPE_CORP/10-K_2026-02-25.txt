@@ -1,0 +1,135 @@
+# QUANTUMSCAPE CORP — 10-K Annual Report
+# Filed: 2026-02-25
+# CIK: 1811414
+# SIC: Miscellaneous Electrical Machinery, Equipment & Supplies
+# Source: https://www.sec.gov/Archives/edgar/data/1811414/000119312526071556/qs-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+18 
+Item 1B. 
+Unresolved Staff Comments 
+47 
+Item 1C. 
+Cybersecurity 
+48 
+Item 2. 
+Properties 
+48 
+Item 3. 
+Legal Proceedings 
+48 
+Item 4. 
+Mine Safety Disclosures 
+49 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+50 
+Item 6. 
+[Reserved] 
+51 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+52 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+60 
+Item 8. 
+Financial Statements and Supplementary Data 
+61 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+87 
+Item 9A. 
+Controls and Procedures 
+87 
+Item 9B. 
+Other Information 
+88 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+88 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+88 
+Item 11. 
+Executive Compensation 
+88 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+88 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+88 
+Item 14. 
+Principal Accounting Fees and Services 
+88 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+89 
+Item 16 
+Form 10-K Summary 
+92 
+i 
+CAUTIONARY NOTE REGARDING F ORWARD-LOOKING STATEMENTS Unless the context otherwise requires, all references to QuantumScape, we, us, our, or the Company in this Annual Report on Form 10-K (this Report ) refer to QuantumScape Corporation and its subsidiaries. The Company makes forward-looking statements in this Report and in documents incorporated herein by reference. All statements, other than statements of present or historical fact included in or incorporated by reference in this Report, regarding the Company s future financial performance, the development of the Company s battery technology, as well as the Company s strategy, future operations, financial position, estimated revenues and losses, projected costs, prospects, plans and objectives of management are forward-looking statements. When used in this Report, the words anticipate, believe, continue, could, estimate, expect, intends, may, might, plan, possible, potential, predict, project, prospective, should, will, would, the negative of such terms, and other similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such identifying words. These forward-looking statements are based on management s current expectations, assumptions, hopes, beliefs, intentions and strategies regarding future events and are based on currently available information as to the outcome and timing of future events. The Company cautions you that these forward-looking statements are subject to risks and uncertainties, including those described in Part I, Item 1A, Risk Factors in this Report, most of which are difficult to predict and many of which are beyond the control of the Company and incident to its business. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In addition, forward-looking statements in this Report and in any document incorporated herein by reference should not be relied upon as representing the Company s views as of any subsequent date, and the Company does not undertake any obligation to update forward-looking statements to reflect events or circumstances after the date they were made, whether as a result of new information, future events or otherwise, except as may be required under applicable laws. As a result of a number of known and unknown risks and uncertainties, the Company s actual results or performance may be materially different from those expressed or implied by these forward-looking statements. Some factors that could cause actual results to differ include those discussed in the section titled Risk Factors in this Report and in our other filings with the Securities and Exchange Commission ( SEC ). 
+1 
+TECHNICAL GLOSSARY Throughout this Annual Report on Form 10-K, we use several technical terms which are explained as follows: 
+A, B and C samples 
+The designation of progressive prototype maturity during the battery cell development process for automotive qualification by OEMs. Delivery of an A sample marks the beginning of the qualification process. Each successive alphabetic designation (e.g., B, C) represents advancement to the next development stage, while each numerical increment (e.g., B0, B1) signifies progress within that stage. The specifications for each sample designation are determined jointly with the OEM. 
+Anode 
+The negative electrode in a battery, serving as the host material for lithium ions during charging 
+Battery cycle life 
+The number of times a battery can be charged and discharged until its capacity is significantly reduced (e.g. to 70% or 80% of the initial capacity) 
+Capacity (battery) 
+The amount of charge a battery can store. May be measured in amp-hours (Ah) 
+Cathode 
+The positive electrode in a battery 
+Catholyte 
+The lithium-ion conductor in the cathode compartment of a battery 
+Dendrites 
+Growths of lithium metal that can pass through a separator and short circuit the cell 
+EV 
+Electric vehicle 
+Energy density 
+The amount of energy stored in a battery per unit volume (volumetric energy density which may be measured in Wh/L) or unit mass (specific energy, also known as gravimetric energy density which may be measured in Wh/kg) 
+ICE 
+Internal combustion engines 
+LFP 
+Lithium-iron-phosphate, a cathode active material 
+Lithium-ion battery 
+A conventional battery which uses liquid electrolyte to transport lithium ions between the cathode and anode to charge and discharge the battery 
+Lithium-metal battery 
+Advanced battery technology that uses lithium metal as the anode 
+NMC 
+Nickel-manganese-cobalt, a cathode active material 
+OEM(s) 
+Original Equipment Manufacturer(s), which in the context of this Report, are companies that design, produce and sell vehicles under their own brand names 
+Power (battery) 
+The rate at which a battery can be discharged or charged 
+QSE-5 
+Our first planned product, a ~5 Amp hour solid-state lithium-metal battery cell 
+Separator 
+A material in between the cathode and anode that prevents physical contact between the positive and negative electrodes. Our cell design includes a separator that consists of an inorganic solid ceramic film that has characteristics of both a separator and an electrolyte, and we sometimes refer to our proprietary solid-state electrolyte-separator as electrolyte-separator , solid-state separator , or solid-state electrolyte-separator . 
+Solid-state battery 
+Next-generation battery technology that comprises a solid separator 
+2 
+PART I Item 1. Bu siness. Overview QuantumScape is a leader in developing next-generation solid-state lithium-metal battery technology for EVs and other applications. QuantumScape Battery Inc. was founded in 2010 with the mission to revolutionize energy storage to enable a sustainable future. We are in the midst of a once-in-a-century shift in automotive powertrains, from ICE to clean EVs. After 30 years of gradual improvements in conventional lithium-ion batteries, the benefits of EVs have been demonstrated, principally in the premium passenger car market. However, there are fundamental limitations inhibiting widespread adoption of battery technology, and we believe the automotive market needs a step change in battery technology to make mass market EVs competitive with the fossil fuel alternative. We have spent over a decade developing a proprietary solid-state battery technology to meet this challenge. QuantumScape s solid-state lithium-metal battery technology is designed to offer greater energy density, faster charging, and enhanced safety when compared to today s conventional lithium-ion batteries. We believe no other lithium-metal battery technology has demonstrated the capability of achieving automotive rates of power with acceptable battery cycle life at modest levels of pressure (approximately 3 to 4 atmospheres ( atm )). Since 2012, we have developed a strong partnership with Volkswagen Group of America Investments, LLC ( VGA ) and certain of its affiliates (together with VGA, Volkswagen ). Volkswagen is one of the largest car companies in the world and, over the last ten years, Volkswagen has invested approximately $380 million in us. Over the course of our relationship, Volkswagen has successfully tested multiple generations of certain of our single-layer and multilayer prototype cells at automotive rates of power. In July 2024, we entered into a Collaboration Agreement (the Collaboration Agreement ) with PowerCo SE ( PowerCo ), a battery cell company wholly owned by Volkswagen, with the goal of PowerCo industrializing QS technology based on QSE-5. In July 2025, we entered into an amendment and restatement of the Collaboration Agreement (the PowerCo Amendment , together with the Collaboration Agreement, the PowerCo Collaboration Agreement ), and entered into a statement of work outlining the scope and responsibilities of the joint scale-up team working at our battery development pilot line in San Jose, California for the development, validation, demonstration, and initial commercialization of QS battery cell technology based on QSE-5 and toward the transfer of such technology into cell size determined by PowerCo (the Project ). PowerCo has agreed to contribute up to $130.7 million for the Project over the next two years, subject to the completion of certain milestones by the joint scale-up team. In addition to the signed agreements with PowerCo with the goal of commercializing our battery technology, we intend to continue working closely with automotive OEMs to make our solid-state battery cells widely available over time. We have also signed agreements, including customer sampling, technology evaluation and joint development agreements, with a number of OEMs, ranging from leading manufacturers by global revenue to premium performance and luxury carmakers, to collaborate with us in the testing and validating of our solid-state battery cells with the goal to include such cells into pre-production prototype vehicles and ultimately into serial production vehicles. We are currently focused on automotive EV applications, which have among the most stringent sets of requirements for batteries. Meanwhile, we see opportunities for our solid-state battery technology in other large and growing markets including consumer electronics, data centers, defense, and others and we intend to explore such opportunities as appropriate. We believe that our technology enables a variety of business models and presents opportunities with a variety of potential customers, such as automotive OEMs, end-users, and licensees, as applicable. In addition to the collaboration with PowerCo, which contemplates payments for collaboration activities and a licensing arrangement, we may operate solely-owned manufacturing facilities, license technology to other manufacturers, or enter into joint venture arrangements, among other approaches. We are also building a global ecosystem of partners, including but not limited to our customers, suppliers and vendors, around our technology platform, creating additional licensing and monetization opportunities for the company and its shareholders. We intend to continue to invest in research and development to improve battery cell performance, improve production processes, and reduce cost. Industry Background Shift to EVs Consumers are increasingly considering EVs for a variety of reasons including better performance, growing EV charging infrastructure, significantly lighter environmental impact, and lower maintenance and operating costs. Automakers such as Tesla, Inc., Rivian and Lucid Motors have demonstrated that premium EVs can deliver a compelling alternative to fossil fuels. As EVs become more competitive and more affordable, we believe that they will continue to take market share from ICE vehicles. Indeed, in 2025 the market share of battery-electric and plug-in hybrid vehicles has risen sharply in many regions, especially Europe, with a sharp decline in new petrol and diesel sales in these markets. We believe that this shift will continue to occur across vehicle types and market segments. This transition is unfolding during a challenging period for many auto OEMs, marked by shifting demand and ongoing industry adjustments. The inherent limitations of lithium-ion battery technology continue to impede improvements in EV competitiveness on range and charging times compared with ICE vehicles. 
+3 
+Current Battery Technology Will Not Meet the Requirements for Broad Adoption of EVs Despite the significant progress in the global shift to EVs, in the U.S. the market remains dominated by ICE vehicles. According to International Energy Agency, more than 20% of global new car sales in 2024 were electric, including plug-in hybrids. For EVs to be adopted globally at scale across market segments, batteries need to improve. In particular, we believe there are five key requirements to drive broad adoption of EVs: Battery capacity (energy density). EVs need to be able to drive over 300 miles on a single charge to be competitive with ICE vehicles and achieve broad market adoption. The space required for conventional lithium-ion battery technology limits the range of many EVs. Higher energy density will enable automotive OEMs to increase battery pack energy without increasing the size and weight of the vehicle s battery pack. Fast charging capability. EV batteries need to be fast charging to replicate the speed and ease with which a gasoline car can be refueled. We believe this objective is achieved with the ability to charge from 10% to 80% capacity in approximately 15 minutes or less, faster than today s conventional batteries can deliver without materially degrading battery cycle life. Safety (nonflammable). EV batteries need to replace as many of the flammable components in the battery as possible with non-flammable equivalents to reduce the extent of damage caused by a fire. With current batteries, many failure conditions can result in fires, for example malfunctions that can result in short-circuits and battery damage from accidents. Battery cycle life. Batteries need to be usable for the life of the vehicle, typically 12 years or 150,000 miles. If the battery fades prematurely, EVs will not be an economically practical alternative. Cost. Mass market adoption of EVs requires a battery that is capable of high performance while remaining cost competitive. Since these requirements have complex interlinkages, most manufacturers of conventional lithium-ion batteries used
+
+## GEOGRAPHIC REVENUE
+2023-01-01 2023-12-31 0001811414 qs:ComputerEquipmentHardwareAndSoftwareMember 2024-12-31 0001811414 qs:ExercisePriceRangeThreeMember 2025-12-31 0001811414 qs:PriorToTwoThousandEighteenMember us-gaap:DomesticCountryMember 2025-12-31 0001811414 qs:ExercisePriceRangeOneMember srt:MaximumMember 2025-12-31 0001811414 qs:ComputerEquipmentHardwareAndSoftwareMember 2025-12-31 0001811414 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-01-01 2025-12-31 0001811414 us-gaap:CommonClassBMember 2026-02-18 0001811414 qs:TwoThousandTwentyEmployeeStockPurchasePlanMember us-gaap:CommonClassAMember 2025-12-31 0001811414 us-gaap:MachineryAndEquipmentMember srt:MaximumMember 2025-12-31 0001811414 us-gaap:USGovernmentAgenciesDebtSecuritiesMember us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0001811414 us-gaap:PerformanceSharesMember 2024-12-31 0001811414 us-gaap:RetainedEarningsMember 2023-01-01 2023-12-31 0001811414 us-gaap:CommonClassAMember 2025-01-01 2025-12-31 0001811414 us-gaap:MoneyMarketFundsMember us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0001811414 us-gaap:ResearchMember us-gaap:CaliforniaFranchiseTaxBoardMember 2025-12-31 0001811414 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-12-31 0001811414 us-gaap:FurnitureAndFixturesMember 2025-12-31 0001811414 us-gaap:FairValueInputsLevel2Member us-gaap:ConvertibleDebtSecuritiesMember us-gaap:FairValueMeasurementsRecurringMember 2024-12-31 0001811414 us-gaap:CommonClassBMember 2024-12-31 0001811414 us-gaap:ConvertibleDebtSecuritiesMember 2025-12-31 0001811414 qs:CommonClassAAndClassBSharesMember 2024-01-01 2024-12-31 0001811414 us-gaap:AdditionalPaidInCapitalMember 2025-12-31 0001811414 us-gaap:CommonClassAMember qs:TwoThousandTwentyEquityIncentiveAwardPlanMember 2025-12-31 0001811414 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-01-01 2024-12-31 0001811414 qs:ExercisePriceRangeFourMember 2025-01-01 2025-12-31 0001811414 us-gaap:CommonStockMember 2023-12-31 0001811414 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:ConvertibleDebtSecuritiesMember 2025-12-31 0001811414 us-gaap:MoneyMarketFundsMember us-gaap:FairValueInputsLevel1Member us-gaap:Fa
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer or the failure of a single customer to perform its obligations could have a material and adverse effect on our results of operations and cash flow. As we develop our business ecosystem, we will increasingly become reliant on partners and customers to scale up and commercialize our technology and will be exposed to risks related to our partners and customers. Our licensing model requires building a global ecosystem of partners, including but not limited to our customers, suppliers and vendors, around our technology platform. As we advance our licensing model by collaborating with existing and potential partners, we will become more reliant on our partners to scale up and commercialize our technology, preserve the value of our license, and will also limit our ability to retain direct control over decisions around manufacturing and commercializing our technology. As our partners and customers continue to execute their respective business plans alongside us, there are inherent risks associated with their ability to meet manufacturing timelines, manage labor relations, and sustain supplier and customer relationships that will increasingly be outside of our control. Furthermore, we might not be able to obtain strict exclusivity with our partners and customers, which could enable them to work directly with other partners, customers and third parties, limiting our ability to continue or extend existing collaborations and potentially reducing our anticipated revenue from royalty payments or other similar financial arrangements. These factors could result in a material adverse effect on our business and financial results. We may not be able to accurately estimate the future supply and demand for batteries incorporating our technology, which could result in a variety of inefficiencies in our or our partners business and hinder our ability to generate revenue. If we fail to accurately predict and forecast the demand for our battery technology, the success of our
+
+---
+Doc size: 2048KB (capped at 2MB)

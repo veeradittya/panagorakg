@@ -1,0 +1,20 @@
+# MISSION PRODUCE INC — 10-K Annual Report
+# Filed: 2025-12-18
+# CIK: 1802974
+# SIC: Agricultural Services
+# Source: https://www.sec.gov/Archives/edgar/data/1802974/000180297425000048/avo-20251031.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. Business 1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 4 Item 1B. Unresolved Staff Comments 17 Item 1C. Cybersecurity and Information Technology 17
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers also could adversely affect our results of operations. We are also subject to an increasing number of customer requirements, including with respect to sustainability and corporate responsibility requirements applicable to our supply chain, and other operational requests that can be challenging and costly to implement and may affect our ability to source fruit and increase costs. Failure to provide adequate resources or to adopt a customer satisfaction strategy may damage relationships with key customers or subject us to loss of customers. Mexican economic, political and societal conditions may have an adverse impact on our business. Mexico is the largest source of our supply of avocados, and our business is affected by developments in that country. Shipments from Mexico to the United States are dependent on the border remaining open to imports, which has closed from time to time. In addition, security institutions in Mexico are under significant stress as a result of organized crime and gang and drug-related violence, which also could affect avocado production and shipments. This situation creates potential risks that affect a large part of our sourcing in Mexico and would harm our operations if it impacts our facilities or personnel. In addition, Mexican growers strike from time to time. We cannot provide any assurance that economic conditions or political developments, including any changes to economic policies or the adoption of other reforms proposed by existing or future administrations, in or affecting Mexico will not have a material adverse effect on market conditions, our ability to source fruit effectively, or on our business, results of operations or financial condition. We are also subject to various legal and regulatory changes impacting labor in Mexico, including related to reform bills on subcontracting matters and unionization and collective bargaining. In November 2020, the President of Mexico signed a reform bill on subcontract
+
+---
+Doc size: 2032KB (capped at 2MB)

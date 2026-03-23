@@ -1,0 +1,256 @@
+# LCNB CORP — 10-K Annual Report
+# Filed: 2026-03-11
+# CIK: 1074902
+# SIC: National Commercial Banks
+# Source: https://www.sec.gov/Archives/edgar/data/1074902/000143774926007758/lcnb20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. Business 
+5
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+18 
+Item 1B. Unresolved Staff Comments 
+25 
+Item 1C. Cybersecurity 
+25 
+Item 2. Properties 
+26 
+Item 3. Legal Proceedings 
+26 
+Item 4. Mine Safety Disclosures 
+26 
+PART II 
+27 
+Item 5. Market for Registrant's Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities. 
+27 
+Item 6. [Reserved] 
+29 
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+29 
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+41 
+Item 8. Financial Statements and Supplementary Data 
+42 
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+42 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+44 
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosures 
+98 
+Item 9A. Controls and Procedures 
+98 
+Item 9B. Other Information 
+98 
+Item 9C. Disclosures Regarding Foreign Jurisdictions that Prevent Inspections 
+98 
+PART III 
+99 
+Item 10. Directors, Executive Officers and Corporate Governance 
+99 
+Item 11. Executive Compensation 
+99 
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+99 
+Item 13. Certain Relationships and Related Transactions, and Director Independence 
+100 
+Item 14. Principal Accountant Fees and Services 
+100 
+PART IV 
+101 
+Item 15. Exhibit and Financial Statement Schedules 
+101 
+SIGNATURES 
+102 
+-3-
+Table of Contents 
+LCNB CORP. AND SUBSIDIARIES
+PART I 
+Glossary of Abbreviations and Acronyms 
+ACL 
+Allowance for Credit Losses 
+AFS 
+Available-for-Sale 
+ASC 
+Accounting Standards Codification 
+ASU 
+Accounting Standards Update 
+Bank 
+LCNB National Bank 
+BSA 
+Bank Secrecy Act 
+CECL 
+Current Expected Credit Losses 
+CEO 
+Chief Executive Officer 
+CFO 
+Chief Financial Officer 
+CFPB 
+Consumer Financial Protection Bureau 
+Citizens National 
+Citizens National Bank 
+CNNB 
+Cincinnati Bancorp, Inc. 
+Company 
+LCNB Corp. and its consolidated subsidiaries as a whole 
+CRA 
+Community Reinvestment Act of 1977 
+DCF 
+Discounted Cash Flow 
+DIF 
+Deposit Insurance Fund 
+Dodd-Frank Act 
+Dodd-Frank Wall Street Reform and Consumer Protection Act 
+EFBI 
+Eagle Financial Bancorp, Inc. 
+FASB 
+Financial Accounting Standards Board 
+FDIC 
+Federal Deposit Insurance Corporation 
+FFIEC 
+Financial Institutions Examination Council 
+FHLB 
+Federal Home Loan Bank 
+FOMC 
+Federal Open Market Committee of the Federal Reserve System 
+GAAP 
+Generally Accepted Accounting Principles 
+HTM 
+Held-to-Maturity 
+ICS 
+Insured Cash Sweep 
+IRA 
+Individual Retirement Account 
+LCNB 
+LCNB Corp. and its consolidated subsidiaries as a whole 
+LDA 
+Loss Driver Analysis 
+LGD 
+Loss Given Default 
+LRA 
+Lender Risk Account 
+OAEM 
+Other Assets Especially Mentioned 
+OCC 
+Office of the Comptroller of the Currency 
+PCD 
+Purchased Credit Deteriorated 
+PD 
+Probability of Default 
+SEC 
+Securities and Exchange Commission 
+-4-
+Table of Contents 
+LCNB CORP. AND SUBSIDIARIES
+Item 1. Business 
+FORWARD-LOOKING STATEMENTS 
+Certain statements made in this document regarding LCNB s financial condition, results of operations, plans, objectives, future performance and business, are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, Section 21E of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. These forward-looking statements are identified by the fact they are not historical facts and include words such as anticipate , could , may , feel , expect , believe , might , plan , and similar expressions. 
+These forward-looking statements reflect management's current expectations based on all information available to management and its knowledge of LCNB s business and operations. Additionally, LCNB s financial condition, results of operations, plans, objectives, future performance and business are subject to risks and uncertainties that may cause actual results to differ materially. These factors include, but are not limited to: 
+1. 
+the success, impact, and timing of the implementation of LCNB s business strategies; 
+2. 
+LCNB s ability to integrate recent and future acquisitions may be unsuccessful, or may be more difficult, time-consuming, or costly than expected; 
+3. 
+LCNB may incur increased loan charge-offs in the future and the allowance for credit losses may be inadequate; 
+4. 
+LCNB may face competitive loss of customers to both bank and nonbank financial institutions; 
+5. 
+changes in the interest rate environment, either by interest rate increases or decreases, may have results on LCNB s operations materially different from those anticipated by LCNB s market risk management functions; 
+6. 
+changes in general economic conditions, including the potential economic impacts of a prolonged U.S. government shutdown, and increased competition could adversely affect LCNB s operating results; 
+7. 
+changes in or instability regarding regulations and government policies affecting bank holding companies and their subsidiaries, including changes in monetary policies, could negatively impact LCNB s operating results; 
+8. 
+LCNB may experience difficulties growing loan and deposit balances; 
+9. 
+United States trade relations with foreign countries could negatively impact the financial condition of LCNB's customers, which could adversely affect LCNB's operating results and financial condition; 
+10. 
+global and/or geopolitical relations and/or conflicts could create financial market uncertainty and have negative impacts on commodities, currency, and stability, which could adversely affect LCNB's operating results and financial condition; 
+11. 
+difficulties with technology or data security breaches, including cyberattacks or widespread outages, could negatively affect LCNB's ability to conduct business and its relationships with customers, vendors, and others; 
+12. 
+adverse weather events and natural disasters and global and/or national epidemics could negatively affect LCNB's customers given its concentrated geographic scope, which could impact LCNB's operating results; and 
+13. 
+government intervention in the U.S. financial system, including the effects of legislative, tax, accounting, and regulatory actions and reforms, including the Jumpstart Our Business Startups Act, the Consumer Financial Protection Bureau, the capital ratios of Basel III as adopted by the federal banking authorities, changes in deposit insurance premium levels, and any such future regulatory actions or reforms. 
+Forward-looking statements made herein reflect management's expectations as of the date such statements are made. Such information is provided to assist shareholders and potential investors in understanding current and anticipated financial operations of LCNB and is included pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. LCNB undertakes no obligation to update any forward-looking statement to reflect events or circumstances that arise after the date such statements are made. 
+-5-
+Table of Contents 
+LCNB CORP. AND SUBSIDIARIES
+DESCRIPTION OF LCNB'S BUSINESS 
+General Description 
+LCNB Corp., an Ohio corporation formed in December 1998, is a financial holding company headquartered in Lebanon, Ohio. Substantially all of the assets, liabilities and operations of LCNB Corp. are attributable to its wholly-owned subsidiary, LCNB National Bank. The predecessor of LCNB Corp., the Bank, was formed as a national banking association in 1877. On May 19, 1999, the Bank became a wholly-owned subsidiary of LCNB Corp. LCNB Risk Management, Inc., a captive insurance agency, was incorporated in Nevada by LCNB Corp. during the second quarter of 2017. 
+Loan products offered include commercial and industrial loans, commercial and residential real estate loans, agricultural loans, construction loans, various types of consumer loans, and Small Business Administration loans. The Bank's residential mortgage lending activities consist primarily of loans for purchasing or refinancing personal residences, home equity lines of credit, and loans for commercial or consumer purposes secured by residential mortgages. Consumer lending activities include automobile, boat, home improvement, and personal loans. 
+The Wealth Management Division of the Bank provides complete trust administration, estate settlement, and fiduciary services and also offers investment management of trusts, agency accounts, individual retirement accounts, and foundations/endowments. 
+Security brokerage services are offered by the Bank through arrangements with LPL Financial LLC, a registered broker/dealer. Licensed brokers offer a full range of investment services and products, including financial needs analysis, mutual funds, securities trading, annuities, and life insurance. 
+Other services offered include safe deposit boxes, night depositories, cashier's checks, bank-by-mail, ATMs, cash and transaction services, debit cards, wire transfers, electronic funds transfer, utility bill collections, notary public service, cash management services, 24-hour telephone banking, PC Internet banking, mobile banking, and other services tailored for both individuals and businesses. 
+The Bank is not dependent upon any one significant customer or specific industry. Business is not seasonal to any material degree. 
+The address of the main office of the Bank is 2 North Broadway, Lebanon, Ohio 45036; telephone (513) 932-1414. 
+Primary Market Area 
+The Bank considers its primary market area to consist of counties where it has a physical presence and neighboring counties, which includes Southwestern and South Central Ohio and Northern Kentucky. At December 31, 2025, the Bank had: 
+35 offices, including a main office in Warren County, Ohio and branch offices in Warren, Butler, Clinton, Clermont, Fayette, Franklin, Hamilton, Montgomery, Preble, and Ross Counties in Ohio, 
+an Operations Center in Warren County, Ohio, and 
+34 ATMs. 
+Competition 
+The Bank faces strong competition both in making loans and attracting deposits. The deregulation of the banking industry and the widespread enactment of state laws that permit multi-bank holding companies as well as the availability of nationwide interstate banking has created a highly competitive environment for financial services providers. The Bank competes with other national and state banks, savings and loan associations, credit unions, finance companies, mortgage brokerage firms, realty companies with captive mortgage brokerage firms, mutual funds, insurance companies, cryptocurrency companies, brokerage and investment banking companies, Financial Technology or "FinTech" companies including decentralized finance and cryptocurrency, and other financial intermediaries operating in its market and elsewhere, many of whom have substantially larger financial and managerial resources. 
+The Bank seeks to minimize the competitive effect of other financial institutions through a community banking approach that emphasizes direct customer access to the Bank's CEO, President, and other officers in an environment conducive to friendly, informed, and courteous personal services. Management believes that the Bank is well-positioned to compete successfully in its primary market area. Competition among financial institutions is based upon interest rates offered on deposit accounts, interest rates charged on loans and other credit and service charges, availability of electronic banking services, the quality and scope of the services rendered, and the convenience of banking facilities and electronic banking technologies. 
+The ability to access and use technology, including the use of artificial intelligence, is an increasingly competitive factor in the financial services industry. Technology relating to the delivery of financial services, the security and privacy of customer information, and the processing of information is evolving rapidly. LCNB continually makes technology investments to remain competitive in the financial services industry. 
+Management believes the commitment of the Bank to personal service, innovation, and involvement in the communities and primary market areas it serves, as well as its commitment to quality community banking service, are factors that contribute to its competitive advantage. 
+-6-
+Table of Contents 
+LCNB CORP. AND SUBSIDIARIES
+Supervision and Regulation 
+Both federal and state laws extensively regulate bank holding companies, financial holding companies, and banks. These laws (and the regulations promulgated thereunder) are primarily intended to protect depositors and the DIF of the FDIC. The following information describes particular laws and regulatory provisions relating to financial holding companies and banks. This discussion is qualified in its entirety by reference to the particular laws and regulatory provisions. A change in any of these laws or regulations or in their enforcement may have a material effect on our business and the business of our subsidiaries. 
+Bank Holding Companies and Financial Holding Companies 
+LCNB elected to become a financial holding company on April 11, 2000. A financial holding company is essentially a bank holding company with significantly expanded powers. Under the Gramm-Leach-Bliley Act, in addition to traditional lending activities, the following activities are among those that are deemed financial in nature for financial holding companies: securities underwriting, dealing in or making a market in securities, sponsoring mutual funds and investment companies, insurance underwriting and agency activities, activities which the Federal Reserve Board determines to be closely related to banking, and certain merchant banking activities. 
+As a financial holding company, LCNB has very broad discretion to affiliate with securities firms and insurance companies, provide merchant banking services, and engage in other activities that the Federal Reserve Board has deemed financial in nature. In order to continue as a financial holding company, LCNB must continue to be well-capitalized, well-managed, and maintain compliance with the Community Reinvestment Act. Depending on the types of financial activities that LCNB may elect to engage in, under the Gramm-Leach-Bliley Act s functional regulation principles, it may become subject to supervision by additional government agencies. The election to be treated as a financial holding company increases LCNB's ability to offer financial products and services that historically it was either unable to provide or was only able to provide on a limited basis. As a result, LCNB faces increased competition in the markets for any new financial products and services that it may offer. Likewise, an increased amount of consolidation among banks and securities firms or banks and insurance firms could result in a growing number of large financial institutions that could compete aggressively with LCNB. 
+The Bank is subject to the provisions of the National Bank Act. The Bank
+
+## GEOGRAPHIC REVENUE
+74902 lcnb:MultifamilyLoansMember us-gaap:FederalHomeLoanBankAdvancesMember 2025-12-31 
+0001074902 lcnb:MultifamilyLoansMember us-gaap:FederalHomeLoanBankAdvancesMember 2024-12-31 
+0001074902 us-gaap:DomesticCountryMember 2025-01-01 2025-12-31 
+0001074902 2023-01-01 2025-12-31 
+0001074902 us-gaap:CommercialLoanMember 2025-12-31 
+0001074902 us-gaap:CommercialLoanMember 2024-12-31 
+0001074902 lcnb:OtherFixedRateLoansMember 2025-12-31 
+0001074902 lcnb:OtherFixedRateLoansMember 2024-12-31 
+0001074902 lcnb:OtherAdjustableRateLoansMember 2025-12-31 
+0001074902 lcnb:OtherAdjustableRateLoansMember 2024-12-31 
+0001074902 lcnb:FixedRateUnusedLinesOfCreditMember 2025-12-31 
+0001074902 lcnb:FixedRateUnusedLinesOfCreditMember 2024-12-31 
+0001074902 lcnb:AdjustableRateUnusedLinesOfCreditMember 2025-12-31 
+0001074902 lcnb:AdjustableRateUnusedLinesOfCreditMember 2024-12-31 
+0001074902 lcnb:UnusedOverdraftProtectionAmountsOnDemandAccountsMember 2025-12-31 
+0001074902 lcnb:UnusedOverdraftProtectionAmountsOnDemandAccountsMember 2024-12-31 
+0001074902 lcnb:StandbyLinesOfCreditMember 2025-12-31 
+0001074902 lcnb:StandbyLinesOfCreditMember 2024-12-31 
+0001074902 srt:SubsidiariesMember 2025-12-31 
+0001074902 srt:SubsidiariesMember 2024-12-31 
+0001074902 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2024-12-31 
+0001074902 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2024-12-31 
+0001074902 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2023-12-31 
+0001074902 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2023-12-31 
+0001074902 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2025-01-01 2025-12-31 
+0001074902 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2025-01-01 2025-12-31 
+0001074902 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2024-01-01 2024-12-31 
+0001074902 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2024-01-01 2024-12-31 
+0001074902 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2025-12-31 
+0001074902 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2025-12-31 
+0001074902 lcnb:NetGainsOnSalesOfDebtSecuritiesAvailableforsaleMember 2025-01-01 2025-12-31 
+0001074902 lcnb:NetGainsOnSalesOfD
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer or specific industry. Business is not seasonal to any material degree. 
+The address of the main office of the Bank is 2 North Broadway, Lebanon, Ohio 45036; telephone (513) 932-1414. 
+Primary Market Area 
+The Bank considers its primary market area to consist of counties where it has a physical presence and neighboring counties, which includes Southwestern and South Central Ohio and Northern Kentucky. At December 31, 2025, the Bank had: 
+35 offices, including a main office in Warren County, Ohio and branch offices in Warren, Butler, Clinton, Clermont, Fayette, Franklin, Hamilton, Montgomery, Preble, and Ross Counties in Ohio, 
+an Operations Center in Warren County, Ohio, and 
+34 ATMs. 
+Competition 
+The Bank faces strong competition both in making loans and attracting deposits. The deregulation of the banking industry and the widespread enactment of state laws that permit multi-bank holding companies as well as the availability of nationwide interstate banking has created a highly competitive environment for financial services providers. The Bank competes with other national and state banks, savings and loan associations, credit unions, finance companies, mortgage brokerage firms, realty companies with captive mortgage brokerage firms, mutual funds, insurance companies, cryptocurrency companies, brokerage and investment banking companies, Financial Technology or "FinTech" companies including decentralized finance and cryptocurrency, and other financial intermediaries operating in its market and elsewhere, many of whom have substantially larger financial and managerial resources. 
+The Bank seeks to minimize the competitive effect of other financial institutions through a community banking approach that emphasizes direct customer access to the Bank's CEO, President, and other officers in an environment conducive to friendly, informed, and courteous personal services. Management believes that the Bank is well-positioned to compete successfully in its
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,262 @@
+# UNITIL CORP — 10-K Annual Report
+# Filed: 2026-02-09
+# CIK: 755001
+# SIC: Electric & Other Services Combined
+# Source: https://www.sec.gov/Archives/edgar/data/755001/000119312526042983/utl-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+8 
+1B. 
+Unresolved Staff Comments 
+15 
+1C. 
+Cybersecurity 
+16 
+2. 
+Properties 
+18 
+3. 
+Legal Proceedings 
+19 
+4. 
+Mine Safety Disclosures 
+19 
+PART II 
+5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+20 
+6. 
+Reserved 
+21 
+7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) 
+22 
+7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+36 
+8. 
+Financial Statements and Supplementary Data 
+37 
+9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+92 
+9A. 
+Controls and Procedures 
+92 
+9B. 
+Other Information 
+92 
+9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+92 
+PART III 
+10. 
+Directors, Executive Officers and Corporate Governance 
+93 
+11. 
+Executive Compensation 
+93 
+12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+93 
+13. 
+Certain Relationships and Related Transactions, and Director Independence 
+93 
+14. 
+Principal Accountant Fees and Services 
+93 
+PART IV 
+15. 
+Exhibits and Financial Statement Schedules 
+94 
+SIGNATURES 
+Signatures 
+104 
+Table of Contents 
+In this Annual Report on Form 10-K, the Company , Unitil , we , us , our and similar terms refer to Unitil Corporation and its subsidiaries, unless the context requires otherwise. CAUTIONARY STATEMENT This report and the documents incorporated by reference into this report contain statements that may constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical fact, included or incorporated by reference into this report, including, without limitation, statements regarding the financial position, business strategy and other plans and objectives for the future operations of the Company (as such term is defined in Part I, Item I (Business)), are forward-looking statements. These statements include declarations regarding the Company s beliefs and current expectations. In some cases, forward-looking statements can be identified by terminology such as may, will, should, expects, plans, anticipates, believes, estimates, predicts, potential or continue or the negative of such terms or other comparable terminology. These forward-looking statements are subject to inherent risks and uncertainties in predicting future results and conditions that could cause the actual results to differ materially from those projected in these forward-looking statements. Some, but not all, of the risks and uncertainties include those described in Part I, Item 1A (Risk Factors) and the following: numerous hazards and operating risks relating to the Company s electric and natural gas distribution activities, which could result in accidents and other operating risks and costs; fluctuations in the supply of, demand for, and the prices of, electric and gas energy commodities and transmission and transportation capacity and the Company s ability to recover energy supply costs in its rates; catastrophic events; cyber-attacks, acts of terrorism, acts of war, severe weather, a solar event, an electromagnetic event, a natural disaster, the age and condition of information technology assets, human error, or other factors could disrupt the Company s operations and cause the Company to incur unanticipated losses and expense; outsourcing of services to third parties could expose us to substandard quality of service delivery or substandard deliverables, which may result in missed deadlines or other timeliness issues, non-compliance (including with applicable legal requirements and industry standards) or reputational harm, which could negatively affect the Company s results of operations; unforeseen or changing circumstances, which could adversely affect the reduction of Company-wide direct greenhouse gas emissions; the Company s regulatory and legislative environment (including laws and regulations relating to climate change, greenhouse gas emissions and other environmental matters) could affect the rates the Company is able to charge, the Company s authorized rate of return, the Company s ability to recover costs in its rates, the Company s financial condition, results of operations and cash flows, and the scope of the Company s regulated activities; general economic conditions, which could adversely affect (i) the Company s customers and, consequently, the demand for the Company s distribution services, (ii) the availability of credit and liquidity resources, and (iii) certain of the Company s counterparty s obligations (including those of its insurers and lenders); the Company s ability to obtain debt or equity financing on acceptable terms; increases in interest rates, which could increase the Company s interest expense; the Company s payment of dividends in the future; declines in capital markets valuations, which could require the Company to make substantial cash contributions to cover its pension obligations, and the Company s ability to recover pension obligation costs in its rates; the Company s ability to consummate acquisitions or other strategic transactions, to successfully integrate any acquired assets or business, or derive value from strategic transactions and investment, including but not limited to the completed acquisitions of Bangor Natural Gas Company and Maine Natural Gas Corporation; 
+1 
+Table of Contents 
+impairment of the Company s assets (including long-lived assets and goodwill), could negatively impact the Company s financial condition and results of operations; restrictive covenants contained in the terms of the Company s and its subsidiaries indebtedness, which restrict certain aspects of the Company s business operations: customers preferred energy sources; severe storms and the Company s ability to recover storm costs in its rates; variations in weather, which could decrease demand for the Company s distribution services; long-term global climate change, which could adversely affect customer demand or cause extreme weather events that could disrupt the Company s electric and natural gas distribution services; macroeconomic events, including the imposition of tariffs; employee workforce factors, including the ability to attract and retain key personnel; the Company s ability to retain its existing customers and attract new customers; increased competition; and other presently unknown or unforeseen factors. Many of these risks are beyond the Company s control. Any forward-looking statements speak only as of the date of this report, and the Company undertakes no obligation to update any forward-looking statements to reflect events or circumstances after the date on which such statements are made or to reflect the occurrence of unanticipated events, except as required by law. New factors emerge from time to time, and it is not possible for the Company to predict all such factors, nor can the Company assess the effect of any such factor on its business or the extent to which any factor, or combination of factors, may cause results to differ materially from those contained in any forward-looking statements. 
+2 
+Table of Contents 
+PART I Item 1. Business UNITIL CORPORATION In this Annual Report on Form 10-K, the Company , Unitil , we , and our refer to Unitil Corporation and its subsidiaries, unless the context requires otherwise. Unitil is a public utility holding company incorporated under the laws of the State of New Hampshire in 1984. The following companies are wholly-owned subsidiaries of Unitil: 
+Company Name 
+State and Year of Organization 
+Principal Business 
+Unitil Energy Systems, Inc. (Unitil Energy) 
+NH - 1901 
+Electric Distribution Utility 
+Fitchburg Gas and Electric Light Company (Fitchburg) 
+MA - 1852 
+Electric & Natural Gas Distribution Utility 
+Northern Utilities, Inc. (Northern Utilities) 
+NH - 1979 
+Natural Gas Distribution Utility 
+Bangor Natural Gas Company (Bangor) 
+ME - 1998 
+Natural Gas Distribution Utility 
+Maine Natural Gas Corporation (Maine Natural) 
+ME - 1998 
+Natural Gas Distribution Utility 
+Granite State Gas Transmission, Inc. (Granite State) 
+NH - 1955 
+Natural Gas Transmission Pipeline 
+Unitil Power Corp. (Unitil Power) 
+NH - 1984 
+Wholesale Electric Power Utility 
+Unitil Service Corp. (Unitil Service) 
+NH - 1984 
+Utility Service Company 
+Unitil Realty Corp. (Unitil Realty) 
+NH - 1986 
+Real Estate Management 
+Unitil Resources, Inc. (Unitil Resources) 
+NH - 1993 
+Non-regulated Energy Services 
+Unitil Water Corp. (Unitil Water) 
+NH - 2025 
+Non-regulated Company 
+Unitil and its subsidiaries are subject to regulation as a holding company system by the Federal Energy Regulatory Commission (FERC) under the Energy Policy Act of 2005. Unitil s principal business is the local distribution of electricity and natural gas to approximately 215,100 customers throughout its service territories in the states of New Hampshire, Massachusetts and Maine. Unitil is the parent company of five wholly-owned distribution utilities: i) Unitil Energy, which provides electric service in the southeastern seacoast and state capital regions of New Hampshire, including the capital city of Concord, ii) Fitchburg, which provides both electric and natural gas service in the greater Fitchburg area of north central Massachusetts, iii) Northern Utilities, which provides natural gas service in southeastern New Hampshire and portions of southern and central Maine, including the city of Portland, which is the largest city in northern New England, iv) Bangor, which provides natural gas service in the Bangor area of central Maine, and v) Maine Natural, which provides natural gas service in southern and central Maine, including the greater Portland region, as well as the capital city of Augusta. In addition, Unitil is the parent company of Granite State, an interstate natural gas transmission pipeline company that provides interstate natural gas pipeline access and transportation services to Northern Utilities in its New Hampshire and Maine service territory. Together, Unitil s five distribution utilities serve approximately 110,100 electric customers and 105,000 natural gas customers. 
+Customers Served as of December 31, 2025 
+Residential 
+Commercial & Industrial (C&I) 
+Total 
+Electric: 
+Unitil Energy 
+67,879 
+11,532 
+79,411 
+Fitchburg 
+26,422 
+4,231 
+30,653 
+Total Electric 
+94,301 
+15,763 
+110,064 
+Natural Gas: 
+Northern Utilities 
+56,094 
+17,161 
+73,255 
+Fitchburg 
+14,706 
+1,735 
+16,441 
+Bangor 
+7,162 
+1,751 
+8,913 
+Maine Natural 
+4,803 
+1,650 
+6,453 
+Total Natural Gas 
+82,765 
+22,297 
+105,062 
+Total Customers Served 
+177,066 
+38,060 
+215,126 
+Unitil had an investment in Net Utility Plant of $1.8 billion at December 31, 2025. The Company s total operating revenue was $536.0 million in 2025. Unitil s operating revenue is substantially derived from regulated electric and natural gas distribution utility operations. A seventh utility subsidiary, Unitil Power, formerly functioned as the full requirements wholesale 
+3 
+Table of Contents 
+power supply provider for Unitil Energy, but ceased being the wholesale supplier of Unitil Energy with the implementation of industry restructuring and divested its long-term power supply contracts. Unitil has four other wholly-owned non-utility subsidiaries: Unitil Service, Unitil Realty, Unitil Resources and Unitil Water. Unitil Service provides, at cost, a variety of administrative and professional services, including regulatory, financial, accounting, human resources, engineering, operations, technology and energy supply management services on a centralized basis to its affiliated Unitil companies. Unitil Realty owns and manages the Company s corporate office in Hampton, New Hampshire and land in Kingston, New Hampshire on which Unitil Energy s solar facility is located, which became operational in May 2025. Unitil Resources is the Company s wholly-owned non-regulated subsidiary which currently does not have any activity. Unitil Water currently does not have any activity. For segment information relating to each segment s revenue, earnings and assets, see Note 2 (Segment Information) to the Consolidated Financial Statements included in Part II, Item 8 (Financial Statements and Supplementary Data) of this report. All of the Company s revenues are attributable to customers in the United States of America and all its long-lived assets are located in the United States of America. OPERATIONS Electric Distribution Utility Operations Unitil s electric distribution operations are conducted through two of the Company s utilities, Unitil Energy and Fitchburg. Revenue from Unitil s electric utility operations was $236.4 million in 2025, which represents about 44% of Unitil s total operating revenue. The Company s GAAP (as defined below) Electric Gross Margin was $82.7 million in 2025. The Company s Electric Adjusted Gross Margin (a non-GAAP financial measure) was $114.6 million in 2025, or 37% of Unitil s total Adjusted Gross Margin. See Results of Operations in Part II, Item 7 (Management s Discussion and Analysis of Financial Condition and Results of Operations) for a discussion of the non-GAAP financial measures presented in this Annual Report on Form 10-K, including a reconciliation of the non-GAAP financial measures to the most comparable GAAP financial measures for the periods presented. The primary business of Unitil s electric utility operations is the local distribution of electricity to customers in its service territory in New Hampshire and Massachusetts. All of Unitil Energy s and Fitchburg s electric customers are entitled to purchase their supply of electricity from third-party competitive suppliers, while Unitil Energy and Fitchburg remain their electric distribution company. Both Unitil Energy and Fitchburg supply electricity to those customers who do not obtain their supply from third-party competitive suppliers, with the approved costs associated with electricity supply being recovered on a pass-through basis under regulated reconciling rate mechanisms that are periodically adjusted. Unitil Energy distributes electricity to approximately 79,400 customers in New Hampshire in the capital city of Concord as well as parts of thirteen surrounding towns, and all or part of nineteen towns in the southeastern and seacoast regions of New Hampshire, including the towns of Hampton, Exeter, Atkinson and Plaistow. Unitil Energy s service territory consists of approximately 408 square miles. Unitil Energy s service territory encompasses retail and recreation centers for the central and southeastern parts of the state and includes the Hampton Beach recreational area. These areas serve diversified commercial and industrial businesses, including manufacturing firms engaged in the
+
+## GEOGRAPHIC REVENUE
+) to the Consolidated Financial Statements included in Part II, Item 8 (Financial Statements and Supplementary Data) of this report. All of the Company s revenues are attributable to customers in the United States of America and all its long-lived assets are located in the United States of America. OPERATIONS Electric Distribution Utility Operations Unitil s electric distribution operations are conducted through two of the Company s utilities, Unitil Energy and Fitchburg. Revenue from Unitil s electric utility operations was $236.4 million in 2025, which represents about 44% of Unitil s total operating revenue. The Company s GAAP (as defined below) Electric Gross Margin was $82.7 million in 2025. The Company s Electric Adjusted Gross Margin (a non-GAAP financial measure) was $114.6 million in 2025, or 37% of Unitil s total Adjusted Gross Margin. See Results of Operations in Part II, Item 7 (Management s Discussion and Analysis of Financial Condition and Results of Operations) for a discussion of the non-GAAP financial measures presented in this Annual Report on Form 10-K, including a reconciliation of the non-GAAP financial measures to the most comparable GAAP financial measures for the periods presented. The primary business of Unitil s electric utility operations is the local distribution of electricity to customers in its service territory in New Hampshire and Massachusetts. All of Unitil Energy s and Fitchburg s electric customers are entitled to purchase their supply of electricity from third-party competitive suppliers, while Unitil Energy and Fitchburg remain their electric distribution company. Both Unitil Energy and Fitchburg supply electricity to those customers who do not obtain their supply from third-party competitive suppliers, with the approved costs associated with electricity supply being recovered on a pass-through basis under regulated reconciling rate mechanisms that are periodically adjusted. Unitil Energy distributes electricity to approximately 79,400 customers in New Hampshire in the capital city of Concord as well as parts of thirteen surrounding towns, and all or part of nineteen towns in the southeastern and seacoast regions of New Ham
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customer class: 
+Change 
+Electric Operating Revenues and Electric Adjusted Gross Margin 
+2025 vs. 2024 
+2024 vs. 2023 
+(millions) 
+2025 
+2024 
+2023 
+$ 
+% 
+$ 
+% 
+Electric Operating Revenue: 
+Residential 
+$ 
+132.6 
+$ 
+140.6 
+$ 
+184.5 
+$ 
+(8.0 
+) 
+(5.7 
+)% 
+$ 
+(43.9 
+) 
+(23.8 
+)% 
+Commercial & Industrial 
+103.8 
+107.7 
+122.0 
+(3.9 
+) 
+(3.6 
+)% 
+(14.3 
+) 
+(11.7 
+)% 
+Total Electric Operating Revenue 
+236.4 
+248.3 
+306.5 
+(11.9 
+) 
+(4.8 
+)% 
+(58.2 
+) 
+(19.0 
+)% 
+Cost of Electric Sales 
+121.8 
+141.0 
+202.4 
+(19.2 
+) 
+(13.6 
+)% 
+(61.4 
+) 
+(30.3 
+)% 
+Electric Adjusted Gross Margin 
+$ 
+114.6 
+$ 
+107.3 
+$ 
+104.1 
+$ 
+7.3 
+6.8 
+% 
+$ 
+3.2 
+3.1 
+% 
+26 
+Table of Contents 
+The decrease in Total Electric Operating Revenue of $11.9 million, or 4.8%, in 2025 compared to 2024 reflects lower costs of electric sales due to the increase in the amount of electricity purchased by customers directly from third-party suppliers, which are tracked and reconciled costs as a pass-through to customers, partially offset by higher electric distribution rates. Electric GAAP Gross Margin is discussed above in the section entitled Use of GAAP and Non-GAAP Financial Measures . Electric Adjusted Gross Margin (a non-GAAP financial measure) was $114.6 million in 2025, an increase of $7.3 million compared with 2024. The increase was driven by higher rates and customer growth. The decrease in Total Electric Operating Revenue of $58.2 million, or 19.0%, in 2024 compared to 2023 reflects lower costs of electric sales, which are tracked and reconciled costs as a pass-through to customers, partially offset by higher electric distribution rates. Electric Adjusted Gross Margin (a non-GAAP financial measure) was $107.3 million in 2024, an increase of $3.2 million compared with 2023. The increase was driven by higher rates and customer growth. Kilowatt-hour Sales Unitil s total electric kilowatt-hour (kWh) sales decreased 0.6% in 2025 compared to 2024. Sales to Residential customers increased 4.1% reflecting co
+
+---
+Doc size: 2048KB (capped at 2MB)

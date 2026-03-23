@@ -1,0 +1,109 @@
+# REGENXBIO INC — 10-K Annual Report
+# Filed: 2026-03-05
+# CIK: 1590877
+# SIC: Biological Products, (No Diagnostic Substances)
+# Source: https://www.sec.gov/Archives/edgar/data/1590877/000119312526094013/rgnx-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+2
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+33 
+Item 1B. 
+Unresolved Staff Comments 
+69 
+Item 1C. 
+Cybersecurity 
+69 
+Item 2. 
+Properties 
+70 
+Item 3. 
+Legal Proceedings 
+70 
+Item 4. 
+Mine Safety Disclosures 
+70 
+Part II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+71 
+Item 6. 
+Reserved 
+71 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+72 
+Item 7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+88 
+Item 8. 
+Financial Statements and Supplementary Data 
+88 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+88 
+Item 9A. 
+Controls and Procedures 
+88 
+Item 9B. 
+Other Information 
+90 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions That Prevent Inspections 
+90 
+Part III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+91 
+Item 11. 
+Executive Compensation 
+91 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+91 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+91 
+Item 14. 
+Principal Accountant Fees and Services 
+91 
+Part IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+92 
+Item 16. 
+Form 10-K Summary 
+92 
+Index to Consolidated Financial Statements 
+93 
+Exhibit Index 
+138 
+Signatures 
+141 
+Table of Contents 
+PART I INFORMATION REGARDING FO RWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act). These statements express a belief, expectation or intention and are generally accompanied by words that convey projected future events or outcomes such as anticipate, assume, believe, continue, could, design, estimate, expect, forecast, goal, intend, may, objective, plan, position, potential, predict, project, seek, should, will, would or variations of such words or by similar expressions. We have based these forward-looking statements on our current expectations, estimates and assumptions and analyses in light of our experience and our perception of historical trends, current conditions and expected future developments, as well as other factors we believe are appropriate under the circumstances. However, whether actual results and developments will conform with our expectations and predictions is subject to a number of risks, uncertainties, assumptions and other important factors, including, but not limited to: our ability to establish and maintain development partnerships, including our collaboration with AbbVie to develop and commercialize surabgene lomparvovec (sura-vec, ABBV-RGX-314) and our collaboration with Nippon Shinyaku Co., Ltd. to develop and commercialize RGX-121 (clemidsogene lanparvovec) and RGX-111; our ability to obtain, including under accelerated approval, and maintain regulatory approval of our product candidates and the labeling for any approved products; our ability to address the deficiencies cited in the Complete Response Letter for RGX 121; our ability to resolve the clinical holds for RGX 111 and RGX 121 to the satisfaction of the FDA; the timing of enrollment, commencement, completion and the success of our AAVIATE , AFFINITY BEYOND , AFFINITY DUCHENNE , ALTITUDE , ASCENT , ATMOSPHERE , CAMPSIITE , NAAVIGATE and other clinical trials; the timing of commencement and completion and the success of preclinical studies conducted by us and our development partners; the timely development and launch of new products; the scope, progress, expansion and costs of developing and commercializing our product candidates; our ability to obtain, maintain and enforce intellectual property protection for our product candidates and technology, and defend against third-party intellectual property-related claims; our expectations regarding the development and commercialization of product candidates currently being developed by third parties that utilize our technology; our anticipated growth strategies; our expectations regarding competition; the anticipated trends and challenges in our business and the market in which we operate; our ability to attract or retain key personnel; the size and growth of the potential markets for our product candidates and the ability to serve those markets; the rate and degree of market acceptance of any of our products that are approved; our expectations regarding our expenses and revenue; our expectations regarding our need for additional financing and our ability to obtain additional financing; our expectations regarding the outcome of legal proceedings; our expectations regarding regulatory developments in the United States and foreign countries; the impact of any government-imposed tariffs or other trade barriers on cost of goods and services, particularly related to partnered product candidates; our ability to continue as a going concern; and 
+1 
+Table of Contents 
+changes in the financial markets and banking system that may affect the availability and terms on which we may obtain financing and our ability to accurately predict how long our existing cash resources will be sufficient to fund our anticipated operating expenses. You should carefully read the factors discussed in the sections titled Risk Factors, Management s Discussion and Analysis of Financial Condition and Results of Operations, and the factors discussed elsewhere in this Annual Report on Form 10-K and in our other filings with the U.S. Securities and Exchange Commission (the SEC) for additional discussion of the risks, uncertainties, assumptions and other important factors that could cause our actual results or developments to differ materially and adversely from those projected in the forward-looking statements. The actual results or developments anticipated may not be realized or, even if substantially realized, they may not have the expected consequences to or effects on us or our businesses or operations. Such statements are not guarantees of future performance and actual results or developments may differ materially and adversely from those projected in the forward-looking statements. These forward-looking statements speak only as of the date of this Annual Report. Except as required by law, we disclaim any duty to update any forward-looking statements, whether as a result of new information, future events or otherwise. As used in this Annual Report on Form 10-K, the terms REGENXBIO, we, us, our or the Company mean REGENXBIO Inc. and its subsidiaries, on a consolidated basis, unless the context indicates otherwise. AAVIATE, AFFINITY BEYOND, AFFINITY DUCHENNE, ALTITUDE, ASCENT, ATMOSPHERE, CAMPSIITE, NAV, NAVXpress, NAVXcell, REGENXBIO and the REGENXBIO logos are our registered trademarks. Any other trademarks appearing in this Annual Report on Form 10-K are the property of their respective holders. INDUSTRY AND MARKET DATA We obtained the industry, market and competitive position data used throughout this Annual Report on Form 10-K from our own internal estimates and research, as well as from industry and general publications, in addition to research, surveys and studies conducted by third parties. Internal estimates are derived from publicly-available information released by industry analysts and third-party sources, our internal research and our industry experience, and are based on assumptions made by us based on such data and our knowledge of our industry and market, which we believe to be reasonable. We have not independently verified industry, market and competitive position data from third-party sources, but we believe the sources of such information to be reliable. While we believe the industry, market and competitive position data included in this Annual Report on Form 10-K is reliable and is based on reasonable assumptions, such data involves risks and uncertainties and are subject to change based on various factors, including those discussed in Risk Factors. These and other factors could cause results to differ materially from those expressed in the estimates made by the independent parties and by us. ITEM 1. BU SINESS Overview We are a leading clinical-stage biotechnology company seeking to improve lives through the curative potential of gene therapy. Our investigational gene therapies are designed to deliver functional genes to address genetic defects in cells, enabling the production of therapeutic proteins or antibodies that are intended to impact disease. Through a single administration, gene therapy could potentially alter the course of disease significantly and deliver improved patient outcomes with long-lasting effects. Our investigational gene therapies use adeno-associated virus (AAV) vectors from our proprietary gene delivery platform, which we call our NAV Technology Platform. AAV vectors are non-replicating viral delivery vehicles that are not known to cause disease. Our NAV Technology Platform has consisted of exclusive rights to a large portfolio of AAV vectors (NAV Vectors), including commonly used AAV8 and AAV9. We believe this platform forms a strong foundation for our current clinical-stage programs and, with our ongoing research and development, we expect to continue to expand our platform and pipeline of potential AAV vector-based gene therapies. Our NAV Technology Platform is the foundation for commercial and investigational AAV therapeutics that have treated thousands of patients through our clinical pipeline and NAV licensees. We have developed a broad pipeline of investigational AAV therapeutics using our NAV Technology Platform as one-time treatments to address an array of diseases. We are currently focusing our internal development pipeline in three areas: retinal, neuromuscular and neurodegenerative diseases. We believe these product candidates are differentiated, can be expedited, and support meaningful near-term and long-term value generation. Our investigational gene therapies include: Surabgene lomparvovec (sura-vec, ABBV-RGX-314), which we are developing in collaboration with AbbVie to treat large patient populations impacted by wet age-related macular degeneration (wet AMD) and diabetic retinopathy (DR). 
+2 
+Table of Contents 
+RGX-202, which we are developing to treat Duchenne muscular dystrophy (Duchenne), one of the most common fatal genetic disorders affecting children. RGX-121 (clemidsogene lanparvovec) and RGX-111, which we are developing and plan to commercialize with Nippon Shinyaku to treat Mucopolysaccharidosis type II (MPS II) and Mucopolysaccharidosis type I (MPS I), both of which are progressive, neurodegenerative lysosomal storage disorders. Our internal pipeline is shown below. Since our founding, we have built a team of experts in research and development, preclinical and clinical development, scalable manufacturing and commercialization, enabling us to have integrated, end-to-end capabilities. We believe AAV therapeutics represent a simplified and efficient potential new class of innovative medicines. Our experience and expertise distinguish us from other gene therapy companies and will help ensure value generation and our continued growth. AAV Therapeutics Historically, the primary challenge for gene therapy has been the safe and effective delivery of genes into cells. To address this challenge, scientists designed and developed a variety of gene vectors to facilitate gene delivery into cells. Our gene therapies are designed to deliver working genes to cells using AAV vectors as the delivery vehicles. We chose AAV vectors, modified viruses that cannot increase their numbers or reproduce themselves, based on several factors including their demonstrated efficiency in gene delivery to date and promising safety profiles for gene therapy. Since our inception, we have built and advanced multiple promising gene therapies into late-stage clinical development. All of our gene therapies were built on our NAV Technology Platform. Together, with our in-house, U.S.-based manufacturing and end-to-end capabilities, we are excited about the prospect of bringing these assets to commercial stage and continuing to leverage our NAV Technology Platform to generate additional promising gene therapies. Our NAV Technology Platform In 2009, we acquired exclusive rights to our NAV Technology Platform. Our NAV Technology Platform includes over 100 NAV Vectors, as well as vectors that are at least 95% identical to any NAV Vector, that provide the foundation for the development of new AAV therapeutics. We have observed that several of our NAV Vectors demonstrate preferential tropisms for a range of tissues, as well as efficient transgene delivery and expression that may produce a therapeutic effect. Our NAV Technology Platform has enabled the development of a number of gene therapies being investigated in clinical trials and two that are FDA-approved. 
+3 
+Table of Contents 
+For many years, by sublicensing NAV Vectors from our NAV Technology Platform to other biopharmaceutical companies with disease-specific expertise, which we refer to as our NAV Technology Licensees, we received capital to advance our own research and capabilities. Our NAV Technology Platform is being applied to a number of programs over a broad range of therapeutic areas and disease indications by our NAV Technology Licensees. These partnered programs include Novartis Zolgensma and Itvisma gene therapies for the treatment of spinal muscular atrophy (SMA), a debilitating and potentially deadly disease. Zolgensma was approved by the U.S. Food and Drug Administration (FDA) in 2019 for the treatment of SMA in patients under the age of two years old, and Itvisma was approved by the FDA in November 2025 for the treatment of SMA in patients two years and older. Together, Zolgensma and Itvisma have been used to treat thousands of patients suffering from SMA. Our partnering strategy provides us the flexibility to sublicense development of treatments designed to address significant unmet medical needs, while remaining focused on our own pipeline of gene therapies. We believe we have extensive human safety experience to support the development of our investigational AAV therapeutics based on data from thousands of patients dosed with AAV therapeutics derived from our NAV Technology Platform in two FDA approved products and numerous clinical stage programs. To date, we have observed that AAV therapeutics derived from our NAV Technology Platform have been generally well tolerated. Our AAV Platform Discovery and Development We have a team of scientists and engineers dedicated to expanding the understanding and applications of AAV vectors, applying the differentiated capabilities of the NAV Technology Platform and exploring the potential to generate new, innovative AAV therapeutics. We endeavor to rapidly discover and develop a pipeline o
+
+## GEOGRAPHIC REVENUE
+0001590877 rgnx:PersonnelMember us-gaap:OperatingSegmentsMember 2025-01-01 2025-12-31 0001590877 rgnx:StephenPakolaMDMember rgnx:Rule10B51TradingPlanTwoMember 2025-10-01 2025-12-31 0001590877 us-gaap:DomesticCountryMember 2025-12-31 0001590877 us-gaap:CorporateBondSecuritiesMember 2025-12-31 0001590877 rgnx:TwoThousandFifteenEmployeeStockPurchasePlanMember 2024-01-01 2024-12-31 0001590877 us-gaap:CommonStockMember rgnx:AtTheMarketOfferingProgramMember 2024-11-30 2024-11-30 0001590877 rgnx:BEPSPillarTwoMember 2025-01-01 2025-12-31 0001590877 us-gaap:USGovernmentAgenciesDebtSecuritiesMember 2024-12-31 0001590877 rgnx:MayTwoThousandTwentyFiveWarrantsOutstandingMember 2025-01-01 2025-12-31 0001590877 rgnx:HCRMember rgnx:TwoThousandTwentyFiveRoyaltyBondMember 2025-01-01 2025-12-31 0001590877 rgnx:EquityIncentivePlansMember 2024-12-31 0001590877 us-gaap:NonUsMember us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember srt:MaximumMember 2024-01-01 2024-12-31 0001590877 rgnx:PreFundedWarrantsMember 2025-12-31 0001590877 rgnx:SettlementAgreementMember rgnx:AbeonaTherapeuticsIncorporationMember 2023-12-31 0001590877 us-gaap:RetainedEarningsMember 2024-12-31 0001590877 rgnx:NewYorkSubleaseMember 2025-12-31 0001590877 rgnx:AbbVieCollaborationAndLicenseAgreementMember us-gaap:ResearchAndDevelopmentExpenseMember 2024-01-01 2024-12-31 0001590877 us-gaap:CorporateBondSecuritiesMember 2024-12-31 0001590877 us-gaap:FairValueInputsLevel2Member 2025-12-31 0001590877 rgnx:TotalServiceRevenueMember 2024-01-01 2024-12-31 0001590877 rgnx:EmployeeStockPurchasePlanMember 2025-01-01 2025-12-31 0001590877 rgnx:NineThousandEightHundredFourMedicalCenterDriveMember 2025-01-01 2025-12-31 0001590877 us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember 2024-12-31 0001590877 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-01-01 2025-12-31 0001590877 rgnx:MarchTwoThousandTwentyFourPublicOfferingMember 2024-03-01 2024-03-31 0001590877 us-gaap:AdditionalPaidInCapitalMember 2024-12-31 0001590877 rgnx:NovemberTwoThousandTwentyTwoLicenseAgreementMember us-gaap:ContractTerminationMember rgnx:AbeonaTherapeuticsIncorporationMember 2025-01-01 2025-12-31 0001590877 us-gaap:Accu
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer may harm our business. Risks Related to Our Intellectual Property Our intellectual property rights may be limited by the terms and conditions of licenses granted to us by others. We must obtain and maintain patent protection for our products and technology to protect our intellectual property rights. Our reliance on third parties requires us to share our trade secrets, which increases the possibility that a competitor will discover them or that our trade secrets will be misappropriated or disclosed. Our intellectual property licenses with third parties may be subject to disagreements. We are required to comply with the agreements under which we license intellectual property rights from third parties. We may not be successful in obtaining necessary rights to our product candidates through acquisitions and in-licenses. We may not be able to protect our intellectual property rights in the United States and throughout the world. Issued patents covering our NAV Technology Platform or our product candidates could be found invalid, unenforceable or found to lack patent eligibility by the courts or patent offices. Third parties may initiate legal proceedings alleging that we are infringing their intellectual property rights. We may be subject to intellectual property claims. 
+34 
+Table of Contents 
+Changes in U.S. patent law including appellate interpretation of patent eligibility in biotechnology could diminish the value of patents in general and biotechnology patents specifically, thereby impairing our ability to protect our products. We may be unable to obtain patent term extension and data exclusivity for our product candidates. Risks Related to Ownership of Our Common Stock Our operating results are difficult to predict and could cause the price of our common stock to fluctuate substantially. Raising additional capital may cause dilution to our existing stockholders, restrict our operations or require us to relinquish proprietary rights. Strategic
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,22 @@
+# SOUTHERN COPPER CORP — 10-K Annual Report
+# Filed: 2026-02-27
+# CIK: 1001838
+# SIC: Metal Mining
+# Source: https://www.sec.gov/Archives/edgar/data/1001838/000110465926021492/scco-20251231x10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1 Business 3 - 16
+
+## RISK FACTORS (Item 1A)
+Risk Factors 16 - 28 Item 1B Unresolved Staff Comments 28 Item 1C Cybersecurity 28 - 31 Item 2 Properties 32 - 96 Item 3 Legal Proceedings 96 Item 4 Mine Safety Disclosure 96 PART II. Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 97 - 98 Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 99 - 125 Item 7A. Quantitative and Qualitative Disclosures about Market Risk 126 Item 8. Financial Statements and Supplementary Data 127 - 190 Item 9. Changes in and Disagreements with Accountant on Accounting and Financial Disclosure 191 Item 9A. Controls and Procedures 191 Item 9B. Other Information 193 Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 193 PART III. Item 10. Directors, Executive Officers and Corporate Governance 194 - 196 Item 11. Executive Compensation 194 - 196 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 194 - 196 Item 13. Certain Relationships and Related Transactions and Director Independence 194 - 196 Item 14. Principal Accounting Fees and Services 194 - 196 PART IV. Item 15. Exhibits, Financial Statement Schedule 196 - 199 Supplemental Information 200 - 203 Signatures 204 2 
+Table of Contents PART I ITEM 1. BUSINESS THE COMPANY We believe Southern Copper Corporation ( SCC , Southern Copper or the Company ) is one of the largest integrated copper producers in the world. Our major production includes copper, molybdenum, zinc and silver. All of our mining, smelting and refining facilities are located in Peru and Mexico, and we conduct exploration activities in those countries and in Argentina and Chile. See
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customers and suppliers by materially affecting the normal flow of our transactions, especially seaborne transactions. For example, severe weather events could damage transportation infrastructures and lead to interruptions or delays in the supply of key inputs and raw materials or sold products. 22 
+Table of Contents We monitor fluctuations in weather patterns in the areas where we operate. Aligned with government efforts, we measure our carbon footprint and have updated our climate strategy to reduce the contributions to greenhouse gas emissions of our operations. We also evaluate our water demand, as weather changes may result in increases or decreases that affect our needs. Efforts to comply with more stringent environmental protection programs in Peru and Mexico and with relevant trade agreements could impose constraints on operations and imply additional costs. Consequently, we may need to make significant investments in this regard in the future. We cannot assure you that current or future legislative, regulatory or trade developments will not have adverse effects on our business, properties, operating results, financial condition or prospects. Our mining and metal production projects may expose us to new risks. Our Company is in the midst of a large expansion program, which may expose us to additional risks in terms of industrial accidents. While we believe our contractors employ safety standards and other procedures to ensure these projects are completed with proper governance, it is possible that increased activity at our sites could cause environmental accidents or endanger human life. Our business depends upon information technology systems that may be adversely affected by disruptions, damage, cyber-attacks, failure and risks associated with implementation and integration. Our operations depend upon information technology systems that may be subject to disruption, damage or failure from different sources, including, without limitation, the install
+
+---
+Doc size: 2048KB (capped at 2MB)

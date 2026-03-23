@@ -1,0 +1,20 @@
+# SEMPRA — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1032208
+# SIC: Gas & Other Services Combined
+# Source: https://www.sec.gov/Archives/edgar/data/1032208/000103220826000010/sre-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 11 PART I Item 1. Business 12 Item 1A. Risk Factors 40 Item 1B. Unresolved Staff Comments 68 Item 1C. Cybersecurity 68
+
+## GEOGRAPHIC REVENUE
+Barclays Capital Inc., BofA Securities, Inc., Citigroup Global Markets Inc., Goldman Sachs & Co. LLC, J.P. Morgan Securities LLC, Mizuho Securities USA LLC, Morgan Stanley & Co. LLC, MUFG Securities Americas Inc., RBC Capital Markets, LLC, Scotia Capital (USA) Inc., and Wells Fargo Securities, LLC (each a sales agent or forward seller) and Barclays Bank PLC, Bank of America, N.A., Citibank, N.A., Goldman Sachs & Co. LLC, JPMorgan Chase Bank, National Association, Mizuho Markets Americas LLC, Morgan Stanley & Co. LLC, MUFG Securities EMEA plc, Royal Bank of Canada, The Bank of Nova Scotia and Wells Fargo Bank, National Association, or one of their respective affiliates (each a forward purchaser) SB California Senate Bill scope 1 GHG emissions a company s direct GHG emissions from operations that it owns or controls scope 2 GHG emissions a company's indirect GHG emissions such as purchased electricity for its own use at its facilities SDG&E San Diego Gas & Electric Company SDSRA Senior Debt Service Reserve Account SEC U.S. Securities and Exchange Commission SEDATU Secretar a de Desarrollo Agrario, Territorial y Urbano (Mexico s agency in charge of agriculture, land and urban development) SENER Secretar a de Energ a de M xico (Mexico s Ministry of Energy) series C preferred stock Sempra s 4.875% fixed-rate reset cumulative redeemable perpetual preferred stock, series C Sharyland Holdings Sharyland Holdings, L.P. Sharyland Utilities Sharyland Utilities, L.L.C. Shell Shell M xico Gas Natural, S. de R.L. de C.V. 2025 Form 10-K | 7 Tab le of Cont ents GLOSSARY SI Partners Sempra Infrastructure Partners, LP, the holding company for most of Sempra s businesses not subject to California or Texas utility regulation SoCalGas Southern California Gas Company SOFR Secured Overnight Financing Rate SONGS San Onofre Nuclear Generating Station SPA sale and purchase agreement SST Committee Safety, Sustainability and Technology Committee of the Sempra board of directors Support Agreement support agreement, dated July 28, 2020 and amended in June 2021 and January 2025, between Sempra and Sumitomo Mitsui Banking Corporation TAG Norte TAG Norte Holding, S. de R.L. de C.V. TAG Pipeline
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

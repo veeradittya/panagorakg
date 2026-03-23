@@ -1,0 +1,14 @@
+# MASTERCARD INCORPORATED — 10-K Annual Report
+# Filed: 2026-02-11
+# CIK: 1141391
+# SIC: Services-Business Services, NEC
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+(Not available)
+
+## GEOGRAPHIC REVENUE
+segment> us-gaap:CommonClassAMember 2025-01-01 2025-12-31 0001141391 ma:TwoPointOnePercentNotesDue2027Member 2025-01-01 2025-12-31 0001141391 ma:OnePointZeroPercentNotesDue2029Member 2025-01-01 2025-12-31 0001141391 ma:TwoPointFivePercentNotesDue2030Member 2025-01-01 2025-12-31 0001141391 2025-06-30 0001141391 us-gaap:Comm
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

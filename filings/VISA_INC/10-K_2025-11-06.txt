@@ -1,0 +1,14 @@
+# VISA INC — 10-K Annual Report
+# Filed: 2025-11-06
+# CIK: 1403161
+# SIC: Services-Business Services, NEC
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm)
+
+## RISK FACTORS (Item 1A)
+21 Item 1B
+
+## GEOGRAPHIC REVENUE
+segment"> v:segment v:preferredStockSeries v:case v:complaint v:state v:plaintiff v:case_filed v:merchant v:class_action_case v:non-bankATMOperator v:claim v:financial_institution 0001403161 2024-10-01 2025-09-30 0001403161 us-gaap:CommonClassAMember 2024-10-01 2025-09-30 0001403161 v:A2026NotesMember <xbrli:startDate
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

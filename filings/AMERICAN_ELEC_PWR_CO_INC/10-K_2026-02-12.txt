@@ -1,0 +1,20 @@
+# AMERICAN ELEC PWR CO INC — 10-K Annual Report
+# Filed: 2026-02-12
+# CIK: 4904
+# SIC: Electric Services
+# Source: https://www.sec.gov/Archives/edgar/data/4904/000000490426000013/aep-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+(Not extracted)
+
+## GEOGRAPHIC REVENUE
+dDecommissioningTrustsMember us-gaap:FixedIncomeFundsMember aep:IndianaMichiganPowerCompanyMember 2024-01-01 2024-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:EquitySecurityDomesticMember aep:IndianaMichiganPowerCompanyMember 2025-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:EquitySecurityDomesticMember 2025-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:EquitySecurityDomesticMember aep:IndianaMichiganPowerCompanyMember 2025-01-01 2025-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:EquitySecurityDomesticMember 2025-01-01 2025-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:EquitySecurityDomesticMember aep:IndianaMichiganPowerCompanyMember 2024-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:EquitySecurityDomesticMember 2024-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:EquitySecurityDomesticMember aep:IndianaMichiganPowerCompanyMember 2024-01-01 2024-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:EquitySecurityDomesticMember 2024-01-01 2024-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:IndianaMichiganPowerCompanyMember 2025-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember 2025-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:IndianaMichiganPowerCompanyMember 2025-01-01 2025-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember 2025-01-01 2025-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:IndianaMichiganPowerCompanyMember 2024-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember 2024-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember 2024-01-01 2024-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:IndianaMichiganPowerCompanyMember 2024-01-01 2024-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember 2023-01-01 2023-12-31 0000004904 aep:SpentNuclearFuelandDecommissioningTrustsMember aep:IndianaMichiganPowerCompanyMember 2023-01-01 2023-12-31 0000004904 us-gaap:EstimateOfFairValueFairValueDis
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,98 @@
+# AVEANNA HEALTHCARE HLDGS INC — 10-K Annual Report
+# Filed: 2026-03-19
+# CIK: 1832332
+# SIC: Services-Home Health Care Services
+# Source: https://www.sec.gov/Archives/edgar/data/1832332/000119312526115851/avah-20260103.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+21 
+Item 1B. 
+Unresolved Staff Comments 
+48 
+Item 1C. 
+Cybersecurity 
+48 
+Item 2. 
+Properties 
+49 
+Item 3. 
+Legal Proceedings 
+49 
+Item 4. 
+Mine Safety Disclosures 
+50 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+51 
+Item 6. 
+[Reserved] 
+51 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+51 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+69 
+Item 8. 
+Financial Statements and Supplementary Data 
+70 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+103 
+Item 9A. 
+Controls and Procedures 
+103 
+Item 9B. 
+Other Information 
+106 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+106 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+107 
+Item 11. 
+Executive Compensation 
+107 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+107 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+107 
+Item 14. 
+Principal Accounting Fees and Services 
+107 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+108 
+Item 16. 
+Form 10-K Summary 
+111 
+Signatures 
+i 
+CAU TIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements, as that term is defined under the Private Securities Litigation Reform Act of 1995 ( PSLRA ), Section 27A of the Securities Act of 1933, as amended (the Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ) about us and our industry that involve substantial risks and uncertainties. All statements other than statements of historical facts contained in this report, including statements regarding our future results of operations and financial condition, business strategy, and plans and objectives of management for future operations, are forward-looking statements. In some cases, forward-looking statements may be identified by words such as anticipate, believe, continue, could, design, estimate, expect, intend, may, plan, potentially, predict, project, should, will, would, or the negative of these terms or other similar expressions. These statements are based on certain assumptions that we have made considering our experience in the industry as well as our perceptions of historical trends, current conditions, expected future developments and other factors we believe are appropriate in these circumstances. As you read and consider this Annual Report on Form 10-K, you should understand that these statements are not guarantees of performance or results. They involve risks, uncertainties and assumptions. Many factors could affect our actual results and could cause actual results to differ materially from those expressed in the forward-looking statements. Forward-looking statements contained in this Annual Report on Form 10-K are subject to risks that may cause actual results to differ materially from those expressed or implied in the forward-looking statements, including, but not limited to, the following risks: intense competition among home health, hospice and durable medical equipment companies; our ability to maintain relationships with existing patient referral sources; our ability to have services funded from third-party payers, including Medicare, Medicaid and private health insurance companies, including as a result of changes to Medicaid to be implemented under the One Big Beautiful Bill Act; changes to Medicare or Medicaid rates or methods governing Medicare or Medicaid payments, and the implementation of alternative payment models, including but not limited to Medicare Advantage, Managed Care Organization, managed Medicaid, and other forms of managed care; any downward pressure on reimbursement resulting from further proliferation of Medicare Advantage plans; our limited ability to control reimbursement rates received for our services; delays in collection or non-collection of our patient accounts receivable, particularly during the business integration process, or when transitioning between systems associated with clinical data collection and submission, as well as billing and collection systems; healthcare reform and other regulations, including risks related to the proposed rule issued for the home health prospective payment system by Centers for Medicare & Medicaid Services; changes in the case-mix of our patients, as well as payer mix and payment methodologies; any reduction in net reimbursement if we do not effectively implement value-based care programs; the possibility that our business, financial condition and results of operations may be materially adversely affected by public health emergencies, such as a pandemic or other infectious disease outbreak; shortages in qualified employees and management and competition for qualified personnel; any failure to maintain the security and functionality of our information systems or to defend against or otherwise prevent a cybersecurity attack or breach; our substantial indebtedness, which increases our vulnerability to general adverse economic and industry conditions and may limit our ability to pursue strategic alternatives and react to changes in our business and industry; our ability to identify, obtain financing for, acquire and integrate strategic and accretive businesses or assets; risks related to legal proceedings, claims and governmental inquiries given that the nature of our business exposes us to various liability claims, which may exceed the level of our insurance coverage; and the other risks described under Part I, Item 1A, Risk Factors in this Annual Report on Form 10-K. Additionally, we operate in a very competitive and rapidly changing environment. New risks emerge from time to time and it is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. Considering these risks, uncertainties and 
+ii 
+assumptions, the forward-looking statements contained in this Annual Report on Form 10-K might not prove to be accurate and you should not place undue reliance upon them or otherwise rely upon them as predictions of future events. All forward-looking statements made by us in this Annual Report on Form 10-K are expressly qualified in their entirety by the foregoing cautionary statements. All such statements speak only as of the date made, and we undertake no obligation to update or revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. We intend that all forward-looking statements be subject to the safe-harbor provisions of the PSLRA. Summary of Principal Risk Factors You should carefully consider the summary of risks below, together with the more detailed risk factors related to our business and industry described under Risk Factors contained in Item 1A of this Annual Report on Form 10-K. The occurrence of any of the events discussed below could significantly and adversely affect our business, prospects, results of operations, financial condition, and cash flows, which could result in a decline in the market price of our common stock. Competition . Competition among home health, hospice and durable medical equipment companies is intense; Referral source relationships . If we are unable to maintain relationships with existing patient referral sources, our business and financial condition, results of operations and cash flows could be materially adversely affected; Reimbursement . The cost of healthcare is funded substantially by government and private insurance programs. If such funding is further reduced or limited or no longer available, our business may be adversely impacted; Medicare and Medicaid . Changes to Medicare rates or methods governing Medicare payments for our services could materially adversely affect our business; Costs . Because we are limited in our ability to control reimbursement rates received for our services, our business could be materially adversely affected if we are not able to maintain or reduce our costs to provide such services; Collections . Delays in collection or non-collection of our patient accounts receivable, or recoupment of payments previously received, particularly during the business integration process, or during system transitions, or in connection with complying with electronic visit verification data collection and submission requirements, could adversely affect our business, financial condition, results of operations and liquidity; Patient mix . Changes in the case-mix of our patients, as well as payer mix and payment methodologies, may have a material adverse effect on our profitability; Payer contracting . Our failure to negotiate favorable managed care contracts, or our loss of existing favorable managed care contracts, could have a material adverse effect on our business and financial condition, results of operations and cash flows; Public Health Emergencies . Our business, financial condition and results of operations may be materially adversely affected by public health emergencies, such as a pandemic or other infectious disease outbreak; Competition for labor . The home health and hospice industries have historically experienced shortages in qualified employees and management, and competition for qualified personnel may increase our labor costs and reduce profitability; Cybersecurity . Failure to maintain the security and functionality of our information systems, or to defend against or otherwise prevent a cybersecurity attack or breach, could adversely affect our business, financial condition, results of operations and liquidity; and Regulation . We conduct business in a heavily regulated industry, and changes in regulations, the enforcement of these regulations, or violations of regulations may result in increased costs or sanctions that reduce our revenues and profitability. 
+iii 
+PART I Item 1. Bu siness. Background Aveanna is a Delaware corporation and was incorporated on November 30, 2016, originally under the name BCPE Oasis Holdings Inc. Aveanna commenced operations in March 2017 in connection with the transformative merger of Epic Health Services Inc. and Pediatric Services of America, Inc. in March 2017 under the name BCPE Eagle Holdings Inc. On May 26, 2017, we changed our name to Aveanna Healthcare Holdings Inc. and commenced trading on the Nasdaq Stock Market on April 29, 2021. Our principal executive offices are located at 400 Interstate North Parkway SE, Suite 1600, Atlanta, Georgia and our phone number is (770) 441-1580. We maintain a website at www.aveanna.com. Information contained on, or accessible through, our website is not a part of and is not incorporated by reference into this Annual Report on Form 10-K. Unless the context otherwise requires, all references in this Annual Report on Form 10-K to Aveanna , the Company , we , our , and us refer to Aveanna Healthcare Holdings Inc., including its consolidated subsidiaries. Overview We are a leading, diversified home care platform focused on providing care to medically complex, high-cost patient populations. We directly address the most pressing challenges facing the U.S. healthcare system by providing safe, high-quality care in the home, the lower cost care setting preferred by patients. Our patient-centered care delivery platform is designed to improve the quality of care our patients receive, which allows them to remain in their homes and minimizes the overutilization of high-cost care settings such as hospitals. Our clinical model is led by our caregivers, primarily skilled nurses, who provide specialized care to address the complex needs of each patient we serve across the full range of patient populations: newborns, children, adults and seniors. We have invested significantly in our platform to bring together best-in-class talent at all levels of the organization and support such talent with industry leading training, clinical programs, infrastructure and technology-enabled systems, which are increasingly essential in an evolving healthcare industry. We believe our platform creates sustainable competitive advantages that support our ability to continue driving rapid growth, both organically and through acquisitions, and positions us as the partner of choice for the patients we serve. Service Offerings We provide a broad range of home care services. We seek to meet a full range of care needs for patients while minimizing the complexity and potential disruption to patient care associated with procuring multiple types of care services from a number of independent providers. We believe this positions us as the provider of choice for patients, families, referral sources and payers. Aveanna provides its services through three segments: Private Duty Services ( PDS ); Home Health & Hospice ( HHH ); and Medical Solutions ( MS ). This presentation aligns our financial reporting with the manner in which we manage our business operations, with a focus on the strategic allocation of resources and separate branding strategies between the business divisions. Private Duty Services Private Duty Services predominantly includes private duty nursing ( PDN ) services, as well as pediatric therapy services. Our PDN patients typically enter our service as children, as our most significant referral sources for new patients are children s hospitals. It is common for our PDN patients to continue to receive our services into adulthood, as approximately 30% of our PDN patients are over the age of 18. Private Duty Nursing We are the largest provider of PDN services in the United States. We provide a range of services for medically complex children and young adults with a wide variety of serious illnesses and conditions, including chronic respiratory failure requiring tracheostomy and/or mechanical ventilation, cerebral palsy, cystic fibrosis, congenital anomalies, failure to thrive and anoxic brain injuries. Our caregivers, a majority of whom are registered nurses and licensed practical nurses, monitor an individual s condition, administer medications and treatment regimens, provide enteral and other forms of tube feeding, monitor and maintain ventilators, administer pain management treatments and coordinate other forms of medical care. The length of service for a patient under our care can be multiple years until the 
+4 
+patient graduates from the need for a feeding tube, ventilator or tracheostomy. This affords us the distinct ability to improve outcomes and control costs. However, many of our highest acuity patients remain on our services for ten or more years. Our PD
+
+## GEOGRAPHIC REVENUE
+-29 2026-01-03 0001832332 avah:ThriveSkilledPediatricCareLLCMember 2025-06-02 0001832332 avah:TermLoanMember 2024-12-28 0001832332 us-gaap:EmployeeStockMember 2023-12-31 2024-12-28 0001832332 us-gaap:DomesticCountryMember 2026-01-03 0001832332 avah:AmendedCreditAgreementMember 2026-01-03 0001832332 avah:EdReiszMember avah:Rule10B51TradingPlanTenMember 2025-09-28 2026-01-03 0001832332 avah:AmendedTwoThousandSeventeenPlanMember us-gaap:RestrictedStockUnitsRSUMember 2024-12-29 2026-01-03 0001832332 us-gaap:TradeNamesMember 2024-12-28 0001832332 avah:ThriveSkilledPediatricCareLLCMember 2025-06-02 2025-06-02 0001832332 us-gaap:InterestRateCapMember 2024-12-28 0001832332 avah:SecondLienTermLoanMember 2025-01-04 2026-01-03 0001832332 avah:EdReiszMember avah:Rule10B51TradingPlanTenMember 2026-01-03 0001832332 avah:CashCollateralMember 2024-12-28 0001832332 avah:PerformanceStockUnitMember 2024-12-29 2026-01-03 0001832332 srt:ParentCompanyMember 2026-01-03 0001832332 avah:AmendedInterestRateSwapAgreementsMember 2023-07-01 0001832332 us-gaap:FairValueInputsLevel2Member us-gaap:InterestRateCapMember 2026-01-03 0001832332 us-gaap:LicenseMember avah:ThriveSkilledPediatricCareLLCMember 2025-06-02 0001832332 us-gaap:InterestRateCapMember 2024-12-28 0001832332 us-gaap:ProfessionalMalpracticeLiabilityMember 2024-12-28 0001832332 avah:AmendedInterestRateSwapAgreementsMember 2026-01-03 0001832332 avah:PrivateDutyServicesMember 2024-12-28 0001832332 avah:EdReiszMember avah:Rule10B51TradingPlanNineMember 2025-09-28 2026-01-03 0001832332 avah:HomeHealthAndHospiceMember 2026-01-03 0001832332 us-gaap:RestrictedStockUnitsRSUMember 2024-12-28 0001832332 avah:PerformanceStockUnitMember 2023-12-31 2024-12-28 0001832332 avah:HomeCareEquipmentMember 2026-01-03 0001832332 avah:SeniorManagementRetentionPlanMember 2026-01-03 0001832332 avah:PatrickACunninghamMember avah:Rule10B51TradingPlanTwoMember 2026-01-03 0001832332 avah:MedicalSolutionsMember 2024-12-28 0001832332 avah:AmendedInterestRateSwapAgreementsMember 2024-12-28 0001832332 us-gaap:InterestRateSwapMember 2018-10-31 0001832332 avah:MedicareMember us-gaap:CustomerConcentrationRiskMember us-gaap:RevenueFromContractWithCustomerProductAnd
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

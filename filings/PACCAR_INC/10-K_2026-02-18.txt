@@ -1,0 +1,99 @@
+# PACCAR INC — 10-K Annual Report
+# Filed: 2026-02-18
+# CIK: 75362
+# SIC: Motor Vehicles & Passenger Car Bodies
+# Source: https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/pcar-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+BUSINESS 
+3
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+10 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+13 
+ITEM 1C. 
+CYBERSECURITY 
+13 
+ITEM 2. 
+PROPERTIES 
+13 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+13 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+13 
+PART II 
+14 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+14 
+ITEM 6. 
+[RESERVED] 
+16 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+17 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+34 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+35 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+82 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+82 
+ITEM 9B. 
+OTHER INFORMATION 
+82 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+82 
+PART III 
+83 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+83 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+83 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+84 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+84 
+ITEM 14. 
+PRINCIPAL ACCOUNTING FEES AND SERVICES 
+84 
+PART IV 
+85 
+ITEM 15. 
+EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+85 
+SIGNATURES 
+88 
+2 
+PART I ITEM 1. B USINESS. PACCAR Inc (the Company or PACCAR), incorporated under the laws of Delaware in 1971, is the successor to Pacific Car and Foundry Company which was incorporated in Washington in 1924. The Company traces its predecessors to Seattle Car Manufacturing Company formed in 1905. Description of Business PACCAR is a multinational company operating in three principal industry segments: (1) The Truck segment includes the design, manufacture and distribution of high-quality, light-, medium- and heavy-duty commercial trucks. Heavy-duty trucks have a gross vehicle weight (GVW) of over 33,000 lbs (Class 8) in North America and over 16 metric tonnes in Europe and South America. Medium-duty trucks have a GVW ranging from 19,500 to 33,000 lbs (Class 6 to 7) in North America, and in Europe, light- and medium-duty trucks range between 6 and 16 metric tonnes. Trucks are configured with the engine in front of cab (conventional) or cab-over-engine (COE). (2) The Parts segment includes the distribution of aftermarket parts for trucks and related commercial vehicles. (3) The Financial Services segment includes finance and leasing products and services provided to customers and dealers. PACCAR s finance and leasing activities are principally related to PACCAR products and associated equipment. TRUCKS PACCAR s trucks are marketed under the Kenworth, Peterbilt and DAF nameplates. These trucks, which are built in three plants in the United States, three in Europe and one each in Australia, Brasil, Canada and Mexico, are used worldwide for over-the-road and off-highway hauling of commercial and consumer goods. The Company also designs and manufactures diesel engines, primarily for use in the Company s trucks, at its facilities in Columbus, Mississippi; Eindhoven, the Netherlands and Ponta Grossa, Brasil. PACCAR competes in the North American Class 8 market, primarily with Kenworth and Peterbilt conventional models. These trucks are assembled at facilities in Chillicothe, Ohio; Denton, Texas; Renton, Washington; Mexicali, Mexico and Ste. Therese, Canada. PACCAR also competes in the North American Class 6 to 7 markets primarily with Kenworth and Peterbilt conventional models. These trucks are assembled at facilities in Ste. Therese, Canada; Chillicothe, Ohio; Denton, Texas and Mexicali, Mexico. PACCAR competes in the European light/medium market with DAF COE trucks assembled in the United Kingdom (U.K.) by Leyland, one of PACCAR s wholly owned subsidiaries, and participates in the European heavy market with DAF COE trucks assembled in the Netherlands and the U.K. PACCAR competes in the Brazilian heavy truck market with DAF COE models assembled in Ponta Grossa in the state of Paran , Brasil. PACCAR competes in the Australian medium and heavy truck markets with Kenworth conventional and COE models and certain DAF COE models assembled at its facility at Bayswater in the state of Victoria, Australia, and DAF COE models primarily assembled in the U.K. Commercial truck manufacturing comprises the largest segment of PACCAR s business and accounted for 68% of total 2025 net sales and revenues. Substantially all trucks are sold to independent dealers. The Kenworth and Peterbilt nameplates are marketed and distributed by separate divisions in the U.S. and a foreign subsidiary in Canada. The Kenworth nameplate is also marketed and distributed by foreign subsidiaries in Mexico and Australia. The DAF nameplate is marketed and distributed worldwide by a foreign subsidiary headquartered in the Netherlands and is also marketed and distributed by foreign subsidiaries in Brasil, Australia and Mexico. The decision to operate as a subsidiary or as a division is incidental to PACCAR s Truck segment operations and reflects legal, tax and regulatory requirements in the various countries where PACCAR operates. The Truck segment utilizes centrally managed purchasing, information technology, technical research and testing, treasury and finance functions. Some manufacturing plants in North America produce trucks for more than one nameplate, while other plants produce trucks for only one nameplate, depending on various factors. Best manufacturing practices within the Company are shared on a routine basis reflecting the similarity of the business models employed by each nameplate. 
+3 
+The Company s trucks have a reputation for high quality products, most of which are ordered by dealers according to customer specifications. Some units are ordered by dealers for stocking to meet the needs of certain customers who require immediate delivery or for customers that require the chassis to be fitted with specialized bodies. For a significant portion of the Company s truck operations, major components, such as engines, transmissions and axles, as well as a substantial percentage of other components, are purchased from component manufacturers pursuant to PACCAR and customer specifications. DAF, which is more vertically integrated, manufactures PACCAR engines and axles and a higher percentage of other components for its heavy truck models. The Company also manufactures engines at its Columbus, Mississippi facility. In 2025, the Company installed PACCAR engines in approximately 29% of the Company s Kenworth and Peterbilt heavy-duty trucks in the U.S. and Canada and substantially all of the DAF heavy-duty trucks sold throughout the world. Engines not manufactured by the Company are purchased from Cummins Inc. (Cummins). The Company purchased a significant portion of its transmissions from Eaton Corporation Plc. (Eaton) and ZF Friedrichshafen AG (ZF). The Company also purchased a significant portion of North America stampings used for cabs from Magna International Inc. (Magna). The Company has long-term agreements with Cummins, Eaton, ZF and Magna to provide for continuity of supply. A loss of supply from Cummins, Eaton, ZF or Magna, and the resulting interruption in the production of trucks, would have a material effect on the Company s results. Purchased materials and parts include raw materials, partially processed materials, such as castings, and finished components manufactured by independent suppliers. The Company and its suppliers rely on semiconductors as an essential component in the production of its trucks and aftermarket parts. The Company and its suppliers source semiconductors from various suppliers. Raw materials, partially processed materials and finished components typically make up approximately 85% of the cost of new trucks. The value of finished truck components manufactured by independent suppliers is lower in Europe due to a higher level of vertical integration as compared to North America. In addition to materials, the Company s cost of sales includes labor and factory overhead, vehicle delivery and warranty. Accordingly, except for certain factory overhead costs such as facilities depreciation, property taxes and utilities, the Company s cost of sales are highly correlated to sales. The Company s DAF subsidiary purchases fully assembled cabs from a competitor, Renault V.I., for its European light-, medium-duty product line pursuant to a joint product development and long-term supply contract. Sales of trucks manufactured with these cabs amounted to approximately 2% of consolidated revenues in 2025. A short-term loss of supply, and the resulting interruption in the production of these trucks, would not have a material effect on the Company s results of operations. However, a loss of supply for an extended period of time would require the Company to either contract for an alternative source of supply or to manufacture cabs itself. Other than these components, the Company is not limited to any single source for any significant component, although the sudden inability of a supplier to deliver components could have a temporary adverse effect on production of certain products. Manufacturing inventory levels are based upon production schedules and orders are placed with suppliers accordingly. Key factors affecting Truck segment earnings include the number of new trucks sold in the markets served and the margins realized on the sales. The Company s sales of new trucks are dependent on the size of the truck markets served and the Company s share of those markets. Truck segment sales and margins tend to be cyclical based on the level of overall economic activity, the availability of capital and the amount of freight being transported. The Company s costs for trucks consist primarily of material costs, which are influenced by the price of commodities such as steel, copper, aluminum and petroleum. The Company utilizes long-term supply agreements to reduce the variability of the unit cost of purchased materials and finished components and engages in hedging activities for some commodities in certain geographical markets. The Company s spending on research and development varies based on product development cycles and government requirements such as changes to diesel engine emissions and vehicle fuel efficiency standards in the various markets served. The Company maintains rigorous control of selling, general and administrative (SG&A) expenses and seeks to minimize such costs. There are four principal competitors in the U.S. and Canada commercial truck market. The Company s share of the U.S. and Canadian Class 8 market was 29.9% of retail sales in 2025, and the Company s medium-duty market share was 15.9%. In Europe, there are six principal competitors in the commercial truck market, including parent companies to the four competitors of the Company in the U.S. In 2025, DAF had a 13.5% share of the European heavy-duty market and a 9.7% share of the light/medium-duty market. These markets are highly competitive in price, quality and service. PACCAR is not dependent on any single customer for its sales. There are no significant seasonal variations in sales. The Peterbilt, Kenworth and DAF nameplates are recognized internationally and play an important role in the marketing of the Company s truck products. The Company engages in a continuous program of trademark and trade name protection in all marketing areas of the world. 
+4 
+The Company s truck products are subject to noise, emission and safety regulations. Competing manufacturers are subject to the same regulations. The Company believes the cost of complying with these regulations will not be detrimental to its business. The Company had a total production backlog of $4.9 billion at the end of 2025. Within this backlog, orders scheduled for delivery within three months (90 days) are considered to be firm. The 90 day backlog approximated $2.6 billion at December 31, 2025, $3.8 billion at December 31, 2024 and $7.6 billion at December 31, 2023. Production of the year-end 2025 backlog is expected to be substantially completed during 2026. PARTS The Parts segment includes the distribution of aftermarket parts for trucks and related commercial vehicles to over 2,000 Kenworth, Peterbilt and DAF dealers and more than 350 TRP, PACCAR's aftermarket parts brand, stores in 99 countries around the world. Aftermarket truck parts are sold and delivered to the Company s independent dealers through the Company s 21 strategically located parts distribution centers (PDCs) in the U.S., Canada, Europe, Australia, Mexico and Central and South America. Parts are primarily purchased from various suppliers and also manufactured by the Company. Aftermarket parts inventory levels are determined largely by anticipated customer demand and the need for timely delivery. The Parts segment accounted for 24% of total 2025 net sales and revenues. Key factors affecting Parts segment earnings include the aftermarket parts sold in the markets served and the margins realized on the sales. Aftermarket parts sales are influenced by the total number of the Company s trucks in service and the average age and mileage of those trucks. To reflect the benefit the Parts segment receives from costs incurred by the Truck segment, certain factory overhead, research and development, engineering and SG&A expenses are allocated from the Truck segment to the Parts segment. The Company s cost for parts sold consists primarily of material costs, which are influenced by the price of commodities such as steel, copper, aluminum and petroleum. The Company utilizes long-term supply agreements to reduce the variability of the cost of parts sold. The Company maintains rigorous control of SG&A expenses and seeks to minimize such costs. FINANCIAL SERVICES PACCAR Financial Services (PFS) operates in 26 countries in North America, Europe, Australia and South America through wholly owned finance companies operating under the PACCAR Financial trade name. PFS also conducts full-service leasing operations through operating divisions or wholly owned subsidiaries in North America, Germany and Australia under the PacLease trade name. Selected dealers in North America and Australia are franchised to provide full-service leasing. PFS provides its franchisees with equipment financing and administrative support. PFS also operates its own full-service lease outlets. PFS s retail loan and lease customers consist of small, medium and large commercial trucking companies, independent owner/operators and other businesses and acquire their PACCAR trucks principally from independent PACCAR dealers. PFS accounted for 8% of total net sales and revenues and 51% of total assets in 2025. PFS is primarily responsible for managing the sales of the Company s used trucks. The Company s Financial Services segment sells used trucks returned from matured operating leases in the ordinary course of business and trucks acquired from
+
+## GEOGRAPHIC REVENUE
+cipally related to PACCAR products and associated equipment. TRUCKS PACCAR s trucks are marketed under the Kenworth, Peterbilt and DAF nameplates. These trucks, which are built in three plants in the United States, three in Europe and one each in Australia, Brasil, Canada and Mexico, are used worldwide for over-the-road and off-highway hauling of commercial and consumer goods. The Company also designs and manufactures diesel engines, primarily for use in the Company s trucks, at its facilities in Columbus, Mississippi; Eindhoven, the Netherlands and Ponta Grossa, Brasil. PACCAR competes in the North American Class 8 market, primarily with Kenworth and Peterbilt conventional models. These trucks are assembled at facilities in Chillicothe, Ohio; Denton, Texas; Renton, Washington; Mexicali, Mexico and Ste. Therese, Canada. PACCAR also competes in the North American Class 6 to 7 markets primarily with Kenworth and Peterbilt conventional models. These trucks are assembled at facilities in Ste. Therese, Canada; Chillicothe, Ohio; Denton, Texas and Mexicali, Mexico. PACCAR competes in the European light/medium market with DAF COE trucks assembled in the United Kingdom (U.K.) by Leyland, one of PACCAR s wholly owned subsidiaries, and participates in the European heavy market with DAF COE trucks assembled in the Netherlands and the U.K. PACCAR competes in the Brazilian heavy truck market with DAF COE models assembled in Ponta Grossa in the state of Paran , Brasil. PACCAR competes in the Australian medium and heavy truck markets with Kenworth conventional and COE models and certain DAF COE models assembled at its facility at Bayswater in the state of Victoria, Australia, and DAF COE models primarily assembled in the U.K. Commercial truck manufacturing comprises the largest segment of PACCAR s business and accounted for 68% of total 2025 net sales and revenues. Substantially all trucks are sold to independent dealers. The Kenworth and Peterbilt nameplates are marketed and distributed by separate divisions in the U.S. and a foreign subsidiary in Canada. The Kenworth nameplate is also marketed and distributed by foreign subsidiaries in Mexico and Australia. The DAF nameplate
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer for its sales. There are no significant seasonal variations in sales. The Peterbilt, Kenworth and DAF nameplates are recognized internationally and play an important role in the marketing of the Company s truck products. The Company engages in a continuous program of trademark and trade name protection in all marketing areas of the world. 
+4 
+The Company s truck products are subject to noise, emission and safety regulations. Competing manufacturers are subject to the same regulations. The Company believes the cost of complying with these regulations will not be detrimental to its business. The Company had a total production backlog of $4.9 billion at the end of 2025. Within this backlog, orders scheduled for delivery within three months (90 days) are considered to be firm. The 90 day backlog approximated $2.6 billion at December 31, 2025, $3.8 billion at December 31, 2024 and $7.6 billion at December 31, 2023. Production of the year-end 2025 backlog is expected to be substantially completed during 2026. PARTS The Parts segment includes the distribution of aftermarket parts for trucks and related commercial vehicles to over 2,000 Kenworth, Peterbilt and DAF dealers and more than 350 TRP, PACCAR's aftermarket parts brand, stores in 99 countries around the world. Aftermarket truck parts are sold and delivered to the Company s independent dealers through the Company s 21 strategically located parts distribution centers (PDCs) in the U.S., Canada, Europe, Australia, Mexico and Central and South America. Parts are primarily purchased from various suppliers and also manufactured by the Company. Aftermarket parts inventory levels are determined largely by anticipated customer demand and the need for timely delivery. The Parts segment accounted for 24% of total 2025 net sales and revenues. Key factors affecting Parts segment earnings include the aftermarket parts sold in the markets served and the margins realized on the sales. Aftermarket parts sales are inf
+
+---
+Doc size: 2048KB (capped at 2MB)

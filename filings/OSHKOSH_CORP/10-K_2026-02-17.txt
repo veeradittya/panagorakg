@@ -1,0 +1,119 @@
+# OSHKOSH CORP — 10-K Annual Report
+# Filed: 2026-02-17
+# CIK: 775158
+# SIC: Motor Vehicles & Passenger Car Bodies
+# Source: https://www.sec.gov/Archives/edgar/data/775158/000119312526054061/osk-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+BUSINESS 
+1
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+13 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+23 
+ITEM 1C. 
+CYBERSECURITY 
+23 
+ITEM 2. 
+PROPERTIES 
+24 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+24 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+25 
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS 
+25 
+PART II 
+ITEM 5. 
+MARKET FOR THE REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+27 
+ITEM 6. 
+RESERVED 
+28 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+29 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+38 
+ITEM 8. 
+FINANCIAL STATEMENTS 
+40 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+93 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+93 
+ITEM 9B. 
+OTHER INFORMATION 
+93 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+93 
+PART III 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+94 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+94 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+94 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+95 
+ITEM 14. 
+PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+95 
+PART IV 
+ITEM 15. 
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULE 
+96 
+ITEM 16 
+FORM 10-K SUMMARY 
+99 
+SIGNATURES 
+100 
+As used herein, the Company, we, us and our refers to Oshkosh Corporation and its consolidated subsidiaries. Oshkosh refers to Oshkosh Corporation, not including JLG Industries, Inc. and its wholly-owned subsidiaries (JLG), JerrDan LLC (JerrDan), AUSACORP S.L. (AUSA), Hinowa S.p.A (Hinowa), Pierce Manufacturing Inc. (Pierce), Oshkosh AeroTech and its wholly-owned subsidiaries (Oshkosh AeroTech), McNeilus Companies, Inc. (McNeilus) and its wholly-owned subsidiaries, Oshkosh Commercial Products, LLC (Oshkosh S-Series), Iowa Mold Tooling Co., Inc. (IMT), Kewaunee Fabrications, LLC (Kewaunee), Maxi-Metal, Inc. (Maxi-Metal), Oshkosh Defense, LLC (Oshkosh Defense) and its wholly-owned subsidiaries, Pratt & Miller Engineering & Fabrications, LLC (Pratt Miller) or any other subsidiaries. The Oshkosh , JLG , Pierce , MAXIMETAL, "Oshkosh S-Series ," McNeilus , IMT , Jerr-Dan , Frontline Communications, Oshkosh Airport Products, Oshkosh AeroTech , Oshkosh Defense, Pratt Miller, Command Zone , TAK-4 , PUC , Hercules , Husky , Ascendant , SkyTrak , DaVinci and Volterra trademarks and related logos are trademarks or registered trademarks of the Company. All other product and service names referenced in this document are the trademarks or registered trademarks of their respective owners. All references herein to earnings per share refer to earnings per share assuming dilution, unless noted otherwise. For ease of understanding, the Company refers to types of purpose-built vehicles and equipment for particular applications as markets. When the Company refers to market positions, these comments are based on information available to the Company concerning units sold by those companies currently manufacturing the same types of purpose-built vehicles and equipment as the Company and are therefore only estimates. Unless otherwise noted, these market positions are based on sales in the United States of America. There can be no assurance that the Company will maintain such market positions in the future. 
+Cautionary Statement About Forward-Looking Statements The Company believes that certain statements in Business and Management s Discussion and Analysis of Financial Condition and Results of Operations and other statements located elsewhere in this Annual Report on Form 10-K are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact included in this report, including, without limitation, statements regarding the Company s future financial position, business strategy, targets, projected sales, costs, earnings, capital expenditures, debt levels and cash flows, and plans and objectives of management for future operations, including those under the caption 2026 Outlook in Management s Discussion and Analysis of Financial Condition and Results of Operations, are forward-looking statements. When used in this Annual Report on Form 10-K, words such as may, will, expect, intend, estimate, anticipate, believe, should, project, confident or plan or the negative thereof or variations thereon or similar terminology are generally intended to identify forward-looking statements. These forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties, assumptions and other factors, some of which are beyond the Company s control, which could cause actual results to differ materially from those expressed or implied by such forward-looking statements. These factors include the cyclical nature of the Company s access equipment, fire apparatus, refuse and recycling collection and air transportation equipment markets, which are particularly impacted by the strength of U.S. and European economies and construction outlooks; the Company s estimates of access equipment demand which, among other factors, is influenced by historical customer buying patterns and rental company fleet replacement strategies; the Company's ability to predict the level and timing of orders and costs on the U.S. Postal Service contract; risks that the trade war and related tariffs could reduce demand for or competitiveness of the Company s products or cause inefficiencies in the Company's supply chain; the Company s ability to increase prices to raise margins or to offset higher input costs; the Company's ability to achieve its projected material and manufacturing efficiency savings; the Company's ability to accurately predict future input costs associated with U.S. Department of Defense contracts; the Company s ability to attract and retain production labor in a timely manner; the Company's ability to increase production rates in its municipal fire apparatus and delivery vehicle businesses; the strength of the U.S. dollar and its impact on Company exports, translation of foreign sales and the cost of purchased materials; the impact of severe weather, war, natural disasters or pandemics that may affect the Company, its suppliers or its customers; budget uncertainty for the U.S. federal government, including risks of future budget cuts, the impact of continuing resolution funding mechanisms or a prolonged federal government shutdown; the impact of any U.S. Department of Defense solicitation for competition for future contracts to produce military vehicles; risks related to the collectability of receivables, particularly for those businesses with exposure to construction markets; the cost of any warranty campaigns related to the Company s products; risks associated with international operations and sales, including compliance with the Foreign Corrupt Practices Act; the Company s ability to comply with complex laws and regulations applicable to U.S. government contractors; cybersecurity risks and costs of defending against, mitigating and responding to data security threats and breaches impacting the Company; the Company s ability to successfully identify, complete and integrate acquisitions and to realize the anticipated benefits associated with the same; and risks related to the Company s ability to successfully execute on its strategic road map and meet its long-term financial goals. Additional information concerning these and other factors that could cause actual results to differ materially from those in the forward-looking statements is contained in Item 1A of Part I of this report. All forward-looking statements, including those under the caption 2026 Outlook in Management s Discussion and Analysis of Financial Condition and Results of Operations, speak only as of February 17, 2026. The Company assumes no obligation, and disclaims any obligation, to update information contained in this Annual Report on Form 10-K. Investors should be aware that the Company may not update such information until the Company s next quarterly earnings conference call, if at all. 
+PART I ITEM 1. BUSINESS The Company Oshkosh Corporation is a global industrial technology company that designs and deploys advanced technologies to empower everyday heroes who build, serve and protect communities around the world. Across construction, firefighting, aviation, refuse collection, defense and delivery industries, we create purpose-built vehicles, equipment and integrated ecosystems that are safe, intuitive and highly productive. As an innovator and integrator, we work directly with our customers to solve real-world challenges developing and applying breakthrough technologies in autonomy, artificial intelligence, connectivity and electrification. Through these advancements, we make some of the world s toughest jobs safe, efficient, sustainable and connected delivering measurable impact for the people who depend on us every day. The Company has three reportable segments: Access, Vocational and Transport, which comprised 43%, 36% and 20%, respectively, of the Company s 2025 consolidated net sales. Oshkosh s leading brands include a wide range of purpose-built vehicles and equipment for a diverse set of end markets. Our innovations are scalable and adaptable, often expanding across many of our businesses. We believe collaboration across our diverse, resilient portfolio drives breakthroughs in technology, supply chain, materials integration and manufacturing across markets. The Company generated approximately 20% of its net sales in both 2025 and 2024, and 19% in 2023, from sales to the United States (U.S.) government, a substantial majority of which were under multi-year contracts and programs in the defense vehicle market. See Note 24 of the Notes to Consolidated Financial Statements for financial information related to the Company's reportable segments. The Access segment designs and manufactures access and material handling equipment for use in a wide range of construction, industrial, agricultural, vegetation management and maintenance applications to safely position workers and materials at height under industry-leading brands, JLG and SkyTrak. The Access segment's customer base includes equipment rental companies, construction contractors and home improvement centers. The Access segment also includes Jerr-Dan towing and recovery vehicles (such as wreckers, rotators and carriers). The Vocational segment includes the Pierce, Maxi-Metal, Oshkosh AeroTech, Oshkosh Airport Products, McNeilus, IMT, Oshkosh S-Series and Frontline Communications businesses. The Pierce and Maxi-Metal businesses design and manufacture commercial and custom fire apparatus. Oshkosh AeroTech designs and manufactures airport ground support equipment (GSE) and gate equipment, and provides baggage, airport facility and operations, and equipment-monitoring technology services. Oshkosh Airport Products designs and manufactures aircraft rescue and firefighting (ARFF) vehicles. McNeilus designs and manufactures refuse and recycling collection vehicles and components. The segment also includes IMT-branded field service vehicles and truck-mounted cranes, Oshkosh S-Series front-discharge concrete mixer vehicles and Frontline Communications-branded simulators and command vehicles. Vocational segment sales are made primarily to municipal and commercial customers in North America. Under the Oshkosh Defense brand, the Transport segment designs, manufactures and sustains best-in-class specialty vehicles and mobility systems for the U.S. Department of Defense (DoD) and approved foreign customers. This segment also designs and manufactures the Next Generation Delivery Vehicle (NGDV) for the U.S. Postal Service (USPS) under a contract that was awarded in February 2021. The contract allows for the delivery of up to 165,000 vehicles over a 10-year period. Significant Transport segment contracts as of December 31, 2025 include: 
+Contract 
+Customer 
+Order Period 
+Delivery Period for Current Orders 
+Family of Heavy Tactical Vehicles (FHTV) 
+DoD 
+2015 - 2029 
+2026 - 2027 
+Family of Medium Tactical Vehicles (FMTV) 
+DoD 
+2018 - 2028 
+2026 - 2028 
+Medium Caliber Weapons System (MCWS) 
+DoD 
+2021 - 2027 
+2026 - 2027 
+NGDV 
+USPS 
+2021 - 2031 
+2026 - 2028 
+1 
+The Company has a disciplined capital allocation strategy that focuses on reinvesting in its core businesses, delivering returns to shareholders through dividends and share repurchases and pursuing growth through strategic acquisitions. The Company's acquisition and investment strategy continues to include expanding into new categories and enhancing critical technological and lifecycle management capabilities. For example, the Company has completed the following strategic acquisitions and divestitures over the past three years: In September 2024, the Company acquired AUSA, a privately held Spanish manufacturer of wheeled dumpers, rough terrain forklifts and telehandlers, for $114.5 million. In August 2023, the Company acquired AeroTech from JBT Corporation for $804.6 million. In July 2023, the Transport segment sold its snow removal apparatus business for $17.1 million. In March 2023, the Vocational segment sold its rear-discharge concrete mixer business for $32.9 million. In January 2023, the Company acquired Hinowa, an Italian manufacturer of compact crawler booms and tracked equipment, for $186.8 million. Business Strategy The Company's business strategy is grounded in the Company's purpose of making a difference for those who build, serve and protect communities around the world. This strategy is reflected in three simple words: Innovate. Serve. Advance. Innovate . Develop safe, intuitive and productive solutions to real-world challenges through advanced technology and proven expertise in intelligent, connected products; electrification; autonomy and active safety. Serve . Deliver solutions that support the installed base, promote uptime and create value across every stage of ownership, including tools enhancing fleet intelligence; deep customer relationships; fleet uptime, productivity and safety enhancements; on-demand parts fulfillment and continuous product advancement. Advance . Expand our leading portfolio to adjacent products, verticals and geographies through pursuit of category expansion, lifecycle categories, adjacent markets, purpose-built vehicles and equipment and technology. Competitive Strengths The following competitive strengths support the Company s business strategy: Powerful Brands and Product Portfolios. The Company believes its broad product portfolios and diverse end markets serve to diversify its sources of revenue, reduce exposure to economic cycles and provide multiple avenues for both organic and inorganic growth. The Company believes its product portfolios unlock significant potential to share innovation and technology within and ac
+
+## GEOGRAPHIC REVENUE
+urrently manufacturing the same types of purpose-built vehicles and equipment as the Company and are therefore only estimates. Unless otherwise noted, these market positions are based on sales in the United States of America. There can be no assurance that the Company will maintain such market positions in the future. 
+Cautionary Statement About Forward-Looking Statements The Company believes that certain statements in Business and Management s Discussion and Analysis of Financial Condition and Results of Operations and other statements located elsewhere in this Annual Report on Form 10-K are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact included in this report, including, without limitation, statements regarding the Company s future financial position, business strategy, targets, projected sales, costs, earnings, capital expenditures, debt levels and cash flows, and plans and objectives of management for future operations, including those under the caption 2026 Outlook in Management s Discussion and Analysis of Financial Condition and Results of Operations, are forward-looking statements. When used in this Annual Report on Form 10-K, words such as may, will, expect, intend, estimate, anticipate, believe, should, project, confident or plan or the negative thereof or variations thereon or similar terminology are generally intended to identify forward-looking statements. These forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties, assumptions and other factors, some of which are beyond the Company s control, which could cause actual results to differ materially from those expressed or implied by such forward-looking statements. These factors include the cyclical nature of the Company s access equipment, fire apparatus, refuse and recycling collection and air transportation equipment markets, which are particularly impacted by the strength of U.S. and European economies and construction outlooks; the Company s estimates of access equipment demand which, among other factors, is influenced by historical
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customers, channels or geographic regions. JLG s international sales force is spread among international sales and service offices throughout the world. The Company markets its Jerr-Dan-branded carriers, wreckers and rotators through its extensive network of independent distributors. Vocational segment. The Company believes the geographic breadth, size and quality of its Pierce fire apparatus dealer network are competitive advantages in a market characterized by a few large manufacturers and numerous small, regional competitors. Pierce s fire apparatus are sold through an extensive network of independent dealers with hundreds of sales representatives in the U.S. and Canada, which combine broad geographical reach with high frequency of contact with fire departments and municipal government officials. These dealers are supported by product and marketing support professionals and contract administrators at Pierce. The Company believes high frequency of contact, ability to customize products and local presence are important to cultivate major, and typically infrequent, purchases. After a sale, Pierce s nationwide local parts and service capability is available to help municipalities maintain peak readiness for this vital municipal service. Pierce also sells fire apparatus to international municipal and industrial fire departments through a network of international dealers. The Company markets its Maxi-Metal vehicles through a combination of direct sales representatives and a network of dealers in Canada. Some of these representatives and dealers also sell Pierce products. Oshkosh AeroTech sales are conducted through a team of direct sales personnel strategically located across the globe and through an extensive network of sales agents. The Company markets its Oshkosh-branded ARFF vehicles through a combination of direct sales representatives and dealerships domestically and an extensive network of representatives and distributors in international markets. Some of
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,225 @@
+# RANGE RES CORP — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 315852
+# SIC: Crude Petroleum & Natural Gas
+# Source: https://www.sec.gov/Archives/edgar/data/315852/000119312526067292/rrc-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1A. 
+Risk Factors 
+16 
+ITEM 1B. 
+Unresolved Staff Comments 
+28 
+ITEM 1C. 
+Cybersecurity 
+28 
+ITEM 3. 
+Legal Proceedings 
+29 
+ITEM 4. 
+Mine Safety Disclosures 
+29 
+PART II 
+ITEM 5. 
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+30 
+Market for Common Stock 
+30 
+Holders of Record 
+30 
+Dividends 
+30 
+Equity Compensation Plan Information 
+30 
+Purchases of Equity Securities by Issuer and Affiliated Purchasers 
+30 
+Stockholder Return Performance Presentation 
+31 
+i 
+TABLE OF CONTENTS (continued) 
+Page 
+ITEM 6. 
+[Reserved] 
+31 
+ITEM 7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+32 
+Management's Discussion and Analysis of Results of Operations 
+33 
+Management's Discussion and Analysis of Financial Condition, Cash Flows, Capital Resources and Liquidity 
+40 
+Management's Discussion of Critical Accounting Estimates 
+44 
+ITEM 7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+46 
+Commodity Price Risk 
+46 
+Derivative Instruments 
+46 
+Other Commodity Risk 
+47 
+Commodity Sensitivity Analysis 
+47 
+Counterparty Risk 
+47 
+Interest Rate Risk 
+47 
+ITEM 8. 
+Financial Statements and Supplementary Data 
+F- 1 
+ITEM 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+49 
+ITEM 9A. 
+Controls and Procedures 
+49 
+ITEM 9B. 
+Other Information 
+49 
+ITEM 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+49 
+PART III 
+ITEM 10. 
+Directors, Executive Officers and Corporate Governance 
+50 
+ITEM 11. 
+Executive Compensation 
+50 
+ITEM 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+50 
+ITEM 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+50 
+ITEM 14. 
+Principal Accountant Fees and Services 
+50 
+PART IV 
+ITEM 15. 
+Exhibits and Financial Statement Schedules 
+51 
+SIGNATURES 
+53 
+ii 
+GLOSSARY OF CERTAIN DEFINED TERM S The terms defined in this glossary are used in this report. bbl. One stock tank barrel, or 42 U.S. gallons liquid volumes, used herein in reference to crude oil or other liquid hydrocarbons. bcf . One billion cubic feet of gas. bcfe. One billion cubic feet of natural gas equivalents, based on a ratio of 6 mcf for each barrel of oil or NGLs, which reflects relative energy content. btu. One British thermal unit, an energy equivalence measure. A British thermal unit is the heat required to raise the temperature of one pound of water from 58.5 to 59.5 degrees Fahrenheit. Development well. A well drilled within the proved area of an oil or natural gas reservoir to the depth of a stratigraphic horizon known to be productive. Developed Oil and Gas Reserves. Oil and natural gas reserves of any category that can be expected to be recovered through existing wells with existing equipment and operating methods or in which the cost of the required equipment is relatively minor compared to the cost of a new well and through installed extraction equipment and infrastructure operational at the time of the reserves estimate if the extraction is by means not involving a well. Dry hole. A well found to be incapable of producing oil or natural gas in sufficient economic quantities. Exploratory well. A well drilled to find a new field or to find a new reservoir in a field previously found to be productive of oil or natural gas in another reservoir. Generally, an exploratory well is any well that is not a development well, an extension well, a service well, or a stratigraphic test well. Extension well. An extension well is a well drilled to extend the limits of a known reservoir. Gross acres or gross wells. The total acres or wells, as the case may be, in which a working interest is owned. Henry Hub price . A natural gas benchmark price quoted at settlement date average. mbbl. One thousand barrels of oil or other liquid hydrocarbons. mcf. One thousand cubic feet of gas. mcf per day. One thousand cubic feet of gas per day. mcfe. One thousand cubic feet of natural gas equivalents, based on a ratio of 6 mcf for each barrel of oil or NGLs, which reflects relative energy content. mmbbl. One million barrels of oil or other liquid hydrocarbons. mmbtu. One million British thermal units. mmcf. One million cubic feet of gas. mmcfe. One million cubic feet of gas equivalents. NGLs. Natural gas liquids, which are naturally occurring substances found in natural gas, including ethane, butane, isobutane, propane and natural gasoline that can be collectively removed from produced natural gas, separated into these substances and sold. Net acres or Net wells. The sum of the fractional working interests owned in gross acres or gross wells. NYMEX. New York Mercantile Exchange. Performance Share Unit (PSU) . An equity-based compensation award that vests based upon the achievement of performance conditions. Present Value (PV). The present value of future net cash flows, using a 10% discount rate, from estimated proved reserves, using constant prices and costs in effect on the date of the report (unless such prices or costs are subject to change pursuant to contractual provisions). The after-tax present value is the Standardized Measure. 
+iii 
+Productive well. A well that is producing oil or gas or that is capable of production. Proved developed non-producing reserves. Reserves that consist of (i) proved reserves from wells which have been completed and tested but are not producing due to lack of market or minor completion problems which are expected to be corrected and (ii) proved reserves currently behind the pipe in existing wells and which are expected to be productive due to both the well log characteristics and analogous production in the immediate vicinity of the wells. Proved developed reserves. Proved reserves that can be expected to be recovered (i) through existing wells with existing equipment and operating methods or in which the cost of the required equipment is relatively minor compared to the cost of a new well and (ii) through installed extracting equipment and infrastructure operational at the time of the reserve estimate if the extraction is by means not involving a well. Proved reserves. The quantities of crude oil, natural gas and NGLs, which by analysis of geological and engineering data, can estimate with reasonable certainty to be economically producible from a given date forward, from known reservoirs under existing economic conditions, operating methods and government regulations prior to the time at which contracts providing the right to operate expire, unless evidence indicates that renewal is reasonably certain, regardless of whether deterministic or probabilistic methods are used for the estimation. The project to extract the hydrocarbons must have commenced or the operator must be reasonably certain that it will commence the project within a reasonable time. Proved undeveloped reserves. Proved reserves that are expected to be recovered from new wells on undrilled acreage, or from existing wells where a relatively major expenditure is required for recompletion. Recompletion. The completion for production of an existing well bore in another formation from that in which the well has been previously completed. Reserve life index. Proved reserves at a point in time divided by the then production rate (annually or quarterly). Reserves . Estimated remaining quantities of oil and gas and related substances anticipated to be economically producible, as of a given date, by application of development projects to known accumulations. In addition, there must exist, or there must be a reasonable expectation that there will exist, the legal right to produce or a revenue interest in the production, installed means of delivering oil and gas or related substances to market, and all permits and financing required to implement the project. Royalty acreage. Acreage represented by a fee mineral or royalty interest which entitles the owner to receive free and clear of all production costs a specified portion of the oil and gas produced or a specified portion of the value of such production. Royalty interest. An interest in an oil and gas property entitling the owner to a share of oil and natural gas production free of costs of production. Standardized Measure. The present value, discounted at 10%, of future net cash flows from estimated proved reserves after income taxes, calculated holding prices and costs constant at amounts in effect on the date of the report (unless such prices or costs are subject to change pursuant to contractual provisions) and otherwise in accordance with the SEC's rules for inclusion of oil and gas reserve information in financial statements filed with the SEC. Stratigraphic test well. A stratigraphic test well is a drilling effort, geologically directed, to obtain information pertaining to a specific geologic condition. Such wells customarily are drilled without the intent of being completed for hydrocarbon production. The classification also includes tests identified as core tests and all types of expendable holes related to hydrocarbon exploration. Stratigraphic tests are classified as exploratory type if not drilled in a known area or development type if drilled in a known area. tcfe. One trillion cubic feet of natural gas equivalents, with one barrel of NGLs or oil being equivalent to 6,000 cubic feet of natural gas. Unconventional play. A term used in the oil and gas industry to refer to a play in which the targeted reservoirs generally fall into one of three categories: (1) tight sands, (2) coal beds or (3) shales. The reservoirs tend to cover large areas and lack the readily apparent traps, seals and discrete hydrocarbon-water boundaries that typically define conventional reservoirs. These reservoirs generally require fracture stimulation or other special recovery processes in order to achieve economic flow rates. Undeveloped Oil and Gas Reserves . Oil and natural gas reser
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+16 
+ITEM 1B. 
+Unresolved Staff Comments 
+28 
+ITEM 1C. 
+Cybersecurity 
+28 
+ITEM 3. 
+Legal Proceedings 
+29 
+ITEM 4. 
+Mine Safety Disclosures 
+29 
+PART II 
+ITEM 5. 
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+30 
+Market for Common Stock 
+30 
+Holders of Record 
+30 
+Dividends 
+30 
+Equity Compensation Plan Information 
+30 
+Purchases of Equity Securities by Issuer and Affiliated Purchasers 
+30 
+Stockholder Return Performance Presentation 
+31 
+i 
+TABLE OF CONTENTS (continued) 
+Page 
+ITEM 6. 
+[Reserved] 
+31 
+ITEM 7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+32 
+Management's Discussion and Analysis of Results of Operations 
+33 
+Management's Discussion and Analysis of Financial Condition, Cash Flows, Capital Resources and Liquidity 
+40 
+Management's Discussion of Critical Accounting Estimates 
+44 
+ITEM 7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+46 
+Commodity Price Risk 
+46 
+Derivative Instruments 
+46 
+Other Commodity Risk 
+47 
+Commodity Sensitivity Analysis 
+47 
+Counterparty Risk 
+47 
+Interest Rate Risk 
+47 
+ITEM 8. 
+Financial Statements and Supplementary Data 
+F- 1 
+ITEM 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+49 
+ITEM 9A. 
+Controls and Procedures 
+49 
+ITEM 9B. 
+Other Information 
+49 
+ITEM 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+49 
+PART III 
+ITEM 10. 
+Directors, Executive Officers and Corporate Governance 
+50 
+ITEM 11. 
+Executive Compensation 
+50 
+ITEM 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+50 
+ITEM 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+50 
+ITEM 14. 
+Principal Accountant Fees and Services 
+50 
+PART IV 
+ITEM 15. 
+Exhibits and Financial Statement Schedules 
+51 
+SIGNATURES 
+53 
+ii 
+GLOSSARY OF CERTAIN DEFINED TERM S The terms defined in this glossary are used in this report. bbl. One stock tank barrel, or 42 U.S. gallons liquid volumes, used herein in reference to crude oil or other liquid hydrocarbons. bcf . One billion cubic feet of gas. bcfe. One billion cubic feet of natural gas equivalents, based on a ratio of 6 mcf for each barrel of oil or NGLs, which reflects relative energy content. btu. One British thermal unit, an energy equivalence measure. A British thermal unit is the heat required to raise the temperature of one pound of water from 58.5 to 59.5 degrees Fahrenheit. Development well. A well drilled within the proved area of an oil or natural gas reservoir to the depth of a stratigraphic horizon known to be productive. Developed Oil and Gas Reserves. Oil and natural gas reserves of any category that can be expected to be recovered through existing wells with existing equipment and operating methods or in which the cost of the required equipment is relatively minor compared to the cost of a new well and through installed extraction equipment and infrastructure operational at the time of the reserves estimate if the extraction is by means not involving a well. Dry hole. A well found to be incapable of producing oil or natural gas in sufficient economic quantities. Exploratory well. A well drilled to find a new field or to find a new reservoir in a field previously found to be productive of oil or natural gas in another reservoir. Generally, an exploratory well is any well that is not a development well, an extension well, a service well, or a stratigraphic test well. Extension well. An extension well is a well drilled to extend the limits of a known reservoir. Gross acres or gross wells. The total acres or wells, as the case may be, in which a working interest is owned. Henry Hub price . A natural gas benchmark price quoted at settlement date average. mbbl. One thousand barrels of oil or other liquid hydrocarbons. mcf. One thousand cubic feet of gas. mcf per day. One thousand cubic feet of gas per day. mcfe. One thousand cubic feet of natural gas equivalents, based on a ratio of 6 mcf for each barrel of oil or NGLs, which reflects relative energy content. mmbbl. One million barrels of oil or other liquid hydrocarbons. mmbtu. One million British thermal units. mmcf. One million cubic feet of gas. mmcfe. One million cubic feet of gas equivalents. NGLs. Natural gas liquids, which are naturally occurring substances found in natural gas, including ethane, butane, isobutane, propane and natural gasoline that can be collectively removed from produced natural gas, separated into these substances and sold. Net acres or Net wells. The sum of the fractional working interests owned in gross acres or gross wells. NYMEX. New York Mercantile Exchange. Performance Share Unit (PSU) . An equity-based compensation award that vests based upon the achievement of performance conditions. Present Value (PV). The present value of future net cash flows, using a 10% discount rate, from estimated proved reserves, using constant prices and costs in effect on the date of the report (unless such prices or costs are subject to change pursuant to contractual provisions). The after-tax present value is the Standardized Measure. 
+iii 
+Productive well. A well that is producing oil or gas or that is capable of production. Proved developed non-producing reserves. Reserves that consist of (i) proved reserves from wells which have been completed and tested but are not producing due to lack of market or minor completion problems which are expected to be corrected and (ii) proved reserves currently behind the pipe in existing wells and which are expected to be productive due to both the well log characteristics and analogous production in the immediate vicinity of the wells. Proved developed reserves. Proved reserves that can be expected to be recovered (i) through existing wells with existing equipment and operating methods or in which the cost of the required equipment is relatively minor compared to the cost of a new well and (ii) through installed extracting equipment and infrastructure operational at the time of the reserve estimate if the extraction is by means not involving a well. Proved reserves. The quantities of crude oil, natural gas and NGLs, which by analysis of geological and engineering data, can estimate with reasonable certainty to be economically producible from a given date forward, from known reservoirs under existing economic conditions, operating methods and government regulations prior to the time at which contracts providing the right to operate expire, unless evidence indicates that renewal is reasonably certain, regardless of whether deterministic or probabilistic methods are used for the estimation. The project to extract the hydrocarbons must have commenced or the operator must be reasonably certain that it will commence the project within a reasonable time. Proved undeveloped reserves. Proved reserves that are expected to be recovered from new wells on undrilled acreage, or from existing wells where a relatively major expenditure is required for recompletion. Recompletion. The completion for production of an existing well bore in another formation from that in which the well has been previously completed. Reserve life index. Proved reserves at a point in time divided by the then production rate (annually or quarterly). Reserves . Estimated remaining quantities of oil and gas and related substances anticipated to be economically producible, as of a given date, by application of development projects to known accumulations. In addition, there must exist, or there must be a reasonable expectation that there will exist, the legal right to produce or a revenue interest in the production, installed means of delivering oil and gas or related substances to market, and all permits and financing required to implement the project. Royalty acreage. Acreage represented by a fee mineral or royalty interest which entitles the owner to receive free and clear of all production costs a specified portion of the oil and gas produced or a specified portion of the value of such production. Royalty interest. An interest in an oil and gas property entitling the owner to a share of oil and natural gas production free of costs of production. Standardized Measure. The present value, discounted at 10%, of future net cash flows from estimated proved reserves after income taxes, calculated holding prices and costs constant at amounts in effect on the date of the report (unless such prices or costs are subject to change pursuant to contractual provisions) and otherwise in accordance with the SEC's rules for inclusion of oil and gas reserve information in financial statements filed with the SEC. Stratigraphic test well. A stratigraphic test well is a drilling effort, geologically directed, to obtain information pertaining to a specific geologic condition. Such wells customarily are drilled without the intent of being completed for hydrocarbon production. The classification also includes tests identified as core tests and all types of expendable holes related to hydrocarbon exploration. Stratigraphic tests are classified as exploratory type if not drilled in a known area or development type if drilled in a known area. tcfe. One trillion cubic feet of natural gas equivalents, with one barrel of NGLs or oil being equivalent to 6,000 cubic feet of natural gas. Unconventional play. A term used in the oil and gas industry to refer to a play in which the targeted reservoirs generally fall into one of three categories: (1) tight sands, (2) coal beds or (3) shales. The reservoirs tend to cover large areas and lack the readily apparent traps, seals and discrete hydrocarbon-water boundaries that typically define conventional reservoirs. These reservoirs generally require fracture stimulation or other special recovery processes in order to achieve economic flow rates. Undeveloped Oil and Gas Reserves . Oil and natural gas reserves of any category that are expected to be recovered from new wells on undrilled acreage or from existing wells where a relatively major expenditure is required for recompletion. Unproved properties. Properties with no proved reserves. Working interest. The operating interest that gives the owner the right to drill, produce and conduct operating activities on the property and a share of production, subject to all royalties, overriding royalties and other burdens, and to all costs of exploration, development and operations, and all risks in connection therewith. 
+iv 
+Disclosures Regarding Forward-Looking Statements This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended ("Securities Act") and Section 21E of the Securities Exchange Act of 1934, as amended ("Exchange Act"). These are statements, other than statements of historical fact, that give current expectations or forecasts of future events, including without limitation, operational and financial strategies: drilling plans; planned wells; rig count; our 2026 capital budget; reserve estimates; financial flexibility; expectations regarding future economic and market conditions and their effects on us; our financial and operational outlook and ability to fulfill that outlook; our financial position, balance sheet, liquidity and capital resources and the benefits thereof. These statements typically contain words such as "anticipates," "believes," "estimates," "expects," "intend," "may," "outlook," "plans," "projects," "targets," "should," "would" or similar words, indicating that future outcomes are uncertain. Such forward-looking statements are intended to be subject to the safe harbor protections provided by the federal securities law. While we believe our assumptions concerning future events are reasonable, these expectations may not prove to be correct. A number of factors could cause results to differ materially from those indicated by such forward looking statements including, but not limited to: conditions in the oil and gas industry, including supply and demand levels for natural gas, natural gas liquids ("NGLs") and oil and the resulting impact on price; the availability and volatility of securities, capital or credit markets and the cost of capital to fund our operation and business strategy; accuracy and fluctuations in our reserves estimates due to regulations, reservoir performance or sustained low commodity prices; lack of, or disruption in, processing facilities and access to pipelines or other transportation methods; ability to develop existing reserves or add new reserves; drilling and operating risks; well production timing; changes in the regulatory climate, either nationally or in our key operating market, that result in difficulty obtaining necessary approvals and permits; changes in geopolitical or economic conditions, including changes in interest rates and inflation rates, both domestically and internationally and more specifically in our key operating market; prices and availability of goods and services, including drilling rigs, completions equipment, materials, labor and third-party infrastructure; unforeseen hazards such as weather conditions, health pandemics, acts of war or terrorist acts; security threats, including cybersecurity threats and disruptions to our business and operations from breaches of our information technology systems or breaches of the information technology systems, facilities and infrastructure of third parties with which we transact business; changes in safety, health, environmental, tax and other regulations or requirements or initiatives including those addressing the impact of global climate change, air emissions, waste or water management; the availability, cost, terms and competition for mineral leases and surface use agreements; other geological, operating and economic considerations; risks related to our derivative activities; non-performance by third parties of their contractual obligations; or other factors discussed in Items 1 and 2. Business and Properties, Item 1A. Risk Factors, Item 7. Management Discussion and Analysis of Financial Condition and Results of Operations, Item 7A. Quantitative and Qualitative Disclosures about Market Risk and elsewhere in this report. All forward-looking statements included in this report are based on information available to us on the date of this report. Except as required by law, we undertake no obligation to publicly update or revise any forward-looking statements after the date they are made, whether as a result of new information, future events or otherwise. All subsequent written and oral forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the cautionary statements contained throughout this report. 
+v 
+PART I ITEMS 1 AND 2. BUSIN ESS AND PROPERTIES General Range Resources Corporation ("Range"), a Delaware corp
+
+## GEOGRAPHIC REVENUE
+2025-12-31 0000315852 rrc:CollarsMember rrc:TwoThousandTwentyEightCommodityContractMember rrc:NaturalsGasMember 2025-12-31 0000315852 rrc:TimeBasedLiabilityAwardsMember 2025-12-31 0000315852 us-gaap:DomesticCountryMember 2025-12-31 0000315852 us-gaap:BaseRateMember rrc:BankCreditFacilityMember 2025-01-01 2025-12-31 0000315852 rrc:CapacityReleasesOnTransportationPipelinesMember stpr:PA 2020-04-01 2020-06-30 0000315852 rrc:DirectOperatingExpenseMember 2025-01-01 2025-12-31 0000315852 rrc:DueTwentyTwentyNineMember rrc:EthaneAndPropaneMember 2025-01-01 2025-12-31 0000315852 us-gaap:CarryingReportedAmountFairValueDisclosureMember rrc:FourPointEightSevenFivePercentSeniorNotesDueTwoThousandTwentyFiveMember 2024-12-31 0000315852 us-gaap:StateAndLocalJurisdictionMember 2025-12-31 0000315852 srt:NaturalGasReservesMember rrc:NaturalGasNaturalGasLiquidsAndOilSalesMember 2024-01-01 2024-12-31 0000315852 rrc:TwoThousandTwentySevenCommodityContractMember us-gaap:SwapMember rrc:NaturalsGasMember 2025-12-31 0000315852 rrc:InternalMetricAwardsMember 2025-01-01 2025-12-31 0000315852 rrc:CustomerAMember us-gaap:RevenueFromContractWithCustomerMember us-gaap:CustomerConcentrationRiskMember 2025-01-01 2025-12-31 0000315852 rrc:TimeBasedEquityAwardsMember 2023-12-31 0000315852 us-gaap:CarryingReportedAmountFairValueDisclosureMember rrc:FourPointEightSevenFivePercentSeniorNotesDueTwoThousandTwentyFiveMember 2025-12-31 0000315852 rrc:PerformanceBasedStockAwardsMember 2023-12-31 0000315852 rrc:OtherTransportationAndFieldAssetsMember srt:MinimumMember 2025-12-31 0000315852 srt:NaturalGasLiquidsReservesMember 2025-12-31 0000315852 rrc:NorthLouisianaContractReleaseMember 2024-01-01 2024-12-31 0000315852 rrc:NaturalGasDeliveryCommitmentsMember rrc:DueTwentyThirtyTwoToTwentyThirtySevenMember 2025-01-01 2025-12-31 0000315852 rrc:NaturalGasDeliveryCommitmentsMember rrc:DueTwentyThirtyOneMember 2025-01-01 2025-12-31 0000315852 2024-01-01 2024-12-31 0000315852 us-gaap:AdditionalPaidInCapitalMember 2022-12-31 0000315852 us-gaap:RevenueFromContractWithCustomerMember rrc:CustomerBMember us-gaap:CustomerConcentrationRiskMember 2024-01-01 2024-12-31 0000315852 rrc:NaturalGasDeliveryCommitmentsMember r
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

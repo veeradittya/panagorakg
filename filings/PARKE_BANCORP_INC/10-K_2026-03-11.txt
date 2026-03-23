@@ -1,0 +1,155 @@
+# PARKE BANCORP INC — 10-K Annual Report
+# Filed: 2026-03-11
+# CIK: 1315399
+# SIC: State Commercial Banks
+# Source: https://www.sec.gov/Archives/edgar/data/1315399/000143774926007748/pkbk20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+20 
+Item 1B. 
+Unresolved Staff Comments 
+20 
+Item 1C. 
+Cybersecurity 
+20 
+Item 2. 
+Properties 
+21 
+Item 3. 
+Legal Proceedings 
+22 
+Item 4. 
+Mine Safety Disclosures 
+22 
+PART II 
+Item 5. 
+Market for Common Equity, Related stockholder Matters and Issuer Purchases of Equity Securities 
+22 
+Item 6. 
+[Reserved] 
+23 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+23 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+33 
+Item 8. 
+Financial Statements and Supplementary Data 
+34 
+Item 9. 
+Changes and Disagreements with Accountants on Accounting and Financial Disclosure 
+76 
+Item 9A. 
+Controls and Procedures 
+76 
+Item 9B. 
+Other Information 
+77 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+77 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+77 
+Item 11. 
+Executive Compensation 
+77 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+77 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+78 
+Item 14. 
+Principal Accountant Fees and Services 
+78 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+79 
+Item 16. 
+Form 10-K Summary 
+80 
+Signatures 
+81 
+Table of Contents 
+Forward-Looking Statements 
+Parke Bancorp, Inc. (the Company ) may from time to time make written or oral forward-looking statements, including statements contained in the Company s filings with the Securities and Exchange Commission (including this Annual Report on Form 10-K and the exhibits hereto), in its reports to shareholders and in other communications by the Company, which are made in good faith by the Company pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. 
+As used in this Annual Report on Form 10-K, the terms "Parke Bancorp", "the Company", "registrant", "we", "us", and "our" mean Parke Bancorp, Inc. and its subsidiaries, on a consolidated basis, unless the context indicates otherwise. 
+This Annual Report on Form 10-K contains forward-looking statements, which can be identified by the use of words such as estimate, project, believe, intend, anticipate, plan, seek, expect and words of similar meaning. These forward-looking statements include, but are not limited to: 
+statements of our goals, intentions and expectations; 
+statements regarding our business plans, prospects, growth and operating strategies; 
+statements regarding the quality of our loan and investment portfolios; and 
+estimates of our risks and future costs and benefits. 
+These forward-looking statements are based on current beliefs and expectations of our management and are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control. In addition, these forward-looking statements are subject to assumptions with respect to future business strategies and decisions that are subject to change. We are under no duty to and do not take any obligation to update any forward-looking statements after the date of the Annual Report on Form 10-K. 
+The following factors, among others, could cause actual results to differ materially from the anticipated results or other expectations expressed in the forward-looking statements: 
+general economic conditions, either nationally or in our market areas, that are worse than expected; 
+the strength of the United States economy in general and the strength of the local economies in which the Company conducts operations; 
+the effects of, and changes in, trade, tariff, monetary and fiscal policies and laws, including interest rate policies of the Board of Governors of the Federal Reserve System (the "Federal Reserve"), inflation, interest rate, market and monetary fluctuations; 
+the potential adverse effects of the Consent Orders and any additional regulatory restrictions that may be imposed by banking regulators; 
+changes in the level and direction of loan delinquencies and write-offs and changes in estimates of the adequacy of the allowance for credit losses; 
+our ability to access cost-effective funding; 
+fluctuations in real estate values and both residential and commercial real estate market conditions; 
+demand for loans and deposits in our market area; 
+our ability to implement changes in our business strategies; 
+competition among depository and other financial institutions; 
+inflation and changes in the interest rate environment that reduce our margins and yields, or reduce the fair value of financial instruments or reduce the origination levels in our lending business, or increase the level of defaults, losses and prepayments on loans we have made and make whether held in portfolio or sold in the secondary markets 
+adverse changes in the securities markets; 
+changes in laws or government regulations or policies affecting financial institutions, including changes in regulatory fees and capital requirements; 
+changes in laws or government regulations or policies affecting financial institutions engaged in the cannabis related business; 
+our ability to manage market risk, credit risk and operational risk in the current economic conditions; 
+our ability to enter new markets successfully and capitalize on growth opportunities; 
+our ability to successfully integrate any assets, liabilities, customers, systems and management personnel we have acquired or may acquire into our operations and our ability to realize related revenue synergies and cost savings within expected time frames and any goodwill charges related thereto; 
+changes in consumer demand, borrowing and savings habits; 
+changes in accounting policies and practices, as may be adopted by bank regulatory agencies, the Financial Accounting Standards Board, the Securities and Exchange Commission or the Public Company Accounting Oversight Board; 
+our ability to retain key employees; 
+technological changes; 
+significant increases in our loan losses; 
+cyber- attacks, computer viruses and other technological risks that may breach the security of our websites or other systems to obtain unauthorized access to confidential information and destroy data or disable our systems; 
+technological changes that may be more difficult or expensive than expected; 
+2
+Table of Contents 
+the ability of third-party providers to perform their obligations to us; 
+the ability of the U.S. Government to manage federal debt limits; 
+changes in the financial condition, results of operations or future prospects of issuers of securities that we own; and 
+other economic, competitive, governmental, regulatory and operational factors affecting our operations, pricing products and services described elsewhere in this Annual Report on Form 10-K. 
+Because of these and other uncertainties, our actual future results may be materially different from the results indicated by these forward-looking statements. The Company cautions that the listed factors are not exclusive. The Company does not undertake to update any forward-looking statement, whether written or oral, that may be made from time to time by or on behalf of the Company. 
+Part I 
+Item 1. Business. 
+General 
+We are a bank holding company incorporated under the laws of the State of New Jersey in January 2005. Our business and operations primarily consist of our ownership of Parke Bank (the "Bank"). The Bank is a full-service commercial bank and is chartered by the New Jersey Department of Banking and insured by the Federal Deposit Insurance Corporation ( FDIC ). The Bank conducts its business through offices in Gloucester, Atlantic and Camden Counties in New Jersey and the Philadelphia area in Pennsylvania. 
+We, through our wholly owned subsidiary Parke Bank, provide personal and business financial services to individuals and small to mid-sized businesses. We offer a range of loan products, deposits services, and other financial products through our retail branches and other channels to our customers. Our core lending businesses are commercial real estate lending, residential real estate lending, and construction lending. We also offer a variety of commercial and industry loan and consumer loan products to our customers. We fund our lending business primarily with deposits generated through retail deposits and commercial relationships. Our deposit products include checking, savings, money market deposit, time deposits, and other traditional deposit services. In addition to traditional products and services, we offer contemporary products and services, such as debit cards, internet banking and online bill payment. 
+We commenced operations on June 1, 2005, upon completion of the reorganization of the Bank into the holding company form of ownership following approval of the reorganization by shareholders of the Bank at its 2005 Annual Meeting of Shareholders. Our headquarters is located at 601 Delsea Drive, Washington Township, New Jersey. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports, are available free of charge at www.parkebank.com as soon as reasonably practicable after they are electronically filed with or furnished to the Securities and Exchange Commission ("SEC"). Investors are encouraged to access these reports and other information about our business on our website. 
+At December 31, 2025, we had total assets of $2.25 billion, including loans of $2.04 billion, total deposits of $1.76 billion and total equity of $324.5 million. 
+3
+Table of Contents 
+Market Area 
+Substantially all of the Bank s business is with customers in its market areas of Southern New Jersey, the Philadelphia area of Pennsylvania, and New York, New York. We have carefully expanded our lending footprint in other areas, including adding lending capabilities in South Carolina. Most of the Bank s customers are individuals and small to medium-sized businesses which are dependent upon the regional economy. Adverse changes in economic and business conditions in the Bank s markets could adversely affect the Bank s borrowers, their ability to repay their loans and to borrow additional funds, and consequently the Bank s financial condition and performance. 
+Additionally, most of the Bank s loans are secured by real estate located in Southern New Jersey and the Philadelphia area. A decline in local economic conditions could adversely affect the values of such real estate. Consequently, a decline in local economic conditions may have a greater effect on the Bank s earnings and capital than on the earnings and capital of larger financial institutions whose real estate loan portfolios are more geographically diverse. 
+Competition 
+The Bank faces significant competition, both in making loans and attracting deposits. The Bank s competition in both areas comes principally from other commercial banks, thrift and savings institutions, including savings and loan associations and credit unions, and other types of financial institutions, including brokerage firms and credit card companies. The Bank faces additional competition for deposits from short-term money market mutual funds and other corporate and government securities funds. 
+Most of the Bank s competitors, whether traditional or nontraditional financial institutions, have a longer history and significantly greater financial and marketing resources than does the Bank. Among the advantages these institutions have over the Bank are their ability to finance wide-ranging and effective advertising campaigns, to access international money markets and to allocate their investment resources to regions of highest yield and demand. Major banks operating in the primary market area offer certain services, such as international banking and trust services, which are not offered directly by the Bank. 
+In commercial transactions, the Bank s legal lending limit to a single borrower enables the Bank to compete effectively for the business of individuals and smaller enterprises. However, the Bank s legal lending limit is considerably lower than that of various competing institutions, which have substantially greater capitalization. The Bank has a relatively smaller capital base than most other competing institutions which, although above regulatory minimums, may constrain the Bank s effectiveness in competing for loans. 
+Cannabis Related Business 
+In the State of New Jersey, cannabis is legal for recreational use. Once enacted, the law legalized and regulated cannabis use and possession for adults 21 years and older. The law also clarified marijuana and cannabis use and possession penalties for individuals younger than 21 years old. Retail sales of cannabis began in New Jersey in April 2022. We provide banking services to customers that are licensed by various States to do business in the cannabis industry as growers, processors and dispensaries and who participate in retail sales of cannabis in New Jersey. Cannabis businesses are legal under the laws of these States, as well as in New Jersey, although it is not legal under federal law. The U.S. Department of the Treasury s Financial Crimes Enforcement Network ( FinCEN ) published guidelines in 2014 for financial institutions servicing state legal cannabis businesses. A financial institution that provides services to cannabis-related businesses can comply with Bank Secrecy Act ( BSA ) disclosure standards by following the FinCEN guidelines. We maintain stringent written policies and procedures related to the acceptance of such businesses and to the monitoring and maintenance of such business accounts. We conduct a significant due diligence review of the cannabis business before the business is accepted, including confirmation that the business is properly licensed by the applicable state. Throughout the relationship, we continue monitoring the business, including site visits, to ensure that the business continues to meet our stringent requirements, including maintenance of required licenses and periodic financial reviews of the business. 
+4
+Table of Contents 
+While we believe we are operating in compliance with the FinCEN guidelines, there can be no assurance that federal enforcement guidelines will not change. Federal prosecutors have significant discretion and there can be no assurance that the federal prosecutors will not choose to strictly enforce the federal laws governing cannabis. Any change in the Federal government s enforcement position, could cause us to immediately cease providing banking services to the cannabis industry. 
+At December 31, 2025 and 2024, deposit balances from cannabis customers were approximately $61.9 million and $151.9 million, or 3.5% and 9.3% of total deposits, respectively, with two customers accounting for 30.7% and 59.4% of the total at December 31, 2025 and 2024. At December 31, 2025 and 2024, the Bank had cannabis-related loans in the amounts of $47.0 million and $43.
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

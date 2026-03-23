@@ -1,0 +1,98 @@
+# NETAPP INC — 10-K Annual Report
+# Filed: 2025-06-09
+# CIK: 1002047
+# SIC: Computer Storage Devices
+# Source: https://www.sec.gov/Archives/edgar/data/1002047/000095017025083705/ntap-20250425.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1 
+Business 
+6
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+15 
+Item 1B 
+Unresolved Staff Comments 
+30 
+Item 1C 
+Cybersecurity 
+30 
+Item 2 
+Properties 
+31 
+Item 3 
+Legal Proceedings 
+31 
+Item 4 
+Mine Safety Disclosures 
+31 
+PART II 
+Item 5 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+32 
+Item 6 
+[Reserved] 
+35 
+Item 7 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+36 
+Item 7A 
+Quantitative and Qualitative Disclosures About Market Risk 
+52 
+Item 8 
+Financial Statements and Supplementary Data 
+54 
+Item 9 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+92 
+Item 9A 
+Controls and Procedures 
+92 
+Item 9B 
+Other Information 
+92 
+Item 9C 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+92 
+PART III 
+Item 10 
+Directors, Executive Officers and Corporate Governance 
+93 
+Item 11 
+Executive Compensation 
+93 
+Item 12 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+93 
+Item 13 
+Certain Relationships and Related Transactions, and Director Independence 
+93 
+Item 14 
+Principal Accountant Fees and Services 
+93 
+PART IV 
+Item 15 
+Exhibits, Financial Statement Schedules 
+93 
+Signatures 
+101 
+3 
+Cautionary Note on Forward-Looking Statements This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act). Forward-looking statements are all statements (and their underlying assumptions) included in this document that refer, directly or indirectly, to future events or outcomes and, as such, are inherently not factual, but rather reflect only our current projections for the future. Consequently, forward-looking statements usually include words such as committed, estimate, intend, plan, positions, predict, seek, strive, may, will, should, would, could, anticipate, expect, believe, or similar words, in each case, intended to refer to future events or circumstances. A non-comprehensive list of the topics including forward-looking statements in this document includes: our future financial and operating results; our strategy; our beliefs and objectives for future operations, research and development; expectations regarding future product releases, growth and performance; global political, economic and industry conditions and trends; expected timing of, customer acceptance of and benefits from, product introductions, developments and enhancements; expected benefits from acquisitions, joint ventures, growth opportunities and investments; expected outcomes from legal, regulatory and administrative proceedings; our competitive position; our short-term and long-term cash requirements, including, without limitation, anticipated capital expenditures; our anticipated tax rate; the repayment of our indebtedness; and future uses of our cash, including, without limitation, the continuation of our stock repurchase and cash dividend programs. All forward-looking statements included in this document are inherently uncertain as they are based on management s current expectations and assumptions concerning future events and are subject to numerous known and unknown risks and uncertainties. Therefore, actual events and results may differ materially from these forward-looking statements. Factors that could cause actual results to differ materially from those described herein include, but are not limited to: the overall growth, technological trends and market changes in the storage and data management solutions market; our ability to develop, introduce and gain market acceptance for new and differentiated offerings without disruption; our ability to accurately forecast demand for our products, solutions and services, and future financial performance; the actions of our competitors including, without limitation, their ability to introduce competitive technologies, products or services, and to acquire businesses and technologies that negatively impact our strategy, operations or customer demand for our products or services; our ability to maintain our gross margins; general global political, macroeconomic, social, health and market conditions; our ability to effectively plan and manage our resources and restructure our business in response to changing market conditions and market demand; our ability to anticipate trends related to the development and use of artificial intelligence (AI), including generative AI, which impacts the adoption of intelligent data infrastructure; disruptions in our supply chain, which could limit our ability to ship products to our customers in the amounts and at the prices forecasted; our ability to maintain our customer, partner, supplier, reseller, distributor and contract manufacturer relationships, including with public cloud providers, on favorable terms and conditions; 
+4 
+the impact of industry consolidation affecting our suppliers, competitors, partners and customers; our ability to anticipate techniques used to obtain unauthorized access or to sabotage systems and to implement adequate preventative measures against cybersecurity and other security breaches on our or third parties' systems, products and services; our ability to successfully recruit and retain qualified personnel and to manage our investment in people, processes and systems; our ability to effectively integrate acquired businesses, products, services and technologies; failure of our products and services to meet our customers quality requirements, including, without limitation, any epidemic failure event relating to our systems installed by our customers in their IT infrastructures; changes and uncertainty in U.S. government spending and demand for our products; changes and uncertainty in global trade controls, including tariffs and economic sanctions; our ability to resolve ongoing litigation, tax audits, government audits, inquiries and investigations in line with our expectations; our ability to comply with evolving regulatory and contractual requirements, including certifications; the availability of acceptable financing to support our future cash requirements; valuation and liquidity of our investment portfolio; foreign exchange rate impacts; interest rate and inflationary pressure impacts; our ability to achieve our goals related to sustainability and corporate responsibility matters; and those factors discussed under the heading Risk Factors elsewhere in this Annual Report on Form 10-K. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this document and are based upon information available to us at this time. These statements are not guarantees of future performance. Except as required by law, we disclaim any obligation to update information in any forward-looking statement. Actual results could vary from our forward-looking statements due to the foregoing factors as well as other important factors. 
+5 
+PA RT I Item 1. Business Overview NetApp, Inc. (NetApp, we, us, or the Company) helps customers make their data infrastructure more seamless, more dynamic, and higher performing. We were incorporated in 1992, are headquartered in San Jose, California, and provide a full range of enterprise-class software, systems and services that customers use to transform their data infrastructures across data types, workloads, and environments to realize business possibilities. We leverage over thirty years of innovation to make data infrastructure intelligent. Our unified data storage solutions deliver flexible, simplified, and silo-free infrastructure. Our active data management capabilities focus on security, compliance, and sustainability, while our adaptive operations enhance performance, efficiency, and productivity. Our extensive portfolio integrates hybrid and multi-cloud environments, addressing key customer priorities such as modernizing legacy systems, enhancing resilience against ransomware, and developing scalable, high-performance data pipelines for artificial intelligence (AI) workloads. NetApp empowers customers to harness their data for accelerated innovation, improved operations, and competitive advantage. Our unified data storage solutions provide the flexibility to consistently and easily store any data type and support any workload. As the only enterprise-grade storage service natively embedded in the world s largest clouds, we power data across Amazon AWS, Microsoft Azure, and Google Cloud. Our integrated data services enable active data management, security, protection, governance, and sustainability. Additionally, our operational services support adaptive operations across infrastructure, applications, and teams. Together with our Hybrid Cloud products, these services enable customers to construct a seamless, intelligent data infrastructure across hybrid multi-cloud environments. Together, these capabilities comprise an intelligent data infrastructure that delivers: Operational simplicity, so customers can manage complex workloads and eliminate infrastructure silos across apps, data, and clouds. Cyber resilience and security, so businesses stay up and running with built-in ransomware protection, rapid recovery, and infrastructure observability. AI innovation, embedding intelligence into data infrastructure to enable AI workloads that deliver new levels of productivity and innovation. Infrastructure savings, so on-premises and cloud infrastructure spend go further with high-efficiency data storage and automated capacity and cloud cost management. Sustainability, achieved via energy-efficient technologies, tiering, and analytics. Scalability and agility to maximize infrastructure and application extensibility and team responsiveness. Our strategy revolves around serving the world's most critical organizations by addressing their complex data management challenges in the age of data. We emphasize the importance of an intelligent data infrastructure that provides flexibility, security, and simplicity at scale. This infrastructure integrates seamlessly with hybrid cloud environments, modernizes application portfolios, and enhances security while ensuring efficiency and performance. NetApp s unified storage and data management platform, along with embedded data and operational services, enables customers to unify their data for AI, recover from malicious attacks, and achieve significant productivity gains through autonomous, self-healing capabilities. Our unique approach is built on a unified platform that combines intelligent storage and data architecture with software, AI, and APIs, creating an intelligent data fabric. This platform, exemplified by the ONTAP operating system and BlueXP control plane, provides consistent data experiences and optimized storage operations across on-premises, cloud, and edge environments. Our long history of disciplined execution and architectural excellence has positioned us as a market leader, with a strong presence in the world's leading public clouds and the ability to deliver transformative flexibility and simplicity at scale. Our market strategy targets large and growing markets, including hybrid cloud, public cloud, flash storage, block storage, and AI. We are expanding our strong position in the unstructured data market and disrupting the mature block storage market with block-optimized flash storage. Our integration with major public cloud providers like Amazon AWS, Microsoft Azure, and Google Cloud positions us to capitalize on cloud migrations and enterprise workloads. In the AI space, we leverage our expertise in unstructured data management to support the entire AI lifecycle, from data foundations to deploying hybrid cloud architectures, ensuring rapid time-to-market and responsible AI deployment. Product, Solutions and Services Portfolio 
+6 
+Our operations are organized into two segments: Hybrid Cloud and Public Cloud. Hybrid Cloud Hybrid Cloud provides a unified data storage portfolio of storage management and infrastructure solutions that helps customers modernize their data centers. By leveraging on-premises, private cloud and public cloud capabilities, we enable customers to modernize applications with a single solution that supports file, block, and object storage. We deliver a versatile data infrastructure solution suitable for all environments and workloads, including the strategic enterprise AI market. Our Hybrid Cloud portfolio accommodates both structured and unstructured data with unified storage optimized for flash, disk, and cloud storage, capable of handling data-intensive workloads and applications. Hybrid Cloud includes software, hardware, and related support, along with professional and other services. Data management software NetApp ONTAP software is our foundational technology that underpins NetApp s critical storage solutions in the on-premises data center and in private and public clouds. ONTAP includes various data management and protection features and capabilities, including automatic ransomware protection against cyber-attacks, built-in data transport features, and storage efficiency capabilities. ONTAP provides the flexibility to design and deploy a storage environment across the broadest range of architectures from on-premises to hybrid, private, and public clouds. It can be used in NAS, SAN, object, and container environments, as well as software-defined storage (SDS) situations. Data integrity, security, and business continuity are at the heart of any company s data center. With the extensive software tools and utilities delivered in ONTAP One , our all-in-one software license, customers can realize their business continuity goals with time, costs, and personnel savings. With NetApp Snapshot , customers can create and manage point-in-time file system copies with no performance impact and minimal storage consumption. This is important for continuous data protection of information in read-only, static, and immutable form. NetApp SnapCenter Backup Management software is designed to deliver high-performance backup and recovery for database and application workloads hosted on ONTAP storage. NetApp SnapMirror Data Replication software can replicate data at high speeds across environments. SnapMirror delivers robust data management capabilities for virtualization, protecting critical data while providing the flexibility to move data between locations and storage tiers, including cloud service providers. NetApp SnapLock Data Compliance software delivers high-performance disk-based data permanence for HDD and SSD deployments. ONTAP also includes industry-leading cyber resilience solutions that are designed to maximize data protection and security and increase data governance and compliance. NetApp keeps data protected and secured by aligning with the National Institute of Standards and
+
+## GEOGRAPHIC REVENUE
+ityMember 2024-04-27 2025-04-25 0001002047 2023-04-29 0001002047 us-gaap:FairValueInputsLevel2Member us-gaap:USTreasuryAndGovernmentMember us-gaap:ShortTermInvestmentsMember 2025-04-25 0001002047 srt:AmericasMember 2024-04-27 2025-04-25 0001002047 2025-05-22 0001002047 us-gaap:SeniorNotesMember ntap:DebtInstrumentRedemptionPeriodSixMember 2025-04-25 0001002047 us-gaap:OperatingSegmentsMember 2023-04-29 2024-04-26 0001002047 ntap:LenovoNetAppTechnologyLimitedMember 2025-04-25 0001002047 us-gaap:CreditConcentrationRiskMember us-gaap:AccountsReceivableMember ntap:ArrowElectronicsIncMember 2024-04-27 2025-04-25 0001002047 us-gaap:SeniorNotesMember us-gaap:DebtInstrumentRedemptionPeriodFiveMember 2025-03-31 0001002047 ntap:FiscalYearTwentyTwentyFiveMember us-gaap:StateAndLocalJurisdictionMember 2024-04-27 2025-04-25 0001002047 us-gaap:SeniorNotesMember 2024-09-30 0001002047 ntap:FiscalYearTwentyTwentyTwoMember ntap:IrelandMember 2024-04-27 2025-04-25 0001002047 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2023-04-29 2024-04-26 0001002047 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2024-04-26 0001002047 us-gaap:EquityFundsMember us-gaap:FairValueInputsLevel1Member us-gaap:OtherCurrentAssetsMember 2024-04-26 0001002047 ntap:ProfessionalAndOtherServicesMember ntap:PublicCloudSegmentMember us-gaap:OperatingSegmentsMember 2024-04-27 2025-04-25 0001002047 us-gaap:ProductMember 2022-04-30 2023-04-28 0001002047 2023-04-28 0001002047 us-gaap:SalesRevenueNetMember ntap:TechDataCorporationMember us-gaap:CustomerConcentrationRiskMember 2023-04-29 2024-04-26 0001002047 us-gaap:RetainedEarningsMember 2023-04-29 2024-04-26 0001002047 us-gaap:MoneyMarketFundsMember us-gaap:CashAndCashEquivalentsMember 2025-04-25 0001002047 us-gaap:LandMember 2024-04-26 0001002047 ntap:FinancedUnearnedServicesRevenueMember 2025-04-25 0001002047 us-gaap:RetainedEarningsMember 2024-04-27 2025-04-25 0001002047 ntap:HybridCloudSegmentMember us-gaap:OperatingSegmentsMember ntap:PublicCloudMember 2024-04-27 2025-04-25 0001002047 us-gaap:CreditConcentrationRiskMember ntap:TechDataCorporationMember us-gaap:AccountsReceivableMember 2023-04-29 2024-04-26 0001002047 us-gaap:CertificatesOfD
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Significant Customer Information of the Notes to Consolidated Financial Statements included in Part II, Item 8. 
+9 
+Seasonality We have historically experienced a sequential decline in revenues in the first quarter of our fiscal year, as the sales organization spends time developing new business after higher close rates in the fourth quarter, and because sales to European customers are typically weaker during the summer months. We derive a substantial amount of our revenue in any given quarter from customer orders booked in the same quarter. Customer orders and revenues typically follow intra-quarter seasonality patterns weighted toward the end of the quarter. If recurring services and cloud revenue continue to increase as a percentage of our total revenues, historical seasonal patterns may become less pronounced. Backlog We manufacture products based on a combination of specific order requirements and forecasts of our customers demand. Orders are generally placed by customers on an as-needed basis. A substantial portion of our products is sold on the basis of standard purchase orders that are cancelable prior to shipment without penalty. In certain circumstances, purchase orders are subject to change with respect to quantity of product or timing of delivery resulting from changes in customer requirements. Our business is characterized by seasonal and intra-quarter variability in demand, as well as short lead times and product delivery schedules. Accordingly, backlog at any given time may not be a meaningful indicator of future revenue. Manufacturing and Supply Chain We have outsourced manufacturing operations to third parties located in Fremont, California; San Jose, California; Guadalajara, Mexico; Schiphol Airport, The Netherlands; Helmond, The Netherlands; Tiszaujvaros, Hungary; Taoyuan City, Taiwan; and Singapore. These operations include materials procurement, commodity management, component engineering, test engineering, manufacturing engineering, product ass
+
+---
+Doc size: 2048KB (capped at 2MB)

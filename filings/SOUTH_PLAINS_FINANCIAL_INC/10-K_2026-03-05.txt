@@ -1,0 +1,232 @@
+# SOUTH PLAINS FINANCIAL INC — 10-K Annual Report
+# Filed: 2026-03-05
+# CIK: 1163668
+# SIC: State Commercial Banks
+# Source: https://www.sec.gov/Archives/edgar/data/1163668/000114036126008087/ef20060591_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+5
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+23 
+Item 1B. 
+Unresolved Staff Comments 
+36 
+Item 1C. 
+Cybersecurity 
+36 
+Item 2. 
+Properties 
+37 
+Item 3. 
+Legal Proceedings 
+38 
+Item 4. 
+Mine Safety Disclosures 
+38 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+38 
+Item 6. 
+[Reserved] 
+40 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+40 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+59 
+Item 8. 
+Financial Statements and Supplementary Data 
+59 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+98 
+Item 9A. 
+Controls and Procedures 
+98 
+Item 9B. 
+Other Information 
+99 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+99 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+100 
+Item 11. 
+Executive Compensation 
+100 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+100 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+100 
+Item 14. 
+Principal Accounting Fees and Services 
+100 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+101 
+Item 16. 
+Form 10-K Summary 
+103 
+SIGNATURES 
+104 
+2 
+Table of Contents 
+CAUTIONARY STATEMENT REGARDING 
+FORWARD-LOOKING STATEMENTS 
+This Annual Report on Form 10-K for the year ended December 31, 2025 ( Report ) contains statements that we believe are forward-looking statements within the meaning of Section
+27A of the Securities Act of 1933, as amended (the Securities Act ) and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). These forward-looking statements reflect our current views with respect to, among other
+things, future events and our financial performance. These statements are often, but not always, made through the use of words or phrases such as may, might, should, could, predict, potential, believe, expect, continue, will, 
+anticipate, seek, estimate, intend, plan, strive, projection, goal, target, outlook, aim, would, annualized and outlook, or the negative version of those words or other comparable words or phrases of a future or
+forward-looking nature. These forward-looking statements are not historical facts, and are based on current expectations, estimates and projections about our industry, management s beliefs and certain assumptions made by management, many of which,
+by their nature, are inherently uncertain and beyond our control. Accordingly, we caution you that any such forward-looking statements are not guarantees of future performance and are subject to risks, assumptions, estimates and uncertainties that
+are difficult to predict. Although we believe that the expectations reflected in these forward-looking statements are reasonable as of the date made, actual results may prove to be materially different from the results expressed or implied by the
+forward-looking statements. 
+There are or will be important factors that could cause our actual results to differ materially from those indicated in these forward-looking statements, including, but not
+limited to, the following: 
+risks relating to the proposed acquisition of BOH Holdings, Inc. ( BOH ) including, without limitation: the timing of consummation of the proposed transaction between South Plains and BOH; the risk that any
+condition to closing of the proposed transaction may not be satisfied or waived; the risk that the merger may not be completed at all; the diversion of management time on issues related to the proposed merger; the expected impact of the
+proposed transaction and on the combined entities operations, financial condition, and financial results; the businesses of South Plains and BOH may not be combined successfully, or such combination may take longer to accomplish than
+expected; the cost savings from the proposed transaction may not be fully realized or may take longer to realize than expected; operating costs, customer loss and business disruption following the proposed transaction, including adverse
+effects on relationships with employees, may be greater than expected; the risk of deposit and customer attrition; increased competitive pressures on solicitations of customers by competitors; regulatory approvals of the proposed
+transaction may not be obtained, or adverse conditions may be imposed in connection with regulatory approvals of the proposed transaction; and the risk that the BOH shareholders may not approve the proposed transaction; 
+risks related to the integration of any other acquired businesses, including exposure to potential asset quality and credit quality risks and unknown or contingent liabilities, risks related to entering a new
+geographic market, the time and costs associated with integrating systems, technology platforms, procedures and personnel, the ability to retain key employees and maintain relationships with significant customers, the need for additional
+capital to finance such transactions, and possible failures in realizing the anticipated benefits from acquisitions; 
+potential recession in the United States and our market areas; 
+uncertainty or perceived instability in the banking industry as a whole; 
+increased competition for deposits and related changes in deposit customer behavior; 
+the lingering inflationary pressures, and the risk of the resurgence of elevated levels of inflation, in the United States and our market areas, and its impact on market interest rates, the economy and credit
+quality; 
+business and economic conditions, particularly those affecting our market areas, as well as the concentration of our business in such market areas; 
+the impact of pandemics, epidemics, or any other health-related crisis; 
+high concentrations of loans secured by real estate located in our market areas; 
+increases in unemployment rates in the United States and our market areas; 
+risks associated with our commercial loan portfolio, including the risk for deterioration in value of the general business assets that secure such loans; 
+potential changes in the prices, values and sales volumes of commercial and residential real estate securing our real estate loans; 
+risks associated with our agricultural loan portfolio, including the heightened sensitivity to weather conditions, commodity prices, and other factors generally outside the borrowers and our control; 
+risks related to the significant amount of credit that we have extended to a limited number of borrowers and in a limited geographic area; 
+public funds deposits comprising a relatively high percentage of our deposits; 
+potential impairment on the goodwill we have recorded or may record in connection with business acquisitions; 
+our ability to maintain our reputation; 
+3 
+Table of Contents 
+our ability to successfully manage our credit risk and the sufficiency of our allowance for credit losses; 
+our ability to attract, hire and retain qualified management personnel; 
+our dependence on our management team, including our ability to retain executive officers and key employees and their customer and community relationships; 
+interest rate fluctuations, which could have an adverse effect on our profitability; 
+competition from banks, credit unions and other financial services providers; 
+our ability to keep pace with technological change or difficulties we may experience when implementing new technologies; 
+cybersecurity risk, including cyber incidents or other failures, disruptions or breaches of our operational or security systems or infrastructure, or those of our third-party vendors or other service providers,
+including as a result of a cyber attack, could impact the Company s reputation, increase regulatory oversight, and impact the financial results of the Company; 
+our ability to maintain effective internal control over financial reporting; 
+employee error, fraudulent activity by employees or customers and inaccurate or incomplete information about our customers and counterparties; 
+increased capital requirements imposed by banking regulators, which may require us to raise capital at a time when capital is not available on favorable terms or at all; 
+our ability to maintain adequate liquidity and to raise necessary capital to fund our acquisition strategy and operations or to meet increased minimum regulatory capital levels; 
+costs and effects of litigation, investigations or similar matters to which we may be subject, including any effect on our reputation; 
+severe weather, natural disasters, acts of war or terrorism, geopolitical instability, domestic civil unrest or other external events, including as a result of the impact of the policies of the
+current U.S. presidential administration or Congress; 
+uncertainty regarding United States fiscal debt, deficit and budget matters; 
+the impacts of tariffs, sanctions and other trade policies of the United States and its global trading counterparts and the resulting impact on the Company and its customers; 
+compliance with governmental and regulatory requirements, including the Dodd-Frank Act Wall Street Reform and Consumer Protection Act ( Dodd-Frank Act ), Economic Growth, Regulatory Relief, and Consumer
+Protection Act of 2018 ( EGRRCPA ), and others relating to banking, consumer protection, securities and tax matters; 
+changes in accounting principles and standards, including those related to loan loss recognition under the current expected credit loss, or CECL, methodology; 
+changes in the laws, rules, regulations, interpretations or policies that apply to the Company s business and operations, and any additional regulations, or repeals that may be forthcoming as a result thereof,
+which could cause the Company to incur additional costs and adversely affect the Company s business environment, operations and financial results; and 
+our ability to navigate the uncertain impacts of current and future governmental monetary and fiscal policies, including the current and future policies of the Board of Governors of the Federal Reserve System
+( Federal Reserve ) and as a result of initiatives of the Trump administration. 
+The foregoing factors should not be construed as exhaustive and should be read together with the other cautionary statements included in this Report and the Risk Factors set forth
+under Part I, Item IA of this Report. Because of these risks and other uncertainties, our actual future results, performance or achievements, or industry results, may be materially different from the results indicated by the forward-looking
+statements in this Report. In addition, our past results of operations are not necessarily indicative of our future results. Accordingly, you should not rely on any forward-looking statements, which represent our beliefs, assumptions and estimates
+only as of the dates on which such forward-looking statements were made. Any forward-looking statement speaks only as of the date on which it is made, and we do not undertake any obligation to update or review any forward-looking statement, whether
+as a result of new information, future developments or otherwise, except as required by law. 
+4 
+Table of Contents 
+Part I 
+Item 1. 
+Business 
+General 
+South Plains Financial, Inc. (the Company or SPFI ) is a bank holding company headquartered in Lubbock, Texas, and City Bank, SPFI s wholly-owned banking subsidiary, is one of
+the largest independent banks in West Texas ( City Bank or the Bank ). The Company is hereafter collectively referred to as we, us or our. 
+We have additional banking operations in the Dallas, El Paso, Greater Houston, the Permian Basin, and College Station, Texas markets, and the Ruidoso, New Mexico market. Through
+City Bank, we provide a wide range of commercial and consumer financial services to small and medium-sized businesses and individuals in our market areas. Our principal business activities include commercial and retail banking, along with investment,
+trust and mortgage services. 
+We had total assets of $4.48 billion, gross loans held for investment of $3.14 billion, total deposits of $3.87 billion, and total shareholders equity of $493.8 million as of
+December 31, 2025. 
+Our history dates back over 80 years. We trace our beginnings to the founding of First State Bank of Morton, a community bank headquartered in West Texas that held approximately $1
+million of total assets in 1941. In 1962, the bank was sold to new management, including J.K. Griffith, the father of our current Chairman and Chief Executive Officer, Curtis C. Griffith. Since Mr. Griffith was elected Chairman of First State Bank of
+Morton in 1984, the Bank has transformed from a small-town institution with approximately $30 million in total assets and a single branch location into one of the largest community banks in West Texas. The parent company to First State Bank of Morton
+acquired South Plains National Bank of Levelland, Texas in 1991 and changed its name to South Plains Bank. The Company became the holding company to First State Bank of Morton and South Plains Bank in 1993, the same year we acquired City Bank. City
+Bank was originally established in Lubbock in 1984. We merged First State Bank of Morton and South Plains Bank into City Bank in 1998 and 1999, respectively. We had more than $175 million in assets upon the closing of these acquisitions. We acquired
+West Texas State Bank, Odessa, Texas, with approximately $430 million in assets, in 2019 through the merger of West Texas State Bank with and into the Bank. 
+We currently operate 24 full-service banking locations across seven geographic markets resulting from six acquisitions, de novo branch establishments, and the formation of a de
+novo bank in Ruidoso, New Mexico, which we later merged into the Bank. We also operate 7 loan production offices both in our banking markets and in certain key areas in Texas that focus on mortgage loan origination. We build long-lasting
+relationships with our customers by delivering high-quality products and services and have sought to capitalize on the opportunities presented by continued consolidation in the banking industry. We believe a major contributor to our historical
+success has been our focus on becoming the community bank of choice in the markets that we serve. 
+Our common stock is listed on the Nasdaq Global Select Market under the symbol SPFI. 
+Acquisition Activities 
+On December 1, 2025, SPFI and BOH Holdings, Inc., a Texas corporation ( BOH ), entered into an Agreement and Plan of Reorganization, providing for the acquisition by
+SPFI of BOH through the merger of BOH with and into SPFI, with SPFI continuing as the surviving entity. Immediately thereafter, Bank of Houston, a Texas state banking association and wholly-owned subsidiary of
+BOH ( Bank of Houston ), will merge with and into City Bank, with City Bank continuing as the surviving entity. The proposed transaction is expected to close in the
+
+## GEOGRAPHIC REVENUE
+ps with significant customers, the need for additional
+capital to finance such transactions, and possible failures in realizing the anticipated benefits from acquisitions; 
+potential recession in the United States and our market areas; 
+uncertainty or perceived instability in the banking industry as a whole; 
+increased competition for deposits and related changes in deposit customer behavior; 
+the lingering inflationary pressures, and the risk of the resurgence of elevated levels of inflation, in the United States and our market areas, and its impact on market interest rates, the economy and credit
+quality; 
+business and economic conditions, particularly those affecting our market areas, as well as the concentration of our business in such market areas; 
+the impact of pandemics, epidemics, or any other health-related crisis; 
+high concentrations of loans secured by real estate located in our market areas; 
+increases in unemployment rates in the United States and our market areas; 
+risks associated with our commercial loan portfolio, including the risk for deterioration in value of the general business assets that secure such loans; 
+potential changes in the prices, values and sales volumes of commercial and residential real estate securing our real estate loans; 
+risks associated with our agricultural loan portfolio, including the heightened sensitivity to weather conditions, commodity prices, and other factors generally outside the borrowers and our control; 
+risks related to the significant amount of credit that we have extended to a limited number of borrowers and in a limited geographic area; 
+public funds deposits comprising a relatively high percentage of our deposits; 
+potential impairment on the goodwill we have recorded or may record in connection with business acquisitions; 
+our ability to maintain our reputation; 
+3 
+Table of Contents 
+our ability to successfully manage our credit risk and the sufficiency of our allowance for credit losses; 
+our ability to attract, hire and retain qualified management personnel; 
+our dependence on our management team, including our ability to retain executive officers and key employees and their customer and community
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers, the need for additional
+capital to finance such transactions, and possible failures in realizing the anticipated benefits from acquisitions; 
+potential recession in the United States and our market areas; 
+uncertainty or perceived instability in the banking industry as a whole; 
+increased competition for deposits and related changes in deposit customer behavior; 
+the lingering inflationary pressures, and the risk of the resurgence of elevated levels of inflation, in the United States and our market areas, and its impact on market interest rates, the economy and credit
+quality; 
+business and economic conditions, particularly those affecting our market areas, as well as the concentration of our business in such market areas; 
+the impact of pandemics, epidemics, or any other health-related crisis; 
+high concentrations of loans secured by real estate located in our market areas; 
+increases in unemployment rates in the United States and our market areas; 
+risks associated with our commercial loan portfolio, including the risk for deterioration in value of the general business assets that secure such loans; 
+potential changes in the prices, values and sales volumes of commercial and residential real estate securing our real estate loans; 
+risks associated with our agricultural loan portfolio, including the heightened sensitivity to weather conditions, commodity prices, and other factors generally outside the borrowers and our control; 
+risks related to the significant amount of credit that we have extended to a limited number of borrowers and in a limited geographic area; 
+public funds deposits comprising a relatively high percentage of our deposits; 
+potential impairment on the goodwill we have recorded or may record in connection with business acquisitions; 
+our ability to maintain our reputation; 
+3 
+Table of Contents 
+our ability to successfully manage our credit risk and the sufficiency of our allowance for credit losses; 
+our ability to attrac
+
+---
+Doc size: 2041KB (capped at 2MB)

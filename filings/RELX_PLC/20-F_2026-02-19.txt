@@ -1,0 +1,14 @@
+# RELX PLC — 20-F Annual Report
+# Filed: 2026-02-19
+# CIK: 929869
+# SIC: Services-Business Services, NEC
+# Source: https://www.sec.gov/Archives/edgar/data/929869/000110465926017277/relx-20251231x20f.htm
+
+## BUSINESS DESCRIPTION
+(Not extracted)
+
+## RISK FACTORS
+(Not extracted)
+
+---
+Document size: 2150 KB

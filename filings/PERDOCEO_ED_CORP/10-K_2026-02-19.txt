@@ -1,0 +1,167 @@
+# PERDOCEO ED CORP — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 1046568
+# SIC: Services-Educational Services
+# Source: https://www.sec.gov/Archives/edgar/data/1046568/000119312526059331/prdo-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+BUSINESS 
+1
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+29 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+43 
+ITEM 1C. 
+CYBERSECURITY 
+43 
+ITEM 2. 
+PROPERTIES 
+44 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+45 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+45 
+PART II 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+46 
+ITEM 6. 
+RESERVED 
+48 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+49 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+59 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+60 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+60 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+60 
+ITEM 9B. 
+OTHER INFORMATION 
+61 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+61 
+PART III 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+62 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+63 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+63 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+63 
+ITEM 14. 
+PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+63 
+PART IV 
+ITEM 15. 
+EXHIBIT AND FINANCIAL STATEMENT SCHEDULES 
+64 
+ITEM 16. 
+FORM 10-K SUMMARY 
+64 
+INDEX TO EXHIBITS 
+65 
+SIGNATURES 
+69 
+INDEX TO FINANCIAL STATEMENTS 
+70 
+PART I Cautionary Note Regarding Forward-Looking Statements This Annual Report on Form 10-K contains forward-looking statements, as defined in Section 21E of the Securities Exchange Act of 1934, as amended, that reflect our current expectations regarding our future growth, results of operations, cash flows, performance and business prospects and opportunities, as well as assumptions made by, and information currently available to, our management. We have tried to identify forward-looking statements by using words such as anticipate, believe, expect, plan, seek, should, will, continue to, outlook, focused on and similar expressions, but these words are not the exclusive means of identifying forward-looking statements. These statements are based on information currently available to us and are subject to various risks, uncertainties, and other factors, including, but not limited to, those matters discussed herein under the caption Risk Factors that could cause our actual growth, results of operations, financial condition, cash flows, performance, business prospects and opportunities to differ materially from those expressed in, or implied by, these statements. Except as expressly required by the federal securities laws, we undertake no obligation to update such factors or to publicly announce the results of any of the forward-looking statements contained herein to reflect future events, developments, or changed circumstances or for any other reason. ITEM 1. BUSINESS OVERVIEW Perdoceo s accredited academic institutions offer a quality postsecondary education to a diverse student population, with fully online, campus-based and hybrid learning programs. The Company s academic institutions Colorado Technical University ( CTU ), the American InterContinental University System ( AIUS or AIU System ) and University of St. Augustine for Health Sciences (" USAHS" ) provide degree programs from the associate through doctoral level as well as non-degree seeking and professional development programs. Our academic institutions offer students industry-relevant and career-focused academic programs that are designed to meet the educational needs of today s busy adults. CTU and AIUS continue to show innovation in higher education, advancing personalized learning technologies like their intellipath learning platform and using data analytics and technology to serve and educate students while enhancing overall learning and academic experiences. USAHS prepares medical professionals to provide quality medical care to communities across the country primarily through its graduate health sciences degree offerings in physical therapy, occupational therapy, speech language therapy and nursing, as well as continuing education programs. Perdoceo's academic institutions are committed to providing quality education that closes the gap between learners who seek to advance their careers and employers and communities needing a qualified workforce When used in this Annual Report on Form 10-K, the terms we, us, our, the Company, Perdoceo and PEC refer to Perdoceo Education Corporation and our wholly-owned subsidiaries. Our reporting segments correspond to our accredited institutions. CTU CTU is committed to providing industry-relevant higher education to a diverse student population, including non-traditional adult learners seeking career advancement and the military community. CTU utilizes innovative technology and experienced faculty, enabling the pursuit of academic and professional goals for learners. CTU offers academic programs in the career-oriented disciplines of business and management, nursing, healthcare management, computer science, engineering, information systems and technology, project management, cybersecurity and criminal justice. Discussion of business operations, trends and key drivers of operating results for CTU will primarily focus on its degree programs, which represent a majority of CTU s operations and the CTU segment. AIUS AIUS is committed to providing industry-relevant higher education opportunities for a diverse student population, including non-traditional adult learners and the military community. AIUS places emphasis on the educational, professional and academic growth of each student. AIUS offers academic programs in the career-oriented disciplines of business studies, information technologies, education, behavioral sciences and criminal justice. AIUS is comprised of three universities: the American InterContinental University (" AIU "), Trident University International ( Trident or TUI ) and California Southern University (" CalSouthern "). The AIUS structure provides a framework for all three universities to continue to serve their unique student populations while benefitting from one university system. Although all universities operate under a shared governance structure and have a common mission, the system structure allows each to retain its name and customize its programs and instructional and student service models to the needs of its unique student populations. 
+1 
+Discussion of business operations, trends and key drivers of operating results for AIUS will primarily focus on AIU and Trident, which represent a majority of the AIU System and AIUS reporting segment. Specific references will be made to the other universities when material to the disclosure or necessary to understand the overall discussion. USAHS USAHS is dedicated to offering graduate education opportunities in health sciences to a diverse range of students. USAHS focuses on developing professional healthcare practitioners through innovative and personalized classroom, clinical, and distance education opportunities. USAHS offers graduate degrees in health sciences, primarily in physical therapy, occupational therapy, speech-language therapy and nursing, along with continuing education programs, which together prepare professionals to serve and provide quality medical care to communities across the country. Student Enrollments Statistics Total student enrollments as of December 31, 2025 and 2024 were approximately 44,400 students and 41,380 students, respectively, with approximately 91% enrolled in our institutions fully-online academic programs for each of the years ended December 31, 2025 and 2024. Substantially all of the students attending our institutions reside within the United States. Total student enrollments and student enrollment statistics stated above and presented below do not include learners participating in: a) non-degree seeking and professional development programs, and b) degree seeking, non-Title IV, self-paced programs at our universities. Additional student enrollment demographic information for our institutions as of December 31, 2025 and 2024 was as follows: Student Enrollments by Age Group 
+As a Percentage of Total 
+Student Enrollments as of 
+December 31, 
+2025 
+2024 
+Over 30 
+68 
+% 
+67 
+% 
+21 to 30 
+30 
+% 
+31 
+% 
+Under 21 
+2 
+% 
+2 
+% 
+Student Enrollments by Core Curricula 
+As a Percentage of Total 
+Student Enrollments as of 
+December 31, 
+2025 
+2024 
+Business Studies 
+66 
+% 
+66 
+% 
+Information Technology 
+12 
+% 
+13 
+% 
+Health Education 
+22 
+% 
+21 
+% 
+Student Enrollments by Degree Granting Program 
+As a Percentage of Total 
+Student Enrollments as of 
+December 31, 
+2025 
+2024 
+Doctoral and Master's Degree 
+22 
+% 
+22 
+% 
+Bachelor's Degree 
+63 
+% 
+63 
+% 
+Associate Degree 
+15 
+% 
+15 
+% 
+GUIDING PRINCIPLES AND STRATEGIC PRIORITIES In an increasingly demanding economy, learners benefit from higher education that provides practical skills and meaningful career development. We aim to establish our academic institutions as leading online postsecondary education providers for non-traditional students, including adult learners, guided by the following core principles: enhance academic outcomes; further elevate academic quality and integrity; and 
+2 
+focus on governance and compliance. Our strategic priorities revolve around students and their academic successes and we believe these priorities will further support long-term sustainable and responsible growth. These strategic priorities include: optimize student enrollment processes; enhance student retention and engagement; use technology as a differentiator; leverage efficient and effective scalable shared services to support organic growth at our universities and as a key enabler for inorganic growth strategies; and invest in student-serving processes that support our overall academic operations. OUR BUSINESS Through our three accredited academic institutions, we offer quality postsecondary education to a diverse student population, with fully online, campus-based and hybrid learning programs, with the health sciences degree programs at USAHS having a strong clinical component. We maintain a student-first approach by providing support throughout the academic journey, from enrollment and orientation to ongoing coaching and learning through graduation, which we believe enhances overall student learning experiences and academic outcomes. We are committed to investing in our academic institutions, including through course curriculum development and student support technology, which we believe enables our student support teams to provide customized service that contributes to positive student experiences. Technology is a key enabler for us, and we are continuing to explore and utilize artificial intelligence (" AI ") within the student enrollment and academic life cycle to enhance student experiences. We believe that our technology innovations provide students with tools that enable them to focus on educational content in a manner that is best suited to their personal learning style. Marketing, Student Recruitment and the Student Enrollment Process Our academic institutions intend to serve motivated students with both the desire and ability to complete their academic programs of choice. To promote interest among potential students, our academic institutions develop and engage in a variety of marketing activities which build awareness of our academic programs and universities among prospective students. Aided by data analytics, our marketing programs are designed to focus on enrolling students who we believe will be more likely to succeed at one of our academic institutions and eventually complete their degree of choice. Our three academic institutions primarily serve a non-traditional and diverse student population, including adult learners. Our students have a broad range of educational and employment experiences which contributes to their college-level readiness. Each of our universities has an admissions function responsible for interacting with prospective students interested in applying to an institution after they have expressed interest in learning more about our academic institutions and programs. Generally, to be qualified for admission to an undergraduate program at one of our universities, an applicant must have received a high school diploma or a recognized equivalent, such as a General Education Development certificate. Our graduate programs require applicants to hold a bachelor's degree and some have additional program specific admissions requirements. We leverage predictive analytics to help us identify and focus on prospective students who are more likely to succeed at one of our universities. Our prospective student outreach process uses technology to provide a more customized approach to enable us to more effectively provide prospective students with relevant information to help them make more informed academic decisions. Perdoceo and its academic institutions have continued to test and explore AI-related technology to effectively and efficiently serve current and prospective students and provide our enrollment and student support staff with tools necessary to improve the overall learning and academic experience of our learners. Perdoceo was an early adopter of virtual assistants (" chatbots ") that lead to efficiencies in both attracting and servicing of students. These virtual assistants utilize the latest Large Language Models (" LLMs "), as well as other generative AI technologies. The upgraded chatbots are more responsive to student queries, as well as reducing the time and effort to train the chatbots on information students are requesting. In addition, the new virtual assistants give staff increased visibility into what information is important to students as they progress in their academic journeys. Our technology enhancements enable our admissions staff to customize their prospective student outreach and engagement strategies based on student's prior educational experience, degree and area of program interest, which enables a more meaningful and relevant interaction with the prospective student. We believe prospective students have an improved overall experience in communications with our admissions personnel due to these enhancements. Admissions advisors serve as a primary point of contact for prospective students, providing information to support informed enrollment decisions and assisting throughout the enrollment process. They also offer guidance and support during the application process and student orientation, helping students transition smoothly into their first class. 
+3 
+Once a student has decided to enroll at one of our academic institutions, the financial aid team works closely with them to provide information about available funding options, including loans and grants. The team s focus is to ensure students are financially prepared in a timely manner, allowing them to concentrate on their academic pursuit
+
+## GEOGRAPHIC REVENUE
+1 2024-12-31 0001046568 prdo:UniversityGroupMember prdo:USAHSMember 2025-12-31 0001046568 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-12-31 0001046568 prdo:AcquiredBusinessesMember us-gaap:DomesticCountryMember 2025-12-31 0001046568 prdo:USAHSMember 2025-01-01 2025-12-31 0001046568 us-gaap:AdditionalPaidInCapitalMember 2025-12-31 0001046568 prdo:AIUSMember prdo:UniversityGroupMember 2023-12-31 0001046568 us-gaap:CreditConcentrationRiskMember prdo:CashReceivedMember prdo:HigherEducationActMember 2023-01-01 2023-12-31 0001046568 prdo:USAHSMember 2024-12-31 0001046568 us-gaap:CustomerRelationshipsMember 2024-12-31 0001046568 us-gaap:CorporateAndOtherMember 2024-12-31 0001046568 us-gaap:RestrictedStockUnitsRSUMember 2024-01-01 2024-12-31 0001046568 prdo:CTUMember prdo:AdministrativeMember 2023-01-01 2023-12-31 0001046568 prdo:UniversityOfStAugustineForHealthSciencesLlcMember prdo:USAHSMember 2024-01-01 2024-12-31 0001046568 prdo:USAHSMember 2025-12-31 0001046568 prdo:FirstConditionMember 2023-01-01 2023-12-31 0001046568 2025-10-01 2025-12-31 0001046568 us-gaap:AllowanceForCreditLossMember 2025-01-01 2025-12-31 0001046568 us-gaap:AllowanceForCreditLossMember 2023-12-31 0001046568 srt:MaximumMember prdo:BuildingAndImprovementsMember 2025-12-31 0001046568 us-gaap:TradeNamesMember 2025-01-01 2025-12-31 0001046568 srt:MaximumMember 2025-12-31 0001046568 prdo:RangeOfExercisePricesFiveMember 2025-12-31 0001046568 prdo:AIUSMember prdo:AcademicsAndStudentRelatedMember 2024-01-01 2024-12-31 0001046568 prdo:AccreditationRightsMember 2024-12-31 0001046568 prdo:AIUSMember prdo:UniversityGroupMember prdo:TuitionAndFeesNetMember 2025-01-01 2025-12-31 0001046568 prdo:PerformanceBasedRestrictedStockUnitsMember 2025-12-31 0001046568 us-gaap:ProductAndServiceOtherMember 2023-01-01 2023-12-31 0001046568 prdo:AIUSMember us-gaap:ProductAndServiceOtherMember prdo:UniversityGroupMember 2025-01-01 2025-12-31 0001046568 prdo:AIUSMember prdo:DepreciationAndAmortizationMember 2023-01-01 2023-12-31 0001046568 us-gaap:ShortTermInvestmentsMember 2025-12-31 0001046568 prdo:AIUSMember 2024-12-31 0001046568 prdo:CTUMember 2025-12-31 0001046568 prdo:AIUSMember prdo:AllOtherExpensesMember 2
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the Title IV Program funds that the institution received during its most recently completed fiscal year. If an institution is still not financially responsible at the end of the period of provisional certification, including because it has a composite score of less than 1.0, the Department may again permit provisional certification subject to the terms the Department determines appropriate. The Department applies its quantitative financial responsibility tests annually based on an institution s audited financial statements and may apply the tests if an institution undergoes a change in control or under other circumstances. The Department also may apply the tests to the parent company of our institutions, and to other related entities. The Department currently applies the composite score for each of our institutions to the Company on a consolidated basis. Our composite score for the consolidated entity for the year ended December 31, 2024, was 3.0, and our preliminary calculation for the year ended December 31, 2025, is also 3.0, which is the highest possible score. Composite scores of 1.5 or above are considered financially responsible without conditions or additional oversight. If in the future we are required to satisfy the Department s standards of financial responsibility on an alternative basis, including potentially by posting irrevocable letters of credit, we may not have the borrowing capacity to post these letters of credit. 
+22 
+Throughout 2025, USAHS was on HCM1 and had posted a letter of credit under the Provisional Certification Alternative in favor of the Department in the amount of $20.5 million as of December 31, 2025, due to its Composite Score attributable to its prior ownership which for 2024, the last completed fiscal year prior to the USAHS acquisition, was 0.5. In January 2026, the Department notified USAHS that it was removed from HCM1 and returned to the advanced method of payment and is no longer required to maintain the letter of cre
+
+---
+Doc size: 2039KB (capped at 2MB)

@@ -1,0 +1,14 @@
+# US FOODS HLDG CORP — 10-K Annual Report
+# Filed: 2026-02-12
+# CIK: 1665918
+# SIC: Wholesale-Groceries & Related Products
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1665918/000166591826000008/usfd-20251227.htm)
+
+## RISK FACTORS (Item 1A)
+10 Item&#160;1B.
+
+## GEOGRAPHIC REVENUE
+segment"> usfd:segment xbrli:pure usfd:derivative usfd:contract 0001665918 2024-12-29 2025-12-27 0001665918 2025-06-27 0001665918 2026-02-06 0001665918 2025-12-27 0001665918 2024-12-28 0001665918 2023-12-31 2024-12-28 0001665918 2023-01-01 2023-12-30 <x
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customers or GPOs or our inability to grow our current customer base could adversely affect our business, financial condition and results of operations. We may fail to increase or maintain the highest margin portions of our business, including sales to independent restaurant customers and sales of our private label products, which could have an adverse impact on our business, financial condition and results of operations. Our most profitable customers are independent restaurants

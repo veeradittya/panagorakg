@@ -1,0 +1,20 @@
+# WARBY PARKER INC — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1504776
+# SIC: Ophthalmic Goods
+# Source: https://www.sec.gov/Archives/edgar/data/1504776/000150477626000006/wrby-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors Summary 4 Part I. Item 1. Business 6 Item 1A. Risk Factors 12 Item 1B. Unresolved Staff Comments 50 Item 1C. Cybersecurity 50
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 1703KB (capped at 2MB)

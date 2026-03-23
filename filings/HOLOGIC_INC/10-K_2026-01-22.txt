@@ -1,0 +1,20 @@
+# HOLOGIC INC — 10-K Annual Report
+# Filed: 2026-01-22
+# CIK: 859737
+# SIC: X-Ray Apparatus & Tubes & Related Irradiation Apparatus
+# Source: https://www.sec.gov/Archives/edgar/data/859737/000085973726000004/holx-20250927.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+(Not extracted)
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 1257KB (capped at 2MB)

@@ -1,0 +1,106 @@
+# TKO GROUP HOLDINGS INC — 10-K Annual Report
+# Filed: 2026-02-25
+# CIK: 1973266
+# SIC: Services-Amusement & Recreation Services
+# Source: https://www.sec.gov/Archives/edgar/data/1973266/000119312526071651/tko-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+8
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+16 
+Item 1B. 
+Unresolved Staff Comments 
+42 
+Item IC. 
+Cybersecurity 
+43 
+Item 2. 
+Properties 
+45 
+Item 3. 
+Legal Proceedings 
+45 
+Item 4. 
+Mine Safety Disclosures 
+45 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+46 
+Item 6. 
+[Reserved] 
+47 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+48 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+68 
+Item 8. 
+Financial Statements and Supplementary Data 
+68 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+68 
+Item 9A. 
+Controls and Procedures 
+68 
+Item 9B. 
+Other Information 
+72 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+72 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+73 
+Item 11. 
+Executive Compensation 
+73 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+73 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+73 
+Item 14. 
+Principal Accounting Fees and Services 
+73 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+74 
+Item 16. 
+Form 10-K Summary 
+78 
+Signatures 
+79 
+3 
+Table of Contents 
+FORWARD-LOOKING STATEME NTS This Annual Report on Form 10-K (the Annual Report ) contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933, as amended (the "Securities Act") and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). All statements other than statements of present and historical fact contained in this Annual Report, including without limitation, statements regarding; our expectations surrounding the TKO Transactions and our ability to grow our business and bolster our financial position; our expectations regarding strategic transactions; our expectation regarding actions under our capital return program, including the amount and frequency of share repurchases and dividends; our expected contractual obligations and capital expenditures; our status as a controlled company; our future results of operations and financial position; industry and business trends; the impact of market conditions and other macroeconomic factors on our business, financial condition and results of operations; our future business strategy, plans, market growth and our objectives for future operations; and our competitive market position within our industry are forward-looking statements. Without limiting the foregoing, you can generally identify forward-looking statements by the use of forward-looking terminology, including the terms aim, anticipate, believe, could, mission, may, will, should, expect, intend, plan, estimate, project, predict, potential, target, contemplate, or, in each case, their negative, or other variations or comparable terminology and expressions. The forward-looking statements in this Annual Report are only predictions and are based on our current expectations and projections about future events and financial trends that we believe may affect our business, financial condition, and results of operations. These forward-looking statements speak only as of the date of this Annual Report and are subject to a number of known and unknown risks, uncertainties and assumptions, including but not limited to important risk factors included in Part I, Item 1A. Risk Factors in this Annual Report and our subsequent filings with the Securities and Exchange Commission (the SEC ). These risks could cause our actual results to differ materially from those implied by forward-looking statements in this Annual Report. Moreover, we operate in an evolving environment. New risk factors and uncertainties may emerge from time to time, and it is not possible for management to predict all risk factors and uncertainties. Even if our results of operations, financial condition and liquidity and the development of the industry in which we operate are consistent with the forward-looking statements contained in this Annual Report, those results or developments may not be indicative of results or developments in subsequent periods. You should read this Annual Report and the documents that we reference herein completely and with the understanding that our actual future results may be materially different from what we expect. We qualify all of our forward-looking statements by these cautionary statements. Except as required by applicable law, we have no obligation to update or revise any forward-looking statements contained herein, whether as a result of any new information, future events, changed circumstances or otherwise. 
+4 
+Table of Contents 
+DEFINITION S As used in this Annual Report, unless we state otherwise or the context otherwise requires: we, us, our, TKO Group Holdings, TKO, the Company, and similar references refer (1) prior to the consummation of the TKO Transactions to Zuffa (each as defined below), and (2) after the consummation of the TKO Transactions to TKO Group Holdings, Inc. and its consolidated subsidiaries. Acquired Businesses refers to the businesses we acquired in the Endeavor Asset Acquisition. Board refers to the board of directors of TKO Group Holdings. business combination refers to the combination of the businesses of WWE and TKO OpCo. Class A common stock refers to the Class A common stock, par value $0.00001 per share, of TKO. Class B common stock refers to the Class B common stock, par value $0.00001 per share, of TKO. DGCL refers to the General Corporation Law of the State of Delaware. EGH Parties refers to Endeavor OpCo and IMG Worldwide, LLC. Endeavor Group Holdings, Inc., Endeavor or EGH refers to Endeavor Group Holdings, Inc., a Delaware corporation. Endeavor Asset Acquisition refers to our acquisition, from affiliates of Endeavor Group Holdings, Inc., of the IMG business, including certain businesses operating under the IMG brand, On Location and Professional Bull Riders ( PBR ). The Endeavor Asset Acquisition was accounted for as a common control acquisition and was consummated on February 28, 2025. Endeavor OpCo refers to Endeavor Operating Company, LLC, a Delaware limited liability company and subsidiary of Endeavor. Endeavor Take-Private refers to the transactions contemplated by the Agreement and Plan of Merger, dated as of April 2, 2024, by and among Wildcat EGH Holdco, L.P., Wildcat OpCo Holdco, L.P., Wildcat PubCo Merger Sub, Inc., Wildcat Manager Merger Sub, L.L.C., Wildcat OpCo Merger Sub, L.L.C., Endeavor Executive Holdco, LLC, Endeavor Executive II Holdco, LLC, Endeavor Executive PIU Holdco, LLC, Endeavor Manager, LLC, Endeavor OpCo and Endeavor Group Holdings, Inc., pursuant to which affiliates of Silver Lake agreed to acquire 100% of the outstanding shares of Endeavor Group Holdings, Inc. s stock that Silver Lake did not already own (subject to certain exceptions). The Endeavor Take-Private was completed on March 24, 2025. fully-diluted basis means on a basis calculated assuming the full cash exercise (and not net settlement but, for the avoidance of doubt, including the conversion of the Convertible Notes (to the extent not converted prior to closing of the TKO Transactions)) of all outstanding options, warrants, restricted stock units, performance stock units, dividend equivalent rights and other rights and obligations (including any promised equity awards and assuming the full issuance of the shares underlying such awards) to acquire voting interests of TKO Group Holdings (without regard to any vesting provisions and, with respect to any promised awards whose issuance is conditioned in full or in part based on achievement of performance goals or metrics, assuming achievement at target performance) and the full conversion, exercise, exchange, settlement of all issued and outstanding securities convertible into or exercisable, exchangeable or settleable for voting interests of TKO Group Holdings, not including any voting interests of TKO Group Holdings reserved for issuance pursuant to future awards under any option, equity bonus, share purchase or other equity incentive plan or arrangement of TKO Group Holdings (other than promised awards described above), and any other interests or shares, as applicable, that may be issued or exercised. For the avoidance of doubt, this definition assumes no net settlement or other reduction in respect of withholding tax obligations in connection with the issuance, conversion, exercise, exchange or settlement of such rights or obligations to acquire interests of TKO Group Holdings as described in the foregoing. NYSE refers to the New York Stock Exchange. Services Agreement means the services agreement dated as of September 12, 2023, by and between Endeavor Group Holdings, Inc. and TKO OpCo. On the closing date of the Endeavor Asset Acquisition, the Services Agreement was terminated, and the Transition Services Agreement was entered into with Endeavor OpCo and the other parties thereto. Silver Lake refers to (a) any funds, partnerships, co-investment entities, managed accounts and other investment vehicles affiliated with, or managed, advised, sponsored or controlled by, Silver Lake Group, L.L.C. or one or more of its Affiliates and (b) any Person controlled by or under common control with one or more of the foregoing. TKO OpCo refers to TKO Operating Company, LLC (f/k/a Zuffa Parent LLC), a Delaware limited liability company and our direct subsidiary. 
+5 
+Table of Contents 
+TKO OpCo Units refers to all of the existing equity interests in TKO OpCo. TKO Transactions refer, collectively, to the combination of the businesses of UFC and WWE under TKO Group Holdings, Inc. consummated in September 2023. The transactions were in accordance with the Transaction Agreement (defined below) (i) WWE undertook certain internal restructuring steps; (ii) Whale Merger Sub Inc. merged with and into WWE (the Merger ), with WWE surviving the Merger (the Surviving Entity ) and becoming a direct wholly owned subsidiary of the Company; (iii) immediately following the Merger, the Company caused the Surviving Entity to be converted into a Delaware limited liability company ( WWE LLC ) and the Company became the sole managing member of WWE LLC (the Conversion ); and (iv) following the Conversion, TKO Group Holdings, Inc. (x) contributed all of the equity interests of WWE LLC to TKO OpCo in exchange for 49% of the membership interests in TKO OpCo on a fully diluted basis, and (y) issued to Endeavor OpCo and certain of Endeavor s other subsidiaries a number of shares of our Class B common stock representing, in the aggregate, approximately 51% of the total voting interests of the Company s stock on a fully-diluted basis, in exchange for a payment equal to the par value of such Class B common stock. Transaction Agreement refers to the transaction agreement, dated as of April 2, 2023, by and among Endeavor Group Holdings, Inc., Endeavor OpCo, TKO OpCo, WWE, TKO Group Holdings, and Whale Merger Sub Inc. Transition Services Agreement refers to the transition services agreement, dated as of February 28, 2025, by and between Endeavor OpCo, IMG Worldwide, LLC, Trans World International, LLC ( TWI ), TKO OpCo and TKO Group Holdings. UFC refers to the Ultimate Fighting Championship. WWE refers to World Wrestling Entertainment, Inc. (n/k/a World Wrestling Entertainment, LLC). Zuffa refers to Zuffa Parent, LLC (n/k/a TKO Operating Company, LLC or TKO OpCo). 
+6 
+Table of Contents 
+RISK FACTOR SUMMA RY Our business is subject to numerous risks and uncertainties, including those described in Part I, Item 1A. Risk Factors in this Annual Report. You should carefully consider these risks and uncertainties when investing in our securities. Principal risks and uncertainties affecting our business include the following: our ability to generate revenue from discretionary and corporate spending on events, such as corporate sponsorships and advertising, is subject to many factors, including many that are beyond our control, such as general macroeconomic conditions; we depend on key relationships with television and cable networks, satellite providers, digital streaming partners and other distribution partners. Our failure to maintain, renew or replace key agreements could adversely affect our ability to distribute our media content, and/or other of our goods and services, which could adversely affect our operating results; we may not be able to adapt to or manage new content distribution platforms or changes in consumer behavior resulting from new technologies; we may be unsuccessful in our strategic acquisitions, investments and commercial agreements, and we may pursue acquisitions, investments or commercial agreements for their strategic value in spite of the risk of lack of profitability; because our success depends substantially on our ability to maintain a professional reputation, adverse publicity concerning us, or our key personnel could adversely affect our business; the markets in which we operate are highly competitive, rapidly changing and increasingly fragmented, both within the United States and internationally, and we may not be able to compete effectively, which could adversely affect our operating results; failure to protect our IT Systems and Confidential Information (both terms as defined in Part I, Item 1A. "Risk Factors") against breakdowns, security breaches, and other cybersecurity risks could result in financial penalties, legal liability, and/or reputational harm, which would adversely affect our business, results of operations, and financial condition; we are subject to extensive U.S. and foreign governmental regulations, and our failure to comply with these regulations could adversely affect our business; we depend on the continued services of executive management and other key employees. The loss or diminished performance of these individuals could adversely affect our business; changes in public and consumer tastes and preferences and industry trends could reduce demand for our content offerings and adversely affect our business; owning and managing events for which we sell media and sponsorship rights, ticketing and hospitality exposes us to greater financial risk. Additionally, we may be prohibited from promoting and conducting our live events if we do not comply with applicable regulations. If our live events are not financially successful, our business could be adversely affected; our business and operating results may be affected by the outcome of pending and future litigation, investigations, claims and other disputes; we have a substantial amount of indebtedness, which could adversely affect our business, a
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer losses, changes in spending levels of our existing customers or a different economic outlook than currently estimated by management could have a significant impact on the estimated fair value of our reporting units and could result in an impairment charge in the future. Intangible Assets 
+64 
+Table of Contents 
+For finite-lived intangible assets that are amortized, we evaluate assets for recoverability when there is an indication of potential impairment or when the useful lives are no longer appropriate. If the estimated undiscounted future cash flows from a group of assets being evaluated is less than the carrying value of that group of assets, an impairment would be measured as the difference between the fair value of the group s long-lived assets and the carrying value of the group s long-lived assets. We define an asset group by identifying the lowest level of cash flows generated by a group of assets that are largely independent of the cash flows of other assets. If identified, the impairment is allocated to the long-lived assets of the group on a pro rata basis using the relative carrying amounts, but only to the extent the carrying value of each asset is above its fair value. Determining whether a long-lived asset is impaired requires various estimates and assumptions, including whether a triggering event has occurred, the identification of the asset groups, estimates of future cash flows and the discount rate used to determine fair values. If we had established different asset groups or utilized different valuation methodologies or assumptions, the impairment test results could differ, and we could be required to record impairment charges. Identifiable indefinite-lived intangible assets are tested annually for impairment as of October 1 and at any time upon the occurrence of certain events or substantive changes in circumstances that indicate the carrying amount of an indefinite-lived intangible may not be recoverable. We have the option
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,14 @@
+# QUALCOMM INC — 10-K Annual Report
+# Filed: 2025-11-05
+# CIK: 804328
+# SIC: Radio & Tv Broadcasting & Communications Equipment
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)
+
+## RISK FACTORS (Item 1A)
+14 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment> qcom:HeatherAceMember 2025-06-30 2025-09-28 0000804328 qcom:HeatherAceMember 2025-09-28 0000804328 2025-09-28 0000804328 2024-09-29 0000804328 2023-09-25 2024-09-29 0000804328 2022-09-26 2023-09-24 0000804328 2022-09-26 2023-06-25 0000804328 <xbrli:in
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Significant Customers A small number of customers/licensees historically have accounted for a significant portion of our consolidated revenues customer concentration. Although we have many licensees, we derive a significant portion of our licensing revenues from a limited number of such licensees, which includes a number of Chinese OEMs

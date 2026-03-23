@@ -1,0 +1,172 @@
+# HUNTSMAN CORP — 10-K Annual Report
+# Filed: 2026-02-18
+# CIK: 1307954
+# SIC: Chemicals & Allied Products
+# Source: https://www.sec.gov/Archives/edgar/data/1307954/000143774926004524/hun20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+BUSINESS 
+1
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+20 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+20 
+ITEM 1C. 
+CYBERSECURITY 
+20 
+ITEM 2. 
+PROPERTIES 
+21 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+22 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+22 
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS 
+23 
+PART II 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+24 
+ITEM 6. 
+RESERVED 
+26 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+26 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+35 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+35 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+35 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+35 
+ITEM 9B. 
+OTHER INFORMATION 
+37 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+37 
+PART III 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+37 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+37 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+37 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+37 
+ITEM 14. 
+PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+37 
+PART IV 
+ITEM 15. 
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+38 
+i
+Table of Contents 
+HUNTSMAN CORPORATION AND SUBSIDIARIES 
+HUNTSMAN INTERNATIONAL LLC AND SUBSIDIARIES 
+2025 ANNUAL REPORT ON FORM 10-K 
+This report includes information with respect to market share, industry conditions and forecasts that we obtained from internal industry research, publicly available information (including industry publications and surveys), and surveys and market research provided by consultants. The publicly available information and the reports, forecasts and other research provided by consultants generally state that the information contained therein has been obtained from sources believed to be reliable. We have not independently verified any of the data from third-party sources, nor have we ascertained the underlying economic assumptions relied upon therein. Similarly, our internal research and forecasts are based upon our management s understanding of industry conditions, and such information has not been verified by any independent sources. 
+For convenience in this report, the terms Company, our, us or we may be used to refer to Huntsman Corporation and, unless the context otherwise requires, its subsidiaries and predecessors. In this report, Huntsman International refers to Huntsman International LLC (our wholly-owned subsidiary) and, unless the context otherwise requires, its subsidiaries. 
+In this report, we may use, without definition, the common names of competitors or other industry participants. We may also use the common names or abbreviations for certain chemicals or products. Many of these terms are defined in the Glossary of Chemical Terms found at the conclusion of Part I. Item 1. Business below. 
+Forward-Looking Statements 
+With respect to Huntsman Corporation, certain information set forth in this report contains forward-looking statements within the meaning the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 (the Exchange Act) . All statements other than historical factual information are forward-looking statements, including without limitation statements regarding: projections of revenue, expenses, profit, profit margins, tax rates, tax provisions, cash flows, pension and benefit obligations and funding requirements, our liquidity position or other projected financial measures; management s plans and strategies for future operations, including statements relating to anticipated operating performance, cost reductions, restructuring activities, new product and service developments, competitive strengths or market position, acquisitions, divestitures, spin-offs or other distributions, strategic opportunities, securities offerings, stock repurchases, dividends and executive compensation; growth, declines and other trends in markets we sell into; new or modified laws, regulations and accounting standards; outstanding claims, legal proceedings, tax audits and assessments and other contingent liabilities; foreign currency exchange rates and fluctuations in those rates; general economic and capital markets conditions; the timing of any of the foregoing; assumptions underlying any of the foregoing; and any other statements that address events or developments that we intend or believe will or may occur in the future. In some cases, forward-looking statements can be identified by terminology such as believes, expects, may, will, should, anticipates or intends or the negative of such terms or other comparable terminology, or by discussions of strategy. We may also make additional forward-looking statements from time to time. All such subsequent forward-looking statements, whether written or oral, by us or on our behalf, are also expressly qualified by these cautionary statements. 
+All forward-looking statements, including without limitation management s examination of historical operating trends, are based upon our current expectations and various assumptions. Our expectations, beliefs and projections are expressed in good faith and we believe there is a reasonable basis for them, but there can be no assurance that management s expectations, beliefs and projections will result or be achieved. All forward-looking statements apply only as of the date made. We undertake no obligation to publicly update or revise forward-looking statements whether because of new information, future events or otherwise, except as required by securities and other applicable law. 
+There are a number of risks and uncertainties that could cause our actual results to differ materially from the forward-looking statements contained in or contemplated by this report. Any forward-looking statements should be considered in light of the risks set forth in Part I. Item 1A. Risk Factors and elsewhere in this report. 
+ii
+Table of Contents 
+PART I 
+ITEM 1. BUSINESS 
+O verview 
+We are a global manufacturer of diversified organic chemical products. We operate in three segments: Polyurethanes, Performance Products and Advanced Materials. Our products comprise many different chemicals and chemical formulations, which we market globally to a wide range of consumers that consist primarily of industrial and building product manufacturers. Our products are used in a broad range of applications, including those in the adhesives, aerospace, automotive, coatings and construction, construction products, durable and non-durable consumer products, electronics, insulation, power generation and refining. Many of our products offer effects such as premium insulation in homes and buildings and the lightweighting of airplanes and automobiles that help conserve energy. We are a leading global producer in many of our key product lines, including MDI, amines, maleic anhydride and epoxy-based polymer formulations. Our revenues for the years ended December 31, 2025, 2024 and 2023 were $5,683 million, $6,036 million and $6,111 million, respectively. 
+Our company, a Delaware corporation, was formed in 2004 to hold the Huntsman businesses, which were founded by Jon M. Huntsman. Mr. Huntsman founded the predecessor to our Company in 1970 as a small packaging materials company. Since then, we have transformed through a series of acquisitions and divestitures and now own a global portfolio of businesses with a primary focus on improving energy efficiency. On February 28, 2023, we completed the sale of our textile chemicals and dyes business ( Textile Effects Business ) to Archroma, a portfolio company of SK Capital Partners ( Archroma ). For more information, see Note 4. Discontinued Operations Sale of Textile Effects Business to our consolidated financial statements. We operate all of our businesses through Huntsman International, our wholly-owned subsidiary. Huntsman International is a Delaware limited liability company and was formed in 1999. 
+Our principal executive offices are located at 10003 Woodloch Forest Drive, The Woodlands, Texas 77380, and our telephone number at that location is (281) 719-6000. 
+O ur B u sines s S e gment s 
+(1) 
+For a reconciliation of total reportable segments adjusted EBITDA to (loss) income from continuing operations before income taxes, see Note 27. Operating Segment Information to our consolidated financial statements. Percentage allocations in this chart do not give effect to Corporate and other unallocated items and eliminations. 
+1
+Table of Contents 
+The following table identifies the key product lines, principal end markets and applications, representative customers, raw materials and representative competitors of each of our business segments: 
+Product lines 
+End markets / applications 
+Representative customers 
+Raw materials 
+Representative competitors 
+Polyurethanes 
+MDI 
+Polyurethane chemicals are used to produce rigid and flexible foams, as well as coatings, adhesives, sealants and elastomers. Major end markets include: building insulation, construction products, automotive, including electric vehicles, and footwear. They are also used in cold chain, furniture and specialized engineering applications. 
+Benzene, chlorine and industrial gases 
+Polyols 
+Polyols are combined with MDI and other isocyanates to create a broad spectrum of polyurethane products, such as rigid and flexible foams and other non-foam applications. 
+Autoneum, Carpenter, GAF, Johns Manville, Amrize, Lear, Louisiana Pacific, Magna, Schmitz Cargobull, TopBuild and West Fraser 
+PO, polyester polyols and EO 
+BASF, Carlisle Construction Materials, Coim, Covestro, Dow, Lubrizol and Wanhua Chemical Group 
+TPU 
+TPU is a high-quality, fully-formulated thermal plastic that can be tailored with unique qualities. It can be used in injection molding and small components for automotive and footwear. It is also extruded into films, wires and cables for use in the coatings, adhesives, sealants and elastomers markets. 
+Isocyanate (such as MDI) and a polyol 
+Performance Products 
+Amines 
+Amines are a family of intermediate chemicals that are valued for their properties as a reactive agent, emulsifier, dispersant, detergent, solvent or corrosion inhibitor. Amines are used in polyurethane foam, fuel and lubricant additives, paints and coatings, composites, gas treatment, construction materials and semiconductor cleaning solutions. 
+Afton, Bayer, Chevron, DuPont, Evonik, Hipower, Infineum, Lubrizol, Quadra Chemicals and Univar 
+EO, PO, glycols, ethylene dichloride, caustic soda, ammonia, hydrogen, methylamines and acrylonitrile 
+BASF, Chenhua, Delamine, Dow, Evonik, Longhua, Nouryon, Tosoh and Zhengda 
+Maleic anhydride 
+Maleic anhydride is an intermediate chemical used primarily to produce unsaturated polyester resins (UPRs). UPRs are mainly used in the production of fiberglass reinforced resins for construction, automotive, marine and recreation products. Maleic anhydride is also used in components or additives for lubricants, copolymers, food acidulants and water and paper chemicals. 
+Afton, AOC, BASF, Chevron, Ineos, Infineum, Polynt-Reichhold, Primient, Reacciones Quimicas and Solenis 
+Normal butane 
+AOC, Bartek, Ineos and Lanxess 
+Advanced Materials 
+Technologically- advanced epoxy, phenoxy, acrylic, polyurethane and acrylonitrile-butadiene-based polymer formulations 
+Aerospace and industrial adhesives; composites for aerospace, automotive, sport equipment and infrastructures; electrical power transmission and electric vehicles; automotive industrial and consumer electronics. 
+ABB, BMW, Bodo Moeller, Boeing, Bosch, GMZ, Isola, Motic (Xiamen), Schneider, Siemens, Speed Fair and TTM 
+BLR, epichlorohydrin, amines, polyols, isocyanates, acrylic materials, hardeners, fillers, butadiene and acrylonitrile 
+3M, Henkel, Westlake and Xiongrun 
+High performance thermoset resins, curing and toughening agents and carbon nanotubes additives 
+High performance chemical building blocks sold to formulators who develop formulations for aerospace, automotive, oil and gas, coatings, construction, electronics and electrical insulation applications. 
+3M, Azelis, Azko, Henkel, Hexcel, Hilti, Omya, Parker Hannifin, Sherwin-Williams, Syensqo and Syngenta 
+Epichlorohydrin, amines, phenols, aminophenols, fatty acids, butadiene, acrylonitrile and carbon nanotubes 
+Aditya Birla, Evonik, Kaneka, Sumitomo and Westlake 
+2
+Table of Contents 
+Polyurethanes 
+General 
+We are a leading global manufacturer and marketer of a broad range of polyurethane chemicals, including MDI products, polyols and TPU (each discussed in more detail below under Products and Markets ). Polyurethane chemicals are used to produce rigid and flexible foams, composite wood products, and a wide range of coatings, adhesives, sealants and elastomers. We focus on differentiated MDI-based polyurethane systems and polyurethane component molecules. Volume growth in our Polyurethanes segment has been driven primarily by global economic activity and the continued substitution of MDI-based products for other materials across a broad range of applications. We operate three major polyurethane manufacturing facilities in the United States ( U.S. ), Europe and China. We also operate 21 strategically located downstream facilities, of which 14 are polyurethane formulation facilities, commonly referred to in the chemical industry as systems houses . Our systems houses are located in close proximity to our customers worldwide, which enables us to focus on customer support, technical service and a differentiated product offering. We also operate two specialty polyester polyol manufacturing facilities focused on the insulation market, three downstream TPU manufacturing facilities in the U.S., Europe and China and two spray polyurethane foam ( SPF ) manufacturing sites located in the U.S. and Canada. 
+Our customers produce polyurethane-based products through the combination of an isocyanate, such as MDI, with polyols, which are derived largely from PO. We are able to produce over 2,200 distinct MDI-based polyurethane products by modifying the MDI molecule through varying the proportion and type of polyol used and by introducing other chemical additives to our MDI formulations. As a result, polyurethane products, especially those derived from MDI, are continuing to replace traditional products in a wide range of end-use markets, including insulation in construction and cold chain, cushioning for automotive and furniture, coatings, adhesives, wood binders for construction and furniture, footwear and other specialized engineering applications. 
+We operate a world-scale integrated polyurethane formulations facility and a world-scale research and development campus in China to service our customers in the critical Chinese market, the largest MDI market in
+
+## GEOGRAPHIC REVENUE
+se of multiple routes to market enables us to reach a broader customer base at an efficient cost. 
+We conduct sales activities through dedicated regional sales teams in Europe and India, Asia and the Americas. Our global customers are covered by key account managers who are familiar with the specific requirements of these customers. The management of long-standing customer relationships is critical to the sales and marketing process. 
+Manufacturing and Operations 
+We are a global business serving customers in three principal geographic regions: Europe and India, Asia and the Americas. In order to service our customers efficiently, we maintain both synthesis and formulations manufacturing plants around the world with a strategy of global, regional and local manufacturing employed to optimize the level of service and minimize the cost to our customers. 
+We have commissioned a pilot plant in San Antonio, Texas, specifically designed to convert methane into high-value MIRALON carbon nanomaterials, as well as clean hydrogen for sale into the energy, materials and chemicals markets. The pilot plant operations are being optimized to demonstrate improved production capability for MIRALON carbon nanomaterials at significantly higher volumes than have historically been produced at our Merrimack, New Hampshire research and development site. This reactor design will form the basis of a larger kiloton scale commercial reactor, which will address the needs of markets such as thermoplastics and battery additives as well as providing a commercial scale source of hydrogen for applications in markets such as chemicals, steel, energy and transportation. 
+8
+Table of Contents 
+Raw Materials 
+The principal raw materials we purchase for the manufacture of basic and advanced epoxy resins are epichlorohydrin, bisphenol A, MDA, phenol and aminophenols. We also purchase amines, polyols, isocyanates, acrylic materials, hardeners and fillers for the production of our formulated polymer systems and complex chemicals and additives. In our specialty nitrile latexes and carboxyl terminated acrylonitrile-butadiene copolymer product lines, acrylonitrile and butadiene are the main raw materials pu
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customers who purchase significant amount of product. We use specialist distributors to augment our sales effort in niche markets and applications where we do not believe it is appropriate to develop direct sales resources. We use mass general distribution channels to sell our products into a wide range of general applications where technical expertise is less important, which reduces our overall selling expenses. We believe our use of multiple routes to market enables us to reach a broader customer base at an efficient cost. 
+We conduct sales activities through dedicated regional sales teams in Europe and India, Asia and the Americas. Our global customers are covered by key account managers who are familiar with the specific requirements of these customers. The management of long-standing customer relationships is critical to the sales and marketing process. 
+Manufacturing and Operations 
+We are a global business serving customers in three principal geographic regions: Europe and India, Asia and the Americas. In order to service our customers efficiently, we maintain both synthesis and formulations manufacturing plants around the world with a strategy of global, regional and local manufacturing employed to optimize the level of service and minimize the cost to our customers. 
+We have commissioned a pilot plant in San Antonio, Texas, specifically designed to convert methane into high-value MIRALON carbon nanomaterials, as well as clean hydrogen for sale into the energy, materials and chemicals markets. The pilot plant operations are being optimized to demonstrate improved production capability for MIRALON carbon nanomaterials at significantly higher volumes than have historically been produced at our Merrimack, New Hampshire research and development site. This reactor design will form the basis of a larger kiloton scale commercial reactor, which will address the needs of markets such as thermoplastics and battery additives as well as providing a commercial sca
+
+---
+Doc size: 2048KB (capped at 2MB)

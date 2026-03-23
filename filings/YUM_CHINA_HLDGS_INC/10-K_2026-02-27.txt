@@ -1,0 +1,102 @@
+# YUM CHINA HLDGS INC — 10-K Annual Report
+# Filed: 2026-02-27
+# CIK: 1673358
+# SIC: Retail-Eating  Places
+# Source: https://www.sec.gov/Archives/edgar/data/1673358/000119312526082824/yumc-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+2 
+Information about our Executive Officers 
+20
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+23 
+Item 1B. 
+Unresolved Staff Comments 
+61 
+Item 1C. 
+Cybersecurity 
+61 
+Item 2. 
+Properties 
+62 
+Item 3. 
+Legal Proceedings 
+62 
+Item 4. 
+Mine Safety Disclosures 
+62 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+63 
+Item 6. 
+[RESERVED] 
+64 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+65 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+85 
+Item 8. 
+Financial Statements and Supplementary Data 
+86 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+128 
+Item 9A. 
+Controls and Procedures 
+128 
+Item 9B. 
+Other Information 
+128 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+128 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+129 
+Item 11. 
+Executive Compensation 
+129 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+129 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+129 
+Item 14. 
+Principal Accountant Fees and Services 
+129 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+130 
+Item 16. 
+Form 10-K Summary 
+134 
+Signatures 
+135 
+Forward-Looking Statements This annual report on Form 10-K (this Form 10-K ) includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). We intend all forward-looking statements to be covered by the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by the fact that they do not relate strictly to historical or current facts. These statements often include words such as may, will, estimate, intend, seek, expect, project, anticipate, believe, plan, could, target, predict, likely, should, forecast, outlook, model, continue, ongoing or other similar terminology. Forward-looking statements are based on our current expectations, estimates, assumptions or projections concerning future results or events, including, without limitation, statements regarding our strategies to expand our restaurant network and restaurant portfolio, our strategies to improve system sales and store performance and develop new sources of revenue, plans relating to our share repurchase activity, declaration of dividends, and plans for returning capital to our stockholders, plans to invest in technology and high-quality assets, plans to enhance digital and delivery capabilities, franchise development, logistics and supply chain management, our sustainability goals and anticipated effects of population and macroeconomic trends. Our plan of capital returns to shareholders is based on current expectations, which may change based on market conditions, capital needs or otherwise. Forward-looking statements are neither predictions nor guarantees of future events, circumstances or performance and are inherently subject to known and unknown risks, uncertainties and assumptions that could cause our actual results and events to differ materially from those indicated by those forward-looking statements. We cannot assure you that any of our expectations, estimates, assumptions or projections will be achieved. Factors that could cause actual results and events to differ materially from our expectations, estimates, assumptions or projections include (i) the risks and uncertainties described in the Risk Factors included in Part I, Item 1A of this Form 10-K and (ii) the factors described in Management s Discussion and Analysis of Financial Condition and Results of Operations included in Part II, Item 7 of this Form 10-K. You should not place undue reliance on forward-looking statements, which speak only as of the date hereof. We disclaim any obligation to publicly update any forward-looking statement to reflect subsequent events or circumstances, except as required by law. 
+1 2025 Form 10-K 
+PAR T I Item 1. B usiness. References to Yum China mean Yum China Holdings, Inc. and references to the Company, we, us, and our mean Yum China and its subsidiaries. U.S. dollars, $ or US$ refers to the legal currency of the United States, and RMB or Renminbi refers to the legal currency of the People s Republic of China (the PRC or China ). The KFC, Pizza Hut, Lavazza, Huang Ji Huang, Little Sheep and Taco Bell brands are collectively referred to as the brands or concepts. Throughout this Form 10-K, the terms brands and concepts are used interchangeably and restaurants, stores and units are used interchangeably. General Yum China is the largest restaurant company in China in terms of 2025 system sales. We had $11.8 billion of revenues in 2025 and 18,101 restaurants as of December 31, 2025. Our growing restaurant network consists of our flagship KFC and Pizza Hut brands, as well as emerging brands such as Lavazza, Huang Ji Huang, Little Sheep and Taco Bell. We have the exclusive right to operate and sublicense the KFC, Pizza Hut and, subject to the agreed terms, Taco Bell brands in China, excluding Hong Kong, Macau and Taiwan. We own the intellectual property of the Little Sheep and Huang Ji Huang concepts outright. KFC was the first major global restaurant brand to enter China in 1987. With more than three decades of operations, we have developed extensive operating experience in the China market. We have since grown to become the largest restaurant company in China in terms of 2025 system sales, with 18,101 restaurants covering over 2,500 cities primarily in China as of December 31, 2025. We believe that there are significant opportunities to further expand within China, and we intend to focus our efforts on increasing our geographic footprint in both existing and new cities. As of December 31, 2025, we owned and operated approximately 83% of our restaurants. Franchisees contribute to our revenue through the payment of a combination of upfront franchise fees and on-going royalties based on a percentage of sales, and payments for other transactions with us, such as purchases of food and paper products, advertising services, delivery services and other services. Restaurant Concepts KFC KFC is the leading and the largest quick-service restaurant ( QSR ) brand in China in terms of 2025 system sales. Founded in Corbin, Kentucky by Colonel Harland D. Sanders in 1939, KFC opened its first restaurant in Beijing, China in 1987. As of December 31, 2025, there were 12,997 KFC restaurants in over 2,500 cities across China. In addition to Original Recipe chicken, whole chicken and other chicken products, KFC in China has an extensive menu featuring beef burgers, pork, seafood, rice dishes, congees, fresh vegetables, desserts, coffee, tea and many other products. KFC also seeks to increase revenue from different channels, including dine-in, delivery and takeaway. Pizza Hut Pizza Hut is the leading and the largest casual dining restaurant ( CDR ) brand in China in terms of 2025 system sales and number of restaurants as of December 31, 2025, offering multiple dayparts, including breakfast, lunch, afternoon tea and dinner. Since opening its first China restaurant unit in Beijing in 1990, Pizza Hut has grown rapidly and, as of year-end 2025, there were 4,168 Pizza Hut restaurants in over 1,000 cities across China. Pizza Hut has an extensive menu offering a broad variety of pizzas, pasta, steaks, rice dishes, burgers and other entrees, appetizers, beverages and desserts. Pizza Hut also aims to further drive growth from different channels and occasions, including dine-in, delivery and takeaway. Pizza Hut also offers packaged foods to capture at-home consumption demand. Other Concepts In addition to KFC and Pizza Hut, our restaurant brand portfolio also includes Lavazza, Huang Ji Huang, Little Sheep and Taco Bell. 
+2 2025 Form 10-K 
+Lavazza . In April 2020, we partnered with Luigi Lavazza S.p.A. ( Lavazza Group ), the world-renowned family-owned Italian coffee company, and established a joint venture ( Lavazza joint venture ), to explore and develop the Lavazza coffee concept in China. Lavazza joint venture operates both the coffee shop business and the retail business. Lavazza coffee shops offer an authentic Italian coffee experience. As of December 31, 2025, there were 146 Lavazza coffee shops in mainland China and Hong Kong. The retail business involves selling retail coffee products beyond Lavazza coffee shops. Huang Ji Huang. In April 2020, we completed the acquisition of a controlling interest in Huang Ji Huang. Founded in 2004, Huang Ji Huang had 627 units in China and internationally as of December 31, 2025. Huang Ji Huang primarily operates a franchise model and is an industry-leading simmer pot brand. Little Sheep. Little Sheep, with its roots in Inner Mongolia, China, specializes in Hot Pot cooking, which is very popular in China, particularly during the winter months. Little Sheep had 135 units in both China and international markets as of December 31, 2025. Little Sheep primarily operates a franchise model. Taco Bell. Taco Bell is the world s leading western QSR brand specializing in Mexican-style food, including tacos, burritos, quesadillas, salads, nachos and similar items. We opened our first Taco Bell restaurant in Shanghai, China, in December 2016. As of December 31, 2025, there were 28 Taco Bell units in China. The Company and Yum! Brands Inc. ( YUM ) are currently in the process of renegotiating the terms with respect to the development of the Taco Bell brand in China. For more information, refer to Intellectual Property. Our Strategies Since 2021, we have been implementing our RGM strategy, which stands for Resilience, Growth and Moat. At our Investor Day held in November 2025, we outlined our RGM 3.0 strategy, which focuses on all three aspects resilience, growth and moat powered by two complementary forces, innovation and operational efficiency. Going forward, we intend to continue to maintain our dual focus on system sales and same-store sales growth, and capture new opportunities through front-end segmentation and back-end consolidation. Through an equity and franchise hybrid model, we have been accelerating our store network expansion with the aim of reaching our next milestone of 20,000 stores in 2026 and targeting over 30,000 stores by 2030. In the meantime, we will continue to invest in digitalization and supply chain, our key growth enablers. Continue to strategically expand our restaurant network We are confident in the long-term market opportunities in China and aim to maintain our industry-leading position in the QSR and CDR markets in China with our core brands while continuing to nurture our emerging brands. Further expand geographical coverage . Restaurant chains have a low penetration rate in China, especially in lower-tier cities. Given the rapidly expanding middle class and dining out population as a result of continued economic growth and urbanization, we believe there are significant opportunities to expand within China, and we intend to focus our efforts on increasing our geographic footprint in both existing and new cities. In 2025, we entered into around 270 new cities. By 2030, we aim to nearly double our presence and increase penetration from 2,500 to 4,500 cities. We are tracking over 2,000 cities that do not have a KFC, and 1,500 cities that have KFC but do not yet have a Pizza Hut restaurant. For additional information on the risks associated with this growth strategy, see the section entitled Item 1A. Risk Factors, including the risk factor entitled We may not attain our target development goals; aggressive development could cannibalize existing sales; and new restaurants may not be profitable. Explore new restaurant formats. We are keen to explore various new restaurant formats to support further store expansion and drive sales growth, including different modules, store designs or service models aimed at addressing the needs of different consumer segments and for different occasions. For example, in 2025, we accelerated the growth of our side-by-side modules, KCOFFEE Cafes and KPRO (our light-meal concept), unlocking additional consumption occasions. We believe that our world-class supply chain management, strong digital capabilities and in-depth local know-how will help us to build robust development pipelines to seize the market opportunities. 
+3 2025 Form 10-K 
+Accelerate equity & franchise hybrid model. While we continue to focus on the operation of our Company-owned restaurant units, we also intend to continue accelerating franchise development to unlock additional opportunities for our core brands. We anticipate high franchisee demand for our brands, supported by strong unit economics, operational consistency and multiple store formats including new store models suitable for franchisees, such as KFC s small town and Pizza Hut WOW, to drive restaurant growth. We plan to continue to develop franchise store portfolio over time by focusing on strategic channels and remote locations as well as lower-tier cities previously beyond our reach. As of December 31, 2025, approximately 17% of our restaurants were operated by franchisees. The franchise mix of net new stores increased from 30% in 2024 to 37% in 2025 for KFC and increased from 10% in 2024 to 31% in 2025 for Pizza Hut. We anticipate the franchise mix of net new stores will increase to 40% to 50% for both KFC and Pizza Hut from 2026 to 2028, targeting to raise the total franchise mix to twenties percentages by 2028. Grow emerging brands . Our key growth strategy for emerging brands, such as Lavazza and our Chinese dining business unit, including Huang Ji Huang and Little Sheep, focuses on exploring suitable business models to achieve sustainable growth. In addition, we plan to continue our efforts in product innovation and operational enhancement for these emerging brands to potentially scale up operations in the future. Continue to improve unit-level sales and profits and develop new sources of revenue Focus on food innovation and value proposition. We continue to focus on food innovation and strengthen our value proposition. We are keenly aware of the strength of our core menu items. At the same time, we seek to continue to introduce innovative items to meet evolving consumer preferences and local tastes, drive customer engagement and continue to broaden our brand appeal. Each of our restaurant concepts has proprietary menu items, and emphasizes the preparation of food with high quality ingredients. We continue to develop unique recipes, regionally-inspired menu items and special seasonings to provide appealing, tasty and convenient food choices at competitive prices. In addition, we continue to offer great value for money and attractive marketing campaigns. We continue to pr
+
+## GEOGRAPHIC REVENUE
+FairValueInputsLevel1Member us-gaap:MoneyMarketFundsMember us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0001673358 yumc:RedeemableNoncontrollingInterestMember 2024-12-31 0001673358 us-gaap:DomesticCountryMember 2024-01-01 2024-12-31 0001673358 srt:MinimumMember 2025-01-01 2025-12-31 0001673358 us-gaap:RestrictedStockUnitsRSUMember 2023-01-01 2023-12-31 0001673358 yumc:PizzaHutMember srt:MinimumMember 2025-12-31 0001673358 yumc:HangzhouKfc1Member 2021-12-31 0001673358 us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-12-31 0001673358 yumc:CorporateAndUnallocatedMember us-gaap:OperatingSegmentsMember 2023-01-01 2023-12-31 0001673358 us-gaap:RevolvingCreditFacilityMember 2025-01-01 2025-12-31 0001673358 us-gaap:TransferredAtPointInTimeMember yumc:FranchiseFeesAndIncomeMember 2024-01-01 2024-12-31 0001673358 us-gaap:RetainedEarningsMember 2023-01-01 2023-12-31 0001673358 us-gaap:CorporateNonSegmentMember 2023-01-01 2023-12-31 0001673358 yumc:GovernmentSubsidiesMember 2025-01-01 2025-12-31 0001673358 yumc:GovernmentSubsidiesMember yumc:CompanyRestaurantExpensesMember 2025-01-01 2025-12-31 0001673358 yumc:PizzaHutMember us-gaap:OperatingSegmentsMember 2024-01-01 2024-12-31 0001673358 yumc:FujianSunnerDevelopmentCoLtdMember 2024-01-01 2024-12-31 0001673358 yumc:BuildingsAndImprovementsAndConstructionInProgressMember 2024-12-31 0001673358 srt:ParentCompanyMember 2024-01-01 2024-12-31 0001673358 us-gaap:OperatingSegmentsMember yumc:FoodAndNonFoodRevenuesFromSalesMember yumc:KFCMember 2023-01-01 2023-12-31 0001673358 yumc:StockOptionsAndStockAppreciationRightsMember 2023-01-01 2023-12-31 0001673358 yumc:ReacquiredFranchiseRightsMember 2025-12-31 0001673358 us-gaap:CommonStockMember 2025-12-31 0001673358 us-gaap:RetainedEarningsMember 2022-12-31 0001673358 yumc:PizzaHutMember us-gaap:OperatingSegmentsMember yumc:OtherRevenueMember 2023-01-01 2023-12-31 0001673358 yumc:RevenueFromExternalCustomersMember 2023-01-01 2023-12-31 0001673358 yumc:PizzaHutMember us-gaap:OperatingSegmentsMember yumc:TransactionsWithFranchiseesMember 2023-01-01 2023-12-31 0001673358 us-gaap:BuildingMember srt:MaximumMember 2025-12-31 0001673358 yumc:DaojiaPlatformMember 2025-12-31 000
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of its after-tax profits each year, after making up previous years accumulated losses, if any, to fund statutory surplus reserves, until the aggregate amount of such a fund reaches 50% of its registered capital. As a result, our China subsidiaries are restricted in their ability to transfer a portion of their net assets to us in the form of dividends. At the discretion of their board of directors, as enterprises incorporated in China, our China subsidiaries may allocate a portion of their after-tax profits based on China accounting standards to discretionary surplus reserve. These reserves are not distributable as cash dividends. 
+12 2025 Form 10-K 
+Regulations Relating to Taxation Enterprise Income Tax. Under the China Enterprise Income Tax Law (the EIT Law ) and its implementation rules, a China resident enterprise is subject to Chinese enterprise income tax in respect of its net taxable income derived from sources inside and outside China. The term resident enterprise refers to any enterprise established in China and any enterprise established outside China with a de facto management body within China. Our China subsidiaries are regarded as China resident enterprises by virtue of their incorporation in China, and are generally subject to Chinese enterprise income tax on their worldwide income at the current uniform rate of 25%, unless reduced under certain specific qualifying criteria. Our China subsidiaries may deduct reasonable expenses that are actually incurred and are related to the generation of their income, including interest and other borrowing expenses, amortization of land use rights and depreciation of buildings and certain fixed assets, subject to any restrictions that may be imposed under the EIT Law, its implementation regulations and any applicable tax notices and circulars issued by the Chinese government or tax authorities. Yum China and each subsidiary of Yum China that is organized outside of China intends to conduct its management functio
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,107 @@
+# INNOSPEC INC — 10-K Annual Report
+# Filed: 2026-02-18
+# CIK: 1054905
+# SIC: Chemicals & Allied Products
+# Source: https://www.sec.gov/Archives/edgar/data/1054905/000119312526056502/iosp-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1 
+Business 
+2
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+11 
+Item 1B 
+Unresolved Staff Comments 
+21 
+Item 1C 
+Cybersecurity 
+21 
+Item 2 
+Properties 
+24 
+Item 3 
+Legal Proceedings 
+25 
+Item 4 
+Mine Safety Disclosures 
+25 
+PART II 
+26 
+Item 5 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+26 
+Item 6 
+[Reserved] 
+28 
+Item 7 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+29 
+Item 7A 
+Quantitative and Qualitative Disclosures about Market Risk 
+45 
+Item 8 
+Financial Statements and Supplementary Data 
+47 
+Item 9 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+91 
+Item 9A 
+Controls and Procedures 
+91 
+Item 9B 
+Other Information 
+92 
+Item 9C 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+92 
+PART III 
+92 
+Item 10 
+Directors, Executive Officers and Corporate Governance 
+92 
+Item 11 
+Executive Compensation 
+93 
+Item 12 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+93 
+Item 13 
+Certain Relationships and Related Transactions, and Director Independence 
+93 
+Item 14 
+Principal Accountant Fees and Services 
+93 
+PART IV 
+93 
+Item 15 
+Exhibits and Financial Statement Schedules 
+93 
+Item 16 
+Form 10-K Summary 
+97 
+SIGNATURES 
+98 
+CAUTIONARY STATEMENT RELATIVE TO FORWARD-LOOKING STATEMENTS FORWARD-LOOKING STATEMENTS This Form 10-K contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical facts included or incorporated herein may constitute forward-looking statements. Such forward-looking statements include statements (covered by words like expects, estimates, anticipates, may, could, believes, feels, plans, intends, "outlook" or similar words or expressions, for example) which relate to earnings, growth potential, operating performance, events or developments that we expect or anticipate will or may occur in the future. Although forward-looking statements are believed by management to be reasonable when made, they are subject to certain risks, uncertainties and assumptions, and our actual performance or results may differ materially from these forward-looking statements. You are urged to review our discussion of risks and uncertainties that could cause actual results to differ from forward-looking statements under the heading Risk Factors. Innospec undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. 
+1 
+PART I Item 1 Business When we use the terms Innospec, the Corporation, the Company, Registrant, we, us and our, we are referring to Innospec Inc. and its consolidated subsidiaries unless otherwise indicated or the context otherwise requires. General Innospec develops, manufactures, blends, markets and supplies a wide range of specialty chemicals to customers in the Americas, Europe, the Middle East, Africa and Asia-Pacific. Our Performance Chemicals business creates innovative technology-based solutions for the personal care, home care, agrochemical, construction, mining and other industrial markets. Our Fuel Specialties business specializes in manufacturing and supplying fuel additives that improve fuel efficiency, boost engine performance and reduce harmful emissions. Our Oilfield Services business supplies chemicals for drilling, completion, production and drag reducing agents ("DRA") which make oil and gas exploration and production more cost-efficient and environmentally friendly. Segment Information The Company reports its financial performance based on three reportable segments which are Performance Chemicals, Fuel Specialties and Oilfield Services. For financial information about each of our segments, see Note 3 of the Notes to the Consolidated Financial Statements. Performance Chemicals Our Performance Chemicals segment provides innovative technology-based solutions for our customers processes or products in personal care, home care, agrochemical, construction, mining and other industrial markets. This segment has grown through acquisitions, together with the organic development and marketing of innovative products within these end-markets. Our customers in this segment include large multinational companies, manufacturers of personal care and home care products and global mining, agriculture and building products and other industrial companies. Fuel Specialties Our Fuel Specialties segment develops, manufactures, blends, markets and supplies a range of specialty chemical products used as additives in diesel, jet, marine, fuel oil and other fuels. These fuel additive products help improve fuel efficiency, boost engine performance and reduce harmful emissions; and are most commonly used in the efficient operation of commercial trucking, marine and aviation engines, power station generators, heating oil and other industrial machinery applications. The segment has grown organically through our development of new products to address increased demand for fuel, focus on fuel economy, compatibility of renewable fuels, higher efficiency engine technologies and legislative developments, including tightening global emissions regulations. We are also 
+2 
+applying these fuels technologies to an increasing number of non-fuel applications in a variety of industries. Our customers in this segment include national and multinational oil companies, fuel marketers and retailers, fuel terminals, marine lines, coating and plastics producers and other heavy industrial end-users. Oilfield Services Our Oilfield Services segment develops and markets chemical solutions for drilling, completion, production, DRA and oil and gas applications. Our customers in this segment include multinational public and independent exploration & production and oilfield services companies operating principally in the Americas and the Middle East. Strategy Our strategy is to develop new and improved products and technologies to continue to strengthen and increase our market positions within our Performance Chemicals, Fuel Specialties and Oilfield Services segments. We also actively continue to assess potential strategic acquisitions, partnerships and other opportunities that would enhance and expand our customer offering. We focus on opportunities that would extend our technology base, geographical coverage or product portfolio. We believe that focusing on the Performance Chemicals, Fuel Specialties and Oilfield Services segments, in which the Company has existing experience, expertise and knowledge, provides opportunities for positive returns on investment with reduced operating risk. We also continue to expand our geographical footprint, consistent with the development of global markets. Geographical Area Information Financial information with respect to our domestic and foreign operations is contained in Note 3 of the Notes to the Consolidated Financial Statements. Working Capital The nature of our customers businesses generally requires us to hold appropriate amounts of inventory to respond quickly to customers needs. We therefore require corresponding amounts of working capital for normal operations. We do not believe that this is materially different to our competitors. The purchase of large amounts of certain raw materials across all our segments can create some variations in working capital requirements, but these are planned and managed by the business. We do not believe that our terms of sale or purchase differ markedly from those of our competitors. 
+3 
+Raw Materials and Product Supply We use a variety of raw materials and chemicals in our manufacturing and blending processes and believe that sources for these are adequate for our current operations. Our major purchases are oleochemicals and derivatives, cetane number improvers, ethylene, various solvents, amines, alcohols, olefin and polyacrylamides. These purchases account for a substantial portion of the Company s variable manufacturing costs. These materials are, apart from ethylene for one of our operations in Germany, available from more than one source. Although ethylene is, in theory, available from several sources, it is not permissible to transport ethylene by road in Germany. As a result, we source ethylene for our German operations via a direct pipeline, making it effectively a single source. Ethylene is used as a primary raw material for one of our German operations in products representing approximately 4% of Innospec s sales. We use long-term contracts (generally with fixed or formula-based costs) and advance bulk purchases to help ensure availability and continuity of supply, and to manage the risk of cost increases. From time to time, for some raw materials, the risk of cost increases is managed with commodity swaps. We continue to monitor the situation and adjust our procurement strategies as we deem appropriate. The Company forecasts its raw material requirements substantially in advance and seeks to build long-term relationships and contractual positions with supply partners to safeguard its raw material positions. In addition, the Company operates an extensive risk management program which seeks to source key raw materials from multiple sources and to develop suitable contingency plans. Intellectual Property Our intellectual property, including trademarks, patents and licenses, forms a significant part of the Company s competitive advantage for all our segments. The Company does not, however, consider its business to be dependent on any one trademark, patent or license. The Company has a portfolio of trademarks and patents, both granted and in the application stage, covering products and processes in several jurisdictions. The majority of these patents have at least 10 years life remaining. The trademark Innospec and the Innospec device in Classes 1, 2 and 4 of the International Classification of Goods and Services for the Purposes of the Registration of Marks are registered in all jurisdictions in which the Company has a significant market presence. The Company also has trademark registrations for certain product names in all jurisdictions in which it has a significant market presence. We actively protect our inventions, new technologies, and product developments by filing patent applications and maintaining trade secrets. In addition, we vigorously participate in patent opposition proceedings around the world where necessary to secure a technology base free from infringement of intellectual property. Customers In 2025 and 2024, the net sales to any single customer did not exceed 10% of the group's net sales. In 2023, the Company had a significant customer in the Oilfield Services segment which accounted for $265.2 million and 13.6% of the group's net sales. 
+4 
+Competition Certain markets in which the Company operates are subject to significant competition. The Company competes based on a number of factors including, but not limited to, product quality and performance, specialized product lines, customer relationships and service. Performance Chemicals: Within the Performance Chemicals segment, we operate in the personal care, home care, agrochemical, construction, mining and other industrial markets, which are highly fragmented, and the Company experiences substantial competition from a large number of multinational and specialty chemical suppliers in each geographical market. Our competitive position in these markets is based on us supplying a superior, diverse product portfolio which solves customer problems or enhances the performance of new or existing products. In a number of specialty chemicals markets, we also supply niche product lines, where we enjoy market-leading positions. Fuel Specialties: The Fuel Specialties segment is generally characterized by a small number of competitors, none of which hold a dominant position. We consider our competitive edge to be our proven technical development capacity, independence from major oil companies and strong long-term customer relationships. We believe we remain the world s only producer of tetra ethyl lead for use in aviation gasoline, which we market as our AvGas product line. Oilfield Services: Our Oilfield Services segment is very fragmented and although there are a small number of very large competitors, there are also a large number of smaller players focused on specific technologies or regions. Our competitive strength is our proven technology, broad regional coverage and strong customer relationships. Research, Development, Testing and Technical Support Research, product/application development and technical support ( R&D ) provide the basis for the growth of our Performance Chemicals, Fuel Specialties and Oilfield Services segments. Accordingly, the Company s R&D activity has been, and will continue to be, focused on the development of new products and formulations. Our R&D department provides technical support for all of our reporting segments. Expenditures to support R&D services were $51.0 million, $56.5 million and $49.0 million in 2025, 2024 and 2023, respectively. We believe that our proven technical capabilities provide us with a significant competitive advantage. Our Performance Chemicals business has launched significant new mild surfactants, which are well aligned with developing customer needs. In addition, the business has developed further formulations in emollients, silicones and surfactants for the personal care, home care, agrochemical, construction, mining and other industrial markets. Fuel Specialties has continued to innovate, focused on bringing new technologies to market which reduce pollution and improve fuel economy, including detergents and cold flow improvers. In Oilfield Services, new technologies have been introduced to improve the hydrocarbon yield from customers operations and to protect assets, including friction modifiers, biocide formulations and additives to improve drilling muds. Environmental Matters We are subject to environmental laws in the countries in which we operate and conduct business. Management believes that the Company is in material compliance with applicable environmental laws and has made the necessary provisions for the continued costs of compliance with environmental laws. 
+5 
+Our principal site giving rise to asset retirement obligations is our Ellesmere Port site in the United Kingdom ( U.K. ). There are also asset retirement obligations and environmental remediation liabilities on a much smaller scale in respect of other sites. We regularly review the future expected costs of remediation, and the current estimate is reflected in the Consolidated Balance Sheets and Note 13 of the Notes to the Consolidated Financial Statements. The European Union ( E.U. ) legislation known as the Registration, Evaluation and Authorization of Chemical Substances Regulations ( REACH ) requires most of the subs
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer in the Oilfield Services segment which accounted for $265.2 million and 13.6% of the group's net sales. 
+4 
+Competition Certain markets in which the Company operates are subject to significant competition. The Company competes based on a number of factors including, but not limited to, product quality and performance, specialized product lines, customer relationships and service. Performance Chemicals: Within the Performance Chemicals segment, we operate in the personal care, home care, agrochemical, construction, mining and other industrial markets, which are highly fragmented, and the Company experiences substantial competition from a large number of multinational and specialty chemical suppliers in each geographical market. Our competitive position in these markets is based on us supplying a superior, diverse product portfolio which solves customer problems or enhances the performance of new or existing products. In a number of specialty chemicals markets, we also supply niche product lines, where we enjoy market-leading positions. Fuel Specialties: The Fuel Specialties segment is generally characterized by a small number of competitors, none of which hold a dominant position. We consider our competitive edge to be our proven technical development capacity, independence from major oil companies and strong long-term customer relationships. We believe we remain the world s only producer of tetra ethyl lead for use in aviation gasoline, which we market as our AvGas product line. Oilfield Services: Our Oilfield Services segment is very fragmented and although there are a small number of very large competitors, there are also a large number of smaller players focused on specific technologies or regions. Our competitive strength is our proven technology, broad regional coverage and strong customer relationships. Research, Development, Testing and Technical Support Research, product/application development and technical support ( R&D ) provide the b
+
+---
+Doc size: 2048KB (capped at 2MB)

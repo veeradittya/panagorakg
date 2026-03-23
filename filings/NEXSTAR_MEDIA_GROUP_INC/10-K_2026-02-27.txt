@@ -1,0 +1,100 @@
+# NEXSTAR MEDIA GROUP INC — 10-K Annual Report
+# Filed: 2026-02-27
+# CIK: 1142417
+# SIC: Television Broadcasting Stations
+# Source: https://www.sec.gov/Archives/edgar/data/1142417/000119312526078361/nxst-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+18 
+ITEM 1B. 
+Unresolved Staff Comments 
+28 
+ITEM 1C. 
+Cybersecurity 
+28 
+ITEM 2. 
+Properties 
+28 
+ITEM 3. 
+Legal Proceedings 
+29 
+ITEM 4. 
+Mine Safety Disclosures 
+29 
+PART II 
+ITEM 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+30 
+ITEM 6. 
+Reserved 
+31 
+ITEM 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+32 
+ITEM 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+44 
+ITEM 8. 
+Financial Statements and Supplementary Data 
+44 
+ITEM 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+44 
+ITEM 9A. 
+Controls and Procedures 
+44 
+ITEM 9B. 
+Other Information 
+45 
+ITEM 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+45 
+PART III 
+ITEM 10. 
+Directors, Executive Officers and Corporate Governance 
+46 
+Information about our Executive Officers 
+46 
+ITEM 11. 
+Executive Compensation 
+48 
+ITEM 12. 
+Security Ownership of Certain Beneficial Owners and Management, and Related Stockholder Matters 
+48 
+ITEM 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+48 
+ITEM 14. 
+Principal Accountant Fees and Services 
+48 
+PART IV 
+ITEM 15. 
+Exhibits and Financial Statement Schedules 
+49 
+ITEM 16. 
+Form 10-K Summary 
+49 
+Index to Exhibits 
+50 
+Index to Financial Statements 
+F- 1 
+General As used in this Annual Report on Form 10-K and unless the context indicates otherwise, Nexstar refers to Nexstar Media Group, Inc., a Delaware corporation, and its consolidated wholly owned and majority-owned subsidiaries, Nexstar Media refers to Nexstar Media Inc., a Delaware corporation and Nexstar s wholly owned subsidiary; the Company refers to Nexstar and the variable interest entities ( VIEs ) required to be consolidated in our financial statements; and all references to we, our, ours, and us refer to Nexstar. Nexstar Media has time brokerage agreements ( TBAs ), shared services agreements ( SSAs ), joint sales agreements ( JSAs ), local marketing agreements ( LMAs ) and outsourcing agreements (which we generally and collectively refer to as local service agreements ) relating to the television stations owned by VIEs but does not own any of the equity interests in these entities. For a description of the relationship between Nexstar and these VIEs, see Item 1, Business. The information in this Annual Report on Form 10-K includes information related to Nexstar and the VIEs with which Nexstar has relationships. In accordance with accounting principles generally accepted in the United States ( U.S. GAAP ) and as discussed in Note 2 to our Consolidated Financial Statements in Part IV, Item 15(a) of this Annual Report on Form 10-K, the financial results of the consolidated VIEs are included in the Consolidated Financial Statements contained herein. In the context of describing ownership of television stations in a particular market, the term duopoly refers to owning or deriving the majority of the economic benefit, through ownership or local service agreements, from two or more stations in a particular market. For more information on how we derive economic benefit from a duopoly, see Item 1, Business. There are 210 generally recognized television markets, known as Designated Market Areas ( DMAs ), in the United States. DMAs are ranked in size according to various factors based upon actual or potential audience. DMA rankings contained in this Annual Report on Form 10-K are from the 2025-2026 Nielsen Local Television Market Universe Estimates as published by The Nielsen Company ( Nielsen ). Cautionary Note Regarding Forward-Looking Statements This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended ( Exchange Act ). All statements other than statements of historical fact are forward-looking statements for purposes of federal and state securities laws, including but not limited to: the ultimate outcome, benefits and synergies of the proposed merger between Nexstar and TEGNA Inc., a Delaware corporation ( TEGNA ) and the timing thereof; the risks and uncertainties of current economic factors that are beyond our control, such as tariffs and other trade barriers, capital markets volatility, sustained inflation, high interest rates and supply chain disruptions; any projections or expectations of earnings, revenue, financial performance, liquidity and capital resources or other financial items; any assumptions or projections about the television broadcasting industry; any statements of our plans, strategies and objectives for our future operations, performance, liquidity and capital resources or other financial items; any statements concerning proposed new products, services or developments; any statements regarding future economic conditions or performance; any statements of belief; and any statements of assumptions underlying any of the foregoing. Forward-looking statements may include the words may, will, should, could, would, predicts, potential, continue, expects, anticipates, future, intends, plans, believes, estimates and other similar words. Although we believe that the expectations reflected in any of our forward-looking statements are reasonable, actual results could differ from a projection or assumption in any of our forward-looking statements. Our future financial position and results of operations, as well as any forward-looking statements, are subject to change and inherent risks and uncertainties discussed under Item 1A, Risk Factors located elsewhere in this Annual Report on Form 10-K and in our other filings with the United States Securities and Exchange Commission ( SEC ). The forward-looking statements made in this Annual Report on Form 10-K are made only as of the date hereof, and we do not have or undertake any obligation to update any forward-looking statements to reflect subsequent events or circumstances. 
+3 
+PART I Item 1. Bu siness Company Overview We are a leading diversified media company that produces and distributes engaging local and national news, sports and entertainment content across our television and digital platforms, including more than 317,000 hours of programming produced annually by our business units. Nexstar owns America s largest local television broadcasting group comprised of top network affiliates, with over 200 owned or partner stations in 116 U.S. markets in 40 states and the District of Columbia reaching over 225 million people. Nexstar s national television properties include an 80.8% interest in The CW Network, LLC ( The CW ), the fifth major broadcast network in the U.S., NewsNation, a national news network providing News for All Americans, two popular entertainment multicast networks, Antenna TV and REWIND TV, and a 31.3% ownership stake in Television Food Network, G.P. ( TV Food Network ). The Company s portfolio of digital assets, including its local TV station apps and websites, The Hill and NewsNationNow.com, is collectively a Top 10 U.S. digital news and information property, attracting over 90 million monthly unique users on average during 2025 according to Comscore. On August 18, 2025, we entered into a definitive Agreement and Plan of Merger (the Merger Agreement ) to acquire the outstanding equity of TEGNA (such transaction, the Merger ). TEGNA owns and operates 64 television stations and two radio stations in 51 DMAs in the U.S. The Merger is anticipated to close by the second half of 2026. For more information see the Merger Agreement with TEGNA paragraph later in this Item 1. We are a Delaware corporation formed in 1996. Our principal offices are at 545 E. John Carpenter Freeway, Suite 700, Irving, TX 75062. Our telephone number is (972) 373-8800 and our website is http://www.nexstar.tv . The information contained on, or accessible through, our website is not part of this Annual Report on Form 10-K and is not incorporated herein by reference. Competitive Strengths Focus on Broadcast Television. The substantial majority of our assets, including our television stations, The CW and our multicast networks, are broadcast television assets. Our television stations are affiliates of CBS, FOX, NBC and ABC (together, the Big 4 ), as well as The CW and MyNetworkTV ( MNTV ). We are the first, second or third largest affiliate group for each broadcast network. According to Nielsen, the Big 4 broadcast networks carry the nation s most-watched programming by a significant margin (including the substantial majority of National Football League ( NFL ) games). The broadcast television model has several inherent advantages: (i) it reaches more viewers than any other distribution model, including multichannel and other select pay television subscribers as well as the 18% of the population that only receives their television programming over the air, (ii) it is the preferred distribution platform for most professional sports organizations delivering the widest reach to their fanbases, thereby enhancing franchise value, and (iii) it remains under-monetized as broadcast stations receive a lower percentage of total programming fees paid to content providers by distributors (e.g., cable companies, satellite companies and multichannel streaming platform providers) than the aggregate viewership they generate. Unique Combination of Scaled Local Audiences and Powerful National Reach. We are the largest local television broadcasting company in the United States, generating $4.9 billion of revenue for the year ended December 31, 2025. Our and our partners over 200 broadcast stations in 116 local markets reach approximately 70% of U.S. television households (without applying the Federal Communications Commission s ( FCC ) ultra-high-frequency ( UHF ) discount). This local reach is augmented by the national reach we have via our broadcast network, The CW, and our national news network, NewsNation. According to Nielsen, The CW reaches over 128 million television households, equal to the reach of the ABC, CBS, FOX and NBC broadcast networks, and NewsNation reaches approximately 58 million television households, virtually equivalent to the reach of Fox News, MS NOW and CNN. Together, Nexstar can provide both national reach and activation of local audiences at scale, representing a differentiated and attractive value proposition for advertisers and brands in an increasingly fragmented marketplace. Leading Local Franchises. We are focused on building and maintaining leading local franchises in the 116 local markets we serve. In total, we employ approximately 6,000 journalists and 1,600 salespeople, produce over 317,000 hours of programming, and have relationships with over 50,000 advertisers. For the year ended December 31, 2025, excluding our owned network assets, the Company earned approximately 68% of its advertising revenue from local (non-network) programming. Recognizable Local Brands . Our television stations have typically been established in our markets for decades. Our long-term, track record of reliable local news and community outreach initiatives, provides us with strong local brand recognition and affinity which helps generate viewership and advertising sales. High Quality, Independent Local Programming . Our strong local brands are primarily attributable to our high-quality local programming, including news, lifestyle, sports and syndicated programming. All of the news programming produced by Nexstar stations rated by a third-party watchdog group, Ad Fontes, is judged to be politically neutral. In 
+4 
+addition, according to Ad Fontes, virtually all of the news programming has a reliability rating of reliable; analysis/fact reporting. In 2025, journalists at our stations won 531 awards for their reporting, including 56 Edward R. Murrow awards and 121 Emmy awards. Local Sales Force . We employ a local sales force in each of our markets which capitalize on our investment in local programming, websites and connected television ( CTV ) or over-the-top ( OTT ) applications by selling advertising on these platforms as well as selling third-party digital advertising inventory to enhance advertiser campaigns. Presence in Contested Election Markets . In even-numbered years, when most elections are held, we have historically generated substantial revenue from locally driven political advertising. Given our expansive geographic reach, our station footprint typically overlaps with over 80% of contested election markets, enabling us to capture a relatively consistent share of total television broadcasting political advertising spending in election years. Duopolies . We own or provide services to more than one station in more than half of our markets which enhances our service to local communities, broadens our audience share, increases our revenue share, and enables significant operating efficiencies. Strong National Brands. We have a portfolio of scaled, strong national brands that enables us to meaningfully engage with national advertisers. Our primary national brands include The CW, NewsNation and The Hill. The CW is America s fifth national broadcast network. NewsNation is our news network providing fact-based, unbiased News for All Americans. The Hill is the nation s leading, independent political digital media platform. Diversified Revenue Streams. Our revenue streams are diversified by geography, affiliation and source. In 2025, we generated 59% of our revenue from distribution, 40% from advertising (approximately 39% from commercial sources and 1% from political sources), and 1% from other sources. No single customer generated more than 13% of our revenue; no single market generated more than 3% of our revenue; and our affiliations are diverse with no network affiliate group representing more than 25% of our 2025 combined core and political advertising net revenue. Intense Operational Focus . We emphasize strict controls on operating and programming costs in order to increase net income, Adjusted EBITDA and Adjusted Free Cash Flow. We continually seek to identify and implement cost savings at each of our stations, the stations we provide services to, and other business units. For example, during the fourth quarter of 2024, we implemented a strategic, operational restructuring which enabled us to reduce overall operating expenses before one-time and transaction-related expenses, from 2024 to 2025. We achieved these cost reductions by reducing middle management in our ad sales division, streamlining work processes at our local markets to improve productivity, and improving integration of The CW and The Hill into the broader organization, among other initiatives. In addition, we are able to achieve economies of scale by leveraging our size and corporate management expertise by providing programming, financial, sales and marketing support to our ow
+
+## GEOGRAPHIC REVENUE
+mation in this Annual Report on Form 10-K includes information related to Nexstar and the VIEs with which Nexstar has relationships. In accordance with accounting principles generally accepted in the United States ( U.S. GAAP ) and as discussed in Note 2 to our Consolidated Financial Statements in Part IV, Item 15(a) of this Annual Report on Form 10-K, the financial results of the consolidated VIEs are included in the Consolidated Financial Statements contained herein. In the context of describing ownership of television stations in a particular market, the term duopoly refers to owning or deriving the majority of the economic benefit, through ownership or local service agreements, from two or more stations in a particular market. For more information on how we derive economic benefit from a duopoly, see Item 1, Business. There are 210 generally recognized television markets, known as Designated Market Areas ( DMAs ), in the United States. DMAs are ranked in size according to various factors based upon actual or potential audience. DMA rankings contained in this Annual Report on Form 10-K are from the 2025-2026 Nielsen Local Television Market Universe Estimates as published by The Nielsen Company ( Nielsen ). Cautionary Note Regarding Forward-Looking Statements This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended ( Exchange Act ). All statements other than statements of historical fact are forward-looking statements for purposes of federal and state securities laws, including but not limited to: the ultimate outcome, benefits and synergies of the proposed merger between Nexstar and TEGNA Inc., a Delaware corporation ( TEGNA ) and the timing thereof; the risks and uncertainties of current economic factors that are beyond our control, such as tariffs and other trade barriers, capital markets volatility, sustained inflation, high interest rates and supply chain disruptions; any projections or expectations of earnings, revenue, financial performance, liquidity and capital resources or other financial items; an
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customers could have a material adverse effect on our business, operating results, or financial condition. In addition, any consolidation of our customers could reduce the number of customers to whom our services could be sold and increase our revenue concentration. Our advertising revenue and operating results may be affected by big tech and other media and technology competitors, economic downturns, geopolitical events and other factors outside of our control. We derive a significant amount of our revenue from the sale of television and digital advertising. Our ability to sell advertising time depends on numerous factors that may be beyond our control, including: the health of the economy; the popularity of our programming, including trust in news organizations; fluctuations in pricing for advertising (including numerous large technology and media companies); the activities of our competitors; and the amount of demand for political advertising in election years. Because businesses generally reduce their advertising budgets during economic recessions or downturns, our reliance upon advertising revenue makes our operating results susceptible to prevailing economic conditions. In addition, our programming may not attract sufficient targeted viewership, and we may not achieve favorable ratings. Our ratings depend partly upon unpredictable and volatile factors beyond our control, such as viewer preferences, competing programming and the availability of other entertainment activities. A shift in viewer preferences could cause our programming not to gain popularity or to decline in popularity, which could cause our advertising revenue to decline. Further, we and the programming providers upon which we rely may not be able to anticipate, and effectively react to, shifts in viewer tastes and interests in our markets. In addition, we may experience a loss of advertising revenue and incur additional broadcasting expenses due to preemption of our regularly scheduled pro
+
+---
+Doc size: 2038KB (capped at 2MB)

@@ -1,0 +1,40 @@
+# WIPRO LTD — 20-F Annual Report
+# Filed: 2025-05-22
+# CIK: 1123799
+# SIC: Services-Computer Programming Services
+# Source: https://www.sec.gov/Archives/edgar/data/1123799/000095017025076303/wit-20250331.htm
+
+## BUSINESS DESCRIPTION
+(Not extracted)
+
+## RISK FACTORS
+, Management s Discussion and Analysis of Financial Condition and Results of Operations, and Quantitative and Qualitative Disclosure About Market Risk. The forward-looking statements contained herein are identified by the use of terms and phrases such as ambition, anticipate, believe, could, estimate, expect, intend, may, plan, objectives, outlook, probably, project, will, seek, target and similar terms and phrases. Such forward-looking statements include, but are not limited to, statements concerning: our strategy to finance our operations, including our planned construction and expansion; future marketing efforts, advertising campaigns, and promotional efforts; future growth and market share projections, including projections regarding developments in technology and the effect of growth on our management and other resources; our expectations of the potential impact of pandemics and public health crises, such as the Coronavirus Disease 2019 ( COVID-19 ) pandemic, and related public health measures on our business, the businesses of our customers, vendors and partners, and the economy; the effect of facility expansions on our fixed costs; our future expansion plans; our future acquisition strategy, including plans to acquire or make investments in complementary businesses, technologies, services or products, or enter into strategic partnerships with parties who can provide access to those assets; the future impact of our acquisitions; our strategy and intentions regarding new product branding; the future competitive landscape and the effects of different pricing strategies; the effect of current tax laws, including the branch profit tax; the effect of future tax laws on our business; the outcome of any legal proceeding, hearing, or dispute (including tax hearings) and the resulting effects on our business; 
+ - 1 - 
+ 
+ Table of Contents 
+ 
+ our ability to implement and maintain effective internal control over financial reporting; projections that the legal proceedings and claims that have arisen in the ordinary course of our business will not have a material and adverse effect on the results of operations or the financial position of the Company; expectations of future dividend payouts or other corporate actions, such as a buyback or bonus issue; projections that our cash and cash equivalent along with cash generated from operations will be sufficient to meet our working capital requirements and certain of our obligations; our compensation strategy; projections regarding currency transactions, including the effect of exchange rates on the Indian Rupee and the U.S. Dollar; the nature of our revenue streams; the effect of a strategically located network of software development centers, and whether it will provide us with cost advantages; our ability to anticipate and develop new services and enhance existing services in order to keep pace with rapid changes in technology; projections regarding future economic policy, legislation, foreign investment, tariffs and trade wars, currency exchange and other policy matters that may affect our business; the nature and flexibility of our business model; expectations as to our future revenue, margins, expenses and capital requirements; and our exposure to market risks. We wish to ensure that all forward-looking statements are accompanied by meaningful cautionary statements, so as to ensure to the fullest extent possible the protections of the safe harbor established in the Private Securities Litigation Reform Act of 1995. Accordingly, all forward-looking statements are qualified in their entirety by reference to, and are accompanied by, the discussion of certain important factors that could cause actual results to differ materially from those projected in such forward-looking statements in this report, including the sections entitled Risk Factors and Management s Discussion and Analysis of Financial Condition and Results of Operations. We caution the reader that this list of important factors may not be exhaustive. We operate in rapidly changing businesses, and new risk factors emerge from time to time. We cannot predict every risk factor, nor can we assess the impact, if any, of all such risk factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those projected in any forward-looking statements. Readers are cautioned not to place undue reliance on these forward-looking statements, which reflect management s analysis only as of the date hereof. In addition, readers should carefully review the other information in this Annual Report on Form 20-F and in the Company s periodic reports and other documents filed with the Securities and Exchange Commission ( SEC ) from time to time. 
+ - 2 - 
+ 
+ Table of Contents 
+ 
+ TABLE OF CONTENTS 
+
+ Page 
+
+ PART I 
+ 4 
+
+ Item 1. 
+ Identity of Directors, Senior Management and Advisers 
+ 4 
+
+ Item 2. 
+ Offer Statistics and Expected Timetable 
+ 4 
+
+ Item 3. 
+ 
+
+---
+Document size: 13516 KB

@@ -1,0 +1,14 @@
+# EBAY INC. — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 1065088
+# SIC: Services-Business Services, NEC
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+12 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment"> ebay:segment ebay:tranche ebay:defendant ebay:company 0001065088 2025-01-01 2025-12-31 0001065088 2025-06-30 0001065088 2026-02-13 0001065088 2025-10-01 2025-12-31 0001065088 ebay:JamieIannoneMember 2025-10-01 2025-12-31 0001065088 ebay:JamieIannoneMember 2025-12-31 </xbrli:peri
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

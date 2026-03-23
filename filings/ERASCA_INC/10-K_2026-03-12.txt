@@ -1,0 +1,97 @@
+# ERASCA INC — 10-K Annual Report
+# Filed: 2026-03-12
+# CIK: 1761918
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1761918/000119312526104150/eras-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+45 
+Item 1B. 
+Unresolved Staff Comments 
+98 
+Item 1C. 
+Cybersecurity 
+99 
+Item 2. 
+Properties 
+100 
+Item 3. 
+Legal Proceedings 
+100 
+Item 4. 
+Mine Safety Disclosures 
+100 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+101 
+Item 6. 
+[Reserved] 
+101 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+102 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+114 
+Item 8. 
+Financial Statements and Supplementary Data 
+114 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+114 
+Item 9A. 
+Controls and Procedures 
+115 
+Item 9B. 
+Other Information 
+115 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+115 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+116 
+Item 11. 
+Executive Compensation 
+116 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+116 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+116 
+Item 14. 
+Principal Accountant Fees and Services 
+116 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+117 
+Item 16 
+Form 10-K Summary 
+117 
+i 
+PA RT I Forward-Looking Statements and Market Data This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act), and Section 27A of the Securities Act of 1933, as amended (the Securities Act). All statements other than statements of historical facts contained in this Annual Report on Form 10-K, including statements regarding our future results of operations and financial position, business strategy, research and development plans, the anticipated timing, costs, design and conduct of our ongoing and planned preclinical studies and planned clinical trials for our product candidates, the timing and likelihood of regulatory filings and approvals for our product candidates, our ability to commercialize our product candidates, if approved, the pricing and reimbursement of our product candidates, if approved, the impact of global geopolitical and economic events and war on our business, the potential to develop future product candidates, the potential benefits of current and future licenses, acquisitions, and strategic arrangements with third parties, and our intent to enter into any future strategic arrangements, the timing and likelihood of success, plans and objectives of management for future operations, and future results of anticipated product development efforts, are forward-looking statements. These statements involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. This Annual Report on Form 10-K also contains estimates and other statistical data made by independent parties and by us relating to market size and growth and other data about our industry. This data involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such estimates. In addition, projections, assumptions and estimates of our future performance and the future performance of the markets in which we operate are necessarily subject to a high degree of uncertainty and risk. In some cases, you can identify forward-looking statements by terms such as may, will, should, expect, plan, anticipate, could, intend, target, project, contemplate, believe, estimate, predict, potential or continue or the negative of these terms or other similar expressions. The forward-looking statements in this Annual Report on Form 10-K are only predictions. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our business, financial condition and results of operations. These forward-looking statements speak only as of the date of this Annual Report on Form 10-K and are subject to a number of risks, uncertainties and assumptions, including those described in Part I, Item 1A, Risk Factors. The events and circumstances reflected in our forward-looking statements may not be achieved or occur, and actual results could differ materially from those projected in the forward-looking statements. Moreover, we operate in an evolving environment. New risk factors and uncertainties may emerge from time to time, and it is not possible for management to predict all risk factors and uncertainties. Except as required by applicable law, we do not plan to publicly update or revise any forward-looking statements contained herein, whether as a result of any new information, future events, changed circumstances or otherwise. All forward-looking statements are qualified in their entirety by this cautionary statement, which is made under the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. This Annual Report on Form 10-K includes our trademarks as well as trademarks, tradenames and service marks that are the property of other organizations. Solely for convenience, trademarks and tradenames referred to in this Annual Report on Form 10-K appear without the and symbols, but those references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights, or that the applicable owner will not assert its rights, to these trademarks and tradenames. We maintain a website at www.erasca.com, to which we regularly post copies of our press releases as well as additional information about us. Our filings with the Securities and Exchange Commission (SEC) are available free of charge through our website as soon as reasonably practicable after being electronically filed with or furnished to the SEC. Information contained in our website does not constitute a part of this report or our other filings with the SEC. Risk Factor Summary Below is a summary of the principal factors that make an investment in our common stock speculative or risky. This summary does not address all of the risks that we face. Additional discussion of the risks summarized in this risk factor summary, and other risks that we face, can be found below under the heading Risk Factors in Item 1A of Part I of this Annual Report on Form 10-K, and should be carefully considered, together with other information in this Annual Report on Form 10-K and our other filings with the SEC before making investment decisions regarding our common stock. 
+1 
+We have a limited operating history, have incurred significant operating losses since our inception and expect to incur significant losses for the foreseeable future. We may never generate any revenue or become profitable or, if we achieve profitability, we may not be able to sustain it. We will require substantial additional capital to finance our operations, and a failure to obtain this necessary capital when needed on acceptable terms, or at all, could force us to delay, limit, reduce or terminate our development programs, commercialization efforts or other operations. If we are unable to successfully develop and commercialize our product candidates or experience significant delays in doing so, our business will be materially harmed. Our approach to the discovery and development of product candidates is unproven, and we do not know whether we will be able to develop any products of commercial value, or if competing approaches will limit the commercial value of our product candidates. Clinical and preclinical development involves a lengthy and expensive process with an uncertain outcome, and the results of preclinical studies and early clinical trials are not necessarily predictive of future results. Our product candidates may not have favorable results in clinical trials, if any, or receive regulatory approval on a timely basis, or at all. Any difficulties or delays in the commencement or completion, or termination or suspension, of our current or future clinical trials could result in increased costs to us, delay or limit our ability to generate revenue and adversely affect our commercial prospects. Use of our product candidates could be associated with side effects, adverse events or other properties or safety risks, which could delay or preclude approval, cause us to suspend or discontinue clinical trials, abandon a product candidate, limit the commercial profile of an approved label or result in other significant negative consequences that could severely harm our business, prospects, operating results and financial condition. We rely on third parties to conduct many of our preclinical studies and clinical trials and to manufacture our product candidates, and these third parties may not perform satisfactorily. We face significant competition from entities that have developed or may develop product candidates for cancer, including companies developing novel treatments and technology platforms. If our competitors develop technologies or product candidates more rapidly than we do or their technologies are more effective, our business and our ability to develop and successfully commercialize products may be adversely affected. Our success depends on our ability to protect our intellectual property and our proprietary technologies. The trading price of the shares of our common stock has been, and is likely to continue to be highly volatile, and purchasers of our common stock could incur substantial losses. 
+2 
+Item 1. Business. Overview At Erasca, our name is our mission: to eras e ca ncer. We are a clinical-stage precision oncology company singularly focused on discovering, developing, and commercializing therapies for patients with RAS/MAPK pathway-driven cancers. Molecular alterations in RAS, the most frequently mutated oncogene, and the MAPK pathway, one of the most frequently altered signaling pathways in cancer, account for more than five million new patients diagnosed with cancer globally each year. Our company was co-founded by leading pioneers in precision oncology and RAS targeting to create novel therapies and combination regimens designed to comprehensively shut down the RAS/MAPK pathway for the treatment of patients with cancer. Our focused RAS/MAPK pathway pipeline comprises modality-agnostic programs aligned with our three therapeutic strategies of: (1) targeting key upstream and downstream signaling nodes in the RAS/MAPK pathway; (2) targeting RAS directly; and (3) targeting escape routes that emerge in response to treatment. Our pipeline enables us to pursue a systematic, data-driven, portfolio-wide clinical development effort to identify therapeutic approaches with the goal of prolonging survival in numerous patient populations with high unmet medical needs. Our modality-agnostic approach aims to allow us to selectively and potently target critical signaling nodes with the most appropriate modality, including small and large molecule therapeutics. Our purpose-built pipeline includes two clinical-stage programs (ERAS-0015, a pan-RAS molecular glue; and ERAS-4001, a pan-KRAS inhibitor), and ERAS-12, a discovery-stage program (an EGFR D2/D3 biparatopic antibody), for which we have identified a lead candidate. We believe our world-class team s capabilities and experience, further guided by our scientific advisory board (SAB), which includes the world s leading experts in the RAS/MAPK pathway, uniquely position us to achieve our bold mission of erasing cancer. Of the more than five million new patients diagnosed globally per year with cancers driven by RAS/MAPK pathway molecular alterations, most have limited or no targeted therapy treatment options. While the RAS/MAPK pathway has been well characterized and validated based on multiple compounds approved or in development targeting discrete signaling nodes in the cascade, most of these compounds face resistance and tolerability challenges, highlighting the need for new approaches to target this pathway. We believe that to effectively shut down a pathway that signals as promiscuously as RAS/MAPK, a holistic approach must be taken to target not just individual nodes, but multiple nodes and cooperative mechanisms in parallel. As depicted in the following figure and described below, we are pursuing three therapeutic strategies that may be used in combination with the goal of comprehensively, and perhaps synergistically, shutting down the RAS/MAPK pathway. 
+3 
+1. Target upstream and downstream MAPK pathway nodes with single agents and combinations intended to clamp these oncogenic drivers. We are evaluating drug combinations targeting upstream and downstream nodes to shut down, or clamp, the signaling of various oncogenic drivers, such as receptor tyrosine kinases (RTKs), NF1, RAS, RAF, and MEK alterations, trapped between the inhibited nodes. For example, we are exploring ERAS-0015 in combination with an anti-EGFR monoclonal antibody for the treatment of patients with metastatic colorectal cancer. 2. Target RAS, the midstream MAPK pathway node, directly with single agents and combinations. Our RAS-targeting franchise, ERAS-0015 and ERAS-4001, consists of molecules that are designed to potently and selectively bind to oncogenic RAS alterations (e.g., G12X, G13X +/- Q61X) and to block activation of wildtype RAS isoforms that mediate tumor resistance. These molecules are designed to prevent RAS-mediated signaling either by preventing RAS from binding to downstream effector proteins by forming a RAS-Cyclophilin A protein complex (as in the case of ERAS-0015) or by locking KRAS in the inactive GDP-bound state (as in the case of ERAS-4001). 3. Target escape routes enabled by other proteins or pathways to further disrupt RAS/MAPK pathway signaling. RAS-driven cancers utilize escape routes, namely cooperative mechanisms, to develop resistance to targeted therapies. By shutting down these potential escape routes, we aim to provide more robust inhibition of oncogenic signaling. To pursue these therapeutic strategies, we have assembled and are developing a pipeline targeting multiple signaling nodes to shut down the RAS/MAPK pathway. We intend to study these agents either alone or in rational combinations across multiple relevant tumor types. The following table summarizes our current modality-agnostic pipeline to eradicate RAS/MAPK pathway-driven cancers. We in-licensed our RAS-targeting franchise in May 2024. The RAS targeting landscape can be divided into pan-RAS, pan-KRAS, and mutant-selective approaches. We believe pan-RAS and pan-KRAS targeting molecules can address a broad population of patients with G12X, G13X, and possibly Q61X mutations, and also have the potential to address or prevent resistance
+
+## GEOGRAPHIC REVENUE
+:CorporateDebtSecuritiesMember us-gaap:ShortTermInvestmentsMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2024-12-31 0001761918 us-gaap:ResearchMember us-gaap:DomesticCountryMember 2025-12-31 0001761918 us-gaap:SubsequentEventMember eras:UnderwrittenOfferingMember 2026-01-01 2026-01-31 0001761918 us-gaap:CommonStockMember eras:UnderwrittenOfferingMember us-gaap:SubsequentEventMember 2026-01-31 0001761918 eras:ForHoldersOfMoreThanTenPercentOfCombinedVotingPowerOfAllClassesOfStockMember srt:MinimumMember us-gaap:EmployeeStockOptionMember 2025-01-01 2025-12-31 0001761918 eras:AffiniTTherapeuticsIncMember 2024-01-01 2024-12-31 0001761918 eras:OrphanDrugCreditCarryforwardMember us-gaap:DomesticCountryMember 2025-01-01 2025-12-31 0001761918 eras:OptionsToPurchaseCommonStockMember us-gaap:SubsequentEventMember 2026-01-01 2026-03-12 0001761918 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-01-01 2025-12-31 0001761918 us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0001761918 us-gaap:ShortTermInvestmentsMember us-gaap:FairValueInputsLevel2Member us-gaap:CommercialPaperMember us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0001761918 us-gaap:RetainedEarningsMember 2024-12-31 0001761918 eras:MedshineDiscoveryIncMember srt:MaximumMember eras:MedshineLicenseAgreementMember 2024-05-01 2024-05-31 0001761918 eras:UnderwrittenOfferingMember us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-12-31 0001761918 eras:OptionRepricingMember eras:TwoThousandTwentyOneIncentiveAwardPlanMember 2024-05-21 2024-05-21 0001761918 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-01-01 2024-12-31 0001761918 eras:LongTermInvestmentsMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember 2024-12-31 0001761918 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-12-31 0001761918 us-gaap:CommonStockMember us-gaap:PrivatePlacementMember 2024-03-31 0001761918 eras:AwardsAvailableForFutureGrantMember 2025-12-31 0001761918 us-gaap:MoneyMarketFundsMember us-gaap:CashAndCashEquivalentsMember us-gaap:FairValueInputsLevel1Member us-gaap:FairVa
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

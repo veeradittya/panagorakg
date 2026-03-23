@@ -1,0 +1,14 @@
+# AMAZON COM INC — 10-K Annual Report
+# Filed: 2026-02-06
+# CIK: 1018724
+# SIC: Retail-Catalog & Mail-Order Houses
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+6 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment"> amzn:segment xbrli:pure utr:MWh iso4217:EUR amzn:extension amzn:lawsuit amzn:complaint 0001018724 2025-01-01 2025-12-31 0001018724 2025-06-30 0001018724 2026-01-28 0001018724 2024-01-01 2024-12-31 0001018724 2022-12-31 0001018724 2023-12-31 <xbrli:identifier sche
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant suppliers, including content and technology licensors, and in some cases, limited or single-sources of supply, that are important to our sourcing, services, manufacturing, and any related ongoing servicing of merchandise and content

@@ -1,0 +1,20 @@
+# PINTEREST INC — 10-K Annual Report
+# Filed: 2026-02-12
+# CIK: 1506293
+# SIC: Services-Computer Programming, Data Processing, Etc.
+# Source: https://www.sec.gov/Archives/edgar/data/1506293/000150629326000021/pins-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+risk factors 3 Limitations of key metrics and other data 7 Part I Item 1. Business 8 Item 1A. Risk factors 14
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of our revenue for the years ended December 31, 2025, 2024 and 2023. Our accounts receivable are generally unsecured. We monitor our customers credit quality on an ongoing basis and maintain reserves for estimated credit losses. Bad debt expense was not material for the years ended December 31, 2025, 2024 and 2023. Recently Adopted Accounting Pronouncements In December 2023, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures , which requires disaggregation of rate reconciliation categories and income taxes paid by jurisdiction. We adopted ASU 2023-09 prospectively as of January 1, 2025, and the effects of adoption on our consolidated financial statements were not material. Refer to Note 10 to our consolidated financial statements for further information. Recent Accounting Pronouncements Not Yet Adopted In November 2024, the FASB issued ASU 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (subtopic 220-40) , which requires disclosure of disaggregation of certain relevant expenses included in the statements of operations on an annual and interim basis. ASU 2024-03 will be effective for our annual periods beginning January 1, 2027 and interim periods beginning January 1, 2028. The amendments may be applied prospectively or retrospectively, and early adoption is permitted. We are currently evaluating the effects of adoption on our consolidated financial statements. In September 2025, the FASB issued ASU 2025-06, Intangibles Goodwill and Other Internal-Use Software (Subtopic 350-40) , which amends certain aspects of the accounting for and disclosure of software costs. ASU 2025-06 will be effective for us beginning January 1, 2028. The amendments may be applied using a prospective, retrospective, or modified transition approach, and early adoption is permitted. We are currently evaluating the effects of adop
+
+---
+Doc size: 1882KB (capped at 2MB)

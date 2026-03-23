@@ -1,0 +1,202 @@
+# MEDPACE HLDGS INC — 10-K Annual Report
+# Filed: 2016-03-15
+# CIK: 1338042
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1338042/000155837016004149/aegr-20151231x10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1A. 
+Risk Factors 
+45 
+Item 1B. 
+Unresolved Staff Comments 
+97 
+Item 2. 
+Properties 
+97 
+Item 3. 
+Legal Proceedings 
+98 
+Item 4. 
+Mine Safety Disclosures 
+99 
+PART II 
+Item 5. 
+Market for Registrant&#x2019;s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities 
+100 
+Item 6. 
+Selected Financial Data 
+102 
+Item 7. 
+Management&#x2019;s Discussion and Analysis of Financial Condition and Results of Operations 
+103 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+122 
+Item 8. 
+Consolidated Financial Statements and Supplementary Data 
+123 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+162 
+Item 9A. 
+Controls and Procedures 
+162 
+Item 9B. 
+Other Information 
+163 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+165 
+Item 11. 
+Executive Compensation 
+165 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters 
+165 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+165 
+Item 14. 
+Principal Accounting Fees and Services 
+165 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+166 
+SIGNATURES 
+167 
+Forward-Looking Statements 
+All statements included or incorporated by reference into this Annual Report on Form 10-K, or Annual Report, other than statements or characterizations of historical fact, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are often identified by words such as &#x201C;anticipates,&#x201D; &#x201C;expects,&#x201D; &#x201C;intends,&#x201D; &#x201C;plans,&#x201D; &#x201C;predicts,&#x201D; &#x201C;believes,&#x201D; &#x201C;seeks,&#x201D; &#x201C;estimates,&#x201D; &#x201C;forecasts,&#x201D; &#x201C;may,&#x201D; &#x201C;will,&#x201D; &#x201C;should,&#x201D; &#x201C;would,&#x201D; &#x201C;could,&#x201D; &#x201C;potential,&#x201D; &#x201C;continue,&#x201D; &#x201C;ongoing&#x201D; and similar expressions, and variations or negatives of these words. Examples of forward-looking statements contained in this Annual Report include our statements regarding: the commercial potential for our products; our estimates as to the potential number of patients with the diseases for which our products are approved; our expectations with respect to reimbursement of our products in the United States; our expectations with respect to pricing and reimbursement approvals required for lomitapide in countries of the European Union where we have not received such approvals, Mexico, Canada, Taiwan, South Korea, and other countries in which we receive, or have received, marketing approval for lomitapide; our expectations with respect to named patient sales of our products in Brazil and in other countries where such sales are permitted; the potential for and possible timing of approval of our products in countries where we have not yet obtained approval, including Japan; plans for further clinical development of our products; our expectations regarding future regulatory filings for our products, including planned marketing approval applications with respect to lomitapide and metreleptin in the European Union and for 
+1 
+Table of Contents 
+additional indications of metreleptin; our plans for commercial marketing, sales, manufacturing and distribution of our products; our expectations with respect to the impact of competition on our future operations and results; our beliefs with respect to our intellectual property portfolio for our products and the extent to which it protects us; our expectations regarding the availability of data and marketing exclusivity in the United States, the European Union and other countries; our expectations with respect to ongoing government investigations and stockholder litigation and the possible impact of each on our business; our forecasts regarding sales of our products, our future expenses, our cash position and the timing of any future need for additional capital to fund operations; and our ability to work with Silicon Valley Bank to obtain a further forbearance or waiver of defaults under our loan agreement with Silicon Valley Bank and to otherwise avoid having our debt accelerated by Silicon Valley Bank . 
+The forward-looking statements contained in this Annual Report and in the documents incorporated into this Annual Report by reference are based on our current beliefs and assumptions with respect to future events, all of which are subject to change. Forward-looking statements are not guarantees of future performance, and are subject to risks, uncertainties and assumptions that are difficult to predict, including those discussed in &#x201C;Risk Factors&#x201D; in Part I,
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+45 
+Item 1B. 
+Unresolved Staff Comments 
+97 
+Item 2. 
+Properties 
+97 
+Item 3. 
+Legal Proceedings 
+98 
+Item 4. 
+Mine Safety Disclosures 
+99 
+PART II 
+Item 5. 
+Market for Registrant&#x2019;s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities 
+100 
+Item 6. 
+Selected Financial Data 
+102 
+Item 7. 
+Management&#x2019;s Discussion and Analysis of Financial Condition and Results of Operations 
+103 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+122 
+Item 8. 
+Consolidated Financial Statements and Supplementary Data 
+123 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+162 
+Item 9A. 
+Controls and Procedures 
+162 
+Item 9B. 
+Other Information 
+163 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+165 
+Item 11. 
+Executive Compensation 
+165 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters 
+165 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+165 
+Item 14. 
+Principal Accounting Fees and Services 
+165 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+166 
+SIGNATURES 
+167 
+Forward-Looking Statements 
+All statements included or incorporated by reference into this Annual Report on Form 10-K, or Annual Report, other than statements or characterizations of historical fact, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are often identified by words such as &#x201C;anticipates,&#x201D; &#x201C;expects,&#x201D; &#x201C;intends,&#x201D; &#x201C;plans,&#x201D; &#x201C;predicts,&#x201D; &#x201C;believes,&#x201D; &#x201C;seeks,&#x201D; &#x201C;estimates,&#x201D; &#x201C;forecasts,&#x201D; &#x201C;may,&#x201D; &#x201C;will,&#x201D; &#x201C;should,&#x201D; &#x201C;would,&#x201D; &#x201C;could,&#x201D; &#x201C;potential,&#x201D; &#x201C;continue,&#x201D; &#x201C;ongoing&#x201D; and similar expressions, and variations or negatives of these words. Examples of forward-looking statements contained in this Annual Report include our statements regarding: the commercial potential for our products; our estimates as to the potential number of patients with the diseases for which our products are approved; our expectations with respect to reimbursement of our products in the United States; our expectations with respect to pricing and reimbursement approvals required for lomitapide in countries of the European Union where we have not received such approvals, Mexico, Canada, Taiwan, South Korea, and other countries in which we receive, or have received, marketing approval for lomitapide; our expectations with respect to named patient sales of our products in Brazil and in other countries where such sales are permitted; the potential for and possible timing of approval of our products in countries where we have not yet obtained approval, including Japan; plans for further clinical development of our products; our expectations regarding future regulatory filings for our products, including planned marketing approval applications with respect to lomitapide and metreleptin in the European Union and for 
+1 
+Table of Contents 
+additional indications of metreleptin; our plans for commercial marketing, sales, manufacturing and distribution of our products; our expectations with respect to the impact of competition on our future operations and results; our beliefs with respect to our intellectual property portfolio for our products and the extent to which it protects us; our expectations regarding the availability of data and marketing exclusivity in the United States, the European Union and other countries; our expectations with respect to ongoing government investigations and stockholder litigation and the possible impact of each on our business; our forecasts regarding sales of our products, our future expenses, our cash position and the timing of any future need for additional capital to fund operations; and our ability to work with Silicon Valley Bank to obtain a further forbearance or waiver of defaults under our loan agreement with Silicon Valley Bank and to otherwise avoid having our debt accelerated by Silicon Valley Bank . 
+The forward-looking statements contained in this Annual Report and in the documents incorporated into this Annual Report by reference are based on our current beliefs and assumptions with respect to future events, all of which are subject to change. Forward-looking statements are not guarantees of future performance, and are subject to risks, uncertainties and assumptions that are difficult to predict, including those discussed in &#x201C;Risk Factors&#x201D; in Part I, Item 1A of this Annual Report. It is not possible for us to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors may impact our operations or results. New risks may emerge from time to time. Past financial or operating performance is not necessarily a reliable indicator of future performance. Given these risks and uncertainties, we can give no assurances that any of the events anticipated by the forward-looking statements will occur or, if any of them does occur or, alternatively, if any of the events described as a risk were to occur, what impact such event will have on our results of operations and financial condition. Our actual results could differ materially and adversely from those expressed in any forward-looking statement in this Annual Report or in our other filings with the Securities and Exchange Commission. 
+Except as required by law, we undertake no obligation to revise our forward-looking statements to reflect events or circumstances that arise after the date of this Annual Report or the respective dates of documents incorporated into this Annual Report by reference that include forward-looking statements. Thus, you should not assume that our silence over time means that actual events are bearing out as expressed or implied in these forward-looking statements. 
+In this Annual Report, &#x201C;Aegerion Pharmaceuticals, Inc.,&#x201D; &#x201C;Aegerion,&#x201D; the &#x201C;Company,&#x201D; &#x201C;we,&#x201D; &#x201C;us&#x201D; and &#x201C;our&#x201D; refer to Aegerion Pharmaceuticals, Inc., together with its subsidiaries, taken as a whole, unless otherwise noted. 
+Trademarks 
+Aegerion, JUXTAPID, LOJUXTA and MYALEPT are trademarks of Aegerion. All other trademarks referenced in this Form 10-K are the property of their respective owners. 
+2 
+Table of Contents 
+PART I 
+Item 1. Busines s. 
+Overview 
+We are a biopharmaceutical company dedicated to the development and commercialization of innovative therapies for patients with debilitating rare diseases. 
+Our first product, lomitapide, received marketing approval, under the brand name JUXTAPID &#xAE; (lomitapide) capsules (&#x201C;JUXTAPID&#x201D;), from the U.S. Food and Drug Administration (&#x201C;FDA&#x201D;) in December 2012, as an adjunct to a low-fat diet and other lipid-lowering treatments, including low-density lipoprotein (&#x201C;LDL&#x201D;) apheresis where available, to reduce low-density lipoprotein cholesterol (&#x201C;LDL-C&#x201D;), total cholesterol (&#x201C;TC&#x201D;), apolipoprotein B (&#x201C;apo B&#x201D;) and non-high-density lipoprotein cholesterol (&#x201C;non-HDL-C&#x201D;) in adult patients with homozygous familial hypercholesterolemia (&#x201C;HoFH&#x201D;). We launched JUXTAPID in the U.S. in January 2013. In July 2013, we received marketing authorization for lomitapide in the European Union (&#x201C;EU&#x201D;), under the brand name LOJUXTA &#xAE; (lomitapide) hard capsules (&#x201C;LOJUXTA&#x201D;), as a treatment for adult patients with HoFH. Lomitapide is also approved for the treatment of adult patients with HoFH in Mexico, Canada, Taiwan, South Korea and a small number of other countries. We sell lomitapide, on a named patient basis, in Brazil and in a limited number of other countries outside the U.S. where such sales are permitted as a result of the approval of lomitapide in the U.S. or the EU. 
+We acquired our second product, metreleptin, in January 2015, pursuant to an asset purchase agreement (the &#x201C;Asset Purchase Agreement&#x201D;) dated November 5, 2014 with Amylin Pharmaceuticals, LLC (&#x201C;Amylin&#x201D;) and AstraZeneca Pharmaceuticals LP, an affiliate of Amylin (together referred to as &#x201C;AstraZeneca&#x201D;). Metreleptin, a recombinant analog of human leptin, is currently marketed in the U.S. under the brand name MYALEPT &#xAE; (metreleptin) for injection (&#x201C;MYALEPT&#x201D;). MYALEPT received marketing approval from the FDA in February 2014 as an adjunct to diet as replacement therapy to treat the complications of leptin deficiency in patients with congenital or acquired generalized lipodystrophy (&#x201C;GL&#x201D;). Under the terms of the Asset Purchase Agreement, we paid AstraZeneca $325.0 million to acquire the global rights to develop, manufacture and commercialize metreleptin, subject to an existing distributor license with Shionogi & Co., Ltd. (&#x201C;Shionogi&#x201D;) covering Japan, South Korea and Taiwan. The distribution agreement with Shionogi was assigned to us as part of the transaction. We also assumed certain other assets and liabilities of AstraZeneca related to the metreleptin program. 
+We expect that our near-term efforts will be focused on: 
+&#xB7; 
+maintaining market acceptance of JUXTAPID as a treatment for adult HoFH patients in the U.S., particularly given the introduction of PCSK9 inhibitor products, which has had a significant adverse impact on sales of JUXTAPID in the U.S.; 
+&#xB7; 
+continuing to support sales of lomitapide as a treatment for HoFH in Brazil, on a named patient basis, and in other key countries where such sales are permitted, particularly in light of the potential availability of PCSK9 inhibitors on a named patient sales basis in such countries and the economic challenges and ongoing government investigations in Brazil; 
+&#xB7; 
+building and maintaining market acceptance for MYALEPT in the U.S. for the treatment of complications of leptin deficiency in GL patients, and supporting named patient sales of metreleptin in GL in Brazil, particularly in light of local economic challenges and ongoing governmental investigations, and other key countries where such sales are permitted as a result of the U.S. approval; 
+&#xB7; 
+continuing to support patient access to and reimbursement for our products in the U.S. without significant restrictions, particularly given the introduction of PCSK9 inhibitor products in the U.S., which has impacted reimbursement of JUXTAPID in the U.S.; 
+&#xB7; 
+gaining pricing and reimbursement approvals for lomitapide in key markets outside the U.S. where lomitapide has received marketing approval; 
+3 
+Table of Contents 
+&#xB7; 
+gaining regulatory and pricing and reimbursement approvals to market our products in countries in which the products are not currently approved and/or reimbursed, including filing a Marketing Authorization Application (&#x201C;MAA&#x201D;) with the European Medicines Agency (&#x201C;EMA&#x201D;) seeking marketing approval of metreleptin in the EU as a treatment for complications of leptin deficiency in GL patients following confirmation of our filing strategy with EU regulatory authorities, and seeking approval of metreleptin in the U.S. and the EU for severe partial lipodystrophy based on the existing clinical data package for metreleptin, subject to discussions with the FDA and EU regulatory authorities; 
+&#xB7; 
+evaluating the potential for future clinical development of metreleptin in additional indications, including severe partial lipodystrophy, if we are unable to secure approval of such indication with the current metreleptin clinical data package; 
+&#xB7; 
+minimizing the number of patients who are eligible to receive but decide not to commence treatment with our products, or who discontinue treatment, including with lomitapide, due to tolerability issues, and with metreleptin, due to its route of administration as an injection, through activities such as patient support programs, to the extent permitted in a particular country ; 
+&#xB7; 
+continuing clinical development and regulatory activities to support the potential approval of our marketing authorization application for lomitapide in HoFH in Japan, which we filed in January 2016; 
+&#xB7; 
+engaging in possible further development efforts related to our existing products, and assessing, and possibly acquiring, potential new product opportunities targeted at rare diseases where we believe we can leverage our infrastructure and expertise; and 
+&#xB7; 
+resolving the ongoing U.S. Department of Justice (&#x201C;Department of Justice&#x201D;) and U.S. Securities and Exchange Commission (&#x201C;SEC&#x201D;) investigations, managing other ongoing government investigations, and managing and defending ourselves in ongoing and potential future litigation and investigations that may arise from any resolution of the SEC and Department of Justice investigations. 
+The introduction of PCSK9 inhibitors in the U.S. has negatively impacted sales of JUXTAPID and we expect this negative trend to continue. This impact results from several factors, including: healthcare professionals switching some existing JUXTAPID patients to a PCSK9 inhibitor product; healthcare professionals trying most new adult HoFH patients on a PCSK9 inhibitor product before trying JUXTAPID; the provision of free PCSK9 drug to adult HoFH patients by the companies that are commercializing PCSK9 inhibitor products, which has significantly negatively impacted the rate at which new patients start treatment on JUXTAPID and has caused more patients than we expected to discontinue JUXTAPID and switch their treatment to PCSK9 inhibitor products; and actions by insurance companies, managed care organizations and other private payers in the U.S. that have required, or may require in the future, HoFH patients to demonstrate an inability to achieve an adequate LDL-C response on PCSK9 inhibitor products before access to JUXTAPID is approved, or may impose other hurdles to access or other significant restrictions or limitations on reimbursement, or may require switching of JUXTAPID patients to PCSK9 inhibitor products. Many U.S. insurance companies, managed care organizations and other private payers now require that HoFH patients are not able to achieve an adequate response in LDL-C reduction on PCSK9 inhibitor products before providing reimbursement for lomitapide. For patients currently taking JUXTAPID, at least one U.S. payer is using a prior authorization to try to influence a switch of the current JUXTAPID patients to the less expensive PCSK9 inhibitor product, and additional payers may follow this practice. We believe that many of the P
+
+## GEOGRAPHIC REVENUE
+ial for our products; our estimates as to the potential number of patients with the diseases for which our products are approved; our expectations with respect to reimbursement of our products in the United States; our expectations with respect to pricing and reimbursement approvals required for lomitapide in countries of the European Union where we have not received such approvals, Mexico, Canada, Taiwan, South Korea, and other countries in which we receive, or have received, marketing approval for lomitapide; our expectations with respect to named patient sales of our products in Brazil and in other countries where such sales are permitted; the potential for and possible timing of approval of our products in countries where we have not yet obtained approval, including Japan; plans for further clinical development of our products; our expectations regarding future regulatory filings for our products, including planned marketing approval applications with respect to lomitapide and metreleptin in the European Union and for 
+1 
+Table of Contents 
+additional indications of metreleptin; our plans for commercial marketing, sales, manufacturing and distribution of our products; our expectations with respect to the impact of competition on our future operations and results; our beliefs with respect to our intellectual property portfolio for our products and the extent to which it protects us; our expectations regarding the availability of data and marketing exclusivity in the United States, the European Union and other countries; our expectations with respect to ongoing government investigations and stockholder litigation and the possible impact of each on our business; our forecasts regarding sales of our products, our future expenses, our cash position and the timing of any future need for additional capital to fund operations; and our ability to work with Silicon Valley Bank to obtain a further forbearance or waiver of defaults under our loan agreement with Silicon Valley Bank and to otherwise avoid having our debt accelerated by Silicon Valley Bank . 
+The forward-looking statements contained in this Annual Report and in the documents incorporated into this Annual R
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Significant Customers 
+For the year ended December 31, 2015 , one customer accounte d for 11% of our net product sales, and such customer accounted for 17% of our accounts receivable balance. For the year ended December 31, 2014 , no individual 
+17 
+Table of Contents 
+customer accounted for 10% or more of our net product sales. However, one customer accounted for 12% of our accounts receivable balance. 
+Manufacturing, Supply and Distribution 
+Lomitapide is a small molecule drug that is synthesized with readily available raw materials using conventional chemical processes. Hard gelatin capsules are prepared in 5 mg, 10 mg, 20 mg, 30 mg, 40 mg and 60 mg strengths. Metreleptin is a recombinant protein biologic that is produced using conventional fermentation, isolation, and purification processing techniques. The drug product is provided in nominal 10 mg vials that are reconstituted prior to injection. We are considering development of new presentations in nominal 2.5 mg and 5 mg vials. 
+We currently have no manufacturing facilities and limited personnel with manufacturing experience. We rely on contract manufacturers to produce drug substance for lomitapide and metreleptin and to produce drug product for commercial supplies and for our clinical trials. We have completed technology transfer and manufacturing of process validation batches at a new contract manufacturer for lomitapide drug substance because the facility that produced our current supply of lomitapide drug substance was closed in September 2014. We have also expanded our inventory of lomitapide drug substance to maintain a sufficient supply throughout the transition of our manufacturing operations to our new contract manufacturer. We will have to obtain regulatory approval of our new contract manufacturer&#x2019;s facility, which may include an inspection by the FDA, the EMA, and other regulatory authorities. We intend to seek such approvals this year. We have a letter of intent with the new contract manuf
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,14 @@
+# BOOKING HOLDINGS INC — 10-K Annual Report
+# Filed: 2026-02-18
+# CIK: 1075531
+# SIC: Transportation Services
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/bkng-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+6 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment"> bkng:segment 0001075531 2025-01-01 2025-12-31 0001075531 us-gaap:CommonStockMember 2025-01-01 2025-12-31 0001075531 bkng:A40SeniorNotesDueNovember2026Member 2025-01-01 2025-12-31 0001075531 bkng:A1.8SeniorNotesDueMarch2027Member 2025-01-01 2025-12-31 0001075531 bkng:A05SeniorNotesDueMarch2028Member 2025-01-01 2025-12-31
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

@@ -1,0 +1,14 @@
+# APPLIED MATLS INC — 10-K Annual Report
+# Filed: 2025-12-12
+# CIK: 6951
+# SIC: Semiconductors & Related Devices
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)
+
+## RISK FACTORS (Item 1A)
+,&#8221; below and elsewhere in this report. These and many other factors could affect our future financial condition and operating results and could cause actual results to differ materially from expectations based on forward-looking statements made in this document or elsewhere by us or on our behalf. Forward-looking statements are based on management&#8217;s estimates, projections and expectations as of the date hereof, and we undertake no obligation to revise or update any such statements. The following information should be read in conjunction with the Consolidated Financial Statements and the accompanying Notes to Consolidated Financial Statements included in this report. 2 Table of Contents APPLIED MATERIALS, INC. FORM 10-K FOR THE FISCAL YEAR ENDED OCTOBER&#160;26, 2025 TABLE OF CONTENTS &#160; &#160; &#160; Page PART&#160;I Item&#160;1: Business 4 Item&#160;1A: Risk Factors 11 Item&#160;1B:
+
+## GEOGRAPHIC REVENUE
+segment"> amat:segment 0000006951 2024-10-28 2025-10-26 0000006951 2025-04-27 0000006951 2025-12-05 0000006951 2025-07-28 2025-10-26 0000006951 2023-10-30 2024-10-27 0000006951 2022-10-31 2023-10-29 0000006951 2025-10-26 0000006951 2024-10-27 <xbrli:cont
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Major customers may seek pricing, payment, intellectual property-related, or other commercial terms that are less favorable to us, which may have a negative impact on our business, cash flow, revenue and gross margins. Supply chain disruptions, manufacturing interruptions or delays, or the failure to accurately forecast customer demand, could affect our ability to meet customer demand, lead to higher costs, or result in excess or obsolete inventory. Our business depends on our timely supply of products and services to meet the changing requirements of our customers, which depends in part on the

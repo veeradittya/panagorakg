@@ -1,0 +1,325 @@
+# HARROW INC — 10-K Annual Report
+# Filed: 2026-03-02
+# CIK: 1360214
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1360214/000149315226008562/form10-k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+18 
+Item
+1B. 
+Unresolved Staff Comments 
+48 
+Item
+1C. 
+Cybersecurity 
+48 
+Item
+2. 
+Properties 
+49 
+Item
+3. 
+Legal Proceedings 
+49 
+Item
+4. 
+Mine Safety Disclosures 
+49 
+PART II 
+50 
+Item
+5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+50 
+Item
+6. 
+[Reserved] 
+51 
+Item
+7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+51 
+Item
+7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+62 
+Item
+8. 
+Financial Statements and Supplementary Data 
+62 
+Item
+9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+62 
+Item
+9A. 
+Controls and Procedures 
+62 
+Item
+9B. 
+Other Information 
+63 
+Item
+9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+63 
+PART III 
+64 
+Item
+10. 
+Directors, Executive Officers and Corporate Governance 
+64 
+Item
+11. 
+Executive Compensation 
+64 
+Item
+12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+64 
+Item
+13. 
+Certain Relationships and Related Transactions, and Director Independence 
+64 
+Item
+14. 
+Principal Accountant Fees and Services 
+64 
+PART IV 
+65 
+Item
+15. 
+Exhibits, Financial Statement Schedules 
+65 
+Item
+16. 
+Form 10-K Summary 
+67 
+SIGNATURES 
+68 
+2 
+As
+used in this Annual Report on Form 10-K (this Annual Report ), unless indicated or the context requires otherwise, the terms
+the Company, Harrow, we, us and our refer to Harrow, Inc. and its
+consolidated subsidiaries. 
+In
+addition to historical information, the following discussion contains forward-looking statements regarding future events and our future
+performance. In some cases, you can identify forward-looking statements by terminology such as will, may, 
+should, expects, plans, anticipates, believes, estimates, 
+predicts, forecasts, potential or continue or the negative of these terms or
+other comparable terminology. All statements made in this Annual Report other than statements of historical fact are forward-looking
+statements. These forward-looking statements involve risks and uncertainties and reflect only our current views, expectations and assumptions
+with respect to future events and our future performance. If risks or uncertainties materialize or assumptions prove incorrect, actual
+results or events could differ materially from those expressed or implied by such forward-looking statements. Risks that could cause
+actual results to differ from those expressed or implied by the forward-looking statements we make include, among others, risks related
+to: liquidity or results of operations; our ability to successfully implement our business plan, manage our pharmacy operations, service
+our debt, obtain financing necessary to operate our business, recruit and retain qualified personnel, manage any growth we may experience
+and successfully realize the benefits of our previous acquisitions and any other acquisitions and collaborative arrangements we may pursue;
+the ongoing communications with the U.S. Food and Drug Administration relating to compliance and quality plans at our outsourcing facility
+in New Jersey; competition from pharmaceutical companies, outsourcing facilities and pharmacies; general economic and business conditions,
+including inflation and supply chain challenges; regulatory and legal risks and uncertainties related to our pharmacy operations and
+the pharmacy and pharmaceutical business in general; physician interest in and market acceptance of our current and any future products
+and formulations and compounding pharmacies generally; our limited operating history; and the other risks and uncertainties described
+under the heading Risk Factors in Part I, Item 1A of this Annual Report. You should not place undue reliance on forward-looking
+statements. Forward-looking statements speak only as of the date they are made and, except as required by law, we undertake no obligation
+to revise or publicly update any forward-looking statement for any reason. 
+We
+have registered trademarks, copyrights and/or pending trademark and copyright applications for a number of proprietary names in the United
+States of America ( U.S. ), including, but not limited to: VEVYE , IHEEZO , ILEVRO ,
+TRIESENCE , ImprimisRx , and LessDrops . We may choose to pursue trademark protection in
+other jurisdictions for one or more of these or other marks in the future. All other trademarks, service marks and trade names included
+or incorporated by reference into this Annual Report, are the property of their respective owners. 
+3 
+PART
+I 
+ITEM
+1. BUSINESS 
+Overview 
+We
+are a leading provider of ophthalmic disease management solutions in North America, and were founded with a commitment to deliver safe,
+effective, accessible, and affordable medications that enhance patient compliance and improve clinical outcomes. For over a decade, we
+have partnered with U.S. eyecare professionals to develop a comprehensive portfolio of high-quality products used to manage ophthalmic
+conditions affecting both the front and back of the eye, such as dry eye disease, wet (or neovascular) age-related macular degeneration,
+cataracts, refractive errors, glaucoma, and a range of other ocular surface conditions and retina diseases. By prioritizing clinical
+value to the provider and the patient Harrow empowers professionals to enhance patient outcomes and preserve vision.
+By combining our culture of creativity, entrepreneurship and groundbreaking innovation with operational discipline and strong financial
+performance, we are building a future where life-changing ophthalmic treatments are within reach for all. 
+Branded
+Ophthalmic Pharmaceuticals 
+Over
+the past several years, we have expanded our portfolio of the U.S. Food and Drug Administration (the FDA )-approved ophthalmic
+products through acquisitions, licensing transactions, and internal investment. These efforts are focused primarily on the U.S. and Canadian
+markets. We believe continued investment in our branded portfolio supports our ability to offer eyecare prescribers and patients access
+to a broader range of ophthalmic therapies across multiple disease states. We own U.S. commercial rights to the following products, which
+we market and sell: 
+IHEEZO 
+(chloroprocaine hydrochloride ophthalmic gel) 3%, a low-viscosity gel indicated for ocular surface anesthesia. 
+VEVYE 
+(cyclosporine ophthalmic solution) 0.1%, utilizes a novel water-free vehicle (perfluorobutylpentane) based on semifluorinated
+alkanes, indicated for the treatment of the signs and symptoms associated with dry eye disease. 
+TRIESENCE 
+(triamcinolone acetonide injectable suspension) 40 mg/ml, a steroid injection for the treatment of certain ophthalmic diseases
+and for visualization during vitrectomy. 
+BYOOVIZ 
+(ranibizumab-nuna) 0.05mL injection, the first FDA-approved LUCENTIS biosimilar indicated
+for the treatment of patients with Neovascular (Wet) Age-Related Macular Degeneration (AMD),
+Macular Edema following Retinal Vein Occlusion (RVO), and Myopic Choroidal Neovascularization
+(mCNV). We expect to commercially launch BYOOVIZ in mid-2026. 
+OPUVIZ 
+(aflibercept-yszy) 0.05mL injection, an FDA-approved EYLEA biosimilar indicated for the treatment
+of patients with Wet AMD, Macular Edema following RVO, Diabetic Macular Edema (DME), and
+Diabetic Retinopathy (DR). We expect to commercially launch OPUVIZ in mid-2027. 
+BYQLOVI TM 
+(clobetasol propionate ophthalmic suspension) 0.05% a high-potency ophthalmic corticosteroid
+formulated using proprietary APNT nanoparticle formulation technology, indicated for
+the treatment of post-operative inflammation and pain following ocular surgery. We expect
+to commercially launch BYQLOVI in mid-2026. 
+VIGAMOX 
+(moxifloxacin hydrochloride ophthalmic solution) 0.5%, a fluoroquinolone antibiotic eye drop for the treatment of bacterial
+conjunctivitis caused by susceptible strains of organisms. 
+4 
+ILEVRO 
+(nepafenac ophthalmic suspension) 0.3%, a non-steroidal, anti-inflammatory eye drop indicated for pain and inflammation associated
+with cataract surgery. 
+FLAREX 
+(fluorometholone acetate ophthalmic suspension) 0.1%, a corticosteroid prepared as a sterile topical ophthalmic suspension
+indicated for use in the treatment of steroid-responsive inflammatory conditions of the palpebral and bulbar conjunctiva, cornea,
+and anterior segment of the eye. 
+NATACYN 
+(natamycin ophthalmic suspension) 5%, a sterile, antifungal drug for the treatment of fungal blepharitis, conjunctivitis, and
+keratitis caused by susceptible organisms, including Fusarium solani keratitis. 
+TOBRADEX 
+ST (tobramycin and dexamethasone ophthalmic suspension) 0.3%/0.05%, a topical antibiotic and corticosteroid combination for
+steroid-responsive inflammatory ocular conditions for which a corticosteroid is indicated and where superficial bacterial ocular
+infection or a risk of bacterial ocular infection exists. 
+ZERVIATE 
+(cetirizine ophthalmic solution) 0.24%, a histamine-1 (H1) receptor antagonist indicated for treatment of ocular itching associated
+with allergic conjunctivitis. 
+VERKAZIA 
+(cyclosporine ophthalmic emulsion) 0.1%, an orphan designated drug that is a calcineurin inhibitor immunosuppressant indicated
+for the treatment of vernal keratoconjunctivitis. 
+NEVANAC 
+(nepafenac ophthalmic suspension) 0.1%, a non-steroidal, anti-inflammatory eye drop indicated for pain and inflammation associated
+with cataract surgery. 
+FRESHKOTE 
+Preservative Free (PF) is a lubricant eye drop that does not require a prescription and temporarily relieves burning, itching
+and other dry eye symptoms. 
+MAXITROL 
+(neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) is an eye drop used to treat steroid-responsive
+inflammatory ocular conditions where bacterial infection or a risk of bacterial ocular infection exist. 
+MAXIDEX 
+(dexamethasone ophthalmic suspension) 0.1%, a steroid eye drop for steroid-responsive inflammatory conditions of the palpebral
+and bulbar conjunctiva, cornea, and anterior segment of the globe. 
+IOPIDINE 
+1% (apraclonidine hydrochloride), an ophthalmic solution in a sterile isotonic solution indicated to control or prevent
+post-surgical elevations in intraocular pressure that occur in patients after argon laser trabeculoplasty, argon laser iridotomy
+or Nd:YAG posterior capsulotomy. 
+IOPIDINE 
+0.5% (apraclonidine hydrochloride) an ophthalmic solution indicated for short-term adjunctive therapy in patients on maximally
+tolerated medical therapy who require additional intraocular pressure (or IOP) reduction. 
+5 
+We
+also own U.S. rights to some discontinued products (MOXEZA, VEXOL, ECONOPRED and TOBRASONE). In February 2024, we announced that we
+out-licensed Canadian rights for VERKAZIA, Cationorm PLUS (a preservative-free formulation for dry eye or allergy
+relief), VEVYE, ZERVIATE and IHEEZO to Apotex Inc. ( Apotex ). We also own worldwide rights to NATACYN and
+FRESHKOTE. 
+R&D
+Development Pipeline 
+Our
+development pipeline is focused on developing and commercializing differentiated pharmaceutical therapies designed to address unmet needs
+in eye care and selected adjacent markets. The pipeline is weighted toward late-stage and near-commercial assets with demonstrated clinical
+utility and clearer regulatory pathways, and we seek to advance programs through a disciplined, capital-efficient development strategy.
+Current development-stage programs include: 
+MELT-300 
+(ketamine + midazolam ODT): completed Phase 3 clinical program; potential launch in 2028. MELT-300 is a patented, sublingual/orally
+disintegrating tablet that combines a fixed dose of midazolam (3 mg) and ketamine (50 mg) and is designed to provide rapid, predictable
+sedation without IV administration, including in cataract and other outpatient procedures. 
+H-N08 
+(triamcinolone acetonide): current work is focused on chemistry, manufacturing and controls (CMC) optimization, and is expected to
+move into the clinic before the end of 2026, with a potential launch in 2028. H-N08 is an ophthalmic program built around triamcinolone
+acetonide intended to support inflammatory indications such as uveitis and/or improve intraoperative visualization in posterior-segment
+surgery (e.g., during vitrectomy). 
+CR-01 
+(conjunctival delivery device): is in the proof-of-concept evaluation stage, with potential launch as early as 2029. CR-01 is a device-enabled
+program intended to deliver therapy via the conjunctiva for ocular neoplasia, a rare disease. 
+MELT-210 
+(midazolam ODT): is currently in clinical development stage; with a potential launch in 2028. MELT-210 is a sublingual/orally disintegrating
+tablet being developed as a needle-free option for procedural sedation and related anxiolysis/amnesia needs, and has also been used
+in MELT-300 s clinical program as a midazolam-only comparator. 
+Development
+timelines and potential launch timing are subject to change based on clinical results, regulatory feedback, manufacturing readiness,
+and other factors. 
+MELT-300 
+We
+believe MELT-300 represents a transformative opportunity, building on more than a decade of real-world experience with MKO Melt 
+a compounded sublingual sedation product sold by ImprimisRx and currently administered by over 800 U.S. ophthalmic institutions,
+primarily for used for procedural sedation during cataract surgery. As a potential FDA-approved successor, MELT-300 is a patented, sublingually
+delivered formulation of a fixed dose of midazolam (3mg) and ketamine (50mg) designed to provide rapid, predictable sedation without
+the need for intravenous administration. The MELT-300 Phase 2 and Phase 3 clinical programs previously demonstrated statistical superiority 
+to midazolam alone. The innovative approach to sedation MELT-300 offers has the potential to transform patient experiences across a wide
+range of office-based and outpatient procedures, addressing the healthcare system s growing demand to reduce exposure to opioids,
+including fentanyl. 
+The
+MELT-300 program was the subject of a Special Protocol Assessment (SPA) with the FDA, confirming that the completed Phase 3 study design,
+statistical approach, and endpoints adequately support a future regulatory submission. Having completed the Phase 3 program, our focus
+now turns to advancing MELT-300 toward FDA approval and commercialization. 
+In
+support of a new drug application (an NDA ) filing, we recently initiated one non-clinical animal study and three pharmacokinetic
+( PK ) studies to generate the balance of the data we believe is necessary for an NDA package. Following completion of these
+studies, we expect to prepare and submit an NDA for MELT-300 in the first half of 2027. If promptly approved by the FDA, we expect to
+commercially launch MELT-300 in the second half of 2028. 
+6 
+We
+believe these next steps position MELT-300 to become the first FDA-approved, non-opioid, non-IV sublingual sedation therapy in the U.S.,
+representing a meaningful growth oppo
+
+## GEOGRAPHIC REVENUE
+r systems is limited. There can be no assurances that a vulnerability in the software and
+services that we use would not result in a material adverse effect on our business or results of operations. 
+Domestic
+and global government regulators, our business partners, suppliers with whom we do business, companies that provide us or our partners
+with business services and companies we have acquired or may acquire face similar risks. Security breaches of their systems or service
+outages have adversely affected systems and could, in the future, affect our systems and security, leave us without access to important
+systems, products, raw materials, components, services or information, or expose our confidential data or sensitive personal information.
+An extended service outage affecting these or other vendors, particularly where such vendor is the single source from which we obtain
+the services, could have a material adverse effect on our business or results of operations. For example, in February 2024, UnitedHealth
+Group announced that a suspected nation-state associated cybersecurity threat actor had gained access to some of the Change Healthcare
+( Change ) information technology systems. Change is the largest clearinghouse for medical claims in the U.S. While Harrow
+was not directly impacted by this cybersecurity incident, it was reported that as a reaction to the cybersecurity incident, Change temporarily
+disconnected over 100 related payment systems and Change was unable to process medical claims through its primary platforms. This resulted
+in the delays to the revenue and cash collection cycle for several ASCs and physician offices, putting a strain on their cash resources.
+While temporary, the cash constraints for these ASCs and physician offices, we believe, impacted sales of some of our products, such
+as IHEEZO, during this disrupted period of time. In addition, we distribute our products in the U.S. primarily through three pharmaceutical
+wholesalers, and a security breach that impairs the distribution operations of our wholesalers could significantly impair our ability
+to deliver our products to healthcare providers and patients. There can be no assurance that
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of total allowed charges under Medicare Part B for that drug. Manufacturers
+that fail to pay refunds could be subject to civil monetary penalties. Further, starting in 2023, the Inflation Reduction Act of 2022
+( IRA ) established a Medicare Part B inflation rebate scheme, effective in 2023, under which, generally speaking, manufacturers
+will owe rebates if the average sales price of a Part B drug increases faster than the pace of inflation. Failure to timely pay a Part
+B inflation rebate is subject to a civil monetary penalty. 
+The
+IRA also created a drug price negotiation program under which, after being on the market for a certain period of time, the prices for
+certain high Medicare spending drugs and biological products provided to Medicare patients without generic or biosimilar competition
+will be capped by reference to, among other things, a specified non-federal average manufacturer price, starting in 2026. Failure to
+comply with requirements under the drug price negotiation program is subject to an excise tax and a civil monetary penalty. This or any
+other legislative change could impact the market conditions for our products. 
+10 
+BYOOVIZ,
+OPUVIZ, IHEEZO and TRIESENCE are covered under Medicare Part B and we are developing other product candidates and may acquire drug products
+that are also covered under Medicare Part B. In February 2023, we announced that CMS had issued a permanent, product specific J-code
+for IHEEZO (J2403) which became effective under the Healthcare Procedure Coding System (HCPCS) on April 1, 2023. TRIESENCE has a permanent
+product specific J-code (J3300) as well, which physicians can use for reimbursement purposes of that product. Similarly, BYOOVIZ and
+OPUVIZ have permanent product specific reimbursement codes of Q5124 and Q5153, respectively, which healthcare professionals can use for
+reimbursement of those biosimilar products. 
+New
+drugs approved by the FDA that are used in surgeries performed in a hospital outpatient departments
+
+---
+Doc size: 2048KB (capped at 2MB)

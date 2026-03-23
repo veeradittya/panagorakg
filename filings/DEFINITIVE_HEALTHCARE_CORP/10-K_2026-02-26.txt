@@ -1,0 +1,34 @@
+# DEFINITIVE HEALTHCARE CORP — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1861795
+# SIC: Services-Prepackaged Software
+# Source: https://www.sec.gov/Archives/edgar/data/1861795/000119312526076782/dh-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+iii 
+PART I 
+Item 1. 
+Business 
+1 
+Item 1A. 
+Risk Factors 
+7 
+Item 1B. 
+Unresolved Staff Comments 
+48 
+Item 1C. 
+Cybersecurity 
+48
+
+## GEOGRAPHIC REVENUE
+omputersAndSoftwareMember 2025-12-31 0001861795 srt:MinimumMember us-gaap:SecuredOvernightFinancingRateSofrMember 2025-01-16 0001861795 dh:TwoThousandFortyOneThroughTwoThousandFortyFiveMember us-gaap:DomesticCountryMember 2025-12-31 0001861795 us-gaap:CapitalUnitClassBMember 2025-12-31 0001861795 us-gaap:CapitalUnitClassAMember 2022-12-31 0001861795 2025-10-01 2025-12-31 0001861795 us-gaap:CapitalUnitClassBMember 2023-12-31 0001861795 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2024-12-31 0001861795 us-gaap:USTreasurySecuritiesMember us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0001861795 us-gaap:FairValueInputsLevel2Member us-gaap:CertificatesOfDepositMember us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0001861795 us-gaap:SoftwareDevelopmentMember 2025-12-31 0001861795 us-gaap:RetainedEarningsMember 2022-12-31 0001861795 us-gaap:RestrictedStockUnitsRSUMember 2024-01-01 2024-12-31 0001861795 us-gaap:TradeNamesMember 2024-01-16 0001861795 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-12-31 0001861795 us-gaap:CostOfSalesMember 2024-01-01 2024-12-31 0001861795 us-gaap:RestrictedStockUnitsRSUMember 2025-01-01 2025-12-31 0001861795 us-gaap:USTreasurySecuritiesMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0001861795 us-gaap:FairValueInputsLevel1Member us-gaap:CommercialPaperMember us-gaap:FairValueMeasurementsRecurringMember 2024-12-31 0001861795 us-gaap:AccumulatedTranslationAdjustmentMember 2025-12-31 0001861795 us-gaap:NoncontrollingInterestMember 2024-12-31 0001861795 dh:TwoThousandTwentyOneCreditAgreementMember 2025-01-16 0001861795 us-gaap:SoftwareDevelopmentMember 2024-12-31 0001861795 dh:OfficeSpaceAndDataCenterFacilitiesMember 2025-01-01 2025-12-31 0001861795 us-gaap:USTreasurySecuritiesMember us-gaap:FairValueMeasurementsRecurringMember 2024-12-31 0001861795 dh:OfficeSpaceAndDataCenterFacilitiesMember srt:MinimumMember 2025-12-31 0001861795 us-gaap:CertificatesOfDepositMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2024-12-31 0001861795 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-12-31 0001861795 2025-06-30 0001861
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

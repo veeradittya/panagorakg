@@ -1,0 +1,101 @@
+# PERFORMANCE FOOD GROUP CO — 10-K Annual Report
+# Filed: 2025-08-13
+# CIK: 1618673
+# SIC: Wholesale-Groceries, General Line
+# Source: https://www.sec.gov/Archives/edgar/data/1618673/000161867325000012/pfgc-20250628.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+7 
+Item 1B. 
+Unresolved Staff Comments 
+18 
+Item 1C. 
+Cybersecurity 
+18 
+Item 2. 
+Properties 
+20 
+Item 3. 
+Legal Proceedings 
+21 
+Item 4. 
+Mine Safety Disclosures 
+21 
+PART II 
+22 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+22 
+Item 6. 
+[ Reserved ] 
+23 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+24 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+34 
+Item 8. 
+Financial Statements and Supplementary Data 
+36 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+77 
+Item 9A. 
+Controls and Procedures 
+77 
+Item 9B. 
+Other Information 
+78 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+78 
+PART III 
+79 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+79 
+Item 11. 
+Executive Compensation 
+79 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+79 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+79 
+Item 14. 
+Principal Accountant Fees and Services 
+79 
+PART IV 
+80 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+80 
+Item 16. 
+Form 10-K Summary 
+80 
+SIGNATURES 
+85 
+SPECIAL NOTE REGARDING F ORWARD-LOOKING STATEMENTS In addition to historical information, this Annual Report on Form 10-K (this Form 10-K ) may contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ), which are subject to the safe harbor created by those sections. All statements, other than statements of historical facts included in this Form 10-K, including statements concerning our plans, objectives, goals, beliefs, business strategies, future events, business conditions, our results of operations, financial position, our business outlook, business trends and other information, and integration of our acquisition of Cheney Bros., Inc. (the Cheney Brothers Acquisition ), are forward-looking statements. Words such as estimates, expects, contemplates, will, anticipates, projects, plans, intends, believes, forecasts, may, should and variations of such words or similar expressions are intended to identify forward-looking statements. The forward-looking statements are not historical facts, and are based upon our current expectations, beliefs, estimates and projections, and various assumptions, many of which, by their nature, are inherently uncertain and beyond our control. Our expectations, beliefs, estimates and projections are expressed in good faith and we believe there is a reasonable basis for them. However, there can be no assurance that management s expectations, beliefs, estimates, and projections will result or be achieved, and actual results may vary materially from what is expressed in or indicated by the forward-looking statements. There are a number of risks, uncertainties and other important factors, many of which are beyond our control, that could cause our actual results to differ materially from the forward-looking statements contained in this Form 10-K. Such risks, uncertainties and other important factors that could cause actual results to differ include, among others, the risks, uncertainties and factors set forth under Part I, Item 1A. Risk Factors in this Form 10-K ( Item 1A ), as such risk factors may be updated from time to time in our periodic filings with the Securities and Exchange Commission (the SEC ), and are accessible on the SEC s website at www.sec.gov , and also include the following: costs and risks associated with a potential cybersecurity incident or other technology disruption; our reliance on technology and risks associated with disruption or delay in implementation of new technology, including artificial intelligence; economic factors, including inflation or other adverse changes such as a downturn in economic conditions, geopolitical events, tariff increases, or a public health crisis, negatively affecting consumer confidence and discretionary spending; our reliance on third-party suppliers; labor relations and cost risks and availability of qualified labor; competition in our industry is intense, and we may not be able to compete successfully or adjust cost structure where one or more of our competitors successfully implement lower costs; we operate in a low margin industry, which could increase the volatility of our results of operations; our profitability is directly affected by cost inflation and deflation, commodity volatility and other factors; we do not have long-term contracts with certain customers; group purchasing organizations may become more active in our industry and increase their efforts to add our customers as members of these organizations; changes in eating habits of consumers; extreme weather conditions, including hurricane, earthquake and natural disaster damage and extreme heat or cold; volatility of fuel and other transportation costs; our inability to increase our sales in the highest margin portion of our business; changes in pricing practices of our suppliers; our growth and innovation strategy may not achieve the anticipated results; risks relating to acquisitions, including the risk that we are not able to realize benefits of acquisitions or successfully integrate the businesses we acquire or that we incur significant integration costs; a portion of our sales volume is dependent upon the distribution of cigarettes and other tobacco products, sales of which are generally declining; negative media exposure and other events that damage our reputation; 
+1 
+impact of uncollectibility of accounts receivable; the cost and adequacy of insurance coverage and increases in the number or severity of insurance and claims expenses; the potential impacts of shareholder activists or potential bidders; the integration of artificial intelligence into our processes; environmental, health, and safety costs, including compliance with current and future environmental laws and regulations relating to carbon emissions and climate change and related legal or market measures; our inability to comply with requirements imposed by applicable law or government regulations, including increased regulation of e-vapor products and other alternative nicotine products; increase in excise taxes or reduction in credit terms by taxing jurisdictions; the potential impact of product recalls and product liability claims relating to the products we distribute and other litigation; adverse judgments or settlements or unexpected outcomes in legal proceedings; risks relating to our outstanding indebtedness, including the impact of interest rate increases on our variable rate debt; our ability to raise additional capital on commercially reasonable terms or at all; and the possibility that the expected synergies and other benefits from the Cheney Brothers Acquisition will not be realized or will not be realized within the expected time period. We caution you that the risks, uncertainties and other factors referenced above may not contain all of the risks, uncertainties and other factors that are important to you. In addition, we cannot assure you that we will realize the results, benefits or developments that we expect or anticipate or, even if substantially realized, that they will result in the consequences or affect us or our business in the way expected. We cannot assure you (i) we have correctly measured or identified all of the factors affecting our business or the extent of these factors likely impact, (ii) the available information with respect to these factors on which such analysis is based is complete or accurate, (iii) such analysis is correct, or (iv) our strategy, which is based in part on this analysis, will be successful. All forward-looking statements in this report apply only as of the date of this report or as of the date they were made and, except as required by applicable law, we undertake no obligation to publicly update any forward-looking statement, whether as a result of new information, future developments or otherwise. Unless this Form 10-K indicates otherwise or the context otherwise requires, the terms we, our, us, the Company, or PFG as used in this Form 10-K refer to Performance Food Group Company and its consolidated subsidiaries. 
+2 
+PART I Item 1. B usiness Performance Food Group Company, through its subsidiaries, markets and distributes more than 250,000 food and food-related products to customers across North America, from our 155 distribution centers to over 300,000 customer locations in the food-away-from-home industry. Our approximately 43,000 employees serve a diverse mix of customers, from independent and chain restaurants to schools, business and industry locations, hospitals, vending distributors, office coffee service distributors, retailers, convenience stores, and theaters. We source our products from various suppliers and serve as an important partner to our suppliers by providing them access to our broad customer base. In addition to the products we offer to our customers, we provide value-added services by allowing our customers to benefit from our industry knowledge, scale, and expertise in the areas of product selection and procurement, menu development, and operational strategy. On October 8, 2024, the Company acquired Cheney Bros., Inc. ( Cheney Brothers ), expanding our Foodservice operations in the Southeastern portion of the United States. Refer to Note 4. Business Combinations within the Notes to Consolidated Financial Statements included in Part II, Item 8. Financial Statements ( Item 8 ) for additional details regarding the acquisition of Cheney Brothers. Our Segments The Company regularly monitors for changes in facts and circumstances that would necessitate changes in its determination of operating segments. In the third quarter of fiscal 2025, the Company updated its operating segments to reflect the manner in which the business is managed. Based on changes to the Company s organizational structure and how operating results are reviewed and decisions about resource allocations are made, certain operations and administrative and corporate costs previously reported in Corporate & All Other are now included in the Foodservice segment. In the third quarter of fiscal 2025, the Company also renamed the segment formerly known as Vistar, which, going forward, has been referred to as Specialty. There were no changes to the operations reported within the Specialty (formerly Vistar) segment. The Company continues to have three reportable segments: Foodservice, Convenience, and Specialty. Corporate & All Other is comprised of corporate overhead and certain operating segments that are not considered separate reportable segments based on their size. Foodservice . Foodservice offers a broad line of products, including custom-cut meat and seafood, as well as products that are specific to our customers menu requirements. Foodservice operates a network of 89 distribution centers, each of which is run by a business team who understands the local markets and the particular needs of its customers and who is empowered to make decisions on how best to serve them. The Foodservice segment markets and distributes food and food-related products to independent restaurants, chain restaurants, and other institutional food-away-from-home locations. Independent customers predominantly include family dining, bar and grill, pizza and Italian, Hispanic, and fast casual restaurants. We seek to increase the mix of our total sales to independent customers because they typically use more value-added services, particularly in the areas of product selection and procurement, market trends, menu development, and operational strategy and also use more of our proprietary-branded products ( Performance Brands ), which are our higher margin products. As a result, independent customers generate higher gross profit per case that more than offsets the generally higher supply chain costs that we incur in serving these customers. Chain customers are multi-unit restaurants with five or more locations and include fine dining, family and casual dining, fast casual, and quick-serve restaurants, as well as hotels, healthcare facilities, and other multi-unit institutional customers. Our Foodservice segment s chain customers include regional businesses requiring short-haul routes as well as national businesses requiring long-haul routes, including many of the most recognizable family and casual dining restaurant chains. Sales to chain customers are typically lower gross margin but have larger deliveries than those to independent customers. We offer our customers a broad product assortment that ranges from center-of-the-plate items (such as beef, pork, poultry, and seafood), frozen foods, refrigerated products, and dry groceries to disposables, cleaning and kitchen supplies, and related products used by our customers. In addition to the products we offer, we provide value-added services by enabling our customers to benefit from our industry knowledge, scale, and expertise in the areas of product selection and procurement, menu development, and operational strategy. Our products consist of Performance Brands, as well as nationally branded products and products bearing our customers brands. Our Performance Brands typically generate higher gross profit per case than other brands. Nationally branded products are attractive to chain, independent, and other customers seeking recognized national brands in their operations and complement sales of our Performance Brand products. Some of our chain customers, particularly those with national distribution, develop exclusive stock keeping units ( SKU ) specifications directly with suppliers and brand these SKUs. We purchase these SKUs directly from suppliers and receive them into our distribution centers, where they are mixed with other SKUs and delivered to the chain customers locations. 
+3 
+Convenience . The Convenience segment is one of the largest wholesale consumer products and foodservice distributors in the convenience retail industry. Convenience offers a full range of products, marketing programs and technology solutions to customer locations including traditional convenience stores, drug stores, mass merchants, grocery stores, liquor stores and other specialty and small format stores that carry convenience products in the United States and Canada. Convenience's product offering includes cigarettes and other nicotine products, candy, snacks, food, including fresh products, groceries, dairy, bread, beverages, general merchandise and health and beauty care products. Convenience operates a network of 39 distribution centers in the U.S. and Canada (excluding two distribution facilities it
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Significant customer bankruptcies could further adversely affect our net sales and increase our operating expenses by requiring larger provisions for bad debt expense. In addition, even when our contracts with these customers are not contested, if customers are unable to meet their obligations on a timely basis, it could adversely affect our ability to collect receivables. Further, we may have to negotiate significant discounts or extended financing terms with these customers in such a situation. If we are unable to collect upon our accounts receivable as they come due in an efficient and timely manner, our business, financial condition, or results of operations could be materially adversely affected. Insurance and claims expenses could significantly reduce our profitability. Our future insurance and claims expenses might exceed historic levels, which could reduce our profitability. We maintain high-deductible insurance programs covering portions of general and vehicle liability and workers compensation. The amount in excess of the deductibles is insured by third-party insurance carriers, subject to certain limitations and exclusions. We also maintain self-funded group medical insurance. We reserve for anticipated losses and expenses and periodically evaluate and adjust our claims reserves to reflect our experience. However, ultimate results may differ from our estimates, which could result in losses over our reserved amounts. Although we believe our aggregate insurance limits should be sufficient to cover reasonably expected claims costs, including claims related to incidents within our operations and vehicle and driver related claims, it is possible that the amount of one or more claims could exceed our aggregate coverage limits. Additionally, insurance carriers have raised premiums on certain lines of coverage for many businesses in our industry, including ours. For example, we experienced a $28.0 million increase in insurance expense in fiscal 2025 compared to f
+
+---
+Doc size: 2048KB (capped at 2MB)

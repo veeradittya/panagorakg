@@ -1,0 +1,111 @@
+# BROWN & BROWN INC — 10-K Annual Report
+# Filed: 2026-02-12
+# CIK: 79282
+# SIC: Insurance Agents, Brokers & Service
+# Source: https://www.sec.gov/Archives/edgar/data/79282/000119312526046984/bro-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+5
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+11 
+Item 1B. 
+Unresolved Staff Comments 
+26 
+Item 1C. 
+Cybersecurity 
+26 
+Item 2. 
+Properties 
+27 
+Item 3. 
+Legal Proceedings 
+27 
+Item 4. 
+Mine Safety Disclosures 
+27 
+Part II 
+28 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+28 
+Item 6. 
+Reserved 
+30 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+31 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+47 
+Item 8. 
+Financial Statements and Supplementary Data 
+48 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+84 
+Item 9A. 
+Controls and Procedures 
+84 
+Item 9B. 
+Other Information 
+84 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+84 
+Part III 
+85 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+85 
+Item 11. 
+Executive Compensation 
+85 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+85 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+85 
+Item 14. 
+Principal Accounting Fees and Services 
+85 
+Part IV 
+86 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+86 
+Item 16. 
+Form 10-K Summary 
+89 
+Signatures 
+90 
+2 
+Disclosure Regarding Forward-Looking Statements Brown & Brown, Inc., together with its subsidiaries (collectively, we, Brown & Brown or the Company ), makes forward-looking statements within the safe harbor provision of the Private Securities Litigation Reform Act of 1995, as amended, throughout this report and in the documents we incorporate by reference into this report. You can identify these statements by forward-looking words such as may, will, should, expect, anticipate, believe, intend, estimate, plan and continue or similar words. We have based these statements on our current expectations about potential future events. Although we believe the expectations expressed in the forward-looking statements included in this Annual Report on Form 10-K and the reports, statements, information and announcements incorporated by reference into this report are based upon reasonable assumptions within the bounds of our knowledge of our business, a number of factors could cause actual results to differ materially from those expressed in any forward-looking statements, whether oral or written, made by us or on our behalf. Many of these factors have previously been identified in filings or statements made by us or on our behalf. Important factors which could cause our actual results to differ, possibly materially from the forward-looking statements in this report include but are not limited to the following items, in addition to those matters described in Part II, Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations : Risks with respect to the acquisition of RSC Topco, Inc. ( RSC or Accession ), a Delaware corporation (the Transaction ); The possibility that the anticipated benefits, including any anticipated costs saving and strategies, of the Transaction are not realized when expected or at all; Risks related to the financing of the Transaction, including that financing the Transaction resulted in an increase in the Company s indebtedness; Risks relating to the financial information related to Accession; The risk that certain assumptions the Company has made relating to the Transaction prove to be materially inaccurate; Risks related to Accession s business, including underwriting risk in connection with certain captive insurance companies; The inability to hire, retain and develop qualified employees, as well as the loss of any of our executive officers or other key employees; A cybersecurity attack or any other interruption in information technology and/or data security that may impact our operations or the operations of third parties that support us; Acquisition-related risks that could negatively affect the success of our growth strategy, including the possibility that we may not be able to successfully identify suitable acquisition candidates, complete acquisitions, successfully integrate acquired businesses into our operations and expand into new markets; Risks related to our international operations, which may result in additional risks or require more management time and expense than our domestic operations to achieve or maintain profitability; The requirement for additional resources and time to adequately respond to dynamics resulting from rapid technological change; The loss of or significant change to any of our insurance company or intermediary relationships, which could result in loss of capacity to write business, additional expense, loss of market share or material decrease in our commissions; The effect of natural disasters on our profit-sharing contingent commissions, insurer capacity or claims expenses within our captive insurance facilities; Adverse economic conditions, political conditions, outbreaks of war, disasters, or regulatory changes in states or countries where we have a concentration of our business; The inability to maintain our culture or a significant change in management, management philosophy or our business strategy; Fluctuations in our commission revenue as a result of factors outside of our control; The effects of significant or sustained inflation or higher interest rates; Claims expense resulting from the limited underwriting risk associated with our participation in captive insurance facilities; Risks associated with our automobile and recreational vehicle dealer services ( F&I ) businesses; Changes in, or the termination of, certain programs administered by the U.S. federal government from which we derive revenues; The limitations of our system of disclosure and internal controls and procedures in preventing errors or fraud, or in informing management of all material information in a timely manner; 
+3 
+Our reliance on vendors and other third parties to perform key functions of our business operations and provide services to our customers; The significant control certain shareholders have; Changes in data privacy and protection laws and regulations or any failure to comply with such laws and regulations; Improper disclosure of confidential information; Our ability to comply with non-U.S. laws, regulations and policies; The potential adverse effect of certain actual or potential claims, regulatory actions or proceedings on our businesses, results of operations, financial condition or liquidity; Uncertainty in our business practices and compensation arrangements with insurance carriers due to potential changes in regulations; Regulatory changes that could reduce our profitability or growth by increasing compliance costs, technology compliance, restricting the products or services we may sell, the markets we may enter, the methods by which we may sell our products and services, or the prices we may charge for our services and the form of compensation we may accept from our customers, carriers and third parties; Increasing scrutiny and changing laws or competing expectations from regulators, investors and customers with respect to our environmental, social and governance practices and disclosure; A decrease in demand for liability insurance as a result of tort reform legislation; Our failure to comply with any covenants contained in our debt agreements; The possibility that covenants in our debt agreements could prevent us from engaging in certain potentially beneficial activities; Fluctuations in foreign currency exchange rates; A downgrade to our corporate credit rating, the credit ratings of our outstanding debt or other market speculation; Future sales or other dilution of our equity could adversely affect the market price of our common stock; Changes in the U.S.-based credit markets that might adversely affect our business, results of operations and financial condition; Changes in current U.S. or global economic conditions, including an extended slowdown in the markets in which we operate; Disintermediation within the insurance industry, including increased competition from insurance companies, technology companies and the financial services industry, as well as the shift away from traditional insurance markets; Conditions that result in reduced insurer capacity; Quarterly and annual variations in our commissions that result from the timing of policy renewals and the net effect of new and lost business production; Intangible asset risk, including the possibility that our goodwill may become impaired in the future; Changes in our accounting estimates and assumptions; Other risks and uncertainties as may be detailed from time to time in our public announcements and Securities and Exchange Commission ( SEC ) filings; and Other factors that the Company may not have currently identified or quantified. Assumptions as to any of the foregoing, and all statements, are not based upon historical fact, but rather reflect our current expectations concerning future results and events. Forward-looking statements that we make or that are made by others on our behalf are based upon a knowledge of our business and the environment in which we operate, but because of the factors listed above, among others, actual results may differ from those in the forward-looking statements. Consequently, these cautionary statements qualify all of the forward-looking statements we make herein. We cannot assure you that the results or developments anticipated by us will be realized or, even if substantially realized, that those results or developments will result in the expected consequences for us or affect us, our business or our operations in the way we expect. We caution readers not to place undue reliance on these forward-looking statements. All forward-looking statements made herein are made only as of the date of this filing, the Company does not undertake any obligation to publicly update or correct any forward-looking statements to reflect events or circumstances that subsequently occur or of which the Company hereafter becomes aware. 
+4 
+PAR T I ITEM 1. B usiness. General Brown & Brown, Inc., a Florida corporation, and its subsidiaries (collectively, Brown & Brown or the Company ) is a diversified insurance agency, wholesale brokerage, insurance programs and service organization that markets and sells insurance products and services, primarily in the property, casualty and employee benefits areas. The Company primarily operates as an agent or broker not assuming underwriting risks. However, we also operate and/or participate in various ancillary insurance operations, including (1) reinsurance companies and stand-alone captives that assume underwriting risk; (2) series captive insurance companies ( SCICs ); (3) protected cell companies; (4) segregated account companies; (5) a quota share captive and (6) an excess of loss layer captive (collectively, the "Captives"). These ancillary insurance operations facilitate additional underwriting capacity, generate incremental revenues and/or enable the Company to participate in certain underwriting results. The Company also operates a write-your-own flood insurance carrier, Wright National Flood Insurance Company ( WNFIC ). WNFIC s underwriting business consists of policies written pursuant to the National Flood Insurance Program ( NFIP ), the program administered by the Federal Emergency Management Agency ( FEMA ) to which premiums and underwriting exposure are ceded, and excess flood policies which are fully reinsured in the private market. In conjunction with the acquisition of RSC, the holding company for Accession Risk Management Group, Inc., in the third quarter of 2025, the Company realigned its business from three to two segments. As a result of the segment reorganization, the Company consolidated its Programs and Wholesale Brokerage segments into a new Specialty Distribution segment. The Company now reports its financial results in the following two reportable segments: Retail and Specialty Distribution. The historical results, discussion and presentation of our business segments as set forth in the accompanying Consolidated Financial Statements reflect the impact of these changes for all periods presented in order to present segment information on a comparable basis. There is no impact on our previously reported consolidated statements of income, balance sheets, statements of cash flows, statements of comprehensive income or statements of equity resulting from these changes. As of December 31, 2025, our activities were conducted in 468 domestic locations in 47 states, and 246 international locations in Belgium, Bermuda, Canada, Cayman Islands, France, Germany, Hong Kong Special Administrative Region of the People's Republic of China ( Hong Kong ), India, Italy, Malaysia, the Netherlands, Republic of Ireland, Singapore, United Arab Emirates and the United Kingdom. Segment Information Our business is divided into two reportable segments: (i) the Retail segment, and (ii) the Specialty Distribution segment. The Retail segment provides a broad range of insurance products and services to commercial, public and quasi-public entities, and to professional and individual customers, as well as non-insurance warranty services and products through our automobile and recreational vehicle dealer services ("F&I") businesses. The Specialty Distribution segment consists of our programs, wholesale brokerage and specialty businesses. The programs businesses, which act as managing general underwriters ( MGUs ), provide targeted products and services designated for specific industries, trade groups, governmental entities and market niches, which are delivered to the insured directly, to affinity groups, through wholesale brokers or through a global network of independent agents, including Brown & Brown retail agents. These products and services include specialty property and casualty insurance, financial lines, life and health benefits, reinsurance, travel/accident and health insurance, captive administrative services, warranty services and specialty packages of coverages. The wholesale brokerage businesses underwrite and place excess and surplus commercial and personal lines insurance, typically for specialized or hard-to-place types of risks, primarily through a global network of independent agents and brokers, including Brown & Brown retail agents. The specialty businesses offer solutions across affinity and administrative services, captives, reinsurance, travel/accident, warranty, and life & health. The following table summarizes (i) the commissions and fees generated by each of our reportable operating segments for 2025, 2024, and 2023 and (ii) the percentage of our total commissions and fees represented by each segment for each such period: 
+(in millions, except percentages) 
+2025 
+% 
+2024 
+% 
+2023 
+% 
+Retail segment 
+$ 
+3,386 
+58.7
+
+## GEOGRAPHIC REVENUE
+282 bro:CoreCommissionRevenueMember us-gaap:MaterialReconcilingItemsMember 2024-01-01 2024-12-31 0000079282 bro:TwoThousandAndNineteenStockIncentivePlanMember 2025-05-01 2025-05-31 0000079282 us-gaap:DomesticCountryMember 2025-12-31 0000079282 us-gaap:FairValueInputsLevel3Member bro:MergerAgreementMember bro:RSCTopcoIncMember 2025-01-01 2025-12-31 0000079282 us-gaap:CommonStockMember 2022-12-31 0000079282 srt:MinimumMember bro:TwoThousandTenAndTwoThousandNineteenStockIncentivePlanMember 2025-01-01 2025-12-31 0000079282 bro:SixPointTwoFiveZeroPercentSeniorNotesDueTwoThousandFiftyFiveMember 2025-01-01 2025-12-31 0000079282 bro:CaptiveInsuranceFacilityMember 2025-12-31 0000079282 bro:EarnedPremiumMember us-gaap:MaterialReconcilingItemsMember 2024-01-01 2024-12-31 0000079282 bro:AccountingStandardUpdate2014-09Member 2024-12-31 0000079282 bro:FourPointTwoZeroZeroPercentSeniorNotesDueTwoThousandThirtyTwoMember 2025-12-31 0000079282 bro:OtherSupplementalCommissionsRevenueMember 2024-01-01 2024-12-31 0000079282 bro:TwoThousandTwentyFourAcquisitionMember 2024-01-01 2024-12-31 0000079282 us-gaap:TreasuryStockCommonMember 2022-12-31 0000079282 us-gaap:OtherNoncurrentLiabilitiesMember 2025-12-31 0000079282 bro:FourPointNineZeroZeroPercentSeniorNotesDueTwoThousandThirtyMember 2024-12-31 0000079282 us-gaap:CorporateNonSegmentMember 2023-01-01 2023-12-31 0000079282 bro:TermLoanMember 2024-12-31 0000079282 bro:FourPointTwoZeroZeroPercentSeniorNotesDueTwoThousandThirtyTwoMember 2024-01-01 2024-12-31 0000079282 bro:TwoPointThreeSevenFivePercentSeniorNotesDueTwoThousandThirtyOneMember 2024-01-01 2024-12-31 0000079282 us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember 2024-12-31 0000079282 us-gaap:MaterialReconcilingItemsMember bro:FeeRevenueMember 2025-01-01 2025-12-31 0000079282 us-gaap:OperatingSegmentsMember bro:OtherSupplementalCommissionsRevenueMember bro:SpecialtyDistributionMember 2024-01-01 2024-12-31 0000079282 bro:RetailSegmentMember us-gaap:OperatingSegmentsMember bro:CoreCommissionRevenueMember 2025-01-01 2025-12-31 0000079282 bro:PoultonAssociatesLLCMember bro:SpecialtyDistributionMember 2025-12-31 0000079282 bro:EarnedPremiumMember us-gaap:MaterialReconcili
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer or a few customers. During 2025, commissions and fees from our largest single Retail segment customer represented 0.6% of the Retail segment s total commissions and fees. As of December 31, 2025, our Retail segment employed 14,531 employees. Our Retail segment has physical locations in 44 states plus Bermuda, Canada, Cayman Islands, India, the Netherlands, Republic of Ireland and the United Kingdom. In connection with selling and marketing of insurance coverages, we provide a broad range of related services to our customers, such as risk management strategies, loss control surveys and analysis, consultation in connection with placing insurance coverages and claims processing. Specialty Distribution segment The Specialty Distribution segment consists of our programs, wholesale brokerage and specialty businesses. Through these businesses the segment provides a diverse trading platform for insurance carriers as well as expanded access and niche solutions for brokers and customers navigating complex and hard-to-place risks. Our largest Specialty Distribution segment customer represented approximately 7.2% of the segment's total commissions and fees. Our programs businesses, operating under the name "Arrowhead Programs," specialize in the development, underwriting and management of insurance program business, often designed for niche, underserved markets and distribute these coverages to retail agencies (including Brown & Brown retail offices), as well as affinity groups, wholesale entities and direct to consumers. We offer program management expertise for insurance carrier partners across numerous lines of business, which can be grouped into six broad categories as detailed below: Professional programs. Professional liability and related package insurance products are tailored to the needs of professionals in the following areas: dentistry, legal, eyecare, insurance, financial, physicians and real estate title professionals. Professional liability progra
+
+---
+Doc size: 2039KB (capped at 2MB)

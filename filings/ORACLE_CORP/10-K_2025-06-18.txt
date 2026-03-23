@@ -1,0 +1,108 @@
+# ORACLE CORP — 10-K Annual Report
+# Filed: 2025-06-18
+# CIK: 1341439
+# SIC: Services-Prepackaged Software
+# Source: https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+17 
+Item 1B. 
+Unresolved Staff Comments 
+31 
+Item 1C. 
+Cybersecurity 
+32 
+Item 2. 
+Properties 
+33 
+Item 3. 
+Legal Proceedings 
+34 
+Item 4. 
+Mine Safety Disclosures 
+34 
+PART II. 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+35 
+Item 6. 
+[Reserved] 
+36 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+37 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+55 
+Item 8. 
+Financial Statements and Supplementary Data 
+57 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+57 
+Item 9A. 
+Controls and Procedures 
+57 
+Item 9B. 
+Other Information 
+58 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+58 
+PART III. 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+59 
+Item 11. 
+Executive Compensation 
+59 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+59 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+59 
+Item 14. 
+Principal Accountant Fees and Services 
+59 
+PART IV. 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+60 
+Item 16. 
+Form 10-K Summary 
+104 
+Signatures 
+112 
+Table of Contents 
+Cautionary Note on Forward-Looking Statements For purposes of this Annual Report on Form 10-K (this Annual Report), the terms Oracle, we, us and our refer to Oracle Corporation and its consolidated subsidiaries. This Annual Report contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act), and Section 27A of the Securities Act of 1933, as amended (the Securities Act). These include, among other things, statements regarding: our expectation that we may acquire, and realize the anticipated benefits of acquiring, companies, products, services and technologies to further our corporate strategy as compelling opportunities become available; our belief that our acquisitions enhance the products and services that we can offer to customers, expand our customer base, provide greater scale to accelerate innovation, grow our revenues and earnings and increase stockholder value; our expectation that, on a constant currency basis, our total cloud and license revenues generally will continue to increase due to expected growth in our cloud services and continued demand for our cloud license and on-premise license and license support offerings; our belief that our Oracle Cloud Applications (OCA) and Oracle Cloud Infrastructure (OCI) offerings represent opportunities for us to continue to expand our cloud and license business, and that we are in the early stages of what we expect will be a material migration of our existing Oracle customer base from on-premise applications and infrastructure products and services to the Oracle Cloud; our belief that we can market our OCA and OCI services to a broader ecosystem of small and medium-sized businesses, non-information technology lines of business purchasers, developers and partners due to the highly available, intuitive design, ease-of-access, low touch and low cost characteristics of the Oracle Cloud; our expectation that substantially all of our customers will renew their license support contracts upon expiration; our belief that Oracle Fusion Cloud Enterprise Resource Planning is a strategic suite of applications that is foundational to facilitating and extracting more business value out of the adoption of other OCA offerings as customers realize the value of a common data model that spans across core business applications; our belief that our OCA offerings remove business boundaries between front- and back-office activities; our expectation that current and expected customer demand will require continued growth in our cloud services and license support expenses in order to increase our existing data center capacity and establish additional data centers in new geographic locations; our expectation that our hardware business will have lower operating margins as a percentage of revenues than our cloud and license business; our expectation that we will continue to make significant investments in research and development to develop new products and services offerings, as well as maintain and improve our current offerings, and our belief that research and development efforts are essential to maintaining our competitive position; our expectations regarding our investment in Ampere Computing Holdings LLC (Ampere) and the pending acquisition of Ampere by SoftBank Group Corp.; our expectation that our international operations will continue to provide a significant portion of our total revenues and expenses; our expectation that the proportion of our cloud services revenues relative to our total revenues will continue to increase; the sufficiency of our sources of funding for working capital, capital expenditures, contractual obligations, acquisitions, dividends, stock repurchases, debt repayments and other matters; our belief that we have adequately provided under United States (U.S.) generally accepted accounting principles for outcomes related to our tax audits, that the final outcome of our tax-related examinations, agreements or judicial proceedings will not have a material effect on our results of operations and that our net deferred tax assets will likely be realized in the foreseeable future; 
+1 
+Table of Contents 
+our belief that the outcome of certain legal proceedings and claims to which we are a party will not, individually or in the aggregate, result in losses that are materially in excess of amounts already recognized, if any; the possibility that certain legal proceedings to which we are or may become a party could have a material impact on our financial position, future cash flows and results of operations; the timing and amount of expenses we expect to incur; the possibility that we may incur additional restructuring expenses in future periods due to the initiation of new restructuring plans; declarations and amounts of future cash dividend payments and the timing and amount of future stock repurchases; our expectations regarding the impact of recent accounting pronouncements on our consolidated financial statements; our expectations regarding the amounts and performance of our investments in marketable and non-marketable equity securities and the timing and amount of changes in fair value of these investments; our ability to predict revenues, particularly certain cloud license and on-premise license revenues and hardware revenues, and margins; the percentages of remaining performance obligations that we expect to recognize as revenues over respective future periods; our expectation that the financial impacts of standard warranty or service level provisions in our revenue arrangements will continue to be insignificant; our expectation that supply chain shortages, including those arising from tariffs, changing trade policy or other macroeconomic developments, and the risks associated with our response to such shortages, including committing to higher purchases and balances of hardware products, may increase and will continue to impact us in the future; our beliefs regarding the retention of employees and how our products help to improve our employees learning experiences and growth opportunities; as well as other statements regarding our future operations, financial condition and prospects and business strategies. Forward-looking statements may be preceded by, followed by or include the words anticipates, believes, commits, continues, could, endeavors, estimates, expects, focus, forecasts, future, goal, intends, is designed to, likely, maintains, may, ongoing, plans, possible, potential, projects, seeks, shall, should, strives, will and similar expressions. We claim the protection of the safe harbor for forward-looking statements contained in the Exchange Act and the Securities Act for all forward-looking statements. We have based these forward-looking statements on our current expectations and projections about future events. These forward-looking statements are subject to risks, uncertainties and assumptions about our business that could affect our future results and could cause those results or other outcomes to differ materially from those expressed or implied in the forward-looking statements. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in Risk Factors included elsewhere in this Annual Report and as may be updated in filings we make from time to time with the U.S. Securities and Exchange Commission (the SEC), including our Quarterly Reports on Form 10-Q to be filed by us in our fiscal year 2026, which runs from June 1, 2025 to May 31, 2026. We have no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or risks, except to the extent required by applicable securities laws. If we do update one or more forward-looking statements, no inference should be drawn that we will make additional updates with respect to those or other forward-looking statements. New information, future events or risks could cause the forward-looking events we discuss in this Annual Report not to occur. You should not place undue reliance on these forward-looking statements, which reflect our expectations only as of the date of this Annual Report. 
+2 
+Table of Contents 
+PAR T I Item 1. Business Oracle provides products and services that address enterprise information technology (IT) needs. Our products and services include enterprise applications and infrastructure offerings that are delivered worldwide through a variety of flexible and interoperable IT deployment models. These models include on-premise, cloud-based and hybrid deployments. It is an important element of our corporate strategy to provide choice and flexibility to Oracle customers as to when and how they deploy Oracle applications and infrastructure technologies. We believe that offering customers broad, comprehensive, flexible and interoperable deployment models for Oracle applications and infrastructure technologies is important to our growth strategy and better addresses customer needs relative to our competitors, many of whom provide fewer offerings, more restrictive deployment models and less flexibility for customers transitioning to cloud-based IT environments. Oracle Cloud Applications (OCA) and Oracle Cloud Infrastructure (OCI, collectively with OCA, Oracle Cloud Services) offerings provide comprehensive and integrated applications and infrastructure services, enabling our customers to choose the best option that meets their specific business needs. Oracle Cloud Services integrate IT components in a cloud-based IT environment that Oracle deploys and manages for customers and is accessible by utilizing common web browsers via a broad spectrum of devices. Oracle Cloud Services are designed to be: rapidly deployable to enable customers shorter time to innovation; intuitive for casual and experienced users; easily maintainable to reduce upgrade, integration and testing work; connectable among differing deployment models to enable interoperability and extensibility to easily move workloads among the Oracle Cloud and other IT environments; cost-effective by lowering upfront customer investments and implementing usage-based resource consumption costs; and highly secure, standards-based and reliable. Oracle cloud license and on-premise license deployment offerings include Oracle Applications, Oracle Database and Oracle Middleware software offerings, among others, which customers deploy using IT infrastructure from the Oracle Cloud or their own IT environments. Substantially all customers opt to purchase license support contracts when they purchase an Oracle license. Oracle hardware products include Oracle Engineered Systems, servers, storage and industry-specific products, among others. Customers generally opt to purchase hardware support contracts when they purchase Oracle hardware products. Oracle also offers professional services to assist our customers and partners to maximize the performance of their investments in Oracle products and services. Our customers include businesses of many sizes, government agencies, educational institutions and resellers that we market and sell to directly through our worldwide sales force or indirectly through the Oracle Partner Network. Using Oracle technologies, our customers build, deploy, run, manage and support their internal and external products, services and business operations, including, for example, an artificial intelligence (AI) product company that uses OCI to build and serve generative AI models; a global technology company that uses multiple OCI compute and data services to power its logistics and mobile application offerings; a multinational financial institution that runs its banking applications using Oracle Exadata Cloud@Customer; and a global consumer products company that leverages Oracle Fusion Cloud Enterprise Resource Planning (ERP) for its accounting processes, risk management, supply chain and financial planning functions. Our investments in, and innovation with respect to, Oracle products and services that we offer through our three businesses (cloud and license, hardware and services businesses, described further below) are another important element of our corporate strategy. In fiscal 2025, 2024 and 2023, we invested $9.9 billion, $8.9 billion and $8.6 billion, respectively, in research and development to enhance our existing portfolio of offerings and to develop new 
+3 
+Table of Contents 
+technologies and services. We have a deep understanding as to how applications and infrastructure technologies interact and function with one another, including using OCI to power our OCA, which we and our customers use to run internal business processes. We focus our development efforts on improving the performance, security, reliability, operation, integration and cost-effectiveness of our offerings relative to our competitors; facilitating the ease with which organizations are able to deploy, use, manage and maintain our offerings; and incorporating emerging technologies, such as AI, within our offerings to enable leaner business processes, automation and innovation. After an initial purchase of Oracle products and services, our customers can continue to benefit from our offerings, research and development efforts and deep IT expertise by electing to purchase and renew Oracle support offerings for their license and hardware deployments, which may include product enhancements that we periodically deliver to
+
+## GEOGRAPHIC REVENUE
+ng for working capital, capital expenditures, contractual obligations, acquisitions, dividends, stock repurchases, debt repayments and other matters; our belief that we have adequately provided under United States (U.S.) generally accepted accounting principles for outcomes related to our tax audits, that the final outcome of our tax-related examinations, agreements or judicial proceedings will not have a material effect on our results of operations and that our net deferred tax assets will likely be realized in the foreseeable future; 
+1 
+Table of Contents 
+our belief that the outcome of certain legal proceedings and claims to which we are a party will not, individually or in the aggregate, result in losses that are materially in excess of amounts already recognized, if any; the possibility that certain legal proceedings to which we are or may become a party could have a material impact on our financial position, future cash flows and results of operations; the timing and amount of expenses we expect to incur; the possibility that we may incur additional restructuring expenses in future periods due to the initiation of new restructuring plans; declarations and amounts of future cash dividend payments and the timing and amount of future stock repurchases; our expectations regarding the impact of recent accounting pronouncements on our consolidated financial statements; our expectations regarding the amounts and performance of our investments in marketable and non-marketable equity securities and the timing and amount of changes in fair value of these investments; our ability to predict revenues, particularly certain cloud license and on-premise license revenues and hardware revenues, and margins; the percentages of remaining performance obligations that we expect to recognize as revenues over respective future periods; our expectation that the financial impacts of standard warranty or service level provisions in our revenue arrangements will continue to be insignificant; our expectation that supply chain shortages, including those arising from tariffs, changing trade policy or other macroeconomic developments, and the risks associated with our response to such s
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of our total revenues in fiscal 2025 and 2024, respectively, helps customers and partners maximize the performance of their investments in Oracle applications and infrastructure technologies. We believe that our services are differentiated based on our focus on Oracle technologies, extensive experience, broad sets of intellectual property and best practices. Our services offerings include consulting services and advanced customer services. Our services business has lower margins than our cloud and license and hardware businesses. Our services revenues are affected by many factors including our strategy for, and the competitive position of, our services; customer demand for our cloud and license and hardware offerings and the related services that we may market and sell in connection with these offerings; general economic conditions; governmental budgetary constraints; personnel reductions in our customers IT departments; tighter controls over customer discretionary spending; and foreign currency rate fluctuations. Acquisitions Our selective and active acquisition program is another important element of our corporate strategy. Historically, we have invested billions of dollars to acquire a number of complementary companies, products, services and 
+39 
+Table of Contents 
+technologies. As compelling opportunities become available, we may acquire companies, products, services and technologies in furtherance of our corporate strategy. We believe that we can fund our future acquisitions with our internally available cash, cash equivalents and marketable securities balances, cash generated from operations, additional borrowings or from the issuance of additional securities. We estimate the financial impact of any potential acquisition with regard to earnings, operating margin, cash flows and return on invested capital targets, among others, before deciding to move forward with an acquisition. Investment in Ampere Computing Holdings LLC From time to time since 2017, we
+
+---
+Doc size: 2048KB (capped at 2MB)

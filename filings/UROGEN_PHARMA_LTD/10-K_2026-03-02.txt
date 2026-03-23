@@ -1,0 +1,151 @@
+# UROGEN PHARMA LTD — 10-K Annual Report
+# Filed: 2026-03-02
+# CIK: 1668243
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1668243/000143774926006234/urgn20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+23 
+Item 1B. 
+Unresolved Staff Comments 
+61 
+Item 1C. 
+Cybersecurity 
+61 
+Item 2. 
+Properties 
+61 
+Item 3. 
+Legal Proceedings 
+61 
+Item 4. 
+Mine Safety Disclosures 
+61 
+PART II. 
+62 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+62 
+Item 6. 
+[Reserved] 
+62 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+63 
+Item 7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+73 
+Item 8. 
+Financial Statements and Supplementary Data 
+74 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+96 
+Item 9A. 
+Controls and Procedures 
+96 
+Item 9B. 
+Other Information 
+96 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+96 
+PART III. 
+97 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+97 
+Item 11. 
+Executive Compensation 
+97 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+97 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+97 
+Item 14. 
+Principal Accountant Fees and Services 
+97 
+PART IV. 
+98 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+98 
+Item 16. 
+Form 10-K Summary 
+99 
+Table of Contents 
+PART I 
+INTRODUCTION 
+Unless otherwise indicated, UroGen Pharma, "UroGen," the Company, our Company, we, us and our refer to UroGen Pharma Ltd. and its subsidiary, UroGen Pharma, Inc. 
+UroGen, RTGel, Jelmyto and Zusduri are trademarks of ours that we use in this Annual Report on Form 10-K (this "Annual Report"). This Annual Report also includes trademarks, tradenames, and service marks that are the property of other organizations. Solely for convenience, our trademarks and tradenames referred to in this Annual Report appear without the or symbols, but those references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights, or the right of the applicable licensor to our trademark and tradenames. We do not intend our use or display of other companies trade names or trademarks to imply a relationship with, or endorsement or sponsorship of us by, any other companies. 
+We maintain our books and records in U.S. dollars, and prepare our financial statements in accordance with U.S. Generally Accepted Accounting Principles ("GAAP"), as issued by the Financial Accounting Standards Board. 
+The terms shekel, Israeli shekel and NIS refer to New Israeli Shekels, the lawful currency of the State of Israel, and the terms dollar, U.S. dollar and $ refer to United States dollars, the lawful currency of the United States. All references to shares in this Annual Report refer to ordinary shares of UroGen Pharma Ltd., par value NIS 0.01 per share. 
+We have made rounding adjustments to some of the figures included in this Annual Report. Accordingly, numerical figures shown as totals in some tables may not be an arithmetic aggregation of the figures that preceded them. 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+This Annual Report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), which are subject to the safe harbor created by those sections. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth below under Part I, Item 1A, Risk Factors in this Annual Report. 
+We may, in some cases, use words such as anticipate, believe, continue, could, estimate, expect, intend, may, plan, potential, predict, project, should, will, would or the negative of those terms, and similar expressions that convey uncertainty of future events or outcomes to identify these forward-looking statements. Any statements contained herein that are not statements of historical facts may be deemed to be forward-looking statements and are based upon our current expectations, beliefs, estimates and projections, and various assumptions, many of which, by their nature, are inherently uncertain and beyond our control. Forward-looking statements in this Annual Report include, but are not limited to, statements about: 
+the timing and conduct of our clinical trials, including statements regarding the timing, progress and results of current and future nonclinical studies and clinical trials, and our research and development programs; 
+the clinical utility, potential advantages and timing or likelihood of regulatory filings and approvals of our product candidates; 
+our expectations regarding timing for application for and receipt of a regulatory review decision for any of our product candidates; 
+our ongoing and planned development of product candidates including UGN-103, UGN-104, UGN-501, and our discovery of new product candidates; 
+our expectations regarding future growth, including our ability to develop, and obtain regulatory approval for, new product candidates; 
+our ability to obtain additional financing to support our operations; 
+our ability to obtain and maintain adequate intellectual property rights and adequately protect and enforce such rights; 
+our ability to maintain our existing collaboration and licensing arrangements and enter into and maintain other collaborations, licensing arrangements or in-license or acquire rights to other products, product candidates or technologies; 
+our plans to develop and commercialize our in-line and investigational product candidates; 
+our estimates regarding the commercial potential and market opportunity for our product pipeline and investigational products; 
+our estimates regarding expenses, future revenues, capital requirements and the need for additional financing; 
+the impact of our research and development expenses as we continue developing investigational product candidates; 
+the future nonclinical and clinical development of licensed products, including UGN-103, UGN-104 and UGN-501, and their commercial opportunity; and 
+the impact of government laws and regulations. 
+We caution you that the risks, uncertainties and other factors referenced above may not contain all of the risks, uncertainties and other factors that are important to you. In addition, we cannot guarantee future results, level of activity, performance or achievements. You should refer to the section of this Annual Report under Part I, Item 1A, Risk Factors for a discussion of important factors that may cause our actual results to differ materially from those expressed or implied by our forward-looking statements. As a result of these factors, we cannot assure you that the forward-looking statements in this Annual Report will prove to be accurate. In addition, statements that we believe and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this Annual Report, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely upon these statements. 
+1
+Table of Contents 
+If our forward-looking statements prove to be inaccurate, the inaccuracy may be material. In light of the significant uncertainties in these forward-looking statements, you should not regard these statements as a representation or warranty by us or any other person that we will achieve our objectives and plans in any specified time frame or at all. Any forward-looking statement made by us in this Annual Report speaks only as of the date of this Annual Report or as of the date on which it is made. We undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. 
+You should read this Annual Report and the documents that we reference in this Annual Report and have filed as exhibits to this Annual Report completely and with the understanding that our actual future results may be materially different from what we expect. We qualify all of our forward-looking statements by these cautionary statements. 
+This Annual Report may contain market data and industry forecasts that were obtained from industry publications. These data involve a number of assumptions and limitations, and you are cautioned not to give undue weight to such estimates. We have not independently verified any third-party information. While we believe the market position, market opportunity and market size information included in this Annual Report is generally reliable, such information is inherently imprecise. 
+RISK FACTOR SUMMARY 
+Below is a summary of the material factors that make an investment in our ordinary shares speculative or risky. This summary does not address all of the risks that we face. Additional discussion of the risks summarized in this risk factor summary, and other risks that we face, can be found below under the heading Risk Factors, and should be carefully considered, together with other information in this Annual Report and our other filings with the U.S. Securities and Exchange Commission ("SEC") before making investment decisions regarding our ordinary shares. 
+We may require additional financing to fund our operations and achieve our goals, and a failure to obtain this capital when needed and on acceptable terms, or at all, could force us to delay, limit, reduce or terminate our product development, commercialization efforts or other operations. 
+We are highly dependent on the successful commercialization of our approved products, Jelmyto and Zusduri . 
+We have limited experience as an organization in marketing and distributing products and are therefore subject to certain risks in relation to the commercialization of Jelmyto, Zusduri and any of our product candidates that receive regulatory approval. 
+The market opportunities for Jelmyto, Zusduri and our product candidates may be smaller than we anticipate or limited to those patients who are ineligible for established therapies or for whom prior therapies have failed and may be small. 
+Jelmyto, Zusduri and any of our product candidates that receive regulatory approval may fail to achieve the broad degree of physician adoption and use and market acceptance necessary for commercial success. 
+Jelmyto, Zusduri and our product candidates, if approved, will face significant competition with competing technologies and our failure to compete effectively may prevent us from achieving significant market penetration. 
+Clinical drug development involves a lengthy and expensive process with an uncertain outcome, results of earlier studies and trials may not be predictive of future trial results, and our clinical trials may fail to adequately demonstrate the safety and efficacy of our product candidates. 
+We have entered into collaboration and licensing agreements and in the future may enter into collaboration and licensing arrangements with other third parties for the development and commercialization of our products and product candidates. If our collaboration and licensing arrangements are not successful, we may not be able to capitalize on the market potential of these products and product candidates. 
+We currently contract with third-party subcontractors and single-source suppliers for certain raw materials, compounds and components necessary to produce Jelmyto and Zusduri for commercial use, and to produce and administer UGN-103, UGN-104 and UGN-501 for nonclinical studies and clinical trials, and expect to continue to do so to support commercial scale production of UGN-103, UGN-104 and UGN-501, if approved; or for any approved products that include UGN-501. There are significant risks associated with the manufacture of pharmaceutical products and contracting with contract manufacturers, including single-source suppliers. Furthermore, our existing third-party subcontractors and single-source suppliers may not be able to meet the increased need for certain raw materials, compounds and components that may result from our commercialization efforts. This increases the risk that we will not have sufficient quantities of Jelmyto , Zusduri , UGN-103, UGN-104 or UGN-501, or be able to obtain such quantities at an acceptable cost, which could delay, prevent or impair our development or commercialization efforts. 
+International trade policies, including tariffs, sanctions and trade barriers may adversely affect our business, financial condition, results of operations and prospects. 
+If product liability lawsuits are brought against us, we may incur substantial liabilities and may be required to limit commercialization of any of our products and product candidates, if approved. 
+If we fail to attract and keep senior management and key personnel, we may be unable to successfully develop our product candidates, conduct our clinical trials and commercialize any of the products we develop. 
+We have incurred significant losses and negative cash flows since our inception, and we anticipate that we will continue to incur losses and negative cash flows as we execute on our strategy and may not generate positive or sufficient cash flows from operations in the future, which may have an adverse impact on our working capital, total assets, stockholders equity and our ability to service our indebtedness and commitments. 
+Our indebtedness resulting from our loan agreement with Pharmakon Advisors, L.P. ("Pharmakon") could adversely affect our financial condition or restrict our future operations. 
+If our efforts to obtain, protect or enforce our patents and other intellectual property rights related to Jelmyto , Zusduri , and our product candidates and technologies are not adequate, we may not be able to compete effectively, and we otherwise may be harmed. 
+We may become involved in lawsuits to protect or enforce our patents or other intellectual property rights or the patents of our licensors, which could be expensive and time consuming. 
+If the FDA concludes that the requirements for our relevant product candidates are not as we expect, the approval pathway for these product candidates will likely take significantly longer, cost significantly more and entail significantly greater complications and risks than anticipated, and in either case may not be successful. 
+We expect current and future legislation affecting the healthcare industry, including healthcare reform, to impact our business generally and to increase limitations on reimbursement, rebates and other payments, which could adversely affect third-party coverage of our products, our
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+largest customer comprises approximately 76 % and over 90 % of product sales for the twelve months ended December 31, 2025 and 2024, respectively. The Company's largest customer comprises approximately 59 % and 80 % of accounts receivables at December 31, 2025 and 2024, respectively. Net revenue recognized includes gross revenue and management s estimate of returns, consideration paid to the customers including rebates that may be offered from time to time, chargebacks relating to differences between the wholesale acquisition cost and the contracted price offered to the end consumer, chargebacks relating to 340B drug pricing programs and other government sponsored programs, Medicaid drug rebate programs, the Company s copay assistance program, and Medicare refunds for discarded drug. The Company does not anticipate any Medicare refunds for discarded drug for Zusduri . The Company estimates these elements of variable consideration based on the contractual or statutory terms governing the arrangements and the Company s historical experience, and constrains the net revenue recognized for product sales to the value that is not probable to be reversed when the uncertainty associated with the variable consideration is subsequently resolved. Reserves for chargebacks and returns are net settled and recognized as contra accounts receivable while the remaining reserves are recognized within other current liabilities on the consolidated balance sheets. 
+The following table shows the activity with respect to sales reserves for the year ended December 31, 2025 and 2024 , in thousands: 
+Reserves related to government sponsored programs Medicare refunds for discarded drug reserve Other reserves Total accrued sales reserves 
+Balance as of December 31, 2023 $ 1,062 $ 3,451 $ 1,458 $ 5,971 
+Changes during 2024 
+Accruals 13,870 3,920 11,273 29,063 
+Utilizations ( 13,822 ) ( 10,785 ) ( 24,607 ) 
+Changes to prior period estimates ( 223 ) $ 358 135 
+Balance as of December 31, 2024 $ 887
+
+---
+Doc size: 2043KB (capped at 2MB)

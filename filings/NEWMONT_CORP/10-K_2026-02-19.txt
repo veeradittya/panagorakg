@@ -1,0 +1,14 @@
+# NEWMONT CORP — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 1164727
+# SIC: Gold and Silver Ores
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1164727/000116472726000010/nem-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+17 ITEM&#160;1B.
+
+## GEOGRAPHIC REVENUE
+segment"> nem:segment nem:plant utr:oz iso4217:USD utr:oz utr:lb iso4217:USD utr:lb nem:mine_portal nem:plan iso4217:AUD iso4217:CAD nem:claim nem:plaintiff nem:co-defendant 0001164727 2025-01-01 2025-12-31 0001164727 2025-06-30 0001164727 2026-02-12 </xbrli:period
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Major Customer As gold can be sold through numerous gold market traders worldwide, the Company is not economically dependent on a limited number of customers for the sale of its product

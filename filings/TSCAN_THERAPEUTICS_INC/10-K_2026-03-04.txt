@@ -1,0 +1,104 @@
+# TSCAN THERAPEUTICS INC — 10-K Annual Report
+# Filed: 2026-03-04
+# CIK: 1783328
+# SIC: Biological Products, (No Diagnostic Substances)
+# Source: https://www.sec.gov/Archives/edgar/data/1783328/000119312526089884/tcrx-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+6
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+38 
+Item 1B. 
+Unresolved Staff Comments 
+97 
+Item 1C. 
+Cybersecurity 
+97 
+Item 2. 
+Properties 
+98 
+Item 3. 
+Legal Proceedings 
+98 
+Item 4. 
+Mine Safety Disclosures 
+98 
+PART II. 
+Item 5. 
+Market for Registrant's Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities 
+99 
+Item 6. 
+[Reserved] 
+99 
+Item 7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+100 
+Item 7A. 
+Quantitative and Qualitative Data About Market Risk 
+110 
+Item 8. 
+Financial Statements and Supplementary Data 
+110 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+110 
+Item 9A. 
+Controls and Procedures 
+110 
+Item 9B. 
+Other Information 
+111 
+Item 9C. 
+Disclosures Regarding Foreign Jurisdictions that Prevent Inspections 
+111 
+PART III. 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+112 
+Item 11. 
+Executive Compensation 
+112 
+Item 12. 
+Security Ownership and Certain Beneficial Owners and Management and Related Stockholder Matters 
+112 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+112 
+Item 14. 
+Principal Accounting Fees and Services 
+112 
+PART IV. 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+113 
+Item 16. 
+Form 10-K Summary 
+115 
+i 
+Table of Contents 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K, or Annual Report, contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act, that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Annual Report are forward-looking statements. In some cases, you can identify forward-looking statements by words such as may, can, will, should, would, expect, plan, anticipate, could, intend, target, project, seek, contemplate, believe, estimate, predict, potential, possible or continue or the negative of these terms or other similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Forward-looking statements contained in this Annual Report include, but are not limited to, statements about: the beneficial characteristics, safety, efficacy, therapeutic effects and potential advantages of our T cell receptor (TCR)-engineered T cell, or TCR-T, therapy product candidates; our expectations regarding our preclinical studies being predictive of clinical trial results; the timing of the initiation, progress and expected results of our preclinical studies, clinical trials and our research and development programs; the timing of and our ability to submit applications for, and obtain and, if approved, maintain regulatory approvals for our TCR-T therapy product candidates; our expectations regarding clinical trial results being predictive of continued development and commercial success of our product candidates; our plans relating to developing and commercializing our TCR-T therapy product candidates, if approved, including sales strategy; estimates of the size of the addressable market for our TCR-T therapy product candidates; our manufacturing capabilities and the scalable nature of our manufacturing process; our estimates regarding expenses, future milestone payments and revenue, capital requirements and needs for additional financing; our expectations regarding competition; our anticipated growth strategies; our ability to attract or retain key personnel; our ability to establish and maintain development partnerships and collaborations; our expectations regarding federal, state and foreign regulatory requirements; regulatory developments in the U.S. and foreign countries; our ability to obtain and maintain intellectual property protection for our proprietary platform technology and our product candidates; the anticipated trends and challenges in our business and the market in which we operate; the sufficiency of our existing capital resources to fund our future operating expenses and capital expenditure requirements; the effects of any public health crises in regions where we, our partners, or other third parties on which we rely, on any of the foregoing or other aspects of our business or operations; the effects of rising inflation rates and the impact on operating costs, liquidity and access to credit on any of the foregoing or other aspects of our business operations; the effects of global economic uncertainty and financial market volatility caused by political instability, new or increased international tariffs and retaliatory tariffs, changes in U.S. policy, changes in governmental agencies, changes in international trade relationships and conflicts on any of the foregoing or other aspects of our business or operations including our ability to obtain additional financing; and our anticipated use of our existing cash resources and our ability to obtain additional financing in the future. 
+1 
+Table of Contents 
+Any forward-looking statements in this Annual Report reflect our current views with respect to future events or to our future financial performance and involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by these forward-looking statements. These forward-looking statements are subject to a number of risks, uncertainties and assumptions included in this Annual Report, particularly those described in the Risk Factors section in Part I, Item 1A of this Annual Report, that could cause actual results or events to differ materially from the forward-looking statements that we make. Moreover, we operate in a very competitive and rapidly changing environment. New risks emerge from time to time, and it is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. In light of these risks, uncertainties and assumptions, the forward-looking events and circumstances discussed in this Annual Report may not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. You should not rely upon forward-looking statements as predictions of future events. The forward-looking statements contained in this Annual Report are made as of the date of this Annual Report, and although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, advancements, discoveries, levels of activity, performance or events and circumstances reflected in the forward-looking statements will be achieved or occur. Moreover, except as required by law, neither we nor any other person assumes responsibility for the accuracy and completeness of the forward-looking statements. We undertake no obligation to update publicly any forward-looking statements for any reason after the date of this Annual Report to conform these statements to actual results or to changes in our expectations. You should read this Annual Report and the documents that we have filed as an exhibit to this Annual Report with the understanding that our actual future results, levels of activity, performance and events and circumstances may be materially different from what we expect. In addition, this Annual Report contains estimates, projections and other information concerning our industry, our business and the markets for our product candidates, including data regarding the estimated size of such markets and the incidence of certain medical conditions. We obtained industry, market and similar data set forth in this Annual Report from our internal estimates and research, and from academic and industry research, publications, surveys and studies conducted by third parties, including governmental agencies. Industry publications and third-party research, surveys and studies generally indicate that their information has been obtained from sources believed to be reliable. Our estimates of the potential market opportunities for our product candidates include key assumptions based on our industry knowledge, industry publications and third-party research, surveys and studies, which may be based on a small sample size and fail to accurately reflect market opportunities. Information based on estimates, forecasts, projections, market research or similar methodologies is inherently subject to uncertainties and actual events or circumstances may differ materially from events and circumstances that are assumed in this information. Unless otherwise expressly stated, we obtained this industry, business, market and other data from reports, research surveys, studies and similar data prepared by us and third parties, industry, medical and general publications, government data and similar sources. This Annual Report contains summaries of certain provisions contained in some of the documents described herein, but reference is made to the actual documents for complete information. All of the summaries are qualified in their entirety by the actual documents. Unless stated otherwise, references in this Annual Report to us, we, our, our Company, or the Company and similar terms refer to TScan Therapeutics, Inc. 
+2 
+Table of Contents 
+RISK FACTOR SUMMARY Our business operations are subject to numerous risks that, if realized, could materially and adversely affect our business, financial condition, results of operations, and future growth prospects. These risks are discussed more fully in Part I, Item 1A. Risk Factors in this Annual Report on Form 10-K. These risks include, but are not limited to, the following: Risks Related to Our Business and Industry We have incurred significant losses since inception, and we expect to incur losses over the next several years and may not be able to achieve or sustain revenues or profitability in the future. Our business depends upon the success of our proprietary platform. Our limited operating history may make it difficult to evaluate the success of our business to date and to assess our future viability. We have never generated any revenue from sales of our TCR-T therapy product candidates, and our ability to generate revenue from product sales and become profitable depends significantly on our success in a number of areas. We will need to obtain substantial additional funding to complete the development and any commercialization of our product candidates, if approved. If we are unable to raise this necessary capital when needed, we could be forced to delay, reduce or eliminate our product development programs, commercialization efforts or other operations. Raising additional capital may cause dilution to our existing stockholders, restrict our operations or require us to relinquish rights to our intellectual property or product candidates on unfavorable terms to us. Global economic uncertainty and financial market volatility caused by political instability, changes in international trade relationships and conflicts could make it more difficult for us to access financing and could adversely affect our business and operations. The U.S. Congress and the Trump administration have made and may make substantial changes to fiscal, tax, and other federal policies that may adversely affect our business. Recent volatility in capital markets and lower market prices for many securities may affect our ability to access new capital through sales of shares of our common stock or issuance of indebtedness, which may impact our liquidity, limit our ability to grow our business, pursue acquisitions or improve our operating infrastructure and restrict our ability to compete in our markets. Adverse developments affecting the financial services industry, such as actual events or concerns involving liquidity, defaults or non-performance by financial institutions or transactional counterparties, could adversely affect our current and projected business operations and its financial condition and results of operations. The terms of our loan agreement place restrictions on our operating and financial flexibility. If we raise additional capital through debt financing, the terms of any new debt could further restrict our operating and financial flexibility. Risks Related to the Development of Our Product Candidates Our approach to the discovery and development of product candidates based on our proprietary platform represents a novel approach to cancer treatment, which creates significant challenges for us. We are early in our development efforts. If we are unable to advance our product candidates through clinical development, obtain regulatory approval and ultimately commercialize our product candidates, or experience significant delays in doing so, our business will be materially harmed. Although many of our personnel have extensive experience in clinical development and manufacturing at other companies, we have limited direct experience as a company in conducting clinical trials and managing a manufacturing facility for our product candidates. Our preclinical studies and clinical trials may fail to demonstrate adequately the safety, potency and purity of any of our product candidates, which would prevent or delay development, regulatory approval and commercialization. Our business could be adversely affected by the effects of health epidemics in regions where we, our partners or other third parties on which we rely have significant manufacturing facilities, concentrations of potential clinical trial sites or other business operations. 
+3 
+Table of Contents 
+We may rely on third parties to manufacture our clinical product supplies, and we may rely on third parties to produce and process our product candidates, if licensed. We cannot guarantee that our product candidates will show any functionality in the solid tumor microenvironment. Allogeneic hematopoietic cell transplantation (HCT) is a high-risk procedure that may result in complications or adverse events for patients in our clinical trials including those unrelated to the use of our product candidates. Our product candidates may cause undesirable side effects or have other properties that could halt their clinical development, prevent their regulatory approval, require expansion of the trial size, limit their commercial potential, or result in other significant negative
+
+## GEOGRAPHIC REVENUE
+all necessary and appropriate action to ensure foreign countries are not engaged in any act, policy, or practice that may be unreasonable or 
+32 
+Table of Contents 
+discriminatory or that may impair United States national security . . . including by suppressing the price of pharmaceutical products below fair market value in foreign countries. Notably, a similar Most Favored Nation pricing rule enacted under the first Trump administration was subject to an injunction resulting from judicial challenges to the rule, which was formally rescinded by the former Biden Administration in August 2021. On December 19, 2025, CMS released two proposed rules that would incorporate MFN pricing principles into federal reimbursement for prescription drugs. The first proposal, the Global Benchmark for Efficient Drug Pricing Model (GLOBE) for Medicare Part B, would require manufacturers of specified single source drugs and sole source biologics to pay incremental rebates based on international benchmark prices, with participation triggered for products meeting CMS s spending and eligibility criteria. The second proposal, the Guarding U.S. Medicare Against Rising Drug Costs (GUARD) model for Medicare Part D, would similarly mandate manufacturer rebates for qualifying sole source drugs where the Medicare net price exceeds an MFN benchmark derived from international reference pricing methodologies. As proposed, GLOBE would begin a five year performance period on October 1, 2026 and GUARD would begin its performance period in 2027. These proposals will likely be subject to legal challenges that could delay their implementation or modify their impact on manufacturer pricing and revenue. Additionally, in November 2025, CMS introduced the GENErating cost Reductions fOr U.S. Medicaid (GENEROUS) Model, a voluntary MFN framework for manufacturers participating in the Medicaid Drug Rebate Program. Although it is voluntary, the GENEROUS Model could also impact the drug pricing landscape for manufacturers. At the state level, legislatures have increasingly passed legislation and implemented regulations designed to control pharmaceutical and biological product pricing, including price or patie
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+sole source biologics to pay incremental rebates based on international benchmark prices, with participation triggered for products meeting CMS s spending and eligibility criteria. The second proposal, the Guarding U.S. Medicare Against Rising Drug Costs (GUARD) model for Medicare Part D, would similarly mandate manufacturer rebates for qualifying sole source drugs where the Medicare net price exceeds an MFN benchmark derived from international reference pricing methodologies. As proposed, GLOBE would begin a five year performance period on October 1, 2026 and GUARD would begin its performance period in 2027. These proposals will likely be subject to legal challenges that could delay their implementation or modify their impact on manufacturer pricing and revenue. Additionally, in November 2025, CMS introduced the GENErating cost Reductions fOr U.S. Medicaid (GENEROUS) Model, a voluntary MFN framework for manufacturers participating in the Medicaid Drug Rebate Program. Although it is voluntary, the GENEROUS Model could also impact the drug pricing landscape for manufacturers. At the state level, legislatures have increasingly passed legislation and implemented regulations designed to control pharmaceutical and biological product pricing, including price or patient reimbursement constraints, discounts, restrictions on certain product access and marketing cost disclosure and transparency measures, and, in some cases, designed to encourage importation from other countries and bulk purchasing. Certain states are also pursuing cost containment efforts through Prescription Drug Affordability Boards (PDABs) and similar entities. While many PDABs have been granted authority to promote drug price transparency and reporting, some states have granted PDABs more expansive authority, including to set Upper Payment Limits (UPLs) on select, high price drugs. The adoption and implementation of UPLs may put downward pressure on drug prices and impact our company s future revenues. We
+
+---
+Doc size: 2048KB (capped at 2MB)

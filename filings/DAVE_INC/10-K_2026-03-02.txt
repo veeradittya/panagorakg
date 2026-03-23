@@ -1,0 +1,100 @@
+# DAVE INC — 10-K Annual Report
+# Filed: 2026-03-02
+# CIK: 1841408
+# SIC: Finance Services
+# Source: https://www.sec.gov/Archives/edgar/data/1841408/000119312526085370/dave-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+15 
+ITEM 1B. 
+Unresolved Staff Comments 
+52 
+ITEM 1C. 
+Cybersecurity 
+52 
+ITEM 2. 
+Properties 
+53 
+ITEM 3. 
+Legal Proceedings 
+53 
+ITEM 4. 
+Mine Safety Disclosures 
+54 
+PART II 
+ITEM 5. 
+Market for the Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+55 
+ITEM 6. 
+[Reserved] 
+56 
+ITEM 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+57 
+ITEM 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+76 
+ITEM 8. 
+Financial Statements and Supplementary Data 
+77 
+ITEM 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+121 
+ITEM 9A. 
+Controls and Procedures 
+121 
+ITEM 9B. 
+Other Information 
+123 
+ITEM 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+123 
+PART III 
+ITEM 10. 
+Directors, Executive Officers and Corporate Governance 
+124 
+ITEM 11. 
+Executive Compensation 
+124 
+ITEM 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+124 
+ITEM 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+124 
+ITEM 14. 
+Principal Accountant Fees and Services 
+124 
+PART IV 
+ITEM 15. 
+Exhibits and Financial Statement Schedules 
+125 
+ITEM 16. 
+Form 10-K Summary 
+129 
+Signatures 
+130 
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K (this report or this Annual Report on Form 10-K ) contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). All statements contained in this report other than statements of historical fact, including statements regarding our future results of operations, financial position, market size and opportunity, our business strategy and plans, the factors affecting our performance and our objectives for future operations, are forward-looking statements. The words believe, may, will, estimate, continue, anticipate, intend, could, should, would, can, expect, project, outlook, forecast, objective, plan, potential, seek, grow, target, if and similar expressions are intended to identify forward-looking statements. We have based these forward-looking statements largely on our current expectations and projections about future events and trends that we believe may affect our financial condition, results of operations, business strategy, short-term and long-term business operations and objectives and financial needs. These forward-looking statements are subject to a number of risks, uncertainties and assumptions, including those described in the section titled Risk Factors set forth in Part I, Item 1A of this report and in our other filings with the Securities and Exchange Commission (the SEC ). Moreover, we operate in a very competitive and rapidly changing environment. New risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties and assumptions, the future events and trends discussed in this report may not occur, and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. Forward-looking statements contained in this report involve a number of judgments, risks and uncertainties, including, without limitation, risks related to: the ability of Dave to compete in its highly competitive industry; the ability of Dave to keep pace with the rapid technological and AI-related developments in its industry and the larger financial services industry; the ability of Dave to manage risks associated with providing ExtraCash; the ability of Dave to retain its current customers, acquire new customers (collectively, "Members") and sell additional functionality and services to its Members; the ability of Dave to successfully launch new products and services; the ability of Dave to protect intellectual property and trade secrets; the ability of Dave to maintain the integrity of its confidential information and information systems or comply with applicable privacy and data security requirements and regulations; the reliance by Dave on two bank partners; the ability of Dave to maintain or secure current and future key banking relationships and other third-party service providers, including its ability to comply with applicable requirements of such third parties; the ability of Dave to comply with extensive and evolving laws and regulations applicable to its business; changes in applicable laws or regulations and extensive and evolving government regulations that impact operations and business; the ability to attract or maintain a qualified workforce; the level of product service failures that could lead Members to use competitors services; investigations, claims, disputes, enforcement actions, arbitration, litigation and/or other regulatory or legal proceedings, including the Department of Justice s lawsuit against Dave; and the possibility that Dave may be adversely affected by other economic factors, including fluctuating interest rates, and business, and/or competitive factors. 
+1 
+We caution you that the foregoing list of judgments, risks and uncertainties that may cause actual results to differ materially from those in the forward-looking statements may not be complete. You should not rely upon forward-looking statements as predictions of future events. The events and circumstances reflected in the forward-looking statements may not be achieved or occur. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by law, we do not intend to update any of these forward-looking statements after the date of this report or to conform these statements to actual results or revised expectations. You should read this report with the understanding that our actual future results, levels of activity, performance and events and circumstances may be materially different from what we expect. This report contains estimates, projections and other information concerning our industry, our business and the markets for our products. We obtained the industry, market and similar data set forth in this report from our own internal estimates and research and from industry research, publications, surveys and studies conducted by third parties, including governmental agencies. Information that is based on estimates, forecasts, projections, market research or similar methodologies is inherently subject to uncertainties, and actual events or circumstances may differ materially from events and circumstances that are assumed in this information. While we believe that the data we use from third parties are reliable, we have not separately verified these data. You are cautioned not to give undue weight to any such information, projections and estimates. As a result of a number of known and unknown risks and uncertainties, including without limitation, the important factors described in Part I. Item 1A Risk Factors in this Annual Report on Form 10-K, our actual results or performance may be materially different from those expressed or implied by these forward-looking statements. As used in this report, the Company, Dave, we, us, our and similar terms refer to Dave Inc. (f/k/a VPC Impact Acquisition Holdings III, Inc.) and its consolidated subsidiaries, unless otherwise noted or the context otherwise requires. 
+2 
+BASIS OF PRESEN TATION On January 5, 2022, we consummated the transactions contemplated by that certain Agreement and Plan of Merger, dated as of June 7, 2021 (the Merger Agreement ), by and among VPC Impact Acquisition Holdings III, Inc. ( VPCC ), Dave Inc., a Delaware corporation ( Legacy Dave ), Bear Merger Company I Inc., a Delaware corporation and a direct, wholly owned subsidiary of VPCC ( First Merger Sub ), and Bear Merger Company II LLC, a Delaware limited liability company and a direct, wholly owned subsidiary of VPCC ( Second Merger Sub and together with the First Merger Sub, the Merger Subs ). Pursuant to the Merger Agreement, First Merger Sub merged with and into Legacy Dave (the First Merger ), with Legacy Dave being the surviving corporation of the First Merger (the Surviving Corporation ), and immediately following the First Merger, the Surviving Corporation merged with and into Second Merger Sub (the Second Merger, together with the First Merger, the Mergers and the Mergers together with the other transactions contemplated by the Merger Agreement, the Business Combination ), with Second Merger Sub being the surviving company of the Second Merger as a wholly owned subsidiary of VPCC. In connection with the closing of the Business Combination, we changed our name from VPC Impact Acquisition Holdings III, Inc. to Dave Inc., and the Surviving Entity operates under the name Dave Operating LLC. The Company s Class A Common Stock is now listed on The Nasdaq Global Market ( Nasdaq ) under the symbol DAVE, and warrants to purchase the Class A Common Stock at an exercise price of $368 per share are listed on Nasdaq under the symbol DAVEW. Each warrant was originally exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share. In connection with the 1-for-32 reverse stock split effected on January 5, 2023, the exercise terms of the warrants were proportionately adjusted pursuant to the anti-dilution provisions of the warrant agreement, such that 32 warrants are now exercisable for one share of Class A Common Stock at an adjusted exercise price of $368.00 per share. The number of warrants outstanding was not affected by the reverse stock split. Prior to the Business Combination, VPCC neither engaged in any operations nor generated any revenue. Until the Business Combination, based on VPCC s business activities, VPCC was a shell company as defined under the Securities Exchange Act of 1934, as amended (the Exchange Act ). As used in this Annual Report on Form 10-K, unless otherwise noted or the context otherwise requires: references to the Company, Dave, we, us, our and similar terms refer to Dave Inc. (f/k/a VPC Impact Acquisition Holdings III, Inc.) and its consolidated subsidiaries; references to VPCC are to VPC Impact Acquisition Holdings III, Inc. and its consolidated subsidiaries prior to the close of the Business Combination; and references to Sponsor are to VPC Impact Acquisition Holdings Sponsor III, LLC. 
+3 
+PAR T I ITEM 1. BUSI NESS Unless otherwise noted or the context otherwise requires, the disclosures in this Item 1 refer to Dave Inc. and its consolidated subsidiaries following the consummation of the Business Combination . Company Overview Dave Inc. ("Dave," the "Company," "we," "us," or "our") is one of the nation's leading neobanks, providing a mobile-first financial services platform designed to help everyday Americans manage their money more effectively. We serve millions of Members who are often underserved by traditional financial institutions, offering them access to short-term liquidity, fee-free banking, and financial management tools at a fraction of the cost of incumbents. Founded in 2017 and inspired by the story of David vs. Goliath, we set out to challenge legacy banking by leveraging technology to expand financial access and improve consumer financial health. Our mission is to level the financial playing field by providing intuitive, transparent, and accessible solutions that empower our Members to navigate life's financial challenges with confidence. Since inception, over 19 million Members have signed up for the Dave app, with over 14 million having used at least one of our products. Our flagship product, ExtraCash, provides Members with up to $500 of short-term credit (in the form of discretionary overdraft through a bank partner) to bridge liquidity gaps between paychecks, without interest, late fees, or credit checks. We use our proprietary AI-powered underwriting engine, CashAI, to evaluate each Member's cash flow in real-time, enabling us to extend credit responsibly while maintaining strong unit economics. To date, we have provided Members with over $22 billion in ExtraCash, offering critical liquidity when they need it most. We complement ExtraCash with Dave Checking, a fee-free demand deposit account with FDIC pass-through insurance, and a suite of personal financial management tools. As part of our commitment to giving back, we have donated over $25 million since inception to charity and other important causes. Market Opportunity The U.S. financial system has historically failed to address the needs of the millions of Americans living paycheck to paycheck. According to the Financial Health Network ( FHN ) in 2025, approximately 185 million Americans are classified as financially coping or vulnerable representing 69% of the U.S. population, up from 66% in 2021. A December 2025 Report by PYMNTS also found that 67% of U.S. consumers were living paycheck to paycheck, up from 57% in 2021. This market includes both young and financially challenged individuals who have trouble managing cash flow, have minimal savings, regularly overdraft, and pay high fees for access to financial services. FHN research estimates there is approximately $43 billion of fees paid annually for access to basic checking services, including account maintenance fees, overdraft fees and ATM fees and that financially vulnerable and coping populations pay over $225 billion in annual fees and interest for short-term credit. We believe these insights are supported by external data which reveals that traditional financial institutions charge consumers between $300-$400 of fees annually for access to basic checking services. We also believe these trends underscore a growing need for better financial solutions and illustrate the depth of our total addressable market ( TAM ), which we estimate to be approximately 185 million Americans that do not have access to affordable and effective banking solutions. We believe these high costs are the result of the cost structure of incumbents. With expensive brick-and-mortar branch networks, antiquated technology, large employee bases, and inefficient customer acquisition strategies, legacy institutions have significant costs to serve their customers, which drives the high price that customers have to pay for access to their services. By leveraging world-class technology and the power of data and AI, we have dramatically reduced the costs to serve customers in this market. Through this structural advantage, we are able to provide incr
+
+## GEOGRAPHIC REVENUE
+dave:NotePurchaseAgreementMember 2024-12-31 0001841408 us-gaap:AccountingStandardsUpdate201613Member 2025-12-31 0001841408 dave:FourZeroOneKSavingsPlanMember 2024-01-01 2024-12-31 0001841408 us-gaap:DomesticCountryMember 2025-12-31 0001841408 dave:PcjwPropertiesLlcMember 2025-12-31 0001841408 us-gaap:CommonClassAMember 2025-08-01 2025-08-31 0001841408 dave:PcjwPropertiesLlcMember us-gaap:SubsequentEventMember 2026-02-28 0001841408 dave:InterchangeRevenueNetMember 2023-01-01 2023-12-31 0001841408 us-gaap:RetainedEarningsMember 2025-01-01 2025-12-31 0001841408 us-gaap:LineOfCreditMember dave:SeniorSecuredLoanFacilityMember dave:VictoryParkManagementLlcMember dave:ThirdAmendmentMember 2023-09-13 2023-09-13 0001841408 us-gaap:IntangibleAssetsAmortizationPeriodMember 2023-01-01 2023-12-31 0001841408 us-gaap:CommonStockMember dave:CommonClassVMember 2023-12-31 0001841408 dave:PerformanceBasedRestrictedStockUnitsMember 2025-12-31 0001841408 us-gaap:EmployeeStockOptionMember srt:ChiefExecutiveOfficerMember 2025-01-01 2025-12-31 0001841408 us-gaap:RetainedEarningsMember 2023-12-31 0001841408 us-gaap:LeaseholdImprovementsMember 2025-12-31 0001841408 us-gaap:FinancingReceivables30To59DaysPastDueMember 2024-12-31 0001841408 dave:PublicAndPrivateWarrantsMember 2025-01-01 2025-12-31 0001841408 dave:NotePurchaseAgreementMember 2024-01-29 0001841408 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0001841408 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-01-01 2025-12-31 0001841408 dave:GovernmentSecuritiesMember 2025-01-01 2025-12-31 0001841408 dave:TriggeringSharePriceTwoMember srt:MinimumMember 2025-12-31 0001841408 2025-10-01 2025-12-31 0001841408 dave:CommonClassVMember us-gaap:CommonStockMember 2022-12-31 0001841408 us-gaap:DevelopedTechnologyRightsMember 2025-12-31 0001841408 dave:InterchangeRevenueNetMember 2025-01-01 2025-12-31 0001841408 us-gaap:CommonStockMember us-gaap:CommonClassAMember 2024-01-01 2024-12-31 0001841408 dave:SeniorSecuredLoanFacilityMember dave:VictoryParkManagementLlcMember 2024-12-31 0001841408 dave:DaveTwoThousandAndSeventeenPlanMember us-gaap:StockCompensationPlanMember 2025-01-01 2025-12-31 00
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+sole source, or one of a limited number of sources, of the services they provide to us. For example, we are solely reliant on our agreement with our cloud computing web services provider for the provision of cloud infrastructure services to support our platform. In addition, we primarily rely on a single third-party vendor to provide a number of issuing and processing services across several of our products. 
+22 
+If some or all of our current third-party vendors were to terminate their agreements with us or otherwise stop providing services to us on acceptable terms, we may be unable to procure alternatives from other vendors in a timely and efficient manner and on acceptable terms (or at all). If any third-party vendor fails to provide the services we require, fails to meet contractual requirements (including compliance with applicable laws and regulations), fails to maintain adequate data privacy controls and electronic security systems, or suffers a cyber-attack or other security breach, we could be subject to federal and state regulatory enforcement actions, claims from third parties, including our consumers, and suffer economic and reputational harm that could have an adverse effect on our business. Further, we may incur significant costs to resolve any such disruptions in service, which could adversely affect our business. We depend upon several third-party service providers to process our transactions and provide other important services for our business. If any of our agreements with our service providers are terminated or if we experience any interruption or delay in the services provided by our third-party service providers, delivery of our products and services could be impaired or suspended and our business could suffer. Our business involves processing of large numbers of transactions and management of the data necessary to do so. Our success depends upon the efficient and error-free handling of the money that is collected, remitted or deposited in conn
+
+---
+Doc size: 2048KB (capped at 2MB)

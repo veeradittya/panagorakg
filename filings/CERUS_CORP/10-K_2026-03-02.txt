@@ -1,0 +1,98 @@
+# CERUS CORP — 10-K Annual Report
+# Filed: 2026-03-02
+# CIK: 1020214
+# SIC: Surgical & Medical Instruments & Apparatus
+# Source: https://www.sec.gov/Archives/edgar/data/1020214/000119312526085678/cers-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+5
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+22 
+Item 1B. 
+Unresolved Staff Comments 
+60 
+Item 1C. 
+Cybersecurity 
+60 
+Item 2. 
+Properties 
+60 
+Item 3. 
+Legal Proceedings 
+61 
+Item 4. 
+Mine Safety Disclosures 
+61 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+63 
+Item 6. 
+Reserved 
+63 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+64 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+76 
+Item 8. 
+Financial Statements and Supplementary Data 
+76 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+76 
+Item 9A. 
+Controls and Procedures 
+77 
+Item 9B. 
+Other Information 
+79 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+79 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+80 
+Item 11. 
+Executive Compensation 
+80 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+80 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+81 
+Item 14. 
+Principal Accountant Fees and Services 
+81 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+82 
+Item 16. 
+Form 10-K Summary 
+87 
+SIGNATURES 
+118 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities and Exchange Act of 1934, as amended, that involve risks and uncertainties. The forward-looking statements are contained principally in Item 1, Business, Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations, and in Item 1A, Risk Factors. These statements relate to future events or to our future operating or financial performance and involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. These forward-looking statements may include, but are not limited to, statements about: the impact of macroeconomic developments, including escalating trade tensions and existing tariffs and potential new or increased tariffs and the ongoing conflict between Ukraine and Russia as well as the risk of a global conflict on our business and operations as well as the business or operations of our customers, manufacturers, research partners, and other third parties with whom we conduct business; future sales of and anticipated demand for, and our ability to effectively commercialize and achieve market acceptance of the INTERCEPT Blood System, including our ability to comply with applicable United States, or U.S., and foreign laws, regulations and regulatory requirements; our ability to successfully complete the development of, receive regulatory approvals for and commercialize the red blood cell system; our strategy and the potential therapeutic applications for the INTERCEPT Blood System; our ability to manage the growth of our business and attendant cost increases, including in connection with the commercialization of the INTERCEPT Blood System in the U.S., as well as our ability to manage the risks attendant to our international operations; the timing or likelihood of regulatory submissions and approvals and other regulatory actions or interactions, including whether existing clinical data will be sufficient in order to obtain a CE Certificate of Conformity and affix a CE Mark to the red blood cell system and whether our planned modular premarket approval, or PMA, application for the red blood cell system will be submitted to the U.S. Food and Drug Administration, or FDA, on the timeline we anticipate or at all; our ability to obtain and maintain regulatory approvals of the INTERCEPT Blood System; our ability to obtain adequate clinical and commercial supplies of the INTERCEPT Blood System from our sole source suppliers for a particular product or component they manufacture; the initiation, scope, rate of progress, results and timing of our ongoing and proposed preclinical and clinical trials of the INTERCEPT Blood System; the successful completion of our research, development and clinical programs and our ability to manage cost increases associated with preclinical and clinical development of the INTERCEPT Blood System; the amount and availability of funding we may receive under our government contracts with the Biomedical Advanced Research and Development Authority, or BARDA, and the U.S. Department of Defense, or DoD, due to executive orders impacting government contract funding and personnel, previous and potential future U.S. government shutdown or otherwise; our ability to transition distribution of the INTERCEPT Blood System from third parties to a direct sales model in certain international markets; the ability of our products to inactivate the emerging viruses and other pathogens that we may target in the future; our ability to protect our intellectual property and operate our business without infringing upon the intellectual property rights of others; our estimates regarding the sufficiency of our cash resources, our ability to continue as a going concern and our need for additional funding; and our plans, objectives, expectations and intentions and any other statements that are not historical facts. 
+3 
+In some cases, you can identify forward-looking statements by terms such as anticipate, will, believe, estimate, expect, plan, may, should, could, would, project, predict, potential, and similar expressions intended to identify such forward-looking statements. Forward-looking statements reflect our current views with respect to future events, are based on assumptions, and are subject to risks and uncertainties. There can be no assurance that any of the events anticipated by forward-looking statements will occur or, if any of them do occur, what impact they will have on our business, results of operations and financial condition. Certain important factors could cause actual results to differ materially from those discussed in such statements, including the rate of customer adoption in the U.S. and our ability to achieve market acceptance of our products in the U.S. and international markets, whether our preclinical and clinical data or data from commercial use will be considered sufficient by regulatory authorities or Notified Bodies to grant marketing approval or receive CE Certificates of Conformity for our products or for product extensions or additional claims for our products, our ability to obtain reimbursement approval for our products, changes in regulatory approval or certification requirements for our products, our ability to complete the development and testing of additional configurations or redesigns of our products, our need for additional financing and our ability to access funding under our agreements with BARDA and the DoD, the impacts of regulation of our products by domestic and foreign regulatory authorities, our limited experience in sales, marketing and regulatory support for the INTERCEPT Blood System, our reliance on Fresenius Kabi AG and other third parties to manufacture and supply certain components of the INTERCEPT Blood System, incompatibility of our platelet system with some commercial platelet collection methods, our need to complete our red blood cell system s commercial design, more effective product offerings by, or clinical setbacks of, our competitors, product liability, our use of hazardous materials in the development of our products, business interruption due to earthquake, our expectation of continuing losses, protection of our intellectual property rights, volatility in our stock price, on-going compliance with the requirements of the Sarbanes-Oxley Act of 2002, adverse market and economic conditions, including those resulting from the effects of macroeconomic conditions, and other factors discussed below and under the caption Risk Factors, in Item 1A of this Annual Report on Form 10-K. We discuss many of these risks in this Annual Report on Form 10-K in greater detail in the section titled Risk Factors under Part I, Item 1A below. Given these uncertainties, you should not place undue reliance on these forward-looking statements. Also, forward-looking statements represent our estimates and assumptions only as of the date of this Annual Report on Form 10-K. You should read this Annual Report on Form 10-K and the documents that we incorporate by reference in and have filed as exhibits to this Annual Report on Form 10-K completely. Our actual future results may be materially different from what we expect. Except as required by law, we assume no obligation to update or revise any forward-looking statements to reflect new information or future events, even if new information becomes available in the future. You should not assume that our silence over time means that actual events are bearing out as expressed or implied in such forward-looking statements. RISK FACTOR SUMMARY Investing in our securities involves a high degree of risk. Below is a summary of material factors that make an investment in our securities speculative or risky. Importantly, this summary does not address all of the risks that we face. Additional discussion of the risks summarized in this risk factor summary, as well as other risks that we face, can be found under the heading Item 1A Risk Factors in Part I of this Annual Report on Form 10-K. We depend substantially upon the commercial success of the INTERCEPT Blood System for platelets, plasma and cryoprecipitation in the U.S., and our inability to successfully commercialize the INTERCEPT Blood System in the U.S. would have a material adverse effect on our business, financial condition, results of operations and growth prospects. The INTERCEPT Blood System may not achieve or be able to sustain broad market adoption. We are exposed to risks associated with the highly concentrated market for the INTERCEPT Blood System. We may be unable to develop and maintain an effective and qualified commercial organization or educate blood centers, clinicians and hospital personnel. As a result, we may not be able to successfully educate the market on the value of pathogen reduction or commercialize our products. An inability to successfully transition from a direct selling model to a kit model, as well as an inability to successfully commercialize the INTERCEPT Blood System for Cryoprecipitation in the U.S. would have a material adverse effect on our business, financial condition, results of operations and growth prospects. If our competitors develop products superior to ours, market their products more effectively, or receive regulatory approval or certification before our products, our commercial opportunities could be reduced or be eliminated. Competitors have and may continue to file claims in order to impede the marketability of our products, regardless of the merit of such claims. Clinical trials are costly and time consuming, may take longer than we expect or may not be completed at all, and their outcomes are uncertain. A failure to generate data in clinical trials to support expanded label claims or to support marketing approvals or certification for our product candidates could materially and adversely affect our business, financial condition, results of operations and growth prospects. 
+4 
+The red blood cell system is currently in development and may never receive any marketing approvals or CE Certificates of Conformity. Our company, our products, and blood products treated with the INTERCEPT Blood System are subject to extensive regulation by domestic authorities, foreign authorities and Notified Bodies. If we or our third-party suppliers fail to comply with the U.S. Food and Drug Administration s, or FDA s, or other regulatory authorities good manufacturing practice regulations, it could impair our ability to market our products in a cost-effective and timely manner. If we modify our FDA-approved or CE Marked products, we may need to seek additional approvals or certification, which, if not granted, would prevent us from selling our modified products. We are subject to federal, state and foreign laws governing our business practices which, if violated, could result in substantial penalties and harm our reputation and business. A significant portion of the funding for the development of the red blood cell system has come and is expected to continue to come from our BARDA agreements, and if BARDA were to eliminate, reduce or delay, or object to additional activities or extensions for funding of our agreements, it would have a significant, negative impact on our government contract revenues and cash flows, and we may be forced to suspend or terminate our U.S. red blood cell development program or obtain alternative sources of funding. Our ability to be paid by the DoD is predicated on our ability to achieve the stated milestones in the agreement and for the DoD to agree with the successful completion of each. We rely on third parties to market, sell, distribute and maintain our products and to maintain customer relationships in certain countries. Our manufacturing supply chain exposes us to significant risks. We may continue to generate losses and never achieve a profitable level of operations. We may not be able to achieve, or sustain, profitability. If we fail to obtain the capital necessary to fund our future operations or if we are unable to generate continued positive cash flows from our operations, we will need to curtail planned development or sales and commercialization activities. We operate a complex global commercial organization, with limited experience in many countries. We have limited resources and experience complying with regulatory, legal, tax and political complexities as we expand into new and increasingly broad geographies. We may be distracted by expansion into new geographies where we do not have experience and we may be unsuccessful in monetizing such opportunities for the benefit of our organization at large. Adverse market and economic conditions as well as tariffs and escalating international trade tensions may exacerbate certain risks affecting our business. Risks associated with our operations outside of the United States could adversely affect our business. We may not be able to protect our intellectual property or operate our business value. Our stock price is volatile and your investment may suffer a decline in value. Item 1. B usiness Overview We are a biomedical products company focused on developing and commercializing the INTERCEPT Blood System to enhance blood safety. The INTERCEPT Blood System, which is based on our proprietary technology for controlling biological replication,
+
+## GEOGRAPHIC REVENUE
+nRiskMember us-gaap:SalesRevenueProductLineMember 2023-01-01 2023-12-31 0001020214 2023-12-31 0001020214 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2025-01-01 2025-12-31 0001020214 us-gaap:DomesticCountryMember 2025-12-31 0001020214 cers:TermLoanMember cers:TrancheThreeMember cers:PriorTermLoanCreditAgreementMember 2019-03-29 2019-03-29 0001020214 us-gaap:EmployeeStockOptionMember 2023-01-01 2023-12-31 0001020214 cers:TwoThousandEightEquityIncentivePlanMember 2024-12-31 0001020214 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-12-31 0001020214 us-gaap:RestrictedStockUnitsRSUMember 2023-01-01 2023-12-31 0001020214 cers:CustomersMember us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember 2025-01-01 2025-12-31 0001020214 cers:RevolvingLoanMember 2025-12-31 0001020214 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-12-31 0001020214 cers:CantorFitzgeraldCoAndStifelNicolausCompanyIncorporatedMember cers:SalesAgreementsMember cers:SalesAmendmentThreeMember 2020-12-11 2020-12-11 0001020214 country:CN cers:CerusZhongbaokangShandongBiomedicalCoLtdMember 2021-02-01 2021-02-28 0001020214 cers:BiomedicalAdvancedResearchAndDevelopmentAuthorityMember 2025-12-31 0001020214 2025-01-01 2025-12-31 0001020214 us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-12-31 0001020214 cers:TwoThousandEightEquityIncentivePlanMember 2020-06-01 2020-06-30 0001020214 cers:EmployeeStockPurchasePlanRightsMember 2023-01-01 2023-12-31 0001020214 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2023-01-01 2023-12-31 0001020214 us-gaap:RestrictedStockUnitsRSUMember 2025-12-31 0001020214 srt:MaximumMember 2025-12-31 0001020214 cers:DeferredTaxAssetsExpireInTwoThousandTwentySixAndTwoThousandTwentyEightMember 2025-12-31 0001020214 cers:CustomersMember us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember 2024-01-01 2024-12-31 0001020214 country:US 2025-12-31 0001020214 us-gaap:CommonStockMember 2023-01-01 2023-12-31 0001020214 us-gaap:OtherNoncurrentLiabilitiesMember 2024-12-31 0001020214 us-gaap:FairValueInputsLevel2Member us-gaap:USGovernmentAgenciesDebtSecuritiesMember 2024-12-31 0001020214 us-gaap:EmployeeStockOptionMember 2025
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+sole source suppliers for a particular product or component they manufacture; the initiation, scope, rate of progress, results and timing of our ongoing and proposed preclinical and clinical trials of the INTERCEPT Blood System; the successful completion of our research, development and clinical programs and our ability to manage cost increases associated with preclinical and clinical development of the INTERCEPT Blood System; the amount and availability of funding we may receive under our government contracts with the Biomedical Advanced Research and Development Authority, or BARDA, and the U.S. Department of Defense, or DoD, due to executive orders impacting government contract funding and personnel, previous and potential future U.S. government shutdown or otherwise; our ability to transition distribution of the INTERCEPT Blood System from third parties to a direct sales model in certain international markets; the ability of our products to inactivate the emerging viruses and other pathogens that we may target in the future; our ability to protect our intellectual property and operate our business without infringing upon the intellectual property rights of others; our estimates regarding the sufficiency of our cash resources, our ability to continue as a going concern and our need for additional funding; and our plans, objectives, expectations and intentions and any other statements that are not historical facts. 
+3 
+In some cases, you can identify forward-looking statements by terms such as anticipate, will, believe, estimate, expect, plan, may, should, could, would, project, predict, potential, and similar expressions intended to identify such forward-looking statements. Forward-looking statements reflect our current views with respect to future events, are based on assumptions, and are subject to risks and uncertainties. There can be no assurance that any of the events anticipated by forward-looking statements will occur or, if any of them do occur, what impac
+
+---
+Doc size: 2048KB (capped at 2MB)

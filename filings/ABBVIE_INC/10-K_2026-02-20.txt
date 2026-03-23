@@ -1,0 +1,14 @@
+# ABBVIE INC — 10-K Annual Report
+# Filed: 2026-02-20
+# CIK: 1551152
+# SIC: Pharmaceutical Preparations
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+14 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment" contextRef="c-1" decimals="INF" name="us-gaap:NumberOfOperatingSegments" scale="0" id="f-2508">1 iso4217:USD xbrli:shares iso4217:USD xbrli:shares xbrli:pure iso4217:EUR abbv:derivative iso4217:SEK iso4217:CAD iso4217:CHF abbv:wholesaler abbv:lawsuit abbv:claim abbv:company abbv:claims abbv:segment 0001551152 2025-01-01 2025-12-31 0001551152</xbrli:identifier
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

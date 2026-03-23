@@ -1,0 +1,487 @@
+# NWPX INFRASTRUCTURE INC — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1001385
+# SIC: Steel Pipe & Tubes
+# Source: https://www.sec.gov/Archives/edgar/data/1001385/000143774926005861/nwpx20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. Risk Factors of this 2025 Form 10-K, which disclosures are incorporated herein by reference. 
+false 
+false 
+false 
+false 
+true 
+true 
+true 
+true 
+Megan Kendrick 
+Senior Vice President of Human Resources 
+November 6, 2025 
+Scott Montross 
+President and Chief Executive Officer 
+December 3, 2025 
+Miles Brittain 
+Executive Vice President 
+December 5, 2025 
+Amanda Julian 
+Member of Board of Directors 
+December 15, 2025 
+3,473 
+true 
+true 
+528 
+242 
+0.01 
+0.01 
+10,000,000 
+10,000,000 
+0 
+0 
+0 
+0 
+0.01 
+0.01 
+15,000,000 
+15,000,000 
+9,587,990 
+9,587,990 
+9,918,711 
+9,918,711 
+110 
+45 
+134 
+89 
+21 
+55 
+392 
+33 
+15 
+27 
+580 
+444 
+118 
+2 
+10 
+0 
+0 
+0 
+1 
+55.5 
+http://fasb.org/us-gaap/2025#PropertyPlantAndEquipmentNet 
+http://fasb.org/us-gaap/2025#PropertyPlantAndEquipmentNet 
+http://fasb.org/us-gaap/2025#Liabilities 
+http://fasb.org/us-gaap/2025#Liabilities 
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent 
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent 
+http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent 
+http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent 
+25.1 
+6.5 
+1.1 
+4.8 
+1.1 
+2 
+0 
+0 
+1 
+100 
+0 
+1 
+0 
+0 
+1 
+1 
+0 
+392 
+24 
+9 
+9 
+24 
+Long-term finance lease liabilities, less current portion are included in Other long-term liabilities. 
+The number of PSAs disclosed in this table are at the target level of 100%. 
+For the PSAs vested on March 31, 2025, the actual number of common shares that were issued was determined by multiplying the PSAs at the target level of 100%, as disclosed in this table, by a payout percentage based on the performance-based conditions achieved. The payout percentage was 118% for the 2022-2024 performance period, 111% for the 2023-2024 performance period, and 133% for the 2024 performance period. 
+Finance lease right-of-use assets are presented net of accumulated amortization of $3.4 million and $2.3 million as of December 31, 2025 and 2024, respectively. 
+Depreciation and amortization included in Cost of sales for the WTS segment for the years ended December 31, 2025, 2024, and 2023 was $11.4 million, $11.9 million, and $9.0 million, respectively. 
+Depreciation and amortization included in Cost of sales for the Precast segment for the years ended December 31, 2025, 2024, and 2023 was $7.5 million, $6.6 million, and $6.2 million, respectively. 
+Depreciation and amortization included in Cost of sales for the Precast segment was $1.1 million and $2.7 million for the three and nine months ended September 30, 2025, respectively and $0.9 million and $2.1 million for the three and nine months ended September 30, 2024, respectively. 
+Current portion of finance lease liabilities are included in Accrued liabilities. 
+There were no antidilutive shares for the years ended December 31, 2025, 2024, or 2023. 
+Finance lease right-of-use assets are presented net of accumulated amortization of $3.0 million and $2.3 million as of June 30, 2025 and December 31, 2024, respectively. 
+0001001385 2025-01-01 2025-12-31 
+iso4217:USD 
+0001001385 2025-06-30 
+xbrli:shares 
+0001001385 2026-02-17 
+thunderdome:item 
+0001001385 nwpx:ScottMontrossMember 2025-01-01 2025-12-31 
+0001001385 nwpx:MilesBrittainMember 2025-01-01 2025-12-31 
+0001001385 nwpx:AmandaJulianMember 2025-01-01 2025-12-31 
+0001001385 nwpx:MeganKendrickMember 2025-01-01 2025-12-31 
+0001001385 nwpx:MeganKendrickMember 2025-12-31 
+0001001385 nwpx:ScottMontrossMember 2025-12-31 
+0001001385 nwpx:MilesBrittainMember 2025-12-31 
+0001001385 nwpx:AmandaJulianMember 2025-12-31 
+0001001385 2024-01-01 2024-12-31 
+0001001385 2023-01-01 2023-12-31 
+iso4217:USD xbrli:shares 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:InterestRateSwapMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:InterestRateSwapMember 2023-01-01 2023-12-31 
+0001001385 2025-12-31 
+0001001385 2024-12-31 
+0001001385 us-gaap:CommonStockMember 2022-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2022-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2022-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31 
+0001001385 2022-12-31 
+0001001385 us-gaap:CommonStockMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember us-gaap:CommonStockMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember us-gaap:RetainedEarningsMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:CommonStockMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:RetainedEarningsMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:CommonStockMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:RetainedEarningsMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:CommonStockMember 2023-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2023-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2023-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-12-31 
+0001001385 2023-12-31 
+0001001385 us-gaap:CommonStockMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:CommonStockMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:RetainedEarningsMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:CommonStockMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:RetainedEarningsMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:CommonStockMember 2024-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2024-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2024-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-12-31 
+0001001385 us-gaap:CommonStockMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:CommonStockMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AdditionalPaidInCapitalMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:RetainedEarningsMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:CommonStockMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AdditionalPaidInCapitalMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:RetainedEarningsMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:CommonStockMember 2025-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2025-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2025-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-12-31 
+0001001385 us-gaap:CaliforniaFranchiseTaxBoardMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:CaliforniaFranchiseTaxBoardMember 2023-01-01 2023-12-31 
+0001001385 nwpx:OregonDepartmentOfRevenueAuthorityMember 2023-01-01 2023-12-31 
+0001001385 nwpx:OtherStateAndLocalAuthorityMember 2025-01-01 2025-12-31 
+0001001385 nwpx:OtherStateAndLocalAuthorityMember 2024-01-01 2024-12-31 
+0001001385 nwpx:OtherStateAndLocalAuthorityMember 2023-01-01 2023-12-31 
+xbrli:pure 
+utr:Y 
+0001001385 us-gaap:LandImprovementsMember srt:MinimumMember 2025-12-31 
+0001001385 us-gaap:LandImprovementsMember srt:MaximumMember 2025-12-31 
+0001001385 us-gaap:BuildingMember srt:MinimumMember 2025-12-31 
+0001001385 us-gaap:BuildingMember srt:MaximumMember 2025-12-31 
+0001001385 us-gaap:LeaseholdImprovementsMember srt:MinimumMember 2025-12-31 
+0001001385 us-gaap:LeaseholdImprovementsMember srt:MaximumMember 2025-12-31 
+0001001385 us-gaap:MachineryAnd
+
+## RISK FACTORS (Item 1A)
+Risk Factors of this 2025 Form 10-K, which disclosures are incorporated herein by reference. 
+false 
+false 
+false 
+false 
+true 
+true 
+true 
+true 
+Megan Kendrick 
+Senior Vice President of Human Resources 
+November 6, 2025 
+Scott Montross 
+President and Chief Executive Officer 
+December 3, 2025 
+Miles Brittain 
+Executive Vice President 
+December 5, 2025 
+Amanda Julian 
+Member of Board of Directors 
+December 15, 2025 
+3,473 
+true 
+true 
+528 
+242 
+0.01 
+0.01 
+10,000,000 
+10,000,000 
+0 
+0 
+0 
+0 
+0.01 
+0.01 
+15,000,000 
+15,000,000 
+9,587,990 
+9,587,990 
+9,918,711 
+9,918,711 
+110 
+45 
+134 
+89 
+21 
+55 
+392 
+33 
+15 
+27 
+580 
+444 
+118 
+2 
+10 
+0 
+0 
+0 
+1 
+55.5 
+http://fasb.org/us-gaap/2025#PropertyPlantAndEquipmentNet 
+http://fasb.org/us-gaap/2025#PropertyPlantAndEquipmentNet 
+http://fasb.org/us-gaap/2025#Liabilities 
+http://fasb.org/us-gaap/2025#Liabilities 
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent 
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent 
+http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent 
+http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent 
+25.1 
+6.5 
+1.1 
+4.8 
+1.1 
+2 
+0 
+0 
+1 
+100 
+0 
+1 
+0 
+0 
+1 
+1 
+0 
+392 
+24 
+9 
+9 
+24 
+Long-term finance lease liabilities, less current portion are included in Other long-term liabilities. 
+The number of PSAs disclosed in this table are at the target level of 100%. 
+For the PSAs vested on March 31, 2025, the actual number of common shares that were issued was determined by multiplying the PSAs at the target level of 100%, as disclosed in this table, by a payout percentage based on the performance-based conditions achieved. The payout percentage was 118% for the 2022-2024 performance period, 111% for the 2023-2024 performance period, and 133% for the 2024 performance period. 
+Finance lease right-of-use assets are presented net of accumulated amortization of $3.4 million and $2.3 million as of December 31, 2025 and 2024, respectively. 
+Depreciation and amortization included in Cost of sales for the WTS segment for the years ended December 31, 2025, 2024, and 2023 was $11.4 million, $11.9 million, and $9.0 million, respectively. 
+Depreciation and amortization included in Cost of sales for the Precast segment for the years ended December 31, 2025, 2024, and 2023 was $7.5 million, $6.6 million, and $6.2 million, respectively. 
+Depreciation and amortization included in Cost of sales for the Precast segment was $1.1 million and $2.7 million for the three and nine months ended September 30, 2025, respectively and $0.9 million and $2.1 million for the three and nine months ended September 30, 2024, respectively. 
+Current portion of finance lease liabilities are included in Accrued liabilities. 
+There were no antidilutive shares for the years ended December 31, 2025, 2024, or 2023. 
+Finance lease right-of-use assets are presented net of accumulated amortization of $3.0 million and $2.3 million as of June 30, 2025 and December 31, 2024, respectively. 
+0001001385 2025-01-01 2025-12-31 
+iso4217:USD 
+0001001385 2025-06-30 
+xbrli:shares 
+0001001385 2026-02-17 
+thunderdome:item 
+0001001385 nwpx:ScottMontrossMember 2025-01-01 2025-12-31 
+0001001385 nwpx:MilesBrittainMember 2025-01-01 2025-12-31 
+0001001385 nwpx:AmandaJulianMember 2025-01-01 2025-12-31 
+0001001385 nwpx:MeganKendrickMember 2025-01-01 2025-12-31 
+0001001385 nwpx:MeganKendrickMember 2025-12-31 
+0001001385 nwpx:ScottMontrossMember 2025-12-31 
+0001001385 nwpx:MilesBrittainMember 2025-12-31 
+0001001385 nwpx:AmandaJulianMember 2025-12-31 
+0001001385 2024-01-01 2024-12-31 
+0001001385 2023-01-01 2023-12-31 
+iso4217:USD xbrli:shares 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:InterestRateSwapMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:InterestRateSwapMember 2023-01-01 2023-12-31 
+0001001385 2025-12-31 
+0001001385 2024-12-31 
+0001001385 us-gaap:CommonStockMember 2022-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2022-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2022-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31 
+0001001385 2022-12-31 
+0001001385 us-gaap:CommonStockMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember us-gaap:CommonStockMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember us-gaap:RetainedEarningsMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:PensionPlansDefinedBenefitMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:CommonStockMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:RetainedEarningsMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:CommonStockMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:RetainedEarningsMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-01-01 2023-12-31 
+0001001385 us-gaap:CommonStockMember 2023-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2023-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2023-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-12-31 
+0001001385 2023-12-31 
+0001001385 us-gaap:CommonStockMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:CommonStockMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:RetainedEarningsMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:CommonStockMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:RetainedEarningsMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-01-01 2024-12-31 
+0001001385 us-gaap:CommonStockMember 2024-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2024-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2024-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-12-31 
+0001001385 us-gaap:CommonStockMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:CommonStockMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AdditionalPaidInCapitalMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:RetainedEarningsMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:CommonStockMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AdditionalPaidInCapitalMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:RetainedEarningsMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:CommonStockMember 2025-12-31 
+0001001385 us-gaap:AdditionalPaidInCapitalMember 2025-12-31 
+0001001385 us-gaap:RetainedEarningsMember 2025-12-31 
+0001001385 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-12-31 
+0001001385 us-gaap:CaliforniaFranchiseTaxBoardMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:CaliforniaFranchiseTaxBoardMember 2023-01-01 2023-12-31 
+0001001385 nwpx:OregonDepartmentOfRevenueAuthorityMember 2023-01-01 2023-12-31 
+0001001385 nwpx:OtherStateAndLocalAuthorityMember 2025-01-01 2025-12-31 
+0001001385 nwpx:OtherStateAndLocalAuthorityMember 2024-01-01 2024-12-31 
+0001001385 nwpx:OtherStateAndLocalAuthorityMember 2023-01-01 2023-12-31 
+xbrli:pure 
+utr:Y 
+0001001385 us-gaap:LandImprovementsMember srt:MinimumMember 2025-12-31 
+0001001385 us-gaap:LandImprovementsMember srt:MaximumMember 2025-12-31 
+0001001385 us-gaap:BuildingMember srt:MinimumMember 2025-12-31 
+0001001385 us-gaap:BuildingMember srt:MaximumMember 2025-12-31 
+0001001385 us-gaap:LeaseholdImprovementsMember srt:MinimumMember 2025-12-31 
+0001001385 us-gaap:LeaseholdImprovementsMember srt:MaximumMember 2025-12-31 
+0001001385 us-gaap:MachineryAndEquipmentMember srt:MinimumMember 2025-12-31 
+0001001385 us-gaap:MachineryAndEquipmentMember srt:MaximumMember 2025-12-31 
+0001001385 srt:MinimumMember 2025-12-31 
+0001001385 srt:MaximumMember 2025-12-31 
+0001001385 nwpx:AccruedLiabilityMember 2025-12-31 
+0001001385 nwpx:AccruedLiabilityMember 2024-12-31 
+0001001385 nwpx:OtherLongtermLiabilitiesMember 2025-12-31 
+0001001385 nwpx:OtherLongtermLiabilitiesMember 2024-12-31 
+0001001385 us-gaap:LandImprovementsMember 2025-12-31 
+0001001385 us-gaap:LandImprovementsMember 2024-12-31 
+0001001385 us-gaap:BuildingMember 2025-12-31 
+0001001385 us-gaap:BuildingMember 2024-12-31 
+0001001385 us-gaap:LeaseholdImprovementsMember 2025-12-31 
+0001001385 us-gaap:LeaseholdImprovementsMember 2024-12-31 
+0001001385 us-gaap:MachineryAndEquipmentMember 2025-12-31 
+0001001385 us-gaap:MachineryAndEquipmentMember 2024-12-31 
+0001001385 nwpx:EquipmentUnderFinanceLeaseMember 2025-12-31 
+0001001385 nwpx:EquipmentUnderFinanceLeaseMember 2024-12-31 
+0001001385 us-gaap:ConstructionInProgressMember 2025-12-31 
+0001001385 us-gaap:ConstructionInProgressMember 2024-12-31 
+0001001385 country:MX 2025-12-31 
+0001001385 country:MX 2024-12-31 
+0001001385 us-gaap:CustomerRelationshipsMember 2025-12-31 
+0001001385 us-gaap:TrademarksAndTradeNamesMember 2025-12-31 
+0001001385 us-gaap:PatentsMember 2025-12-31 
+0001001385 us-gaap:CustomerRelationshipsMember 2024-12-31 
+0001001385 us-gaap:TrademarksAndTradeNamesMember 2024-12-31 
+0001001385 us-gaap:PatentsMember 2024-12-31 
+0001001385 nwpx:WellsFargoBankNAMember 2025-08-13 
+0001001385 nwpx:WellsFargoBankNAMember 2025-08-13 2025-08-13 
+0001001385 us-gaap:RevolvingCreditFacilityMember nwpx:WellsFargoBankNAMember 2025-12-31 
+0001001385 us-gaap:RevolvingCreditFacilityMember nwpx:WellsFargoBankNAMember 2024-12-31 
+0001001385 us-gaap:RevolvingCreditFacilityMember nwpx:WellsFargoBankNAMember srt:MinimumMember 2025-01-01 2025-12-31 
+0001001385 us-gaap:RevolvingCreditFacilityMember nwpx:WellsFargoBankNAMember srt:MaximumMember 2025-01-01 2025-12-31 
+0001001385 nwpx:WellsFargoBankNAMember nwpx:ConversionOfInterimFundingAgreementDebtIntoTermLoanMember 2024-10-28 2024-10-28 
+0001001385 nwpx:WellsFargoBankNAMember nwpx:TermLoanMember 2024-10-28 2024-10-28 
+0001001385 nwpx:WellsFargoBankNAMember nwpx:TermLoanMember 2025-12-31 
+0001001385 nwpx:WellsFargoBankNAMember nwpx:TermLoanMember 2024-12-31 
+0001001385 nwpx:DeferredCompensationPlanMember us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 nwpx:DeferredCompensationPlanMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 nwpx:DeferredCompensationPlanMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 nwpx:DeferredCompensationPlanMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:InterestRateSwapMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 
+0001001385 nwpx:DeferredCompensationPlanMember us-gaap:FairValueMeasurementsRecurringMember 2024-12-31 
+0001001385 nwpx:DeferredCompensationPlanMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2024-12-31 
+0001001385 nwpx:DeferredCompensationPlanMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2024-12-31 
+0001001385 nwpx:DeferredCompensationPlanMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:FairValueMeasurementsRecurringMember 2024-12-31 
+0001001385 us-gaap:ForeignExchangeForwardMember us-gaap:FairValueI
+
+## GEOGRAPHIC REVENUE
+ngineered Systems ( Precast ), which includes the brands NWPX Geneva and NWPX Park. Under the Northwest Pipe Company brand, we are the largest manufacturer of engineered water transmission systems in North America and produce steel casing pipe, bar-wrapped concrete cylinder pipe, and pipeline system joints and fittings. We also provide solution-based products for a wide range of markets including high-quality reinforced precast concrete products, lined precast sanitary sewer system structures, water distribution and management equipment including pump lift stations, wastewater pretreatment, and stormwater quality products. We have broadened our manufacturing footprint by bringing lined and engineered precast products into production at additional facilities. This increases our capacity and improves regional availability. Strategically positioned to meet growing water and wastewater infrastructure needs, our skilled team is committed to quality and innovation while upholding our core values of accountability, commitment, and teamwork. Headquartered in Vancouver, Washington, we operate 13 manufacturing facilities across North America. 
+Our water infrastructure products are sold generally to installation contractors, who include our products in their bids to federal, state, and municipal agencies, privately-owned water companies, or developers for specific projects. We believe our sales are substantially driven by spending on urban growth and new water infrastructure with a recent trend towards spending on water infrastructure replacement, repair, and upgrade. Within the total range of products, our steel pipe best addresses the larger-diameter, higher-pressure pipeline applications, while our precast concrete products mainly serve stormwater and sanitary sewer systems. 
+Company Name 
+Our shareholders approved an amendment to our Articles of Incorporation to change our corporate name from Northwest Pipe Company to NWPX Infrastructure, Inc. at the Annual Meeting of Shareholders held on June 12, 2025. That same day, we effectuated the name change by filing an amendment of our Articles of Incorporation with the Oregon Secretary of State and amended and restated our By
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of total accounts receivable, and one customer had a balance in excess of 10% of total accounts receivable as of December 31, 2024 . Foreign currency forward contracts and interest rate swaps are with a high-quality financial institution. The Company s deferred compensation plan assets, included in Other assets, are invested in a diversified portfolio of stock and bond mutual funds. 
+Recent Accounting and Reporting Developments Accounting Changes In December 2023, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU ) No. 2023 09, Income Taxes (Topic 740 ): Improvements to Income Tax Disclosures ( ASU 2023 09 ) which improves the transparency, effectiveness, and comparability of income tax disclosures and allows investors to better assess, in their capital allocation decisions, how an entity s worldwide operations and related tax risks and tax planning and operation opportunities affect its income tax rate and prospects for future cash flows. The Company adopted ASU 2023 09 for its 2025 annual reporting and applied ASU 2023 09 retrospectively to all prior periods presented in the notes to the consolidated financial statements. Recent Accounting Standards In October 2023, the FASB issued ASU No. 2023 06, Disclosure Improvements: Codification Amendments in Response to the SEC s Disclosure Update and Simplification Initiative ( ASU 2023 06 ) which incorporates certain Securities and Exchange Commission ( SEC ) disclosure requirements into the Accounting Standards Codification. The amendments will be applied prospectively and are effective when the SEC removes the related requirements from Regulations S X or S K. Any amendments the SEC does not remove by June 30, 2027 will not be effective. As the Company is currently subject to Regulations S X and S K, it does not expect a material impact to its consolidated financial statements or disclosures from adoption of this guidance. In November 2024, the FASB issued ASU No. 2024 03, In
+
+---
+Doc size: 2048KB (capped at 2MB)

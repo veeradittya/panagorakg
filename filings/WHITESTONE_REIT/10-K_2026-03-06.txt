@@ -1,0 +1,156 @@
+# WHITESTONE REIT — 10-K Annual Report
+# Filed: 2026-03-06
+# CIK: 1175535
+# SIC: Real Estate Investment Trusts
+# Source: https://www.sec.gov/Archives/edgar/data/1175535/000143774926007232/wstr20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business. 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors. 
+6 
+Item 1B. 
+Unresolved Staff Comments. 
+19 
+Item 1C. 
+Cybersecurity . 
+19 
+Item 2. 
+Properties. 
+20 
+Item 3. 
+Legal Proceedings. 
+25 
+Item 4. 
+Mine Safety Disclosures. 
+25 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities. 
+26 
+Item 6. 
+Reserved. 
+27 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+27 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk. 
+51 
+Item 8. 
+Financial Statements and Supplementary Data. 
+52 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure. 
+52 
+Item 9A. 
+Controls and Procedures. 
+52 
+Item 9B. 
+Other Information. 
+53 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdiction that Prevent Inspections. 
+53 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance. 
+54 
+Item 11. 
+Executive Compensation. 
+54 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters. 
+54 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence. 
+54 
+Item 14. 
+Principal Accountant Fees and Services. 
+54 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules. 
+55 
+Item 16. 
+Form 10-K Summary 
+55 
+Index to Exhibits 
+56 
+SIGNATURES. 
+59 
+Table of Contents 
+Unless the context otherwise requires, all references in this Annual Report on Form 10-K to the Company, we, us or our are to Whitestone REIT and its consolidated subsidiaries. 
+Forward-Looking Statements 
+The following discussion should be read in conjunction with our audited consolidated financial statements and the notes thereto in this Annual Report on Form 10-K. 
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws, including discussion and analysis of our financial condition; pending acquisitions and the impact of such acquisitions on our financial condition and results of operations; anticipated capital expenditures required to complete projects; amounts of anticipated cash distributions to our shareholders in the future; and other matters. These forward-looking statements are not historical facts but are the intent, belief or current expectations of our management based on its knowledge and understanding of our business and industry. Forward-looking statements are typically identified by the use of terms such as may, will, should, potential, predicts, anticipates, expects, intends, plans, believes, seeks, estimates or the negative of such terms and variations of these words and similar expressions, although not all forward-looking statements include these words. These statements are not guarantees of future performance and are subject to risks, uncertainties and other factors, some of which are beyond our control, are difficult to predict and could cause actual results to differ materially from those expressed or forecasted in the forward-looking statements. 
+Forward-looking statements that were true at the time made may ultimately prove to be incorrect or false. You are cautioned not to place undue reliance on forward-looking statements, which reflect our management s view only as of the date of this Annual Report on Form 10-K. We undertake no obligation to update or revise forward-looking statements to reflect changed assumptions, the occurrence of unanticipated events or changes to future operating results. Factors that could cause actual results to differ materially from any forward-looking statements made in this Annual Report on Form 10-K include: 
+the imposition of federal income taxes if we fail to qualify as a real estate investment trust ( REIT ) in any taxable year or forego an opportunity to ensure REIT status; 
+uncertainties related to the national economy and the real estate industry, both in general and in our specific markets; 
+legislative or regulatory changes, including changes to laws governing REITs; 
+adverse economic or real estate developments or conditions in Texas or Arizona, Houston, Dallas, and Phoenix in particular, including the potential impact of inflation or public health emergencies on our tenants ability to pay their rent, which could result in bad debt allowances or straight-line rent reserve adjustments; 
+our current geographic concentration in the Houston, Dallas, and Phoenix metropolitan area markets makes us susceptible to potential local economic downturns; 
+increases in interest rates, including as a result of inflation, which may increase our operating costs or general and administrative expenses 
+natural disasters, such as floods and hurricanes, which may increase as a result of climate change may adversely affect our returns and adversely impact our existing and prospective tenants; 
+increasing focus by stakeholders on environmental, social and governance matters; 
+financial institution disruptions; 
+availability and terms of capital and financing, both to fund our operations and to refinance our indebtedness as it matures; 
+decreases in rental rates or increases in vacancy rates; 
+harm to our reputation, ability to do business and results of operations as a result of improper conduct by our employees, agents or business partners; 
+litigation risks; 
+lease-up risks, including leasing risks arising from exclusivity and consent provisions in leases with significant tenants; 
+our inability to renew tenant leases or obtain new tenant leases upon the expiration of existing leases; 
+risks related to generative artificial intelligence tools and language models, along with the potential interpretations and conclusions they might make regarding our business and prospects, particularly concerning the spread of misinformation; 
+our inability to generate sufficient cash flows due to market conditions, competition, uninsured losses, changes in tax or other applicable laws; 
+geopolitical instability, such as the ongoing conflict between Russia and Ukraine, the conflict in the Gaza Strip and unrest in the Middle East; 
+the need to fund tenant improvements or other capital expenditures out of operating cash flow; 
+the risk that we are unable to raise capital for working capital, acquisitions or other uses on attractive terms or at all; and 
+disruptions to our business and financial results as a result of shareholder activism efforts or unsolicited offers from third-parties. 
+The forward-looking statements should be read in light of these factors and the factors identified in the Risk Factors section of this Annual Report on Form 10-K. 
+Table of Contents 
+PART I 
+Item 1. Business. 
+General 
+We are a Maryland REIT engaged in owning and operating commercial properties in culturally diverse markets in major metropolitan areas. We have elected to be taxed as a REIT under the Internal Revenue Code of 1986, as amended (the Code ). 
+We are internally managed and, as of December 31, 2025, we wholly-owned a real estate portfolio of 56 properties that meet our Community Centered Property strategy containing approximat ely 4.9 m illion square feet of gross leasable area ( GLA ), located in Texas and Arizona. Our consolidated property portfolio has a gross book value of approximately $1.4 billion and book equity, including noncontrolling interests, of approximately $464 million as of December 31, 2025. 
+On January 25, 2024, we exercised our notice of redemption for substantially all of our investment in Pillarstone Capital REIT Operating Partnership LP ( Pillarstone or Pillarstone OP ). On March 4, 2024, Pillarstone Capital REIT ( Pillarstone REIT ) filed Chapter 11 bankruptcy for itself and Pillarstone OP. We subsequently filed a claim for the value of our redemption claim along with interest and other costs. On December 12, 2025, we received $33.4 million dollars from Pillarstone OP pursuant to a settlement agreement approved by the Bankruptcy court under Bankruptcy Rule 9019. After Pillarstone REIT has paid its portion of funds, the settlement agreement directs Pillarstone OP to distribute to us any remaining funds and any excess amounts in Pillarstone OP s $2.5 million dollar in reserves for claims, taxes and administrative expenses. We expect to receive approximately $4.0 million in cash and any excess from the $2.5 million in reserves in 2026. In this Annual Report on Form 10-K, unless otherwise indicated, we do not include the group of the real estate properties Whitestone REIT contributed to Pillarstone OP and Pillarstone Capital REIT under a Contribution Agreement (the "Pillarstone Properties", please refer to Note 4 for the full definition.) when we refer to our properties as we no longer hold a majority interest in Pillarstone OP. 
+Our common shares of beneficial interest, par value $0.001 per share, are traded on the New York Stock Exchange (the NYSE ) under the ticker symbol WSR. Our offices are located at 2600 South Gessner Road, Suite 500, Houston, Texas 77063. Our telephone number is (713) 827-9595 and we maintain a website at www.whitestonereit.com. The contents of our website are not incorporated into this filing. 
+Our Strategy 
+In October 2006, we adopted a strategic plan to acquire, redevelop, own and operate Community Centered Properties . We define Community Centered Properties as visibly located properties in established or developing culturally diverse neighborhoods in our target markets. We market, lease and manage our centers to match tenants with the shared needs of the surrounding neighborhood. Those needs may include specialty retail, grocery, restaurants, medical, educational, financial services, entertainment and experiences. Our goal is for each property to become a Whitestone-branded retail community that serves a neighboring five-mile radius around our property. We employ and develop a diverse group of associates who understand the needs of our multicultural communities and tenants. 
+Our primary business objective is to increase shareholder value by acquiring, owning and operating Community Centered Properties . The key elements of our strategy include: 
+Strategically Acquiring Properties. 
+Seeking High Growth Markets. We seek to strategically acquire commercial properties in high-growth markets. Our acquisition targets are located in densely populated, culturally diverse neighborhoods, primarily in and around Austin, Dallas, Houston, Phoenix and San Antonio. 
+Diversifying Geographically. Our current portfolio is concentrated in Houston, Dallas and Phoenix. As of December 31, 2025, we wholly-owned 10 properties in Houston, 11 properties in Dallas, three properties in San Antonio, seven properties in Austin and 25 properties in the Scottsdale and Phoenix, Arizona metropolitan areas. 
+We believe that continued geographic diversification in markets where we have substantial knowledge and experience will help offset the economic risk from a single market concentration. We intend to continue to focus our expansion efforts on the Austin, Dallas, Houston, Phoenix and San Antonio markets. We believe our management infrastructure and capacity can accommodate substantial growth in those markets. We may also pursue opportunities in other regions that are consistent with our Community Centered Property strategy. Markets in which we have developed some knowledge and contacts include Orlando, Florida and Denver, Colorado, both of which have economic, demographic and cultural profiles similar to our Arizona and Texas markets. 
+1
+Table of Contents 
+Capitalizing on Availability of Reasonably Priced Acquisition Opportunities . We believe that currently and during the next several years there will continue to be opportunities in our target markets to acquire quality properties at historically attractive prices. We intend to acquire assets in off-market transactions negotiated directly with owners or financial institutions holding foreclosed real estate and debt instruments that are either in default or on bank watch lists. We believe many of these assets may benefit from our Community Centered Property strategy and our management team s experience in turning around distressed properties, portfolios and companies. We have extensive relationships with community banks, attorneys, title companies and others in the real estate industry with whom we regularly work to identify properties for potential acquisition. 
+Redeveloping and Re-tenanting Existing Properties. We have substantial experience in repositioning underperforming properties and seek to add value through renovating and re-tenanting our properties to create Whitestone-branded Community Centered Properties . We seek to accomplish this by (1) stabilizing occupancy, with per property occupancy goals of 90% or higher; (2) adding leasable square footage to existing structures; (3) developing and building new leasable square footage on excess land; (4) upgrading and renovating existing structures; and (5) investing significant effort in recruiting tenants whose goods and services meet the needs of the surrounding neighborhood. 
+Recycling Capital for Greater Returns. We seek to continually upgrade our portfolio by opportunistically selling properties that do not have the potential to meet our Community Centered Property strategy and redeploying the sale proceeds into properties that better fit our strategy. Some of our properties that we own ( non-core properties ) may not fit our Community Centered Property strategy, and we may look for opportunities to dispose of these properties as we continue to execute our strategy. 
+Prudent Management of Capital Structure. Of our 56 properties, we currently have 51 properties that are unencumbered. We may seek to add mortgage indebtedness to existing and newly acquired unencumbered properties to provide additional capital for acquisitions. As a general policy, we intend to maintain a ratio of debt, net of cash, to undepreciated book value of real estate assets, including our proportional share of real estate from our unconsolidated real estate partnership, that is at or less th an 60%. As of December 31, 2025, our ratio of debt, net of cash, to undepreciated book value of real estate assets was 47% . 
+Investing in People. We believe that our people are the heart of our culture, philosophy and strategy. We continually focus on developing associates who are self-disciplined and motivated and display, at all times, a high degree of character and competence. We provide them with equity incentives to align their interests with those of our shareholders. 
+Our Structure 
+Substantially all of our business is conducted through Whitestone REIT Operating Partnership, L.P., a Delaware limited partnership organized in 1998 (the Operating Partnership ). We are the sole general partner of the Operating Partnership. As of December 31, 2025, we owned a 98.8% interest in the Operating Partnership. 
+As of December 31, 2025, we wholly-owned a real estate portfolio consisting of 56 properties loc
+
+## GEOGRAPHIC REVENUE
+tone Capital REIT ( Pillarstone REIT ) authorized and filed a Chapter 11 bankruptcy (the Pillarstone Bankruptcies ) of itself, Pillarstone OP, and all of its remaining special purpose entities in the United States Bankruptcy Court for the Northern District of Texas (the Bankruptcy Court ). We filed a claim in the Pillarstone Bankruptcies for the value of our redemption claim along with interest and other costs. On December 12, 2025, we received $33.4 million dollars from Pillarstone OP pursuant to a settlement agreement approved by the Bankruptcy court under Bankruptcy Rule 9019. The settlement agreement directs Pillarstone OP to distribute to us all funds remaining after a payment of $4.05 million to Pillarstone REIT and a reserve of $2.5 million for claims, taxes and administrative expenses. After the $4.05 million payment is made to Pillarstone REIT, we expect to receive approximately $4.0 million in cash and any excess from the $2.5 million in reserves in 2026. Please refer to Note 4 (Investment in Real Estate Partnership) to the accompanying consolidated financial statements for more information on our accounting treatment of our former investment in Pillarstone OP. 
+Our largest property, BLVD Place ( BLVD ), a retail community purchased on May 26, 2017 and located in Houston, Texas, accounted for 9.7% of our total revenues for the year ended December 31, 2025. BLVD also accounted for 14.6% of our consolidated real estate assets, net of accumulated depreciation, as of the year ended December 31, 2025. 
+2
+Table of Contents 
+Competition 
+All of our properties are located in areas that include competing properties. The amount of competition in a particular area could impact our ability to acquire additional real estate, sell current real estate, lease space and could also affect the amount of rent we are able to charge. We may be competing with owners, developers and operators, including, but not limited to, real estate investors, other REITs, insurance companies and pension funds. 
+Should we decide to dispose of a property, we may compete with third-party sellers of similar types of commercial properties for suitable purchasers, which may result in our receiv
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the outstanding voting securities of any one issuer or more than 10% of the total value of the outstanding securities of any one issuer. In addition, in general, no more than 5% of the value of our assets (other than government securities and qualified real estate assets) can consist of the securities of any one issuer, and no more than 20% of the value of our total assets can be represented by the securities of one or more taxable REIT subsidiaries. If we fail to comply with these requirements at the end of any calendar quarter, we must correct the failure within 30 days after the end of the calendar quarter or qualify for certain statutory relief provisions to avoid losing our REIT qualification and suffering adverse tax consequences. As a result, we may be required to liquidate otherwise attractive investments. These actions could have the effect of reducing our income and amounts available for distribution to our shareholders. 
+Dividends payable by REITs do not qualify for the reduced tax rates available for some dividends. 
+For non-corporate taxpayers the maximum tax rate applicable to qualified dividend income paid by regular C corporations to U.S. shareholders generally is 20%. Dividends payable by REITs, however, generally are not eligible for the reduced rates on qualified dividend income. Instead, our ordinary dividends generally are taxed at the higher tax rates applicable to ordinary income, the current maximum rate of which is 37%. However, for taxable years prior to 2026, individual stockholders are generally allowed to deduct 20% of the aggregate amount of ordinary dividends distributed by us, subject to certain limitations, which would reduce the maximum marginal effective tax rate for individuals on the receipt of such ordinary dividends to 29.6%. 
+Complying with REIT requirements may limit our ability to hedge effectively and may cause us to incur tax liabilities. 
+The REIT provisions of the Code substantially limit our ability to hedge our
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,101 @@
+# PETCO HEALTH & WELLNESS CO I — 10-K Annual Report
+# Filed: 2026-03-13
+# CIK: 1826470
+# SIC: Retail-Retail Stores, NEC
+# Source: https://www.sec.gov/Archives/edgar/data/1826470/000119312526106114/woof-20260131.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+6
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+11 
+Item 1B. 
+Unresolved Staff Comments 
+41 
+Item 1C. 
+Cybersecurity 
+41 
+Item 2. 
+Properties 
+42 
+Item 3. 
+Legal Proceedings 
+43 
+Item 4. 
+Mine Safety Disclosures 
+43 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+44 
+Item 6. 
+[Reserved] 
+45 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+46 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+60 
+Item 8. 
+Financial Statements and Supplementary Data 
+62 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+97 
+Item 9A. 
+Controls and Procedures 
+97 
+Item 9B. 
+Other Information 
+97 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+98 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+99 
+Item 11. 
+Executive Compensation 
+99 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+99 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+99 
+Item 14. 
+Principal Accounting Fees and Services 
+99 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+100 
+Item 16. 
+Form 10-K Summary 
+104 
+Signatures 
+105 
+1 
+Note on the Presentation Unless otherwise indicated or the context otherwise requires, references in this Annual Report on Form 10-K to (i) Petco, our company, we, our, and us, or like terms, refer to Petco Health and Wellness Company, Inc. and/or its subsidiaries, individually and/or collectively, and (ii) common stock refer to our Class A common stock, our Class B-1 common stock and our Class B-2 common stock, collectively. References to our certificate of incorporation and bylaws are to our second amended and restated certificate of incorporation, as amended, and our third amended and restated bylaws, respectively. We are currently indirectly controlled by certain funds (the CVC Funds ) that are advised and/or managed by CVC Capital Partners ( CVC ) and Canada Pension Plan Investment Board, a Canadian company (together with its affiliates, CPP Investments and, together with the CVC Funds, our Sponsors ). Our Sponsors primarily exercise their control through Scooby Aggregator, LP (our Principal Stockholder ). We report on the basis of a 52- or 53-week fiscal year, which ends on the Saturday closest to January 31. References to fiscal year mean the year in which that fiscal year began. For example, references to fiscal 2025 refer to the fiscal year beginning February 2, 2025 and ending January 31, 2026. Industry and Market Data This Annual Report on Form 10-K includes market data and forecasts with respect to the pet care industry. Although we are responsible for all of the disclosure contained in this Annual Report on Form 10-K, in some cases we rely on and refer to market data and certain industry forecasts that were obtained from third-party surveys, market research, consultant surveys, publicly available information and industry publications and surveys that we believe to be reliable. Unless otherwise indicated, all market and industry data and other statistical information and forecasts contained in this Annual Report on Form 10-K are based on independent industry publications, government publications, reports by market research firms or other published independent sources, such as Packaged Facts, and other externally obtained data that we believe to be reliable. Some market and industry data, and statistical information and forecasts, are also based on management s estimates, which are derived from our review of internal surveys as well as the independent sources referred to above. Any such market data, information or forecast may prove to be inaccurate because of the method by which we obtain it or because it cannot always be verified with complete certainty given the limits on the availability and reliability of raw data, the voluntary nature of the data gathering process, and other limitations and uncertainties, including those discussed under the caption Risk Factors in Part I, Item 1A of this Annual Report on Form 10-K. As a result, although we believe that these sources are reliable, we have not independently verified the information. 
+2 
+Cautionary Note Regarding Forward-Looking Statements This Annual Report on Form 10-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as contained in Section 27A of the Securities Act of 1933, as amended (the Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ), concerning expectations, beliefs, plans, objectives, goals, strategies, future events or performance, and underlying assumptions and other statements that are not statements of historical fact, including, but not limited to, statements regarding: our expectations with respect to our revenue, expenses, profitability, and other operating results; our growth plans; our ability to compete effectively in the markets in which we participate; the execution on our transformation initiatives; and the impact of certain macroeconomic factors, including tariffs, inflationary and interest rate pressures, consumer spending patterns, global supply chain constraints, and global economic and geopolitical developments, on our business. Forward-looking and other statements in this Annual Report on Form 10-K may also address our progress, plans, and goals with respect to sustainability initiatives, and the inclusion of such statements is not an indication that these contents are necessarily material to investors or required to be disclosed in our filings with the U.S. Securities and Exchange Commission (the SEC ). Such plans and goals may change, and statements regarding such plans and goals are not guarantees or promises that they will be met. In addition, historical, current, and forward-looking sustainability-related statements may be based on standards for measuring progress that are still developing, internal controls and processes that continue to evolve, and assumptions that are subject to change in the future. Such forward-looking statements can generally be identified by the use of forward-looking terms such as believes, expects, may, intends, will, shall, should, anticipates, opportunity, illustrative , or the negative thereof or other variations thereon or comparable terminology. Although we believe that the expectations and assumptions reflected in these statements are reasonable, there can be no assurance that these expectations will prove to be correct or that any forward-looking results will occur or be realized. Nothing contained in this Annual Report on Form 10-K is, or should be relied upon as, a promise or representation or warranty as to any future matter, including any matter in respect of our operations or business or financial condition. All forward-looking statements are based on current expectations and assumptions about future events that may or may not be correct or necessarily take place and that are by their nature subject to significant uncertainties and contingencies, many of which are outside of our control. Forward-looking statements are subject to many risks, uncertainties, and other factors that could cause actual results or events to differ materially from the potential results or events discussed in such forward-looking statements, including, without limitation, those identified in this Annual Report on Form 10-K as well as the following: (i) increased competition (including from multi-channel retailers, mass and grocery retailers, and e-Commerce providers); (ii) reduced consumer demand for our products and/or services; (iii) our reliance on key vendors; (iv) our ability to attract and retain qualified employees; (v) risks arising from statutory, regulatory and/or legal developments; (vi) macroeconomic pressures in the markets in which we operate, including inflation, prevailing interest rates, and the impact of tariffs; (vii) failure to effectively manage our costs; (viii) our reliance on our information technology systems; (ix) our ability to prevent or effectively respond to a data privacy or security breach; (x) our ability to effectively manage or integrate strategic ventures, alliances, or acquisitions and realize the anticipated benefits of such transactions; (xi) economic or regulatory developments that might affect our ability to provide attractive promotional financing; (xii) business interruptions and other supply chain issues; (xiii) catastrophic events, political tensions, conflicts and wars (such as the ongoing conflicts in Ukraine and the Middle East), government shutdowns, health crises, and pandemics; (xiv) our ability to maintain positive brand perception and recognition; (xv) product safety and quality concerns; (xvi) changes to labor or employment laws or regulations; (xvii) our ability to effectively manage our real estate portfolio; (xviii) constraints in the capital markets or our vendor credit terms; (xix) changes in our credit ratings; (xx) impairments of the carrying value of our goodwill and other intangible assets; (xxi) our ability to successfully implement our operational adjustments, achieve the expected benefits of our cost action plans, and drive improved profitability; (xxii) our ability to deliver sustainable, profitable growth; and (xxiii) the other risks, uncertainties, and other factors identified herein under Risk Factors and Management s Discussion and Analysis of Financial Condition and Results of Operations. The occurrence of any such factors could significantly alter the results set forth in these statements. We caution that the foregoing list of risks, uncertainties, and other factors is not complete, and forward-looking statements speak only as of the date they are made. We undertake no duty to update publicly any such forward-looking statement, whether as a result of new information, future events, or otherwise, except as may be required by applicable law, regulation, or other competent legal authority. 
+3 
+In addition, statements such as we believe and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based on information available to us as of the date of this Annual Report on Form 10-K. While we believe that information provides a reasonable basis for these statements, that information may be limited or incomplete. Our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely on these statements. Risk Factors Summary Investing in our securities involves a high degree of risk. The following is a summary of the principal factors that make an investment in our securities speculative or risky, all of which are more fully described below in the section titled Risk Factors. This summary should be read in conjunction with the Risk Factors section and should not be relied upon as an exhaustive summary of the material risks facing our business. In addition to the following summary, you should consider the information set forth in the Risk Factors section and the other information contained in this Annual Report on Form 10-K before investing in our securities. Risks Related to Our Business A decline in consumer spending or a change in consumer preferences or demographics could reduce our sales or profitability and adversely affect our business. The growth of our business depends in part on our ability to accurately predict consumer trends, successfully introduce new products and services, improve existing products and services, and expand into new offerings. Competition in the markets in which we operate, including internet-based competition, is strong and if we are unable to compete effectively, our ability to generate sales may suffer and our operating income and net income could decline. We may be unable to execute our growth strategies successfully or manage and sustain our growth and, as a result, our business may be adversely affected. We have, at times, experienced difficulties recruiting and retaining skilled veterinarians due to shortages that could disrupt our business. We face various risks as an e-commerce retailer. If we fail to generate or obtain sufficient capital to finance our growth strategies, we may be unable to sustain our growth and our business may be adversely affected. A disruption, malfunction, or increased costs in the operation, expansion, or replenishment of our distribution centers or our supply chain would affect our ability to deliver to our locations and e-commerce customers or increase our expenses, which could harm our sales and profitability. We occasionally seek to grow our business through acquisitions of or investments in new or complementary businesses, products, or services, or through strategic ventures, and the failure to successfully identify these opportunities, manage and integrate these acquisitions, investments, or alliances, or to achieve an adequate return on these investments, could have an adverse effect on us. Negative publicity arising from claims that we do not properly care for animals we handle or sell could adversely affect how we are perceived by the public and reduce our sales and profitability. Our quarterly operating results may fluctuate due to the timing of expenses, new pet care center openings, pet care center closures, and other factors. Pet consumables safety, quality, and health concerns could adversely affect our business. Failure to attract and retain quality employees and experienced management personnel could adversely affect our performance. Our results may be adversely affected by serious disruptions or catastrophic events, including public health issues, geopolitical events, and severe weather. 
+4 
+Risks Related to Legal and Regulatory Matters Failure to comply with governmental regulations or the expansion of existing or the enactment of new laws or regulations applicable to our veterinary services could adversely affect our business and our financial condition or lead to fines, litigation, or our inability to offer veterinary products or services in certain states. Our marketing programs, e-commerce initiatives, and use of personal information are governed by an evolving set of laws and enforcement trends, and changes in privacy laws or trends, or our failure to comply with existing or future laws, could substantially harm our business and results of operations. Failure to establish, maintain, protect, and enforce our intellectual property and proprietary rights or prevent third parties from making unauthorized use of our technology or our brand could harm our competitive position or require us to incur significant expenses to enforce our rights. We are party to r
+
+## GEOGRAPHIC REVENUE
+and solutions. Our ecosystem provides our customers with a comprehensive offering of products and services to fulfill all their pets needs through our approximately 1,400 pet care centers across the United States and Puerto Rico, our digital channel, and our flexible fulfillment options. Additionally, we operate approximately 150 pet care centers in Mexico and 2 in Chile through a joint venture. Our product offering leverages a broad assortment of national brands, owned brands, and exclusive merchandise, providing customers with a wide variety of nutritional options at a range of price points. Our product offering is complemented by a wide variety of pet care supplies and companion animals. In addition, our owned product assortment, including WholeHearted, Reddy, So Phresh, and Well & Good, serves as a significant driver of sales, customer loyalty, and repeat purchasing and was a meaningful contributor to enterprise sales in fiscal 2025. We integrate our product offering with our services business, comprised of veterinary care, grooming, and training, with a focus on treating the whole pet, including their physical, mental, and social well-being. As of January 31, 2026, we had approximately 300 full service veterinary hospitals in our network and operated approximately 1,600 Vetco clinics on a weekly basis. We are able to benefit from certain structural advantages compared to stand-alone veterinary care providers by integrating our hospitals into existing pet care centers. This provides additional basket opportunities and allows for, among other things, data sharing advantages across our ecosystem. Our strategy is powered by a multi-channel platform. Our more than 26,000 passionate and knowledgeable store employees, together with our full suite of wholly owned services, enable us to create a fun, convenient, and unique experience for our customers and their pets. Layered onto our in-store and services offerings, we are focused on continually improving both our digital capabilities as well as our membership offering and creating a digital-to-store experience designed to minimize friction for our customers. Petco.com, our e-Commerce site, and the Petco app, our p
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of our sales. In addition, we primarily sell the products we carry directly to consumers and purchase our products predominantly from our direct vendors rather than through third-party distributors. As such, we do not materially rely on third-party distributors to conduct our overall business. Our policy is to onboard our vendors using a standardized process to confirm their adherence to our applicable standards, policies, and procedures, including those relating to legal compliance, standard payment terms, and product quality. These relationships are typically governed by our standard vendor terms and conditions, under which we submit purchase orders to our vendors specifying the types, quantities, and agreed prices for merchandise that we intend to purchase from them. These agreements do not typically have minimum order requirements or exclusivity obligations for either party. Our terms and conditions do not have a set term, but instead allow us to terminate the relationship for convenience at any time upon written notice to the vendor. Our vendors generally may terminate the relationship on 90-days written notice but are obligated to fulfill or perform any purchase order accepted prior to such notice. 
+8 
+Our Trademarks and Other Intellectual Property We believe that our rights in our intellectual property, including trademarks and domain names, as well as contractual provisions and restrictions on access to our proprietary technology, are important to our operations and marketing efforts to develop brand recognition and differentiate our brand from our competitors. We own a number of trademarks that have been registered, or for which registration applications are pending, in the United States and certain foreign jurisdictions. These trademarks include Bond & Co., EveryYay, Good 2 Go, Good Lovin , Imagitarium, Leaps & Bounds, Petco, Petco Love, Petco Park, Reddy, Ruff & Mews, So Phresh, Vetco, Well & Good, Where the Pets Go, WholeHearted, You & Me, Youly, Vit
+
+---
+Doc size: 2048KB (capped at 2MB)

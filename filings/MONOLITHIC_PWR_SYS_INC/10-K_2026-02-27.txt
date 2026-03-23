@@ -1,0 +1,227 @@
+# MONOLITHIC PWR SYS INC — 10-K Annual Report
+# Filed: 2026-02-27
+# CIK: 1280452
+# SIC: Semiconductors & Related Devices
+# Source: https://www.sec.gov/Archives/edgar/data/1280452/000143774926006113/mpwr20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+7 
+Information about Executive Officers 
+11
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+12 
+Item 1B. 
+Unresolved Staff Comments 
+30 
+Item 1C. 
+Cybersecurity 
+29 
+Item 2. 
+Properties 
+30 
+Item 3. 
+Legal Proceedings 
+31 
+Item 4. 
+Mine Safety Disclosures 
+31 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+32 
+Item 6. 
+[Reserved] 
+34 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+34 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+40 
+Item 8. 
+Financial Statements and Supplementary Data 
+41 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+77 
+Item 9A. 
+Controls and Procedures 
+77 
+Item 9B. 
+Other Information 
+78 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+78 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+79 
+Item 11. 
+Executive Compensation 
+79 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+79 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+79 
+Item 14. 
+Principal Accountant Fees and Services 
+79 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+80 
+Item 16. 
+Form 10-K Summary 
+82 
+Signatures 
+83 
+4
+Table of Contents 
+FORWARD-LOOKING STATEMENTS 
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, that have been made pursuant to and in reliance on the provisions of the Private Securities Litigation Reform Act of 1995. These statements include, among others, statements concerning: 
+the above-average industry growth of product and market areas that we have targeted; 
+our plans to increase revenue in a diversified way across regions and through the introduction of new products within our existing product families, as well as in new product categories and families; 
+our mission statement to reduce energy and material consumption to improve all aspects of quality of life and create a sustainable future; 
+the effects of macroeconomic factors, global economic uncertainties, current and potential global conflicts and global tariffs, export controls and retaliatory measures on the semiconductor industry and our business; 
+the effect of changes in laws or economic policies in China or the U.S.; 
+the effect that liquidity of our investments has on our capital resources; 
+the continuing application of our products in the storage and computing, enterprise data, automotive, industrial, communications and consumer end markets; 
+estimates of our future liquidity requirements and the sufficiency of our cash, cash equivalents and short-term investments to operate our business; 
+the cyclical nature of the semiconductor industry; 
+our belief that we may incur significant legal expenses that vary with the level of activity in each of our current or future legal proceedings; 
+expectations regarding protection of our proprietary technology; 
+our business outlook for 2026 and beyond; 
+the factors that we believe will impact our business, operations and financial condition, as well as our ability to achieve revenue growth; 
+the expected percentage of our total revenue from various end markets; 
+our ability to identify, acquire and integrate companies, businesses and products, and achieve the anticipated benefits from such acquisitions and integrations; 
+the expected impact of various U.S. and international tax laws and regulations, including the H.R.1 Act signed into law on July 4, 2025, on our income tax provision, financial position and cash flows; 
+our plan to repatriate cash from our foreign subsidiaries; 
+our ability to fulfill our customers evolving needs, enter new market segments and obtain design wins; 
+our ability to forecast demand accurately and align inventory levels accordingly; 
+our ability to develop and leverage process technologies as key strategic components of our future growth; 
+our expectation to capitalize on the length of product life cycles to reduce manufacturing intensity and related emissions; 
+our ability to recruit and retain application and design engineering personnel; 
+our expectation to continue devoting significant resources to research and development including related increased expenses; 
+our ability to engage additional supply chain partners to support future growth and to leverage a diversified and resilient supply chain to reduce exposure to trade- and tariff-related risks; 
+our intention and ability to execute our stock repurchase program and pay cash dividends and dividend equivalents; 
+the factors that differentiate us from our competitors; 
+our ability to timely and adequately remediate our material weakness; and 
+our restatement of prior financial statements, which may affect investor confidence and raise reputational issues and may subject us to additional risks and uncertainties, including increased professional costs and the increased possibility of legal proceedings and regulatory inquiries. 
+5
+Table of Contents 
+These forward-looking statements generally are identified by the words would, could, may, should, predict, potential, targets, continue, anticipate, expect, intend, plan, believe, seek, estimate, project, forecast, will, and similar expressions. All forward-looking statements are based on our current outlook, expectations, estimates, projections, beliefs and plans or objectives about our business, our industry and the global economy, including our expectations regarding the potential impacts of macroeconomic factors, global economic uncertainties, including tariffs, export controls and retaliatory measures, and geopolitical tensions on the semiconductor industry and our business. These statements are not guarantees of future performance and are subject to significant risks and uncertainties. Actual events or results could differ materially and adversely from those expressed in any such forward-looking statements. Risks and uncertainties that could cause actual results to differ materially include those set forth throughout this Annual Report on Form 10-K including, in particular, in the section entitled Item 1A. Risk Factors. Except as required by law, we disclaim any duty, and undertake no obligation, to update any forward-looking statements, whether as a result of new information relating to existing conditions, future events or otherwise or to release publicly the results of any future revisions we may make to forward-looking statements to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events. Readers are cautioned not to place undue reliance on such statements, which speak only as of the date of this Annual Report on Form 10-K and entail significant risks. Readers should carefully review future reports and documents that we file from time to time with the Securities and Exchange Commission (the SEC ), such as our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. 
+Unless stated otherwise or the context otherwise requires, references to the terms Monolithic Power Systems, MPS, Registrant, the Company, we, us, or our as used herein are references to Monolithic Power Systems, Inc. and its consolidated subsidiaries. 
+6
+Table of Contents 
+PART I 
+Item 1. 
+Business 
+General 
+Monolithic Power Systems, Inc. is a fabless global company that provides high-performance, semiconductor-based power electronics solutions. Incorporated in 1997, our three core strengths include deep system-level knowledge, strong semiconductor design expertise, and innovative proprietary technologies in the areas of semiconductor processes, system integration, and packaging. These combined advantages enable us to deliver reliable, compact, and monolithic solutions found in storage and computing, enterprise data, automotive, industrial, communications and consumer applications. Our mission is to reduce energy and material consumption to improve all aspects of quality of life and create a sustainable future. We believe that we differentiate ourselves by offering solutions that are more highly integrated, smaller in size, more energy-efficient, more accurate and more reliable with respect to performance specifications and, consequently, more cost-effective than many competing solutions. We plan to continue to introduce new products within our existing product families, as well as new, innovative products that expand our market. 
+We have over 4,500 employees worldwide, with various locations in Asia, Europe and the U.S. 
+Industry and Product Overview 
+Semiconductors comprise the basic building blocks of electronic systems and equipment. Within the semiconductor industry, components can be classified either as discrete devices, such as individual transistors, or integrated circuits ( ICs ), in which a number of transistors and other elements are combined to form a more complicated electronic circuit. ICs can be further divided into three primary categories: digital, analog, and mixed-signal. Digital ICs, such as memory devices and microprocessors, can store or perform arithmetic functions on data that is represented by a series of ones and zeroes. Analog ICs, in contrast, handle real world signals such as temperature, pressure, light, sound, or speed. In addition, analog ICs also perform power management functions, such as regulating or converting voltages, for electronic devices. Mixed-signal ICs combine digital and analog functions onto a single chip and play an important role in bridging real world applications to digital systems. 
+We focus on the market for high performance analog and mixed-signal solutions. High performance products generally are differentiated by functionality and performance factors, which include integration of higher levels of functionality into a single chip or module, greater precision, better power efficiency and density, higher speed, and lower heat and noise. There are several key factors that distinguish the analog and mixed-signal IC markets from digital IC markets. These factors include longer product life cycles, numerous market segments, technology that is difficult to replicate, relative complexity of design and process technologies, importance of experienced design engineers, lower capital requirements and diversity of end markets. We have targeted product and market areas that we believe allow us to operate at above-average growth over the long term compared to the semiconductor industry as a whole. 
+End Markets and Applications 
+We design and develop our products for the storage and computing, enterprise data, automotive, communications, consumer, and industrial end markets. Storage and computing was our largest end market in 2025, closely followed by enterprise data. The following table is a summary of the various key end market applications for our products, and those markets contribution as a percentage of our total revenue for the periods presented: 
+Percentage of Total Revenue 
+End Markets 
+Applications 
+2025 
+2024 
+2023 
+Storage and Computing 
+Memory, storage solutions, notebooks, and graphics cards 
+26.3 
+% 
+22.7 
+% 
+27.0 
+% 
+Enterprise Data 
+Cloud-based and on-premises CPU servers and workstations, and artificial intelligence ( AI ) systems 
+25.2 
+% 
+32.5 
+% 
+17.7 
+% 
+Automotive 
+Advanced driver assistance systems, infotainment, USB connectors, body electronics, motion control, and lighting systems 
+21.2 
+% 
+18.8 
+% 
+21.7 
+% 
+Communications 
+Network infrastructure, satellite communications, optical modules, switches, and other wireless solutions 
+11.1 
+% 
+10.2 
+% 
+11.3 
+% 
+Consumer 
+Home appliances, gaming, smart TVs, lighting, monitors, and stereos 
+9.1 
+% 
+9.1 
+% 
+12.9 
+% 
+Industrial 
+Power sources, industrial meters, security, and other industrial equipment 
+7.1 
+% 
+6.7 
+% 
+9.4 
+% 
+7
+Table of Contents 
+Product Families Our proprietary process and packaging technologies enable us to design and deliver smaller, single-chip power management solutions. These technologies simplify the design process and are applicable across a wide range of analog applications within the storage and computing, enterprise data, automotive, communications, consumer, and industrial end markets. 
+Our key product families include, but are not limited to, the Direct Current ( DC ) to DC, Alternating Current ( AC ) to DC, driver metal-oxide-semiconductor field-effect transistor, power management IC, current limit switch and lighting control products. 
+Our product families are differentiated from those of our competitors with respect to their high degree of integration and strong levels of accuracy, power efficiency, quality and longevity, making them cost-effective and more sustainable relative to many competing solutions. For example, DC to DC solutions are used to convert and control voltages within a broad range of electronic systems, such as cloud-based and on-premises CPU servers and workstations, AI systems, memory, storage solutions, notebooks, infotainment, power sources, home appliances, network infrastructure and satellite communications. We believe our DC to DC products are differentiated in the market, particularly with respect to their high degree of integration, high voltage operation, high load current, high switching speed, small footprint, and high energy efficiency. These features are important to our customers as they are designed to result in fewer components that need to be produced and consumed, a smaller form factor, more accurate regulation of voltages, lower power consumption and, ultimately, lower system cost, increased reliability and lower carbon emissions through the elimination of many discrete components and power devices. In the future, we plan to continue to introduce new products within our existing product families, as well as in new innovative product categories. Our ability to achieve revenue growth will depend, in part, upon our ability to continue to innovate while fulfilling our customers evolving needs, enter new market segments, obtain design wins, grow our sales in a diversified way across regions, expand our customer base and continue to secure manufacturing capacity. 
+Customers, Sales and Marketing 
+We have sales offices in various locations in Asia, Europe and the U.S. Our products typically require a highly technical sales and applications engineering effort where we assist our customers in the design and use of our products in their application. We maintain a staff of applications engineers who work directly with our customers engineers in the development of their systems electronics containing our products. 
+Once we secure our product positioning through our technical sales and applications engineering efforts, we then sell our products to end customers primarily through third-party distributors and
+
+## GEOGRAPHIC REVENUE
+ue from wafer testing services performed for third parties, was not significant in any of the periods presented. 
+The Company derives a majority of its revenue from sales to customers located outside North America, with geographic revenue based on the customers ship-to locations. The following is a summary of revenue by geographic region for the periods presented (in thousands): 
+Year Ended December 31, 
+Country or Region 2025 2024 2023 
+China $ 1,544,272 $ 1,178,341 $ 934,768 
+Taiwan 550,110 577,956 307,499 
+South Korea 252,737 167,899 169,867 
+Southeast Asia 148,136 78,765 85,150 
+Europe 113,533 86,899 132,620 
+U.S. 96,744 55,235 97,294 
+Japan 84,443 61,695 93,340 
+Other 484 310 534 
+Total $ 2,790,459 $ 2,207,100 $ 1,821,072 
+The Company sells its products to end customers primarily through third-party distributors and value-added resellers. For the years ended December 31, 2025, 2024 and 2023 , 85 %, 89 % and 86 %, respectively, of the Company s total sales were made through distribution arrangements. These distribution arrangements contain enforceable rights and obligations specific to those distributors and not the end customers. Purchase orders, which are generally governed by sales agreements or the Company s standard terms of sale, set the final terms for unit price, quantity, shipping and payment agreed upon between the Company and the customer. The Company considers purchase orders to be contracts with the customers. The unit price as stated on the purchase orders is considered the observable, stand-alone selling price for the arrangements. 
+The following table summarizes those customers with sales equal to 10% or more of the Company s total revenue for the periods presented: 
+Year Ended December 31, 
+Customer 2025 2024 2023 
+Distributor A 26 % 31 % 26 % 
+Distributor B 18 % 20 % 19 % 
+Distributor C 10 % * 10 % 
+* Represents less than 10%. 
+The Company s agreements with these third-party distributors were made in the ordinary course of business and may be terminated with or without cause by these distributors with advance notice. Although the Company may experience a short-term disruption in the distribution of its products and a short-term decline in r
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customer or a major customer changes their products or technologies or chooses to purchase our competitors products such that they decrease, or eliminate the amount of our products they purchase, and we are not able to replace such customers with additional orders from other customers, this could result in a material adverse impact on our financial condition and results of operations. Significant deterioration in the liquidity or financial condition of any of our major customers or any group of our customers could have a material adverse impact on the collectability of our accounts receivable and our financial condition and operating results. While we could partner with other distributors or value-added resellers to replace any of our customers, the change in business partners could interrupt our operations, require us to identify and qualify new partners, and have a materially adverse impact on our business, financial condition and results of operations. 
+Moreover, we believe a high percentage of our products are eventually sold to a number of original equipment manufacturers ( OEMs ) and original design manufacturers ( ODMs ). Although we communicate with OEMs and ODMs to achieve design wins, which are decisions by OEMs and ODMs to incorporate our products, we do not have purchase commitments from these customers. Therefore, there can be no assurance that the OEMs and ODMs will continue to incorporate our ICs into their products, even if we may have secured a design win with them. OEM and ODM technical specifications and requirements can change rapidly, and we may not have products that fit new specifications from an end customer for whom we have had previous design wins. We cannot be certain that we will continue to achieve design wins from large OEMs and ODMs, or that the OEMs and ODMs will be successful in selling products that incorporate our ICs. 
+Furthermore, we may not be able to maintain or increase sales to our key direct or indirect customers for o
+
+---
+Doc size: 2048KB (capped at 2MB)

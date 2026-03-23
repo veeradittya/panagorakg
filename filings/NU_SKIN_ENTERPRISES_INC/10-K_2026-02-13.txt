@@ -1,0 +1,345 @@
+# NU SKIN ENTERPRISES INC — 10-K Annual Report
+# Filed: 2026-02-13
+# CIK: 1021561
+# SIC: Wholesale-Drugs, Proprietaries & Druggists' Sundries
+# Source: https://www.sec.gov/Archives/edgar/data/1021561/000114036126005130/ef20060638_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+BUSINESS 
+1 
+PRODUCTS 
+1 
+DISTRIBUTION CHANNEL 
+3 
+GEOGRAPHIC REGIONS 
+8 
+REGULATION 
+8 
+COMPETITION 
+14 
+RHYZ COMPANIES 
+15 
+HUMAN CAPITAL RESOURCES 
+15 
+AVAILABLE INFORMATION 
+16 
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS 
+17
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+18 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+45 
+ITEM 1C. 
+CYBERSECURITY 
+46 
+ITEM 2. 
+PROPERTIES 
+46 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+46 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+46 
+PART II 
+47 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+47 
+ITEM 6. 
+RESERVED 
+48 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+49 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+64 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+66 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+103 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+103 
+ITEM 9B. 
+OTHER INFORMATION 
+103 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+103 
+PART III 
+104 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+104 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+104 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+104 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+104 
+ITEM 14. 
+PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+104 
+PART IV 
+104 
+ITEM 15. 
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+104 
+ITEM 16. 
+FORM 10-K SUMMARY 
+106 
+SIGNATURES 
+107 
+Table of Contents 
+FORWARD-LOOKING STATEMENTS 
+THIS ANNUAL REPORT ON FORM 10-K, IN PARTICULAR ITEM 1. BUSINESS AND ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS, CONTAINS FORWARD-LOOKING STATEMENTS WITHIN THE MEANING OF SECTION 27A OF THE SECURITIES ACT OF 1933, AS AMENDED, AND SECTION 21E OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED, THAT REPRESENT OUR
+CURRENT EXPECTATIONS AND BELIEFS. ALL STATEMENTS OTHER THAN STATEMENTS OF HISTORICAL FACT ARE FORWARD-LOOKING STATEMENTS FOR PURPOSES OF FEDERAL AND STATE SECURITIES LAWS AND INCLUDE, BUT ARE NOT LIMITED TO, STATEMENTS OF MANAGEMENT S
+EXPECTATIONS REGARDING OUR PERFORMANCE, INITIATIVES, STRATEGIES, PRODUCTS, INGREDIENTS, PRODUCT INTRODUCTIONS AND OFFERINGS, PRODUCT SOURCING, GROWTH, ACQUISITIONS AND THE INTEGRATION AND PERFORMANCE OF ACQUIRED COMPANIES , DIVESTITURES AND PRODUCT PORTFOLIO OPTIMIZATION , GROWTH OF OUR RHYZ BUSINESSES, GLOBAL ECONOMIC CONDITIONS, OPPORTUNITIES AND RISKS; STATEMENTS OF PROJECTIONS
+REGARDING FUTURE SALES, EXPENSES, OPERATING RESULTS, TAXES AND DUTIES, CAPITAL EXPENDITURES, SOURCES AND USES OF CASH, FOREIGN-CURRENCY FLUCTUATIONS OR DEVALUATIONS, REPATRIATION OF UNDISTRIBUTED EARNINGS, AND OTHER FINANCIAL ITEMS;
+STATEMENTS OF MANAGEMENT S EXPECTATIONS, PLANS AND BELIEFS REGARDING GLOBAL ECONOMIC CONDITIONS AND OUR MARKETS (INCLUDING INDIA), SALES FORCE, SALES COMPENSATION PLAN AND CUSTOMER BASE; STATEMENTS REGARDING THE PAYMENT OF FUTURE DIVIDENDS
+AND STOCK REPURCHASES; STATEMENTS REGARDING THE OUTCOME OF LITIGATION, AUDITS, INVESTIGATIONS OR OTHER LEGAL OR REGULATORY MATTERS; STATEMENTS REGARDING GOVERNMENT POLICIES AND REGULATIONS RELATING TO OUR INDUSTRY, INCLUDING GOVERNMENT
+POLICIES AND REGULATIONS IN OR RELATED TO THE UNITED STATES AND MAINLAND CHINA; STATEMENTS REGARDING TARIFFS AND TRADE POLICIES; ACCOUNTING ESTIMATES AND ASSUMPTIONS; STATEMENTS OF BELIEF; AND STATEMENTS OF ASSUMPTIONS UNDERLYING ANY OF THE
+FOREGOING. IN SOME CASES, YOU CAN IDENTIFY THESE STATEMENTS BY FORWARD-LOOKING WORDS SUCH AS BELIEVE, EXPECT, PROJECT, ANTICIPATE, DETERMINE, ESTIMATE, COMMIT, INTEND, PLAN, GOAL, OBJECTIVE, TARGETS, BECOME, 
+LIKELY, WILL, WOULD, COULD, MAY, MIGHT, THE NEGATIVE OF THESE WORDS AND OTHER SIMILAR WORDS. WE UNDERTAKE NO OBLIGATION TO PUBLICLY UPDATE OR REVISE ANY FORWARD-LOOKING STATEMENT, WHETHER AS A RESULT OF NEW INFORMATION, FUTURE
+EVENTS OR OTHERWISE, EXCEPT AS REQUIRED BY LAW. WE CAUTION AND ADVISE READERS THAT THESE STATEMENTS ARE BASED ON ASSUMPTIONS THAT MAY NOT BE REALIZED AND INVOLVE IMPORTANT RISKS AND UNCERTAINTIES THAT COULD CAUSE ACTUAL RESULTS TO DIFFER
+MATERIALLY FROM THE EXPECTATIONS AND BELIEFS CONTAINED HEREIN. FOR A SUMMARY OF THESE RISKS, SEE ITEM 1A. RISK FACTORS. 
+In this Annual Report on Form 10-K, references to dollars and $ are to U.S. dollars. 
+Nu Skin, Pharmanex and ageLOC are our trademarks. The italicized product names used in this Annual Report on Form 10-K are product names and also, in certain cases, our
+trademarks. 
+Table of Contents 
+PART I 
+ITEM 1. 
+BUSINESS 
+Nu Skin Enterprises, Inc. develops and distributes a comprehensive line of premium-quality beauty and wellness solutions in nearly 50 markets worldwide. In 2025, our revenue of
+$1.5 billion was primarily generated by our two primary product categories: beauty products and wellness products. We operate in the direct selling channel, primarily utilizing person-to-person
+marketing to promote and sell our products, including through the use of social and digital platforms. 
+In addition to our core Nu Skin business, we also explore new areas of
+synergistic and adjacent growth through our strategic investment arm known as Rhyz Inc., which we formed in 2018. Our Rhyz businesses primarily consist of consumer, technology and manufacturing companies. In 2025, the Rhyz companies generated
+$223.6 million, or 15%, of our 2025 reported revenue (excluding sales to our core Nu Skin business). As discussed further in Rhyz Companies, below, in January 2025 we sold one of our Rhyz businesses that accounted for $69.6 million of our
+2024 reported revenue. Our Rhyz companies enable us to optimize our cost of goods, improve lead times, diversify our revenue mix, and create synergies for our brands. 
+In 2025, we generated approximately 26% of our revenue from the
+United States (consisting of our Nu Skin United States and Rhyz businesses) and the remainder from our international markets. Given the size of our international operations, our results, as reported in U.S. dollars, are often impacted by
+foreign-currency fluctuations; in 2025, our revenue was negatively impacted 0.8% from foreign-currency fluctuations compared to 2024. Our results also can be impacted by global economic, political, demographic and business trends and
+conditions. 
+Our operations are subject to various laws and regulations globally, particularly with respect to our product categories and our distribution channel. See Item 1A. Risk Factors for a more
+detailed description of the risks associated with our business. 
+PRODUCTS 
+We offer a branded, award-winning and differentiated product portfolio. We believe our innovative approach to product development, clinical substantiation and distribution provides us with a
+competitive advantage in beauty and wellness products and direct selling. We believe that our acquired and licensed technologies, manufacturing and innovation facilities, research collaborations and in-house research expertise enable us to
+introduce innovative, proprietary products. We seek to offer products that are demonstrable and well suited for social sharing. Sustainability is also an important part of our product strategy; we take sustainability into account as we
+formulate our products, and we have an ongoing initiative to innovate our packaging so it is recycled, recyclable, reusable, reduced or renewable. 
+During the past several years, we have generated success in our business with innovative beauty devices. Devices are an important part of our strategy. We launched our first
+connected beauty device, ageLOC LumiSpa iO , in the second half of 2022 and continuing into 2023. In the second half of 2023 and
+continuing into 2024, we launched ageLOC WellSpa iO (not sold in the United States), a connected device focused on holistic wellness and
+beauty, as well as a similar, FDA-cleared device, Nu Skin RenuSpa iO , in the United States. Most recently, i n the fourth quarter
+of 2025, we commenced a limited preview of our next-generation device, Prysm iO . Prysm iO is a data-enabled wellness device designed to assess key nutritional
+indicators and translate those insights into personalized supplement and product recommendations. This preview was designed to introduce key leaders and affiliates to the device s capabilities ahead of a broader commercial rollout in 2026. When connected to our mobile application, our connected devices gather data to provide varying levels of insights into consumer behavior, with the goal of enabling us to provide more personalized experiences for
+our consumers. Please refer to Distribution Channel below for additional information about our connected devices and our business strategy that they fit into. 
+In addition to our devices, in 2025, we introduced a refreshed ageLOC Tru Face product line, enhancing our dermaceutical positioning and strengthening our portfolio of
+anti-aging skincare solutions. 
+Product Categories 
+We have two primary product categories: beauty products and wellness products. We develop and distribute innovative, premium-quality products in these two categories under our legacy Nu Skin
+and Pharmanex brands, respectively, as well as other brands, including our Nutricentials beauty brand and our Beauty Focus wellness brand. We also develop and distribute products under our ageLOC brand, which features innovative,
+premium-quality anti-aging products in both the beauty and wellness categories and in many cases is co-branded with our other beauty and wellness brands. Most of our innovative devices are ageLOC beauty products; however, Prysm iO is a wellness device, and ageLOC WellSpa iO and Nu Skin RenuSpa iO span both the beauty and wellness categories. 
+1 
+Table of Contents 
+Presented below are the U.S. dollar amounts and associated revenue percentages from the sale of beauty and wellness products, as well as our Rhyz companies, for the last three years. This
+table should be read in conjunction with the information presented in Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations, which discusses the factors impacting revenue trends and the costs associated
+with generating the aggregate revenue presented. 
+Revenue by Product Category 
+(U.S. dollars in millions) 
+Year Ended December 31, 
+Product Category 
+2025 
+2024 
+2023 
+Beauty (1) 
+$ 
+568.1 
+38.3 
+% 
+$ 
+681.8 
+39.4 
+% 
+$ 
+858.6 
+43.6 
+% 
+Wellness (1) 
+689.1 
+46.4 
+% 
+757.2 
+43.7 
+% 
+886.1 
+45.0 
+% 
+Other (2) 
+228.0 
+15.3 
+% 
+293.1 
+16.9 
+% 
+224.4 
+11.4 
+% 
+$ 
+1,485.2 
+100.0 
+% 
+$ 
+1,732.1 
+100.0 
+% 
+$ 
+1,969.1 
+100.0 
+% 
+(1) 
+Includes sales of beauty and wellness products in our core Nu Skin business. This includes $216 million, $268 million, and $342 million in sales of devices and related consumables for the years ended
+December 31, 2025, 2024 and 2023, respectively. For purposes of this table, sales of Prysm iO are included in the wellness category and all other devices, including ageLOC WellSpa iO and Nu Skin RenuSpa iO, are included in the beauty category. 
+(2) 
+Other includes the external revenue from our Rhyz companies along with a limited number of other products and services, including household products and technology services. 
+Beauty Products. Our strategy for our beauty products category is to leverage our distribution channel to strengthen Nu Skin s position as
+an innovative leader in the masstige and premium beauty markets. Our products in this category include innovative skin care devices, cosmetics and other personal care products. We are committed to continuously improving and evolving our product
+formulations to develop and incorporate innovative and proven ingredients. We formulate many of the products in our beauty category with ingredients that are scientifically proven to provide visible results. In 2025, our top-selling product lines
+by revenue in this category were ageLOC TruFace and our ageLOC LumiSpa cleansers and devices. Our ageLOC beauty products accounted for 40% of our beauty product
+category revenue and 15% of our total revenue in 2025. 
+Wellness Products. Our strategy for our wellness category is to continue to introduce innovative, substantiated nutritional supplements
+based on research and development and quality manufacturing. Direct selling has proven to be an effective method of marketing our high-quality wellness products because our sales force can personally educate consumers on the quality and
+benefits of our products, differentiating them from our competitors offerings. In 2025, our top-selling product lines by revenue in this category were ageLOC TRME , LifePak 
+and Beauty Focus . Our ageLOC wellness products accounted for 41% of our wellness product category revenue and 19% of our total revenue in 2025. 
+Product Development 
+We are committed to developing and marketing innovative products to help drive our business engine, and we tailor product development activities to provide products with
+compelling selling aspects, such as claims and efficacy endpoints. We have several products in development, including next-generation skin care products, nutritional supplements and devices. In our research and product development, we leverage
+the three disciplines of science, technology and sourcing to create innovative products that address consumer needs. 
+Our research and product development activities include: 
+Global consumer research to identify needs and insights and refine product concepts; 
+Internal research, product development, clinical validation, regulatory due diligence and quality testing; 
+Joint research projects, collaborations and clinical studies; 
+Identification and assessment of technologies for potential licensing arrangements; and 
+Integration of digital technologies, including artificial intelligence, to enhance product development and consumer experiences. 
+We maintain research and product development facilities in the United States and Mainland China. We also contract with third parties for clinical studies and collaborate on basic research
+projects with researchers from universities and other research institutions in the United States, Europe and Asia, whose staffs include scientists with basic research expertise in, among others, natural product chemistry, biochemistry,
+dermatology, nutrition, pharmacology and clinical studies. 
+2 
+Table of Contents 
+We also work to identify and assess innovative technologies developed by third parties for potential licensing, supply or acquisition arrangements. Because of the nature of our distribution
+channel, which allows us to provide a high level of product information on a person-to-person basis, we often have third parties who are interested in licensing innovative technologies to us to incorporate into our products and commercialize
+through our distribution channel. Licensing arrangements allow us to leverage the research activities of third parties that have provided demonstrated technologies, clinical support and/or proprietary innovation, without all of the upfront costs
+and uncertainty associated with internal development. We have also invested in acquisitions to supplemen
+
+## GEOGRAPHIC REVENUE
+companies enable us to optimize our cost of goods, improve lead times, diversify our revenue mix, and create synergies for our brands. 
+In 2025, we generated approximately 26% of our revenue from the
+United States (consisting of our Nu Skin United States and Rhyz businesses) and the remainder from our international markets. Given the size of our international operations, our results, as reported in U.S. dollars, are often impacted by
+foreign-currency fluctuations; in 2025, our revenue was negatively impacted 0.8% from foreign-currency fluctuations compared to 2024. Our results also can be impacted by global economic, political, demographic and business trends and
+conditions. 
+Our operations are subject to various laws and regulations globally, particularly with respect to our product categories and our distribution channel. See Item 1A. Risk Factors for a more
+detailed description of the risks associated with our business. 
+PRODUCTS 
+We offer a branded, award-winning and differentiated product portfolio. We believe our innovative approach to product development, clinical substantiation and distribution provides us with a
+competitive advantage in beauty and wellness products and direct selling. We believe that our acquired and licensed technologies, manufacturing and innovation facilities, research collaborations and in-house research expertise enable us to
+introduce innovative, proprietary products. We seek to offer products that are demonstrable and well suited for social sharing. Sustainability is also an important part of our product strategy; we take sustainability into account as we
+formulate our products, and we have an ongoing initiative to innovate our packaging so it is recycled, recyclable, reusable, reduced or renewable. 
+During the past several years, we have generated success in our business with innovative beauty devices. Devices are an important part of our strategy. We launched our first
+connected beauty device, ageLOC LumiSpa iO , in the second half of 2022 and continuing into 2023. In the second half of 2023 and
+continuing into 2024, we launched ageLOC WellSpa iO (not sold in the United States), a connected device focused on holistic wellness a
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the Registrant s outstanding voting stock (other than institutional investors, such as registered investment companies, eligible to file beneficial
+ownership reports on Schedule 13G), have been deemed, solely for the purpose of the foregoing calculation, to be affiliates of the Registrant. 
+As of January 31, 2026, 48,126,825 shares of the
+Registrant s Class A common stock, $.001 par value per share, and no shares of the Registrant s Class B common stock, $.001 par value per share, were outstanding. 
+Documents incorporated by reference . Portions of the Registrant s Definitive
+Proxy Statement for the Registrant s 2026 Annual Meeting of Stockholders are incorporated by reference in Part III of this report. The Definitive Proxy Statement or an amendment to this Form 10-K will be filed with the Securities and Exchange
+Commission within 120 days after the Registrant s fiscal year end. 
+TABLE OF CONTENTS 
+Page 
+PART I 
+1 
+ITEM 1. 
+BUSINESS 
+1 
+PRODUCTS 
+1 
+DISTRIBUTION CHANNEL 
+3 
+GEOGRAPHIC REGIONS 
+8 
+REGULATION 
+8 
+COMPETITION 
+14 
+RHYZ COMPANIES 
+15 
+HUMAN CAPITAL RESOURCES 
+15 
+AVAILABLE INFORMATION 
+16 
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS 
+17 
+ITEM 1A. 
+RISK FACTORS 
+18 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+45 
+ITEM 1C. 
+CYBERSECURITY 
+46 
+ITEM 2. 
+PROPERTIES 
+46 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+46 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+46 
+PART II 
+47 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+47 
+ITEM 6. 
+RESERVED 
+48 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+49 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+64 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+66 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+103 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+103 
+ITEM 9B. 
+OTHER INFORMATION 
+103 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT IN
+
+---
+Doc size: 2048KB (capped at 2MB)

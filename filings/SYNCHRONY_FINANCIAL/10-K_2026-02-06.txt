@@ -1,0 +1,14 @@
+# SYNCHRONY FINANCIAL — 10-K Annual Report
+# Filed: 2026-02-06
+# CIK: 1601712
+# SIC: Finance Services
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1601712/000160171226000006/syf-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+Summary 58 Risk Factors Relating To Our Business 60 Risk Management 80 Cybersecurity 86 REGULATION 88 Regulation Relating to Our Business 88 Risk Factors Relating to Regulation 97 CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 103 Report of Independent Registered Public Accounting Firm 103 Index to Consolidated Financial Statements 106 Consolidated Financial Statements 107 Notes to Consolidated Financial Statements 112 Controls and Procedures 151 OTHER KEY INFORMATION 152
+
+## GEOGRAPHIC REVENUE
+(Not available)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

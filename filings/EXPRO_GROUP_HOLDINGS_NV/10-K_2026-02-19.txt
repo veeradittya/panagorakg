@@ -1,0 +1,248 @@
+# EXPRO GROUP HOLDINGS NV — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 1575828
+# SIC: Oil & Gas Field Services, NEC
+# Source: https://www.sec.gov/Archives/edgar/data/1575828/000143774926004727/xpro20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+11 
+Item 1B. 
+Unresolved Staff Comments 
+23 
+Item 1C. 
+Cybersecurity 
+23 
+Item 2. 
+Properties 
+24 
+Item 3. 
+Legal Proceedings 
+24 
+Item 4. 
+Mine Safety Disclosures 
+24 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+25 
+Item 6. 
+Reserved 
+26 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+28 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+43 
+Item 8. 
+Financial Statements and Supplementary Data 
+44 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+93 
+Item 9A. 
+Controls and Procedures 
+93 
+Item 9B. 
+Other Information 
+93 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+93 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+94 
+Item 11. 
+Executive Compensation 
+94 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+94 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+94 
+Item 14. 
+Principal Accounting Fees and Services 
+94 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+95 
+Item 16. 
+Form 10 K Summary 
+97 
+Signatures 
+98 
+2
+Table of Contents 
+PART I 
+Item 1. Business 
+General 
+Expro Group Holdings N.V. is a Netherlands limited liability company (Naamloze Vennootschap) and includes the activities of its wholly owned subsidiaries (either individually or together, as context requires, "Expro," the Company, we, us and our ). 
+Our Operations 
+Working for clients across the entire well life cycle, we are a leading provider of energy services, offering cost-effective, innovative solutions and what we consider to be best-in-class safety and service quality. With roots dating to 1938, we have approximately 8,500 employees and provide services and solutions to leading exploration and production companies in both onshore and offshore environments in over 50 countries. Our extensive portfolio of capabilities spans well construction, well flow management, subsea well access, and well intervention and integrity solutions. 
+Description of Business Segments 
+Our operations are comprised of four operating segments which also represent our reporting segments and are aligned with our geographic regions as follows: 
+North and Latin America ( NLA ), 
+Europe and Sub-Saharan Africa ( ESSA ), 
+Middle East and North Africa ( MENA ), and 
+Asia-Pacific ( APAC ) . 
+The table below shows our consolidated revenue and each segment s revenue and percentage of consolidated revenue for the periods indicated (revenue in thousands): 
+Year Ended 
+Percentage 
+(in thousands) 
+December 31, 2025 
+December 31, 2024 
+December 31, 2023 
+December 31, 2025 
+December 31, 2024 
+December 31, 2023 
+NLA 
+$ 
+558,033 
+$ 
+566,048 
+$ 
+511,800 
+34.7 
+% 
+33.0 
+% 
+33.8 
+% 
+ESSA 
+486,900 
+564,440 
+520,951 
+30.3 
+% 
+33.0 
+% 
+34.4 
+% 
+MENA 
+363,616 
+332,216 
+233,528 
+22.6 
+% 
+19.4 
+% 
+15.4 
+% 
+APAC 
+198,546 
+250,098 
+246,485 
+12.4 
+% 
+14.6 
+% 
+16.3 
+% 
+Total revenue 
+$ 
+1,607,095 
+$ 
+1,712,802 
+$ 
+1,512,764 
+100.0 
+% 
+100.0 
+% 
+100.0 
+% 
+3
+Table of Contents 
+Our broad portfolio of products and services includes: 
+Well Construction 
+Our well construction products and services support customers new wellbore drilling, wellbore completion and recompletion, and wellbore plug and abandonment requirements. We offer advanced technology solutions in tubular running services, tubular products, cementing, drilling and wellbore cleanup. With a focus on innovation, we are continuing to advance the way wells are constructed by optimizing process efficiency on the rig floor, developing new methods to handle and install tubulars, and mitigating well integrity risks. We believe we are a market leader in deepwater tubular running services and solutions. In recent years, we have added a range of lower-risk, open water cementing solutions. We also offer a range of performance drilling tools designed to mitigate risk and optimize drilling efficiency, including proprietary downhole circulation tools and hydraulic pipe recovery systems. 
+Well Management 
+Our well management offerings consist of well flow management, subsea well access and well intervention and integrity services. 
+Well flow management: We gather valuable well and reservoir data, with a particular focus on well-site safety and environmental impact. We provide global, comprehensive well flow management systems for the safe production, measurement and sampling of hydrocarbons from a well, including well testing during the exploration and appraisal phase of a new field; flowback and clean-up of a new well prior to production; and in-line testing of a well during its production life. We also provide early production facilities to accelerate production; production enhancement packages to enhance reservoir recovery rates through the realization of production that was previously locked within the reservoir; flare reduction and other emissions management solutions; and metering and other well surveillance technologies to monitor and measure flow and other characteristics of wells. 
+Subsea well access: With nearly 50 years of experience providing a wide range of fit-for-purpose subsea well access solutions, our technology aims to provide safe well access and optimized production throughout the lifecycle of the well. We provide what we believe to be the most reliable, efficient and cost-effective subsea well access systems for exploration and appraisal, development, intervention and abandonment, including an extensive portfolio of standard and bespoke Subsea Test Tree Assemblies ( SSTTA ) and a range motion-compensating and other surface handling equipment. We also provide services and solutions through a rig-deployed Intervention Riser System ( IRS ) utilizing rigs owned by a third party and have capabilities for vessel-deployed services. In addition, we provide systems integration and project management services. 
+Well intervention and integrity: We provide well intervention solutions to acquire and interpret well data, maintain and restore well bore integrity and improve production. In addition to our extensive fleet of mechanical and cased hole wireline units, we have recently introduced and acquired a number of cost-effective, innovative well intervention services, including CoilHose , a lightweight, small-footprint solution for wellbore lifting, cleaning and chemical treatments; Octopoda , for fluid treatments in wellbore annuli; Galea , an autonomous well intervention solution; and expandable casing patches designed to repair damaged production casing or isolate existing perforations prior to refracturing a well (a so called patch and perf ). We also possess several other distinct technical capabilities, including fiber optic-enabled data acquisition and interpretation services, non-intrusive metering technologies and wireless telemetry systems for reservoir monitoring. 
+Corporate Strategy 
+Our corporate strategy is designed to leverage existing capabilities and position Expro as a solutions provider with a technologically differentiated offering. Our objectives for 2026, which we expect will drive our performance in the year ahead, are organized around three themes: relevancy, resilience and results. In particular, we seek to (i) exceed industry expectations in regard to safety and operational performance; (ii) advance our products and services portfolio to provide customers with cost-effective, innovative solutions to produce oil, gas and geothermal resources more efficiently and with a lower carbon footprint; (iii) sustain our relentless drive for efficiency and better utilize existing assets; (iv) nurture our culture based on core values and agreed behaviors, empowering our people to be purposeful, adaptive, tough, and tireless; and (v) leverage the power of data to improve our own business practices and to deliver more value to our customers. We are committed to delivering above-market revenue growth, strong profitability and sustained generation of free cash flow. We believe improved business results require clear goals, an organizational commitment to continuous, systematic improvements, and top-to-bottom accountability. 
+4
+Table of Contents 
+Human Capital 
+At Expro, people are at the heart of our success, and we are united by our Code of Conduct ( Code of Conduct ) and our core values: People, Performance, Partnerships and Planet. We are committed to living our values through corporate responsibility efforts that help people across the globe live better lives and build sustainable, vibrant, stable communities where highly motivated people can engineer futures. We strive to consistently improve the ways in which we work to keep our employees safe, minimize our impact on the environment and to provide for robust and transparent governance. 
+As of December 31, 2025, we had approximately 8,500 employees worldwide. We are a party to collective bargaining agreements or other similar arrangements in certain international areas in which we operate. As of December 31, 2025, approximately 20% of our employees were subject to collective bargaining agreements, with 10% being under agreements that expire within one year. We consider our relations with our employees to be positive. In the United States of America ( U.S. ), where approximately 13% of our employees are located, most employees are at-will employees and, therefore, not subject to any type of employment contract or agreement. Outside the U.S., we enter into employment contracts and agreements in those countries in which such relationships are mandatory or customary. Based upon the geographic diversification of our employees, we believe any risk of loss from employee strikes or other collective actions would not be material to the conduct of our operations taken as a whole. 
+Diversity and Inclusion 
+At Expro, we strive to be a safe, diverse, inclusive and people-focused company that rewards ability and effort, and positively impacts local communities and society. Most people recognize the importance of diversity at work and the benefits it can bring to an organization and its people. However, diversity is only half of the story. The other half is inclusion: building a work environment in which people feel valued for who they are, bringing their whole selves to work, and contributing fully. In an inclusive work environment, people with different backgrounds, religious beliefs, sexual orientations, ethnicity and other differences feel like they belong. 
+We are committed to the equal treatment of all employees, job applicants and associated personnel regardless of race, color, nationality, ethnic or nation originals, sex, disability, age, religion, or any other factors prohibited by law. We aim to create a work environment free of harassment and bullying, where everyone is treated with dignity and respect. 
+Diversity and inclusiveness are important to our current and future success by providing varied experiences, ideas and insights to inform decisions, identify new approaches, and solve business challenges. Our goal is to put the right people forward to do the right work for the right customers, in the right places, attracting, retaining and nurturing a talented and diverse workforce to turn our growth ambitions into reality. 
+Employee Learning and Development 
+We demonstrate our commitment to our values through our employee development initiatives. We invest in our people through learning and development programs that reinforce and update existing skill sets, and which develop employees competencies into new and complementary areas of expertise. Employees are empowered to drive their career progression through various learning platforms to facilitate achievement and career progression. A key tenet of our development is our strong performance management culture that enables and informs development plans and succession planning. 
+We also actively solicit employee feedback and constantly strive to make the Company an employer of choice, one such program being the 2024 Global Employee Survey which was carried out to understand and act upon areas where we can positively influence and develop Expro s culture. We empower employees with an ownership mindset that encourages accountability and creativity, leading to new and better solutions. 
+Compensation and Benefits 
+We offer opportunities for a challenging career in an energetic and friendly work environment. Providing our workforce with a career path, training, fair pay, and challenging, rewarding work are key tenets of our success. Our benefit packages are tailored to the local market of operation and are designed to attract and retain the best talent in the industry. 
+5
+Table of Contents 
+Employee Health and Wellbeing 
+The health and wellbeing of our people is, and will continue to be, a priority at Expro. We appreciate that emotional wellbeing can affect how individuals face life every day and acknowledge that anyone can suffer from poor mental or physical health at any time. As leaders, we understand the need to recognize when an individual needs help and we encourage all managers and employees to be approachable in providing time, support and mentorship. 
+We are committed to safeguarding our employees health and wellbeing and to providing encouragement to our teams to build supportive networks and a collaborative culture across our organization. An example of the programs we have put into place is our employee-driven regional online wellness hubs, which promote employee and cross-company participation in health and wellbeing initiatives. 
+In addition, we also offer 24/7 online support through resources within Expro s Employee Assistance Program ( EAP ), which provides health and wellbeing support and advice globally. The EAP covers a wide range of subjects for employees and their families, delivered across multiple channels and languages. 
+Corporate Social Responsibility / Community Involvement 
+Across our global operations, we encourage and celebrate participation in diverse community activities which align with our values of People, Performance, Partnerships and Planet. From tree planting to supporting those less fortunate, we are proud of the work our teams continue to put back into our communities. Our company-wide social steering committee helps to champion our social efforts. This team acts as a conduit for the broader employee community to gain input and perspective to ultimately support in enhancing our culture. 
+Safety 
+Safety is a critical component of our People and Performance core values. Many of our customers have safety standards we must satisfy before we can perform our services. We continually monitor and seek to improve our safety performance through the evaluation of safety observations, job and customer surveys, and safety data. The primary
+
+## GEOGRAPHIC REVENUE
+2024-12-31 
+0001575828 us-gaap:UnbilledRevenuesMember 2025-12-31 
+0001575828 us-gaap:UnbilledRevenuesMember 2024-12-31 
+0001575828 us-gaap:OtherCurrentLiabilitiesMember 2025-12-31 
+0001575828 us-gaap:DomesticCountryMember xpro:DutchTaxAndCustomsAdministrationMember 2025-01-01 2025-12-31 
+0001575828 us-gaap:DomesticCountryMember xpro:DutchTaxAndCustomsAdministrationMember 2024-01-01 2024-12-31 
+0001575828 country:AU 2025-01-01 2025-12-31 
+0001575828 country:AR 2025-01-01 2025-12-31 
+0001575828 country:BR 2025-01-01 2025-12-31 
+0001575828 country:GY 2025-01-01 2025-12-31 
+0001575828 country:NO 2025-01-01 2025-12-31 
+0001575828 country:US 2025-01-01 2025-12-31 
+0001575828 xpro:OtherGeographicalAreasMember 2025-01-01 2025-12-31 
+0001575828 us-gaap:DomesticCountryMember us-gaap:InternalRevenueServiceIRSMember 2025-12-31 
+0001575828 us-gaap:OtherNoncurrentLiabilitiesMember 2025-12-31 
+0001575828 us-gaap:OtherNoncurrentLiabilitiesMember 2024-12-31 
+0001575828 xpro:CETSMember 2025-12-31 
+0001575828 xpro:PVDExproMember 2025-12-31 
+0001575828 xpro:CETSMember 2024-12-31 
+0001575828 xpro:PVDExproMember 2024-12-31 
+0001575828 us-gaap:LandMember 2025-12-31 
+0001575828 us-gaap:LandMember 2024-12-31 
+0001575828 us-gaap:LandImprovementsMember 2024-12-31 
+0001575828 xpro:BuildingsAndLeaseholdImprovementMember 2025-12-31 
+0001575828 xpro:BuildingsAndLeaseholdImprovementMember 2024-12-31 
+0001575828 xpro:PlantAndEquipmentMember 2025-12-31 
+0001575828 xpro:PlantAndEquipmentMember 2024-12-31 
+0001575828 us-gaap:BuildingMember 2025-12-31 
+0001575828 us-gaap:BuildingMember 2024-12-31 
+0001575828 xpro:PropertyPlantAndEquipmentIncludingAssetsUnderFinanceLeasesMember 2025-01-01 2025-12-31 
+0001575828 xpro:PropertyPlantAndEquipmentIncludingAssetsUnderFinanceLeasesMember 2024-01-01 2024-12-31 
+0001575828 xpro:PropertyPlantAndEquipmentIncludingAssetsUnderFinanceLeasesMember 2023-01-01 2023-12-31 
+0001575828 us-gaap:BuildingMember 2025-01-01 2025-12-31 
+0001575828 us-gaap:BuildingMember 2024-01-01 2024-12-31 
+0001575828 us-gaap:BuildingMember 2023-01-01 2023-12-31 
+0001575828 us-gaap:CustomerRelationshipsMember 2025-12-31 
+0001575828 us-gaap:CustomerRelationshipsMember 2024-12-31 
+0001575828
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer experiences liquidity constraints or other financial difficulties, it may be unable to make the payments required to us or may seek to renegotiate contracts, which could adversely affect our liquidity and profitability. 
+We are subject to the risk of supplier concentration. 
+Certain of our product lines depend on a limited number of third party suppliers. As a result of this concentration in some of our supply chains, our business and operations have been and may in the future be negatively affected if our key suppliers were to experience significant disruptions affecting the price, quality, availability or timely delivery of their products. The partial or complete loss of any one of our key suppliers, or a significant adverse change in the relationship with any of these suppliers, through consolidation or otherwise, would limit our ability to manufacture or sell certain of our products and could have a material adverse effect on our business, financial condition and results of operations. 
+Seasonal and weather conditions, as well as natural disasters, could adversely affect demand for our services and products and could result in severe property damage or materially and adversely disrupt our operations. 
+Weather can have a significant impact on demand as consumption of energy is seasonal, and any variation from normal weather patterns, such as cooler or warmer summers and winters, can have a significant impact on demand. Adverse weather conditions, such as hurricanes and ocean currents in the U.S. Gulf of Mexico or typhoons in the Asia Pacific region, may interrupt or curtail our operations or our customers operations, cause supply disruptions and result in a loss of revenue and damage to our equipment and facilities, which may or may not be insured. In addition, acute or chronic physical impacts of climate change, such as sea level rise, coastal storm surge, inland flooding from intense rainfall and hurricane-strength winds may damage our faci
+
+---
+Doc size: 2048KB (capped at 2MB)

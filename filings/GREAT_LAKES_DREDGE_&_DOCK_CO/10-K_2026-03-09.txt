@@ -1,0 +1,20 @@
+# GREAT LAKES DREDGE & DOCK CO — 10-K Annual Report
+# Filed: 2026-03-09
+# CIK: 1372020
+# SIC: Heavy Construction Other Than Bldg Const - Contractors
+# Source: https://www.sec.gov/Archives/edgar/data/1372020/000119312526097043/gldd-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+(Not extracted)
+
+## GEOGRAPHIC REVENUE
+372020 gldd:AssetBasedRevolvingCreditFacilityMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember gldd:MarginAdvancesFacilityTwoMember 2024-07-01 2024-09-30 0001372020 us-gaap:DomesticCountryMember 2025-12-31 0001372020 us-gaap:AdditionalPaidInCapitalMember 2025-01-01 2025-12-31 0001372020 2026-02-13 0001372020 us-gaap:OperatingSegmentsMember us-gaap:MaintenanceMember gldd:TypeOfWorkMember 2025-01-01 2025-12-31 0001372020 us-gaap:OperatingSegmentsMember gldd:OffshoreEnergyMember gldd:TypeOfCustomerMember 2023-01-01 2023-12-31 0001372020 us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember gldd:FuelHedgeContractsMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2025-01-01 2025-12-31 0001372020 2023-11-01 2023-11-01 0001372020 srt:MinimumMember 2025-12-31 0001372020 gldd:FuelHedgeContractsMember 2025-01-01 2025-12-31 0001372020 gldd:AssetBasedRevolvingCreditFacilityMember gldd:MarginAdvancesFacilityThreeMember srt:MinimumMember 2024-07-01 2024-09-30 0001372020 us-gaap:OtherNoncurrentAssetsMember 2025-12-31 0001372020 us-gaap:FairValueInputsLevel2Member 2025-12-31 0001372020 us-gaap:InterestRateSwapMember 2025-01-01 2025-12-31 0001372020 gldd:PrivateMember us-gaap:OperatingSegmentsMember gldd:TypeOfCustomerMember 2023-01-01 2023-12-31 0001372020 gldd:ABLThirdAmendmentMember 2025-10-24 2025-10-24 0001372020 gldd:ForeignCurrencyExchangeHedgeContractsMember 2024-01-01 2024-12-31 0001372020 gldd:AssetBasedRevolvingCreditFacilityMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2024-04-24 2024-04-24 0001372020 us-gaap:ConstructionInProgressMember 2025-12-31 0001372020 us-gaap:FairValueInputsLevel2Member gldd:FuelHedgeContractsMember 2024-12-31 0001372020 us-gaap:ValuationAllowanceOfDeferredTaxAssetsMember 2023-01-01 2023-12-31 0001372020 gldd:AssetBasedRevolvingCreditFacilityMember 2025-01-01 2025-12-31 0001372020 us-gaap:OperatingSegmentsMember gldd:TypeOfCustomerMember 2025-01-01 2025-12-31 0001372020 us-gaap:MeasurementInputEbitdaMultipleMember 2024-01-01 2024-12-31 0001372020 us-gaap:OperatingSegmentsMember gldd:TypeOfWorkMember 2025-01-01 2025-12-31 0001372020 us-gaap:RetainedEarnings
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

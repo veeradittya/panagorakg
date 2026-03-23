@@ -1,0 +1,100 @@
+# ADTRAN HOLDINGS INC — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 926282
+# SIC: Telephone & Telegraph Apparatus
+# Source: https://www.sec.gov/Archives/edgar/data/926282/000119312526073878/adtn-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+9
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+22 
+Item 1B. 
+Unresolved Staff Comments 
+46 
+Item 1C. 
+Cybersecurity 
+46 
+Item 2. 
+Properties 
+47 
+Item 3. 
+Legal Proceedings 
+47 
+Item 4. 
+Mine Safety Disclosures 
+47 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+48 
+Item 6. 
+[Reserved] 
+50 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+50 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+68 
+Item 8. 
+Financial Statements and Supplementary Data 
+69 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+115 
+Item 9A. 
+Controls and Procedures 
+115 
+Item 9B 
+Other Information 
+117 
+Item 9C 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+117 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+118 
+Item 11. 
+Executive Compensation 
+118 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+119 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+119 
+Item 14. 
+Principal Accountant Fees and Services 
+119 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+120 
+Item 16. 
+Form 10-K Summary 
+125 
+SIGNATURES 
+1 
+GENERAL We own or have rights to trademarks, service marks or trade names that we use in connection with the operation of our business. In addition, our names, logos and website names and addresses are owned by us or licensed by us. We also own or have the rights to copyrights that protect the content of our solutions. Solely for convenience, the trademarks, service marks, trade names and copyrights referred to in this report are listed without the , and symbols, but we will assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensors to these trademarks, service marks, trade names and copyrights. This report may include trademarks, service marks or trade names of other companies. Our use or display of other parties trademarks, service marks, trade names or products is not intended to, and does not imply a relationship with, or endorsement or sponsorship of us by, the trademark, service mark or trade name owners. *** Unless otherwise indicated, information contained in this report concerning our industry and the markets in which we operate is based on information from independent industry and research organizations, other third-party sources (including industry publications, surveys and forecasts), and management estimates. Management estimates are derived from publicly available information released by independent industry analysts and third-party sources, as well as data from our internal research, and are based on assumptions made by us upon reviewing such data and our knowledge of such industry and markets that we believe to be reasonable. Although we believe the data from these third-party sources is reliable, we have not independently verified any third-party information. 
+2 
+CAUTI ONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS AND RISK FACTOR SUMMARY The Private Securities Litigation Reform Act of 1995 provides a safe harbor for forward-looking statements made by or on behalf of Adtran. Adtran and its representatives may from time to time make written or oral forward-looking statements, including statements contained in this report, our other filings with the SEC and other communications with our stockholders. Any statement that does not directly relate to a historical or current fact is a forward-looking statement. Generally, the words believe , expect , intend , estimate , anticipate , would , will , may , might , could , should , can , future , assume , plan , seek , predict , potential , objective , expect , target , project , outlook , forecast and similar expressions identify forward-looking statements. We caution you that any forward-looking statements made by us or on our behalf are subject to uncertainties and other factors that could affect the accuracy of such statements. Forward-looking statements are based on management s current expectations, as well as certain assumptions and estimates made by, and information available to, management at the time the statements are made. Those statements are based on general assumptions and are subject to various risks, and because they also relate to the future, they are likewise subject to inherent uncertainties and other factors that may cause actual results to differ materially from the views, beliefs and projections expressed in such statements. These risks, uncertainties and other factors include, but are not limited to, the risks identified in Item 1A. Risk Factors of this report and those described below: Risks related to our financial results and Company success We are obligated to comply with covenants related to our Wells Fargo Credit Agreement that restrict our operating activities, and the failure to comply with such covenants could result in defaults that accelerate our debt obligations. We have experienced significant fluctuations in revenue and such fluctuations may continue. Fluctuations in revenue can cause our operating results in a given reporting period to be higher or lower than expected. Accurately matching necessary inventory levels to customer demand is challenging, and we may incur additional costs or be required to write off significant inventory that could adversely impact our results of operations. The lengthy sales and approval process required by Service Providers for new products has resulted in fluctuations in our revenue and may result in future revenue fluctuations. We require a significant amount of cash to service our indebtedness, our payment obligations to Adtran Networks shareholders under the DPLTA, and other obligations. The terms of the DPLTA may have a material adverse effect on our financial results and condition. Our significant indebtedness exposes us to various risks. We depend heavily on sales to certain customers; the loss of any of these customers or a significant project would significantly reduce our revenue and net income. Our exposure to the credit risks of our customers and distributors may make it difficult to collect accounts receivable and could adversely affect our operating results, financial condition and cash flows. We expect gross margins to continue to vary over time, and our levels of product and services gross margins may not be sustainable. Our dependence on a limited number of suppliers for certain raw materials, key components and ODM products, combined with supply shortages, has prevented and may continue to prevent us from delivering our products on a timely basis, which has had and may continue to have a material adverse effect on operating results and could have a material adverse effect on customer relations. We compete in markets that have become increasingly competitive, which may result in reduced gross profit margins and market share. Our estimates regarding future warranty obligations may change due to product failure rates, installation and shipment volumes, field service repair obligations and other rework costs incurred in correcting product failures. If our estimates materially change, our liability for warranty obligations may increase or decrease, impacting future cost of revenue. Managing our inventory is complex and has included and may continue to include write downs of excess or obsolete inventory. Our international operations have and may continue to expose us to additional risks, increase our costs and adversely affect our operating results, financial condition and cash flows. Our success depends on attracting and retaining key personnel. 
+3 
+We are exposed to currency exchange rate fluctuations in jurisdictions where we transact in local currency, which could harm our financial results and cash flows. We have recognized impairment charges related to goodwill and other intangible assets in the past and may be required to do so in the future. We may be unable to successfully and effectively manage and integrate acquisitions, divestitures and other significant transactions, which could harm our operating results, business and prospects. Ongoing inflationary pressures have negatively impacted our revenue and profitability. Risks related to our control environment We have had to restate our previously issued consolidated financial statements and, as part of that process, have identified material weaknesses in our internal control over financial reporting. If we are unable to develop and maintain effective internal control over financial reporting, we may not be able to accurately report our financial results in a timely manner, which may adversely affect investor confidence in us and may adversely affect our business, financial condition and results of operations. We may face litigation and other risks as a result of our material weaknesses in our internal control over financial reporting and any resulting restatement of our previously issued financial statements. Breaches of our information systems and cyberattacks could compromise our intellectual property and cause significant damage to our business and reputation. Emerging issues related to the development and use of AI could give rise to legal or regulatory action, damage our reputation, or otherwise materially harm our business. Risks related to the telecommunications industry We must continue to update and improve our products and develop new products to compete and to keep pace with improvements in communications technology. Our failure or the failure of our contract manufacturers to comply with applicable environmental regulations could adversely impact our results of operations. If our products do not interoperate with our customers networks, installations may be delayed or canceled, which could harm our business. We engage in research and development activities to develop new, innovative solutions and to improve the application of developed technologies, and as a consequence may miss certain market opportunities enjoyed by larger companies with substantially greater research and development efforts and which may focus on more leading-edge development. Our strategy of outsourcing a portion of our manufacturing requirements to subcontractors located in various international regions may result in us not meeting our cost, quality or performance standards. Our failure to maintain rights to intellectual property used in our business could adversely affect the development, functionality and commercial value of our products. Third party hardware or software that is used with our portfolios may not continue to be available or at commercially reasonable terms. Our use of open source software could impose limitations on our ability to commercialize our products. We may incur liabilities or become subject to litigation that would have a material effect on our business. If we are unable to successfully develop and maintain relationships with Systems Integrators, Service Providers and enterprise value-added resellers, our revenue may be negatively affected. We depend on a third-party cloud platform provider to host our Mosaic One SaaS network and other operating platforms, and if we were to experience a material disruption or interference in service, our business and reputation could suffer. 
+4 
+Risks related to the Company's stock price Our financial performance and operating results historically have fluctuated and could fluctuate in future periods, which has affected and may in the future affect our stock price. Future issuances of additional equity securities could result in dilution of existing stockholders equity ownership. The price of our common stock has been volatile and may continue to fluctuate significantly. Risks Related to our Convertible Senior Notes (the 2030 Notes or the Notes ) and Capped Call Transactions (the Capped Calls ) Our indebtedness and liabilities could limit the cash flow available for our operations and expose us to risks that could adversely affect our business, financial condition and results of operations. In addition, if we are unable to raise additional capital and/or restructure some of our existing indebtedness, we may be unable to meet our obligations as they come due, including with respect to the 2030 Notes. We may be unable to raise the funds necessary to repurchase the 2030 Notes for cash following a fundamental change or to pay any cash amounts due upon maturity or conversion of the 2030 Notes, and our other indebtedness may limit our ability to repurchase the 2030 Notes or to pay any cash amounts due upon their maturity or conversion. Provisions in the Indenture (as defined below) could delay or prevent an otherwise beneficial takeover of us. The accounting method for the 2030 Notes has affected and may continue to adversely affect our reported financial condition and results. Transactions relating to our 2030 Notes may affect the value of our common stock. We are subject to counterparty risk with respect to the Capped Calls, and the Capped Calls may not operate as planned. Risks related to the regulatory environments in which we do business We are subject to complex and evolving U.S. and foreign laws, regulations and standards governing the conduct of our business. Violations of these laws and regulations may harm our business, subject us to penalties and to other adverse consequences. Changes in trade policy in the U.S. and other countries, including the imposition of additional tariffs and the resulting consequences, may adversely impact our gross profits, gross margins, results of operations and financial condition. New or revised tax regulations, changes in our effective tax rate, recognition of a valuation allowance or assessments arising from tax audits may have an adverse impact on our results. Interest rate fluctuations could increase our costs of borrowing money and negatively impact our financial condition and future operations. Expectations relating to sustainability and governance matters expose the Company to potential liabilities, increased costs, reputational harm, and other adverse effects on the Company s business. Further downgrades of the U.S. credit rating, automatic spending cuts, the current government shutdown or future government shutdowns could negatively impact our liquidity, financial condition and earnings. We caution investors that other factors may prove to be important in the future in affecting our operating results. New factors emerge from time to time, and it is not possible for us to predict all of these factors, nor can we assess the impact each factor, or a combination of factors, may have on our business. You are further cautioned not to place undue reliance on these forward-looking statements because they speak only of our views as of the date that the statements were made. We undertake no obligatio
+
+## GEOGRAPHIC REVENUE
+p in fiber networking : Breadth of portfolio, open and advanced architecture, assured and secure connectivity. Growth in focus markets: Increased turnkey solutions and in-region resources, especially North America and EMEA. Investment in converged edge: Innovation in optics, security, AI-driven networking, virtualization, SaaS, etc. Transformation through software: Open and cloud-centric systems, end-to-end programmability, simplification through software, and innovative SaaS offerings. Diversification of customers: Cross-selling current portfolio, acquisition of new customers and partners based on larger portfolio and trusted supplier status. Focus on sustainability: Science-based emissions targets, process-based product eco-design, optimization of operations, logistics and all packaging, circular-economy processes. 
+14 
+Customers We have a diverse global customer base that includes large, medium and small Service Providers, alternative Service Providers, such as utilities, municipalities and fiber overbuilders; cable/MSOs; SMBs and distributed enterprises. During 2025, we had one customer who comprised greater than 10.0% of our revenue, which was an international Service Provider, and our next five largest customers comprised 20.4% of our revenue. Additionally, our revenue in the U.S., U.K. and Germany each comprised more than 10% of our revenue in 2025. The revenue from this Service Provider and these countries is reported in both our Network Solutions and Services & Support segments. Distribution, Sales and Marketing We sell our products through our direct sales organization and our distribution network. Our direct sales organization supports major accounts and has offices in global locations. Sales to most smaller and independent telecom companies are fulfilled through a combination of direct sales and distributors. Our service offerings can be purchased directly from us or through one of our Service Providers, channel partners or distribution partners. Before placing an order, Service Providers typically require lengthy product qualification and standardization processes that can extend for several months or even years. Once approved, product orders are ty
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customer could have a material impact on our results that we would not have anticipated in a marketplace composed of more numerous participants. Our exposure to the credit risks of our customers and distributors may make it difficult to collect accounts receivable and could adversely affect our operating results, financial condition and cash flows. Most of our revenue is made on an open credit basis, generally with payment terms of 30 to 45 days in the U.S. and typically 45 to 60 days in many geographic markets outside the U.S. As our international revenue grows, our total accounts receivable balance has increased and will likely continue to increase. Our DSO could also increase as a result of a greater mix of international revenue. Additionally, international laws may not provide the same degree of protection against defaults on accounts receivable as provided under U.S. laws governing domestic transactions; therefore, as our international business grows, we may be subject to higher bad debt expense compared to historical trends. Overall, we monitor individual customer and distributor payment capability in granting such open credit arrangements, seek to limit such open credit to amounts that we believe customers and distributors can pay and maintain reserves we believe are adequate to cover exposure for credit losses and other macroeconomic indicators. In the course of our sales to customers and distributors, we may encounter difficulty collecting accounts receivable and could be exposed to risks associated with uncollectible accounts receivable due to various reasons, including potential declining operating cash flows or bankruptcy filings. While we attempt to monitor these situations carefully and attempt to take appropriate measures to collect accounts receivable balances, there are no assurances we can avoid write-downs and/or write-offs of accounts receivable as a result of declining financial conditions for our customers, including bankruptcy. Such writ
+
+---
+Doc size: 2048KB (capped at 2MB)

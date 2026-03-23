@@ -1,0 +1,14 @@
+# HONEYWELL INTL INC — 10-K Annual Report
+# Filed: 2026-02-17
+# CIK: 773840
+# SIC: Aircraft Engines & Engine Parts
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/773840/000077384026000013/hon-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+40 Quantitative and Qualitative Disclosures about Market Risks 40 Liquidity and Capital Resources 46 Critical Accounting Estimates 48 Other Matters 49 Information about Our Executive Officers 50
+
+## GEOGRAPHIC REVENUE
+segment"> hon:segment 0000773840 2025-01-01 2025-12-31 0000773840 us-gaap:CommonStockMember 2025-01-01 2025-12-31 0000773840 hon:EuroNotes3.50Due2027Member 2025-01-01 2025-12-31 0000773840 hon:EuroNotes225Due2028Member 2025-01-01 2025-12-31 0000773840 hon:EuroNotes3.375Due2030Member 2025-01-01 2025-12-31 <xbrli:con
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

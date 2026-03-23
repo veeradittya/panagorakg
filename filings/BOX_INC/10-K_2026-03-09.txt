@@ -1,0 +1,101 @@
+# BOX INC — 10-K Annual Report
+# Filed: 2026-03-09
+# CIK: 1372612
+# SIC: Services-Prepackaged Software
+# Source: https://www.sec.gov/Archives/edgar/data/1372612/000119312526098466/box-20260131.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+5
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+18 
+Item 1B. 
+Unresolved Staff Comments 
+47 
+Item 1C. 
+Cybersecurity 
+47 
+Item 2. 
+Properties 
+48 
+Item 3. 
+Legal Proceedings 
+49 
+Item 4. 
+Mine Safety Disclosures 
+49 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+50 
+Item 6. 
+Reserved 
+52 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+53 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+69 
+Item 8. 
+Financial Statements and Supplementary Data 
+70 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+106 
+Item 9A. 
+Controls and Procedures 
+106 
+Item 9B. 
+Other Information 
+106 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+106 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+107 
+Item 11. 
+Executive Compensation 
+107 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+107 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+107 
+Item 14. 
+Principal Accountant Fees and Services 
+107 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+108 
+Item 16 
+Form 10-K Summary 
+108 
+Signatures 
+113 
+2 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which statements involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as may, will, should, expects, plans, anticipates, could, intends, target, projects, contemplates, believes, estimates, predicts, potential or continue or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans or intentions. Forward-looking statements contained in this Annual Report on Form 10-K include, but are not limited to, statements about: our future financial and operating results; including expectations regarding revenue, deferred revenue, billings, remaining performance obligations, gross margins, operating income, and net retention rate; our ability to maintain an adequate rate of revenue and billings growth and our expectations regarding such growth; our market opportunity, business plan and ability to effectively manage our growth; the effects of global economic conditions on our business and the impact of foreign exchange rates on our business; our ability to maintain profitability and expand or maintain positive cash flow; our ability to achieve our long-term and short-term gross and operating margin objectives; our ability to grow our remaining performance obligations; our expectations regarding our revenue mix; our ability to maintain, protect and enhance our brand and intellectual property; costs associated with defending intellectual property infringement and other claims and the frequency of such claims; our ability to attract and retain end-customers; our ability to further penetrate our existing customer base and expand their use of our services; our ability to displace existing products in established markets; our expectations regarding timing of new products, product bundles and features; our expectations regarding the potential of artificial intelligence (AI) and its impact on Box; our ability to expand our leadership position as an intelligent content management platform; our ability to timely and effectively scale and adapt our new and existing technology; our ability to innovate new products and features and bring them to market in a timely manner and the expected benefits to customers and potential customers of our products; our investment strategy, including our plans to further invest in our business, including investment in research and development, sales and marketing, public cloud hosting and our professional services organization, and our ability to effectively manage such investments; our ability to expand internationally; expectations about competition and its effect in our market and our ability to compete; use of financial measures not calculated in accordance with accounting principles generally accepted in the United States (GAAP); 
+3 
+our belief regarding the sufficiency of our cash, cash equivalents, short-term investments, and our credit facilities to meet our working capital and capital expenditure needs for at least the next 12 months and beyond, and our expectations regarding our long-term capital requirements; our expectations concerning relationships with third parties and our ability to realize the anticipated benefits therefrom; our ability to attract and retain qualified employees and key personnel; the effects of new laws, policies, taxes and regulations on our business; management s plans, beliefs and objectives, including the importance of our brand and culture on our business; acquisitions of or investments in complementary companies, products, services or technologies and our ability to successfully integrate such companies or assets; and any potential repurchase of our Class A common stock. These forward-looking statements are subject to a number of risks, uncertainties and assumptions, including those described in the section titled Risk Factors and elsewhere in this Annual Report on Form 10-K. Moreover, we operate in a very competitive and rapidly changing environment, and new risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties and assumptions, the forward-looking events and circumstances discussed in this Annual Report on Form 10-K may not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. You should not rely upon forward-looking statements as predictions of future events. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, levels of activity, performance or events and circumstances reflected in the forward-looking statements will be achieved or occur. Moreover, neither we nor any other person assumes responsibility for the accuracy and completeness of the forward-looking statements. We undertake no obligation to update publicly any forward-looking statements for any reason after the date of this Annual Report on Form 10-K to conform these statements to actual results or to changes in our expectations, except as required by law. You should read this Annual Report on Form 10-K and the documents that we reference in this Annual Report on Form 10-K and have filed with the Securities and Exchange Commission (SEC) as exhibits to this Annual Report on Form 10-K with the understanding that our actual future results, levels of activity, performance, and events and circumstances may be materially different from what we expect. 
+4 
+PAR T I Item 1. BUSINESS Overview Box is the leading Intelligent Content Management (ICM) provider. Box gives organizations a single platform for their unstructured data which typically represents about 90% of all data within an organization. This data is content from blueprints to wireframes, videos to documents, proprietary formats to PDFs and it is the source of an organization s unique value. The Box ICM platform enables our customers to securely manage the entire content lifecycle, from the moment a file is created or ingested to when it is shared, edited, published, approved, signed, classified, and retained. Box keeps content secure and compliant, while also allowing easy access and sharing of this content from anywhere, on any device both within the organization and with external partners. With our Software-as-a-Service (SaaS) platform, customers can work with their content as they need from secure external collaboration and workspaces to e-signature processes and content workflows improving employee productivity and accelerating business processes. IT teams can establish a space for compliant content management, and developers can easily create customized portals for white-labeled content collaboration. Administrators have a wide range of security, data protection, and compliance features they can activate to help meet legal and regulatory requirements, internal policies, and industry standards. The Box ICM platform enables a broad range of high-value business use cases and integrates with more than 1,500 leading business applications. With hundreds of file formats and media types supported, Box is compatible with multiple application environments, operating systems, and devices ensuring that workers can securely access their critical business content whenever and wherever they need it. Our go-to-market strategy includes selling the entire platform to an organization with the full set of Box capabilities. During that sales process, we partner with IT decision makers (including CEOs, CIOs, CISOs, and IT Directors), as well as departmental and line of business leaders, to identify their content-oriented pain points. From there, we work together to create joint success plans that define the path to Box implementations that meet the needs of the organization, including through the sale of our own consulting services, and in conjunction with partners. Between close partnerships with IT, line of business leaders, and end-user-driven bottoms-up adoption, we work with our customers to identify future opportunities using the Box ICM platform. We focus our efforts on larger enterprises, delivering solutions to use cases within key industries, capitalizing on international growth in key regions, and utilizing our partner ecosystem where most advantageous. In addition to our high-touch enterprise sales efforts, we field inbound inquiries and online sales opportunities through our proven self-service purchasing online platform. We further expand our market reach by leveraging our network of channel partners that include both value-added resellers and systems integrators. Additionally, we offer individuals a free version of Box that allows them to experience the Box ICM platform first-hand without commitment. Use of Box often spreads virally within and across organizations, as users adopt Box and invite new users to collaborate. This motion will often lead to an initial sale with an organization uniting their various users into an enterprise-governed implementation, and from there we continue our high-touch sales efforts, with a focus on use case expansion. Ultimately, our sales strategy is focused on ensuring that new and existing customers both understand and experience the transformative impact of Box. We have a rich technology partner ecosystem, offering integrations with partners such as Adobe, Apple, Cisco, CrowdStrike, Google, Guidewire, IBM, Microsoft, Okta, Oracle-NetSuite, Palo Alto Networks, Salesforce, ServiceNow, Slack, USDM, Workday, and Zoom. This gives our customers seamless and secure access to their content across all their workflows and applications. In addition, in-house enterprise developers and independent software developers can use our developer platform and open application programming interfaces (APIs) to rapidly build and provision new applications that leverage and extend the core functionality of our services, increasingly with a focus on specific industries and vertical market use cases. To date, tens of thousands of third-party developers have leveraged our platform as the secure content layer for their applications.
+5 
+We are committed to powering how the world does more good together. Founded in 2014, Box.org serves thousands of nonprofits globally with donated or discounted Box product, employee volunteer hours and grants from the Box Impact Fund. Box.org focuses on areas where Box is uniquely positioned to make an impact, including child welfare, crisis response and the environment. The Box Solution We offer web, mobile and desktop applications of our solution on a single platform, as well as the ability to develop custom applications. Four core capabilities differentiate Box from competitors: advanced data protection and compliance, modern workflow and collaboration experiences, a flexible and interoperable platform, and integration with advanced AI models. Box features and functionality include the following: Advanced Data Protection and Compliance Global Cloud Architecture. We have built our platform from the ground up on a cloud-based architecture, which enables us to rapidly develop, update and provision our services to users. Our proprietary cloud architecture is particularly well-suited for today s dynamically changing business requirements because it enables use of the most up-to-date versions of our solutions and administrators to immediately apply changes in policies and controls across all their organization s critical content simultaneously. Our modern cloud infrastructure, supported by public cloud hosting services operated by third parties in various locations, also powers global scalability and reliability with minimal downtime for our customers, ensuring their business-critical content is always secure, compliant, and available. Enterprise-Grade Security. We have invested heavily to build robust, frictionless security features to protect our customers from the most pervasive security threats. All files stored in Box are encrypted at rest and in transit. Box s information rights management features enable secure access and management of files by providing granular control over users ability to access, view, download, edit, print or share content. Box also provides security controls such as multi-factor authentication that ensure user identity when allowing access to content, as well as endpoint security tools to restrict access to only properly vetted devices. With Box KeySafe, organizations can implement higher levels of data security and protection by keeping control of the encryption keys that protect their content. This advanced encryption feature is valuable to many organizations, including those in highly regulated industries such as financial services, health care, government and legal. Intelligent Threat Detection and Smart Access with Box Shield and Box Shield Pro. Box Shield provides granular, near real-time threat detection and protection capabilities. Box Shield leverages advanced machine learning to scan files for sophisticate
+
+## GEOGRAPHIC REVENUE
+1 2026-01-31 0001372612 us-gaap:RestrictedStockUnitsRSUMember us-gaap:ShareBasedCompensationAwardTrancheThreeMember box:TwentyFifteenEquityIncentivePlanMember 2025-02-01 2026-01-31 0001372612 us-gaap:DomesticCountryMember 2025-02-01 2026-01-31 0001372612 us-gaap:SellingAndMarketingExpenseMember 2024-02-01 2025-01-31 0001372612 box:WellsFargoBankMember us-gaap:SecuredDebtMember us-gaap:LetterOfCreditMember box:JuneTwoThousandTwentyThreeFacilityMember 2026-01-31 0001372612 us-gaap:EstimateOfFairValueFairValueDisclosureMember 2026-01-31 0001372612 box:CapitalizedInternal-UseSoftwareMember 2024-02-01 2025-01-31 0001372612 box:WellsFargoBankMember us-gaap:SecuredDebtMember us-gaap:RevolvingCreditFacilityMember box:JuneTwoThousandTwentyThreeFacilityMember srt:MaximumMember us-gaap:PrimeRateMember 2025-02-01 2026-01-31 0001372612 us-gaap:DevelopedTechnologyRightsMember 2025-01-31 0001372612 box:OtherCountriesMember 2025-01-31 0001372612 box:AccountsReceivableNetMember 2025-01-31 0001372612 us-gaap:CreditConcentrationRiskMember us-gaap:AccountsReceivableMember 2024-02-01 2025-01-31 0001372612 us-gaap:SoftwareDevelopmentMember 2025-02-01 2026-01-31 0001372612 us-gaap:FurnitureAndFixturesMember 2026-01-31 0001372612 us-gaap:CostOfSalesMember 2025-02-01 2026-01-31 0001372612 box:WellsFargoBankMember us-gaap:SecuredDebtMember us-gaap:RevolvingCreditFacilityMember box:AdjustedTermSecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember box:JuneTwoThousandTwentyThreeFacilityMember srt:MaximumMember 2025-02-01 2026-01-31 0001372612 box:WellsFargoBankMember us-gaap:SecuredDebtMember us-gaap:RevolvingCreditFacilityMember box:JuneTwoThousandTwentyThreeFacilityMember 2026-01-31 0001372612 box:TwoThousandTwentySixConvertibleNotesMember us-gaap:EstimateOfFairValueFairValueDisclosureMember 2025-01-31 0001372612 box:ForeignCurrencyForwardContractsMember us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember 2025-02-01 2026-01-31 0001372612 us-gaap:DomesticCountryMember 2026-01-31 0001372612 box:WellsFargoBankMember us-gaap:SecuredDebtMember us-gaap:RevolvingCreditFacilityMember srt:MinimumMember box:JuneTwoThousandTwentyThreeFacilityMember 2023-06-30 0001372612 us
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer represented 10% or more of our revenue in the year ended January 31, 2026. Our geographic revenue and segment information is set forth in Note 2 in Part II, Item 8 of this Annual Report on Form 10-K. Sales and Marketing We offer our solution to customers as a subscription-based service, with subscription fees based on customer requirements, including the number of users, API and AI unit entitlements, and functionality deployed. The duration of our contracts with customers ranges from one to three years or more, and we typically invoice our customers at the beginning of the contract term, in annual, multi-year, quarterly or monthly installments. We recognize revenue as we satisfy our performance obligations. Accordingly, due to our subscription model, we recognize revenue for our subscription and premier services ratably over the term of the contract. We employ a direct sales team to offer a higher touch experience. We also make it easy for users and organizations to subscribe to paid versions of our service on our self-service web portal. Our sales team is composed of inside sales, outbound sales and field sales personnel who are generally organized by account size and geography, and/or major industry focus. We also have a rich ecosystem of channel partners who expand our reach to both large and small enterprises. 
+11 
+We generate customer leads, accelerate sales opportunities and build brand awareness through our marketing programs and through our strategic relationships. Our marketing programs target senior IT leaders, technology professionals and senior line of business leaders. As a core part of our strategy, we have developed an ecosystem of partners to both broaden and complement our application offerings and to provide a broad array of services that fall outside of Box s areas of focus. These relationships include software and technology partners, as well as consulting and implementation services providers that enable Box to address a broader
+
+---
+Doc size: 2043KB (capped at 2MB)

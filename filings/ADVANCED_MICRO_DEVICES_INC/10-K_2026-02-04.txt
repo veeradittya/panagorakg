@@ -1,0 +1,20 @@
+# ADVANCED MICRO DEVICES INC — 10-K Annual Report
+# Filed: 2026-02-04
+# CIK: 2488
+# SIC: Semiconductors & Related Devices
+# Source: https://www.sec.gov/Archives/edgar/data/2488/000000248826000021/amd-20251227.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+(Not extracted)
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 287KB (capped at 2MB)

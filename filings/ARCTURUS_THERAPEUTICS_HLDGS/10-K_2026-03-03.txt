@@ -1,0 +1,100 @@
+# ARCTURUS THERAPEUTICS HLDGS — 10-K Annual Report
+# Filed: 2026-03-03
+# CIK: 1768224
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1768224/000119312526088391/arct-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+32 
+Item 1B. 
+Unresolved Staff Comments 
+63 
+Item 1C. 
+Cybersecurity 
+63 
+Item 2. 
+Properties 
+65 
+Item 3. 
+Legal Proceedings 
+65 
+Item 4. 
+Mine Safety Disclosures 
+66 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+66 
+Item 6. 
+Reserved 
+67 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+68 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+77 
+Item 8. 
+Financial Statements and Supplementary Data 
+77 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+77 
+Item 9A. 
+Controls and Procedures 
+77 
+Item 9B. 
+Other Information 
+80 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+80 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+81 
+Item 11. 
+Executive Compensation 
+81 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+81 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+81 
+Item 14. 
+Principal Accounting Fees and Services 
+81 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+82 
+Item 16 
+Form 10-K Summary 
+82 
+i 
+Special Note Regarding Forward-Looking Statements This Annual Report on Form 10-K, or this Annual Report, and the documents incorporated by reference herein may contain forward-looking statements within the meaning of the federal securities laws made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth below under Part I, Item 1.A, Risk Factors in this Annual Report. Except as required by law, we assume no obligation to update these forward-looking statements, whether as a result of new information, future events or otherwise. These statements, which represent our current expectations or beliefs concerning various future events, may contain words such as may, will, expect, anticipate, intend, plan, believe, estimate or other words indicating future results, though not all forward-looking statements necessarily contain these identifying words. Such statements may include, but are not limited to, statements concerning the following: our plans and ability to develop and commercialize our product candidates; the initiation, design, cost, timing, progress, enrollment and results of, and our expected ability to undertake certain activities and accomplish certain goals with respect to, our research and development activities, preclinical studies and clinical trials, including those related to our therapeutics pipeline candidates ARCT-810 and ARCT-032; the likelihood that clinical data will be sufficient for regulatory approval or completed in time to submit an application for regulatory approval within a particular timeframe; interactions with regulatory authorities in the United States and foreign countries, including outcomes of meetings with the FDA regarding a regulatory pathway for ARCT-810 and ARCT-032; our compliance, and ability to remain in compliance, with the requirements of our collaboration agreements, including our collaboration with Seqirus Inc. ( CSL Seqirus ), and our ability to prevail in any disputes regarding such collaboration agreements; the anticipated benefits and success of our collaboration agreement with CSL Seqirus related to the licensure of our STARR mRNA technology and LUNAR lipid-mediated delivery, including our timely receipt of upfront and potential royalty and other payments thereunder; the status of development activities of the LUNAR-COV19 and LUNAR-FLU programs, and the other infectious disease programs, under our collaboration with CSL Seqirus; the status, success and benefits of our arrangements with private and governmental entities, some of which are subject to termination for convenience by our counterparties; our compliance, and ability to remain in compliance, with the stringent requirements of our current and potential government contracts, including our arrangements with the Biomedical Advanced Research and Development Authority, a division of the Office of the Assistant Secretary for Preparedness and Response within the U.S. Department of Health and Human Services and the Department of Defense; our plans to conduct and advance any of our research and discovery programs; the potential safety, immunogenicity, efficacy or regulatory approval of any of our product candidates; the potential effects, efficacy and benefits of our technologies and product candidates on their own and in comparison to technologies, drugs or courses of treatment currently available or that may be developed by competitors; the likelihood that preclinical or clinical data will be predictive of future clinical results or efficacy or safety of a product candidate; the anticipated timing of enrollment, duration, milestones and announcements of results of clinical trials, and the submission of applications to conduct clinical trials; the potential administration regimen or dosage, or ability to administer multiple doses of, any of our product candidates; the likelihood of optimizing KOSTAIVE s product presentation and formulation; 
+1 
+our ability to obtain and maintain regulatory approval of our product candidates, and any related restrictions, limitations, and/or warnings in the label of an approved product candidate; our ability, and the ability of our partners, to successfully commercialize, and our expectations regarding future therapeutic and commercial potential with respect to, our product candidates; the rate and degree of market acceptance of our product candidates; the success of competing therapies that are or may become available; the size and growth potential of the markets for our product candidates, and our ability to serve those markets and address unmet medical needs; our ability to obtain and maintain intellectual property protection for our product candidates; our ability to attract and retain experienced and seasoned scientific and management professionals; the performance of our third-party suppliers and manufacturers, including the ability to implement and scale-up manufacturing levels as necessary; the receipt of relevant approvals related to the manufacture and distribution of our product candidates; our strategic alliance partners election to pursue development and commercialization of any programs or product candidates that are subject to our collaboration and license agreements with such partners; our ability to attract collaborators with relevant development, regulatory and commercialization expertise; future activities to be undertaken by our strategic alliance partners, collaborators and other third parties; our ability to develop sales and marketing capabilities, whether alone or with potential future collaborators; our ability to avoid, settle or be victorious at costly litigation with shareholders, former executives or others, should these situations arise; our ability to obtain and deploy funding for our operations and to efficiently use our financial and other resources; our ability to continue as a going concern; and the accuracy of our estimates regarding future expenses, future revenues, cash flows, capital requirements need for additional financing, and possible sources of revenue. These and other forward-looking statements are only current predictions and are subject to known and unknown risks, uncertainties, and other factors that may cause our or our industry s actual results, levels of activity, performance or achievements to be materially different from those anticipated by the forward-looking statements. In addition, historic results of scientific research, preclinical and clinical trials do not guarantee that future research or trials will suggest the same conclusions, nor that historic results referred to herein will be interpreted the same in light of additional research, preclinical and clinical trial results. The forward-looking statements contained in this Annual Report are subject to risks and uncertainties, including those discussed in our other filings with the United States Securities and Exchange Commission (the SEC ). Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. Although we currently believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance, or achievements. 
+2 
+References to Arcturus In this Annual Report on Form 10-K, unless otherwise stated or the context otherwise indicates, references to the Company, Arcturus, we, our and us mean Arcturus Therapeutics Holdings Inc. and its consolidated subsidiaries from and after the effective time of the Redomiciliation (as defined below in Part I, Item 1. "Business" - "Available Information") and, prior to that time, to our predecessor, Arcturus Therapeutics Ltd. Trademarks and Tradenames The Arcturus logo and other trademarks of Arcturus appearing in this Annual Report on Form 10-K are the property of Arcturus. All other trademarks, service marks and trade names in this Annual Report on Form 10-K are the property of their respective owners. Solely for convenience, trademarks and trade names referred to in this report may appear without the or symbols. Market Data, Forecasts, and Other Information Unless otherwise indicated, information in this Annual Report on Form 10-K concerning economic conditions, our industry, and our markets, including our general expectations and competitive position, market opportunity and market size, is based on a variety of sources, including information from independent industry analysts and publications, as well as our own estimates and research. In addition, certain information included references to third-party publications regarding our business, results of operations, products, and product candidates. Our estimates are derived from industry and general publications, studies and surveys conducted by third-parties, as well as data from our own internal research. These publications, studies and surveys generally indicate that their information has been obtained from sources believed to be reliable, although they do not guarantee the accuracy or completeness of such information, and we have not independently verified industry data from such third-party sources. While we believe our internal research is reliable and that our internal estimates are reasonable, such research has not been verified by any independent source and our internal estimates are based on our good faith beliefs as of the respective dates of such estimates. This Annual Report on Form 10-K includes references to and citations of third-party publications. Such publications and related materials are provided for informational purposes only. Neither these publications nor the information contained therein is incorporated by reference into, or deemed to form a part of, this Annual Report on Form 10-K, and we do not adopt or endorse the statements made in such materials. 
+3 
+PART I Item 1. Business Overview We are a messenger RNA medicines company focused on the development of liver and respiratory rare disease therapeutics. We have ongoing Phase 2 clinical studies for our RNA therapeutic candidates to potentially treat ornithine transcarbamylase (OTC) deficiency and cystic fibrosis (CF). We developed the world s first approved self-amplifying messenger RNA (sa-mRNA) vaccine, KOSTAIVE ( KOSTAIVE ), which we have partnered with Seqirus, Inc. ( CSL Seqirus ), a part of CSL Limited. KOSTAIVE has achieved approval in Japan, the European Union and the United Kingdom as a vaccine against COVID-19, and sales of KOSTAIVE began in Japan in October 2024. We have several key platform technologies that we leverage to develop and advance a pipeline of mRNA-based therapeutics for rare genetic disorders with significant unmet medical needs and vaccines for infectious diseases. Current mRNA medicines have two critical components: the messenger RNA ( mRNA ) constructs and the lipid nanoparticles ( LNP ) which help deliver the mRNA to disease-relevant target tissues. We have extensive expertise in the design and optimization of mRNA constructs, including with respect to a type of mRNA technology known as self-amplifying mRNA (sa-mRNA). Our proprietary self-amplifying mRNA technology platform, or STARR ( STARR ), has been demonstrated to induce a robust, longer-lasting and broader humoral immune response at lower dose levels than conventional mRNA-based vaccines. Our proprietary LNP delivery system, LUNAR ( LUNAR ), is intended to address the major hurdle in RNA drug development, namely the effective and safe delivery of RNA to disease-relevant target tissues. LUNAR may enable multiple nucleic acid medicines. We also have significant expertise and valuable know-how in the development and scalability of complex and robust manufacturing processes required to deliver the next generation of nucleic acid medicines. Our internal pipeline includes RNA therapeutic candidates to potentially treat ornithine transcarbamylase (OTC) deficiency and cystic fibrosis (CF), both rare diseases. In our vaccine program, we have partnered with CSL Seqirus, one of the world s leading influenza vaccine providers, on the development and commercialization of mRNA vaccines for COVID-19, influenza and three other infectious diseases. In CSL Limited s half-year results presented on February 11, 2026, CSL Limited reported an accounting write-down of approximately $430 million attributable to our collaboration agreement with CSL Seqirus, citing declining COVID-19 disease burden and more onerous U.S. regulatory requirements. In our CF program, we enrolled and completed dosing in the three initially planned cohorts of our Phase 2 multiple ascending dose study of ARCT-032, confirming the safety and tolerability of ARCT-032 dosed daily for four weeks. This study was initiated in December 2024 and was designed to identify a safe and effective dose regimen in those with Class I (null) CFTR mutations and people with CF who do not benefit from CFTR modulators. In the study, six CF adults with Class I CFTR mutations inhaled 10 mg doses of ARCT-032 daily over 28 days. Interim results released in October 2025 demonstrated that the treatment was generally safe and well tolerated. Treatment-related adverse events (AEs) that were identified in the single-dose Phase 1 study were also observed in some participants for the first few doses but ceased with continued dosing. Bronchospasm has not been reported in this study thus far, neither with nor without albuterol pretreatment. One serious adverse event (SAE) occurred in a participant
+
+## GEOGRAPHIC REVENUE
+-31 0001768224 us-gaap:AdditionalPaidInCapitalMember 2025-12-31 0001768224 arct:BiomedicalAdvancedResearchAndDevelopmentAuthorityMember 2022-08-01 2022-08-31 0001768224 us-gaap:ResearchMember us-gaap:DomesticCountryMember 2025-12-31 0001768224 srt:MaximumMember 2025-01-01 2025-12-31 0001768224 us-gaap:RetainedEarningsMember 2024-12-31 0001768224 us-gaap:CommonStockMember 2025-01-01 2025-12-31 0001768224 us-gaap:FurnitureAndFixturesMember 2024-12-31 0001768224 us-gaap:GrantMember 2025-01-01 2025-12-31 0001768224 us-gaap:FurnitureAndFixturesMember 2025-12-31 0001768224 us-gaap:StateAndLocalJurisdictionMember 2025-12-31 0001768224 arct:Early-StageProgramsMember 2025-01-01 2025-12-31 0001768224 arct:LUNAR-OTCMember 2025-01-01 2025-12-31 0001768224 arct:PayrollAndBenefitsMember 2024-01-01 2024-12-31 0001768224 us-gaap:ComputerEquipmentMember 2024-12-31 0001768224 arct:OrphanDrugCreditMember 2025-01-01 2025-12-31 0001768224 us-gaap:CommonStockMember 2023-12-31 0001768224 arct:ForeignCountriesMember 2024-01-01 2024-12-31 0001768224 srt:MinimumMember 2025-12-31 0001768224 us-gaap:RetainedEarningsMember 2024-01-01 2024-12-31 0001768224 arct:BiomedicalAdvancedResearchAndDevelopmentAuthorityMember 2023-01-01 2023-12-31 0001768224 arct:FebruaryTwoThousandAndTwentyLeaseAgreementMember 2025-10-01 2025-12-31 0001768224 us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-12-31 0001768224 arct:CslSeqirusMember arct:CollaborationRevenueMember 2023-01-01 2023-12-31 0001768224 us-gaap:ResearchMember us-gaap:StateAndLocalJurisdictionMember 2025-12-31 0001768224 arct:FacilitiesAndEquipmentMember 2024-01-01 2024-12-31 0001768224 us-gaap:PropertyLeaseGuaranteeMember 2024-12-31 0001768224 us-gaap:DomesticCountryMember 2025-12-31 0001768224 us-gaap:ResearchMember us-gaap:DomesticCountryMember 2025-01-01 2025-12-31 0001768224 2023-01-01 2023-12-31 0001768224 arct:TwoThousandNineteenOmnibusIncentivePlanMember us-gaap:EmployeeStockOptionMember 2025-12-31 0001768224 us-gaap:ResearchAndDevelopmentExpenseMember 2025-01-01 2025-12-31 0001768224 2026-02-27 0001768224 us-gaap:CommonStockMember 2023-01-01 2023-12-31 0001768224 arct:DiscoveryTechnologiesMember 2024-01-01 2024-12-31 0001768224 arc
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Significant Customers The Company is exposed to concentrations of credit risk primarily related to cash, cash equivalents, and accounts receivable. Cash and Cash Equivalents The Company mitigates credit risk exposure by maintaining cash and cash equivalents only with high-credit-quality financial institutions and investing in instruments with short maturities. The Company continuously monitors counterparty risk to minimize potential financial exposure. Accounts Receivable Concentration As of December 31, 2025 and 2024, the Company had significant concentrations of credit risk related to accounts receivable from a limited number of customers. The following customers accounted for 10% or more of total accounts receivable in each respective period: As of December 31, 2025: BARDA 64 % of total accounts receivable CSL 19 % of total accounts receivable As of December 31, 2024: BARDA 60 % of total accounts receivable CSL 20 % of total accounts receivable The Company monitors its credit exposure through regular assessments of counterparty risk and maintains ongoing collection efforts to mitigate potential credit losses. Revenue Concentration The Company generates a substantial portion of its revenue from a limited number of key customers. The following customers accounted for 10% or more of total revenue for each period: 
+F- 10 
+Arcturus Therapeutics Holdings Inc. and its Subsidiaries Notes to Consolidated Financial Statements Continued 
+For the year ended December 31, 2025: CSL 80 % of total revenue BARDA 16 % of total revenue For the year ended December 31, 2024: CSL 91 % of total revenue For the year ended December 31, 2023: CSL 92 % of total revenue Given this concentration, the Company s financial performance and cash flows may be materially impacted if there are changes in demand, contract renewals, or the financial condition of these key customers. The Company continues to evaluate opportunities to expand its customer base and mitigate concentration risk over time. J
+
+---
+Doc size: 2048KB (capped at 2MB)

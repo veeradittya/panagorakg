@@ -1,0 +1,19 @@
+# SEA LTD — 20-F Annual Report
+# Filed: 2025-04-17
+# CIK: 1703399
+# SIC: Services-Miscellaneous Business Services
+# Source: https://www.sec.gov/Archives/edgar/data/1703399/000119312525084311/d940352d20f.htm
+
+## BUSINESS DESCRIPTION
+(Not extracted)
+
+## RISK FACTORS
+ Business and Operational Related Risks Risks Applicable Across Multiple Businesses Fluctuations in foreign currency exchange rates may adversely affect our operational and financial results, which we report in U.S. dollars. On March 27, 2025, the Jakarta interbank spot dollar rate for Indonesian rupiah was IDR16,566.00 to US$1.00. On March 31, 2025, the noon buying rate for New Taiwan dollars was NT$33.1900 to US$1.00, the central rate for Vietnamese dong was VND24,837 to US$1.00, the noon buying rate for Thai baht was THB33.9500 to US$1.00, the noon buying rate for Singapore dollars was S$1.3445 to US$1.00 and the noon buying rate for Malaysia ringgit was RM4.4365 to US$1.00. 
+ 5 
+
+ Table of Contents 
+
+ FORWARD-LOOKING STATEMENTS This annual report contains forward-looking statements that involve risks and uncertainties. All statements other than statements of current or historical facts are forward-looking statements. These forward-looking statements are made under the safe harbor provision under Section 21E of the Securities Exchange Act of 1934, as amended, and as defined in the Private Securities Litigation Reform Act of 1995. These statements involve known and unknown risks, uncertainties and other factors, including those listed under Item 3. 
+
+---
+Document size: 4570 KB

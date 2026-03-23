@@ -1,0 +1,101 @@
+# 4D MOLECULAR THERAPEUTICS IN — 10-K Annual Report
+# Filed: 2026-03-18
+# CIK: 1650648
+# SIC: Biological Products, (No Diagnostic Substances)
+# Source: https://www.sec.gov/Archives/edgar/data/1650648/000119312526114075/fdmt-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+28 
+Item 1B. 
+Unresolved Staff Comments 
+95 
+Item 1C. 
+Cybersecurity 
+95 
+Item 2. 
+Properties 
+96 
+Item 3. 
+Legal Proceedings 
+96 
+Item 4. 
+Mine Safety Disclosures 
+96 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+97 
+Item 6. 
+[Reserved] 
+97 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+98 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+110 
+Item 8. 
+Financial Statements and Supplementary Data 
+111 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+111 
+Item 9A. 
+Controls and Procedures 
+111 
+Item 9B. 
+Other Information 
+112 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+112 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+113 
+Item 11. 
+Executive Compensation 
+113 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+113 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+113 
+Item 14. 
+Principal Accounting Fees and Services 
+113 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+114 
+Item 16. 
+Form 10-K Summary 
+117 
+i 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements concern our business, operations and financial performance and condition, as well as our plans, objectives and expectations for our business operations and financial performance and condition. Any statements contained herein that are not statements of historical facts may be deemed to be forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as aim, anticipate, assume, believe, contemplate, continue, could, due, estimate, expect, goal, intend, may, objective, plan, predict, potential, positioned, seek, should, target, will, would and other similar expressions that are predictions of or indicate future events and future trends, or the negative of these terms or other comparable terminology. These forward-looking statements include, but are not limited to, statements about: the success, cost and timing of our development activities, preclinical studies and clinical trials, including our clinical trials for 4D-150, 4D-175, 4D-710 and 4D-725; the number, size and design of our planned clinical trials, and what regulatory authorities may require to obtain marketing approval; the timing of Investigational New Drug Application ( IND ) enabling studies and results from such studies; the timing and success of lead optimization for our product candidates in lead optimization; the translation of our preclinical results and data into future clinical trials in humans; the timing of any manufacturing runs for materials to be used in patient trials; the timing or likelihood of regulatory filings and approvals; our ability to obtain and maintain regulatory approval of our product candidates, and any related restrictions, limitations and/or warnings in the label of any approved product candidate; our ability to obtain funding for our operations, including funding necessary to develop and commercialize our product candidates; the rate and degree of market acceptance of our product candidates, if approved; the success of competing products or platform technologies that are or may become available; our plans and ability to establish sales, marketing and distribution infrastructure to commercialize any product candidates for which we obtain approval; future agreements with third parties in connection with the commercialization of our product candidates; the size and growth potential of the markets for our product candidates, if approved for commercial use, and our ability to serve those markets; existing regulations and regulatory developments in the United States and foreign countries; the expected potential benefits of strategic collaboration agreements, including our relationships with Otsuka Pharmaceutical Co., Ltd. and Cystic Fibrosis Foundation, and our ability to attract collaborators with development, regulatory and commercialization expertise; the scope of protection we are able to establish and maintain for intellectual property rights covering our product candidates and technology; potential claims relating to our intellectual property and third-party intellectual property; our ability to contract with third-party suppliers and manufacturers and their ability to perform adequately; 
+ii 
+the pricing and reimbursement of our product candidates, if approved; the potential effects of public health emergencies to our preclinical and clinical programs and our business; our ability to attract and retain key managerial, scientific and medical personnel; the accuracy of our estimates regarding expenses, capital requirements and needs for additional financing; and our financial performance. These forward-looking statements are based on management s current expectations, estimates, forecasts and projections about our business and the industry in which we operate and management s beliefs and assumptions and are not guarantees of future performance or development and involve known and unknown risks, uncertainties and other factors that are in some cases beyond our control. As a result, any or all of our forward-looking statements in this Annual Report on Form 10-K may turn out to be inaccurate. Factors that may cause actual results to differ materially from current expectations include, among other things, those listed under the section titled Risk Factors and elsewhere in this Annual Report on Form 10-K. Potential investors are urged to consider these factors carefully in evaluating the forward-looking statements. These forward-looking statements speak only as of the date of this Annual Report on Form 10-K. Except as required by law, we assume no obligation to update or revise these forward-looking statements for any reason, even if new information becomes available in the future. You should, however, review the factors and risks we describe in the reports we will file from time to time with the SEC after the date of this Annual Report on Form 10-K. SUMMARY RISK FACTORS Our ability to implement our business strategy is subject to numerous risks that you should be aware of before making an investment decision. The following is a summary of the principal risks that could seriously harm our business, all of which are more fully described in Part I. Item 1A. Risk Factors in this Annual Report on Form 10-K. This summary should be read in conjunction with the other risk factors included in the Risk Factors section and should not be relied upon as an exhaustive summary of the material risks facing our business. We are in the late stages of drug development for our lead program and have a limited operating history and no products approved for commercial sale, which may make it difficult to evaluate our current business and predict our future success and viability. We have had recurring net losses, and we expect to continue to incur significant net losses for the foreseeable future. We will require substantial additional capital to finance our operations. If we are unable to raise such capital when needed, or on acceptable terms, we may be forced to delay, reduce and/or eliminate one or more of our research and drug development programs or future commercialization efforts. All of our product candidates are based on a novel AAV genetic medicine technology with which there is limited regulatory and clinical experience to date, which makes it difficult to predict the time and cost of product candidate development and subsequently obtaining regulatory approval. Further, the regulatory approval process for novel product candidates such as ours can be more expensive and take longer than for other, better known or extensively studied therapeutic modalities. Adverse public perception or regulatory scrutiny of genetic medicine technology may negatively impact the developmental progress or commercial success of products that we develop alone or with collaborators. 
+iii 
+Our clinical trials may fail to demonstrate substantial evidence of the safety and efficacy of our product candidates, which would prevent, delay or limit the scope of regulatory approval and commercialization, which could seriously harm our business. Gene therapies are novel, complex and difficult to manufacture. We could experience production problems that result in delays in our development or commercialization programs, limit the supply of our products or otherwise seriously harm our business. The regulatory approval processes of the FDA, European Medicines Agency ("EMA") and comparable foreign regulatory authorities are lengthy, expensive, time consuming, and inherently unpredictable. If we are ultimately unable to obtain regulatory approval for our product candidates, we will be unable to generate product revenue and our business will be substantially harmed. Our success depends on our ability to protect our intellectual property and our proprietary technologies. Our rights to develop and commercialize our product candidates are subject in part to the terms and conditions of licenses granted to us by others, and the patent protection, prosecution and enforcement for some of our product candidates may be dependent on our licensors. Our employees, independent contractors, consultants, research or commercial partners or collaborators and vendors may engage in misconduct or other improper activities, including noncompliance with regulatory standards and requirements. 
+iv 
+PART I Item 1. B usiness. Overv iew We are a leading late-stage biotechnology company advancing durable and disease-targeted therapeutics with the potential to transform treatment paradigms and provide unprecedented benefits to patients. Our products are developed with customized and evolved adeno-associated virus ( AAV ) vectors invented from our proprietary vector discovery platform, Therapeutic Vector Evolution ( TVE ) which was designed to generate vectors with properties that overcome the limitations of conventional AAV vectors. TVE applies the principles of directed evolution in non-human primate ( NHP ) models to select vectors that target tissues of diseases with high unmet need using routine and local routes of administration. We are focused on clinical-stage product candidates in retina and lung utilizing vectors invented with TVE and believe the clinical results to date validate the platform. Our lead product candidate 4D-150 utilizes our proprietary R100 vector and a transgene encoding anti-VEGF biologics (inhibitors of vascular endothelial growth factor): aflibercept (targeting VEGF-A, VEGF-B and placental growth factor) and an RNA interference (RNAi) approach targeting VEGF-C. The goal for our development and potential commercialization of 4D-150 is to transform the standard of care for large market retinal vascular diseases with a safe, in-office, and durable lifelong backbone therapy, substantially reducing treatment burden and improving long-term vision outcomes. 4D-150 is initially being developed for the treatment of wet age-related macular degeneration ( wet AMD ) and diabetic macular edema ( DME ). Our other pipeline programs include 4D-710, which we believe is the first known genetic medicine to demonstrate successful delivery and durable expression of the cystic fibrosis transmembrane conductance regulator ( CFTR ) transgene in the lungs of people with cystic fibrosis ("CF") and is currently in Phase 2 development. We believe these results will translate into durable clinical improvements in people with CF, including improved lung function and quality of life. We believe we are well positioned to discover, develop, manufacture and if approved, commercialize targeted genetic medicines with the potential to transform the lives of patients suffering from debilitating diseases. Our Product Candidate Pipeline & Strategy We have developed a pipeline of product candidates in two therapeutic areas, retina and pulmonology, focusing on disease areas of high unmet need and commercial potential. Our strategy focuses on advancing our lead product candidate 4D-150 through Phase 3 trials in wet AMD and DME and if successful, commercialization, while advancing our early-stage programs in retina and pulmonology through clinical proof-of-concept. We believe these product candidates are differentiated and can not only provide meaningful benefit to patients, but also are suitable for scalable, global adoption by physicians and payors. 
+1 
+Below is a summary of our product candidate pipeline: Retina Therapeutic Area Introduction We are developing product candidates to treat severe retinal diseases with our customized and evolved vector, R100. R100 was developed for in-office intravitreal injection to deliver transgene payloads to all major cell layers of the retina, with potentially lifelong transgene expression. We believe leveraging the same novel vector in multiple product candidates will increase product development efficiencies, decrease development risks and inform the clinical development of subsequent product candidates using the same vector. We believe our product candidates targeting large-market retina diseases such as wet AMD and DME have the potential to reshape the standard of care, resulting in substantial benefit for patients. Our lead retina product candidate 4D-150 is currently in Phase 3 development for wet AMD and is preparing to enter Phase 3 development in DME. Our second retina product candidate is 4D-175 for geographic atrophy and has an open IND. Further development for 4D-175 is currently pending financing, including potential strategic partnerships. 4D-150 for Wet AMD and DME Disease Background, Unmet Medical Need, and Target Patient Population Wet AMD is a highly prevalent disease with an estimated 5 million patients affected in the United States, major European markets, and Japan, and is expected to continue growing with the aging global population. Wet AMD is a type of macular degeneration where abnormal blood vessels (choroidal neovascularization or "CNV") grow into the macula, the central area of the retina. CNV causes swelling and edema of the retina, bleeding and scarring, which can result in visual distortion and reduced acuity. The proliferation and leakage of abnormal blood vessels is stimulated by protein members of the VEGF family, such as VEGF-A, -B, -C, and placental growth factor ( PIGF ). This process distorts and can potentially destroy central vision and may progress to blindness without treatment. 
+2 
+Diabetic eye disease (diabetic retinopathy
+
+## GEOGRAPHIC REVENUE
+ntsRecurringMember 2024-12-31 0001650648 us-gaap:MachineryAndEquipmentMember 2024-12-31 0001650648 fdmt:FacilitiesAndOtherResearchAndDevelopmentExpensesMember 2025-01-01 2025-12-31 0001650648 us-gaap:DomesticCountryMember 2024-12-31 0001650648 us-gaap:SalesRevenueNetMember fdmt:CustomerMember us-gaap:CustomerConcentrationRiskMember 2024-01-01 2024-12-31 0001650648 us-gaap:CommonStockMember 2024-12-31 0001650648 2024-01-01 2024-12-31 0001650648 us-gaap:CommonStockMember 2024-01-01 2024-12-31 0001650648 fdmt:CollaborationAndLicenseRevenueMember 2024-01-01 2024-12-31 0001650648 us-gaap:FairValueMeasurementsRecurringMember us-gaap:CashMember 2024-12-31 0001650648 us-gaap:CommonStockMember 2025-12-31 0001650648 country:JP 2025-01-01 2025-12-31 0001650648 2025-07-02 2025-07-02 0001650648 us-gaap:ResearchAndDevelopmentExpenseMember 2024-01-01 2024-12-31 0001650648 fdmt:DeferredRevenueMember fdmt:CysticFibrosisFoundationMember 2024-12-31 0001650648 us-gaap:CommonStockMember fdmt:TwoThousandTwentyFourFollowOnPublicOfferingMember 2024-02-29 0001650648 fdmt:FebrurayAndMarchTwoThousandAndTwentyFourPublicOfferingSaleMember us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-12-31 0001650648 us-gaap:FurnitureAndFixturesMember 2024-12-31 0001650648 fdmt:ReigniteAgreementMember srt:MaximumMember 2024-03-01 2024-03-31 0001650648 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2025-12-31 0001650648 fdmt:UCAgreementsMember srt:MaximumMember 2019-01-01 2019-01-31 0001650648 us-gaap:GeneralAndAdministrativeExpenseMember 2025-01-01 2025-12-31 0001650648 fdmt:CysticFibrosisFoundationMember us-gaap:CommonStockMember fdmt:FundingAgreementMember 2021-10-01 2021-10-31 0001650648 fdmt:DeferredRevenueMember fdmt:CysticFibrosisFoundationMember 2025-12-31 0001650648 fdmt:ReigniteAgreementMember 2025-01-01 2025-12-31 0001650648 us-gaap:RetainedEarningsMember 2025-12-31 0001650648 us-gaap:SalesRevenueNetMember fdmt:CustomerAMember us-gaap:CustomerConcentrationRiskMember 2024-01-01 2024-12-31 0001650648 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2024-12-31 0001650648 fdmt:TwoThousandTwentyEquityIncentiveAwardPlanAndTwoThousandTwentyFiveEmploymentInduceme
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,14 @@
+# NORTHERN TR CORP — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 73124
+# SIC: State Commercial Banks
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/73124/000007312426000016/ntrs-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+13 Item&#160;1B
+
+## GEOGRAPHIC REVENUE
+segment"> ntrs:segment ntrs:state ntrs:repaymentPeriod ntrs:security xbrli:pure ntrs:month ntrs:loan ntrs:derivative ntrs:trust iso4217:EUR ntrs:exchange_offer 0000073124 2025-01-01 2025-12-31 0000073124 us-gaap:CommonStockMember 2025-01-01 2025-12-31 0000073124 us-gaap:SeriesEPreferredStockMember 2025-01-01 2025-12-31 <xbrli:context i
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

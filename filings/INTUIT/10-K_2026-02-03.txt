@@ -1,0 +1,14 @@
+# INTUIT — 10-K Annual Report
+# Filed: 2026-02-03
+# CIK: 1035267
+# SIC: Orthopedic, Prosthetic & Surgical Appliances & Supplies
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1035267/000103526726000010/isrg-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+27 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment"> isrg:segment iso4217:EUR isrg:classActionComplaint isrg:quantitativeGoal isrg:period 0001035267 2025-01-01 2025-12-31 0001035267 2025-06-30 0001035267 2026-01-28 0001035267 isrg:SystemsMember 2025-01-01 2025-12-31 0001035267 2025-12-31 0001035267 2024-12-31 <xbrl
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

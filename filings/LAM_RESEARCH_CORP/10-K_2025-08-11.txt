@@ -1,0 +1,14 @@
+# LAM RESEARCH CORP — 10-K Annual Report
+# Filed: 2025-08-11
+# CIK: 707549
+# SIC: Special Industry Machinery, NEC
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)
+
+## RISK FACTORS (Item 1A)
+12 Item&#160;1B.
+
+## GEOGRAPHIC REVENUE
+segment"> lrcx:segment lrcx:primary_market lrcx:day lrcx:purchase_date lrcx:financial_institution lrcx:region lrcx:employee 0000707549 2024-07-01 2025-06-29 0000707549 2024-12-29 0000707549 2025-08-07 0000707549 2023-06-26 2024-06-30 0000707549 2022-06-27 2023-06-25 0000707549 2025-06-29</xbrli
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers during the fiscal years ending June&#160;29, 2025, June&#160;30, 2024, and June&#160;25, 2023 included Samsung Electronics Company, Ltd. and Taiwan Semiconductor Manufacturing Company. A material reduction in orders from our customers could adversely affect our results of operations and projected financial condition customer concentrations. Our most significant customers during the fiscal years ending June&#160;29, 2025, June&#160;30, 2024, and June&#160;25, 2023 included Samsung Electronics Company, Ltd. and Taiwan Semiconductor Manufacturing Company. A material reduction in orders from our customers could adversely affect our results of operations and projected financial condition

@@ -1,0 +1,14 @@
+# CONSOLIDATED EDISON INC — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 1047862
+# SIC: Electric & Other Services Combined
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1047862/000104786226000031/ed-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+43 Item&#160;1B:
+
+## GEOGRAPHIC REVENUE
+SegmentsNotDisclosedFlag" id="f-4556">NumberOfReportableSegmentsNotDisclosedFlag http://fasb.org/us-gaap/2025#Assets http://fasb.org/us-gaap/2025#Assets http://fasb.org/us-gaap/2025#Assets http://fasb.org/us-gaap/2025#Assets iso4217:USD xbrli:shares iso4217:USD xbrli:shares xbrli:pure ed:registrant ed:subsidiary utr:mi ed:project ed:building ed:people utr:MWh <xb
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

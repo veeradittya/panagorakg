@@ -1,0 +1,101 @@
+# APELLIS PHARMACEUTICALS INC — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 1492422
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1492422/000119312526065179/apls-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+5
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+44 
+Item 1B. 
+Unresolved Staff Comments 
+92 
+Item 1C. 
+Cybersecurity 
+92 
+Item 2. 
+Properties 
+93 
+Item 3. 
+Legal Proceedings 
+93 
+Item 4. 
+Mine Safety Disclosures 
+93 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+94 
+Item 6. 
+[Reserved] 
+95 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+96 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+109 
+Item 8. 
+Financial Statements and Supplementary Data 
+109 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+141 
+Item 9A. 
+Controls and Procedures 
+141 
+Item 9B. 
+Other Information 
+143 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+143 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+144 
+Item 11. 
+Executive Compensation 
+144 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+144 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+144 
+Item 14. 
+Principal Accountant Fees and Services 
+144 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+145 
+i 
+Table of Contents 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS AND INDUSTRY DATA This Annual Report on Form 10-K contains forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Annual Report on Form 10-K, including statements regarding our strategy, future operations, future financial position, future revenue, projected costs, prospects, plans and objectives of management and expected market growth are forward-looking statements. The words anticipate, believe, continue, could, estimate, expect, intend, may, plan, potential, predict, project, should, target, would and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. These forward-looking statements include, among other things, statements about: the ongoing commercialization of EMPAVELI and SYFOVRE; our plans with respect to our ongoing and planned clinical trials for our product candidates, and preclinical studies, whether conducted by us or our current or any future collaborators, including the timing of initiation, dosing of patients, enrollment and completion of these trials and expectations regarding the anticipated results from these clinical trials or preclinical studies; our sales, marketing and distribution capabilities and strategies, including for the commercialization and manufacturing of EMPAVELI, SYFOVRE and any future products for which we receive marketing approval; the rate and degree of market acceptance of EMPAVELI, SYFOVRE and any future products for which we receive marketing approval; our ability to identify and develop current and future products or product candidates with significant clinical benefits and commercial potential; the timing of and our ability to obtain and maintain regulatory approvals for our product candidates for current and future treatment indications in the U.S. and other jurisdictions; our current and any future collaborations for the development and commercialization of our current and future product candidates; our intellectual property position and strategy; the sufficiency of our cash and cash equivalents and our expected revenues from sales of EMPAVELI and SYFOVRE to fund our projected operating expenses and capital expenditures to profitability; our estimates regarding expenses, future revenue, capital requirements and needs for additional financing; developments relating to our competitors and our industry; the impact of general economic conditions, including inflation and the imposition of new or revised tariffs or other trade restrictions; and the impact of new government laws and regulations (including tax). We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements we make. We have included important factors in the cautionary statements included in this Annual Report on Form 10-K, particularly in the Risk Factors section, that could cause actual results or events to differ materially from the forward-looking statements that we make. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, collaborations, joint ventures or investments that we may make or enter into. You should read this Annual Report on Form 10-K and the documents that we have filed or incorporated by reference as exhibits to this Annual Report on Form 10-K completely and with the understanding that our actual future results may be materially different from what we expect. We do not assume any obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by applicable law. This Annual Report on Form 10-K includes statistical and other industry and market data that we obtained from industry publications and research, surveys and studies conducted by third parties. All of the market data used in this Annual Report on Form 10-K involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such data. We believe that the information from these industry publications, surveys and studies is reliable. The industry in which we operate is subject to a high degree of uncertainty and risk due to a variety of important factors, including those described in the section titled Risk Factors. 
+1 
+Table of Contents 
+These and other factors could cause results to differ materially from those expressed in the estimates made by the independent parties and by us. The Apellis, EMPAVELI, SYFOVRE and Apellis Assist names and logos are our trademarks, trade names and service marks. The other trademarks, trade names and service marks appearing in this Annual Report on Form 10-K are the property of their respective owners. Note Regarding Certain References in this Annual Report on Form 10-K Unless otherwise stated or the context indicates otherwise, all references herein to Apellis, Apellis Pharmaceuticals, Inc., we, us, our, our company, the Company and similar references refer to Apellis Pharmaceuticals, Inc. and its wholly owned subsidiaries. In addition, unless otherwise stated or the context indicates otherwise, all references in this Annual Report on Form 10-K to EMPAVELI (pegcetacoplan) and EMPAVELI refer to systemic pegcetacoplan in the context of the commercially available product in the United States for the treatment of adults with paroxysmal nocturnal hemoglobinuria, or PNH, C3 glomerulopathy, or C3G and primary immune complex membranoproliferative glomerulonephritis, or primary IC-MPGN, in patients 12 years of age and older. References to Aspaveli refer to pegcetacoplan in the context of the commercially available product in certain jurisdictions outside the United States for the treatment of adults with PNH who are anemic after treatment with a C5 inhibitor for at least three months, in each case, as more fully described herein. Unless otherwise stated or the context indicates otherwise, all references in this Annual Report on Form 10-K to SYFOVRE (pegcetacoplan injection) and SYFOVRE refer to intravitreal pegcetacoplan in the context of the commercially available product for the treatment of geographic atrophy secondary to age-related macular degeneration, or GA, and the Therapeutic Goods Administration in Australia in January 2025 for the every-other-month treatment of adult patients with GA with an intact fovea and when central vision is threatened by GA lesion growth. Unless otherwise stated or the context indicates otherwise, all references herein to pegcetacoplan refer to pegcetacoplan in the context of the product candidates for which we are exploring further applications and indications, as more fully described herein. The other trademarks, trade names and service marks appearing in this Annual Report on Form 10-K are the property of their respective owners. 
+2 
+Table of Contents 
+RISK FACTOR SUMMARY Our business is subject to a number of risks that if realized could materially affect our business, financial condition, results of operations, cash flows and access to liquidity. These risks are discussed more fully in the Risk Factors section of this Annual Report on Form 10-K. Our principal risks include the following: We have incurred significant losses since inception, and we may never achieve or maintain profitability. Our net income was $22.4 million for the year ended December 31, 2025, and our net losses were $197.9 million and $528.6 million for the years ended December 31, 2024 and 2023, respectively. We have obtained marketing approval for EMPAVELI for the treatment of paroxysmal nocturnal hemoglobinuria, or PNH, C3 glomerulopathy, or C3G, and primary immune complex membranoproliferative glomerulonephritis, or primary IC-MPGN, and SYFOVRE for the treatment of geographic atrophy secondary to age-related macular degeneration, or GA, in the United States and Australia. Our prospects depend upon the commercial success of SYFOVRE and EMPAVELI. If we are unable to successfully commercialize SYFOVRE and EMPAVELI for their approved indications or develop and obtain marketing approval for or successfully commercialize pegcetacoplan for other indications, either alone or through a collaboration, or if we experience significant delays in doing so, our business could be harmed. SYFOVRE is currently only approved in the United States and Australia. We cannot be certain that we will be able to obtain regulatory approval for, and successfully commercialize, SYFOVRE in additional jurisdictions. We or others may later discover that EMPAVELI or SYFOVRE is less effective than previously believed or causes safety issues that were not previously identified, which could compromise our ability, or that of our collaborators, to market the product or to obtain approval of the product for other indications. We expect to continue to incur significant expenses in the course of operating our business. If our cash and cash equivalents, and cash generated from sales of EMPAVELI and SYFOVRE, are not sufficient to fund our projected operating plans and capital expenditure requirements to profitability, we will need to obtain additional funding. If we are unable to raise capital when needed, we could be forced to delay, reduce or eliminate product development programs or delay or reduce our commercialization efforts. Patients with PNH, C3G or primary IC-MPGN who were previously untreated may not start treatment with EMPAVELI or patients who are being treated for these diseases with other treatments may not switch to treatment with EMPAVELI. Patients with GA may not be diagnosed or seek treatment with SYFOVRE, may elect to be treated with a competitor treatment, or may fail to comply with the treatment regimen over the progression of the disease. Current and future legislation may increase the difficulty and cost for us and our collaborators to obtain reimbursement of and commercialize our product candidates and affect the prices we, or they, may obtain. If we are not able to maintain our agreements with wholesale distributors, specialty pharmacy providers, third-party payors, pharmacy benefit managers and group purchasing organizations, or maintain our products on formularies, the market opportunity and revenue for our products may be adversely affected. EMPAVELI, SYFOVRE, or any other products that we develop may fail to achieve the degree of market acceptance by physicians, patients, third-party payors, and others in the medical community necessary for commercial success, in which case we may not generate significant revenues or become profitable. We face substantial competition, which may result in others discovering, developing or commercializing products before or more successfully than we do. In GA, we face competition from avacincaptad pegol. In PNH, we face competition from eculizumab, ravulizumab and iptacopan. We also face competition in C3G from iptacopan. We have incurred debt under our financing agreement with Sixth Street Lending Partners. Our business may not generate cash flows from operations in the future that are sufficient to service our debt and support our growth strategies. The regulatory approval process is expensive, time consuming and uncertain and may prevent us or our collaborators such as Swedish Orphan Biovitrum AB (Publ), or Sobi, from obtaining marketing approvals for systemic pegcetacoplan in indications other than PNH, C3G and primary IC-MPGN, intravitreal pegcetacoplan for indications other than GA or in jurisdictions other than the United States and Australia, or any other product candidate that we develop in any jurisdiction. As a result, we cannot predict when or if, and in which jurisdictions, we, or our collaborators, will obtain marketing approval for systemic pegcetacoplan in other indications, for intravitreal pegcetacoplan for GA in jurisdictions other than the United States and Australia or for any other product candidate that we develop in any jurisdiction. If we or our collaborators experience any of a number of possible unforeseen events in connection with conducting clinical trials of our product candidates, or experience delays or difficulties in the enrollment of patients in such clinical trials, the potential clinical development, marketing approval or commercialization of our product candidates could be delayed or prevented. 
+3 
+Table of Contents 
+If clinical trials of any of our product candidates fail to satisfactorily demonstrate safety and efficacy to the FDA, the European Medicines Agency, or EMA, and other regulators, we may incur additional costs or experience delays in completing, or ultimately be unable to complete, the development and commercialization of these product candidates. We contract with third parties for the manufacture, storage and distribution of commercial and clinical supply of EMPAVELI and SYFOVRE and clinical supply for our product candidates and expect to continue to do so in connection with our development and commercialization efforts. This reliance on third parties increases the risk that we will not have sufficient quantities of EMPAVELI, SYFOVRE, or our product candidates or that such quantities may be acquired at an acceptable cost, which could delay, prevent or impair our development or commercialization efforts. If these third parties do not perform satisfactorily, our development or commercializat
+
+## GEOGRAPHIC REVENUE
+cates otherwise, all references in this Annual Report on Form 10-K to EMPAVELI (pegcetacoplan) and EMPAVELI refer to systemic pegcetacoplan in the context of the commercially available product in the United States for the treatment of adults with paroxysmal nocturnal hemoglobinuria, or PNH, C3 glomerulopathy, or C3G and primary immune complex membranoproliferative glomerulonephritis, or primary IC-MPGN, in patients 12 years of age and older. References to Aspaveli refer to pegcetacoplan in the context of the commercially available product in certain jurisdictions outside the United States for the treatment of adults with PNH who are anemic after treatment with a C5 inhibitor for at least three months, in each case, as more fully described herein. Unless otherwise stated or the context indicates otherwise, all references in this Annual Report on Form 10-K to SYFOVRE (pegcetacoplan injection) and SYFOVRE refer to intravitreal pegcetacoplan in the context of the commercially available product for the treatment of geographic atrophy secondary to age-related macular degeneration, or GA, and the Therapeutic Goods Administration in Australia in January 2025 for the every-other-month treatment of adult patients with GA with an intact fovea and when central vision is threatened by GA lesion growth. Unless otherwise stated or the context indicates otherwise, all references herein to pegcetacoplan refer to pegcetacoplan in the context of the product candidates for which we are exploring further applications and indications, as more fully described herein. The other trademarks, trade names and service marks appearing in this Annual Report on Form 10-K are the property of their respective owners. 
+2 
+Table of Contents 
+RISK FACTOR SUMMARY Our business is subject to a number of risks that if realized could materially affect our business, financial condition, results of operations, cash flows and access to liquidity. These risks are discussed more fully in the Risk Factors section of this Annual Report on Form 10-K. Our principal risks include the following: We have incurred significant losses since inception, and we may never achieve or maintain profitability. Our net income
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of our market capitalization, but not to exceed $600.0 million. The Sixth Street Financing Agreement requires us to make certain payments of interest over time and contains several other negative covenants that, subject to certain exceptions, restrict indebtedness, liens, investments (including acquisitions), fundamental changes, asset sales and licensing transactions, dividends, modifications to material agreements, payment of subordinated indebtedness, and other matters customarily restricted in such agreements. Among other requirements of the Sixth Street Financing Agreement, we and our subsidiaries party to the Sixth Street Financing Agreement must maintain liquidity of at least $50.0 million if our market capitalization is below $3.0 billion. We are also subject to restrictions on sales and licensing transactions with respect to our core intellectual property, defined to include SYFOVRE, EMPAVELI, and other pegcetacoplan product assets, subject to certain exceptions, including certain transactions related to areas outside the United States and Europe. These and other terms in the Sixth Street Financing Agreement could restrict our ability to grow our business or enter into transactions that we believe would be beneficial to our business. Our ability to make scheduled payments of the principal of, to pay interest on or to refinance the Convertible Notes depends on our future performance, which is subject to economic, financial, competitive and other factors beyond our control. Our business may not generate cash flow from operations in the future sufficient to service the Convertible Notes. If we are unable to generate cash flow, we may be required to adopt one or more alternatives, such as selling assets, restructuring debt or obtaining additional equity capital on terms that may be unfavorable to us or highly dilutive. Our ability to refinance our indebtedness will depend on the capital markets and our financial condition at the time we seek to refinance su
+
+---
+Doc size: 2048KB (capped at 2MB)

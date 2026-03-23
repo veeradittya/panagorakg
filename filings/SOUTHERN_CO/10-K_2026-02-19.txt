@@ -1,0 +1,20 @@
+# SOUTHERN CO — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 92122
+# SIC: Electric Services
+# Source: https://www.sec.gov/Archives/edgar/data/92122/000009212226000006/so-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+(Not extracted)
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

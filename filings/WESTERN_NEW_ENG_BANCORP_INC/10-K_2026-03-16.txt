@@ -1,0 +1,20 @@
+# WESTERN NEW ENG BANCORP INC — 10-K Annual Report
+# Filed: 2026-03-16
+# CIK: 1157647
+# SIC: Savings Institution, Federally Chartered
+# Source: https://www.sec.gov/Archives/edgar/data/1157647/000199937126006029/wneb-10ka_123125.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+(Not extracted)
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

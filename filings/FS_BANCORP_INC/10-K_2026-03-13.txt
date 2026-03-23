@@ -1,0 +1,238 @@
+# FS BANCORP INC — 10-K Annual Report
+# Filed: 2026-03-13
+# CIK: 1530249
+# SIC: Savings Institutions, Not Federally Chartered
+# Source: https://www.sec.gov/Archives/edgar/data/1530249/000143774926008243/fsbw20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business: 
+3 
+General 
+3 
+Market Area 
+4 
+Lending Activities 
+4 
+Loan Originations, Servicing, Purchases and Sales 
+4 
+Asset Quality 
+13 
+Allowance for Credit Losses 
+14 
+Investment Activities 
+17 
+Deposit Activities and Other Sources of Funds 
+18 
+Subsidiary and Other Activities 
+21 
+Competition 
+21 
+Information about our Executive Officers 
+22 
+Human Capital 
+24 
+How We Are Regulated 
+24 
+Taxation 
+33
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+34 
+Item 1B. 
+Unresolved Staff Comments 
+46 
+Item 1C. 
+Cybersecurity 
+46 
+Item 2. 
+Properties 
+49 
+Item 3. 
+Legal Proceedings 
+50 
+Item 4. 
+Mine Safety Disclosures 
+50 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+50 
+Item 6. 
+Reserved 
+52 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+52 
+Overview 
+52 
+Critical Accounting Policies and Estimates 
+54 
+Our Business and Operating Strategy and Goals 
+56 
+Comparison of Financial Condition at December 31, 2025 and December 31, 2024 
+56 
+Average Balances, Interest and Average Yields/Costs 
+60 
+Rate/Volume Analysis 
+61 
+Comparison of Results of Operations for the Years Ended December 31, 2025 and December 31, 2024 
+61 
+Asset and Liability Management and Market Risk 
+65 
+Recent Accounting Pronouncements 
+69 
+Item 7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+69 
+Item 8. 
+Financial Statements and Supplementary Data 
+69 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+129 
+Item 9A. 
+Controls and Procedures 
+129 
+Item 9B. 
+Other Information 
+130 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdiction that Prevent Inspections 
+130 
+i
+Table of Contents 
+Page 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+130 
+Item 11. 
+Executive Compensation 
+131 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+131 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+132 
+Item 14. 
+Principal Accountant Fees and Services 
+132 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+133 
+Item 16. 
+Form 10-K Summary 
+133 
+SIGNATURES 
+134 
+When we refer to FS Bancorp in this report, we are referring to FS Bancorp, Inc. When we refer to Bank or 1st Security Bank in this report, we are referring to 1st Security Bank of Washington, the wholly owned subsidiary of FS Bancorp. As used in this report, the terms we, our, us, and Company refer to FS Bancorp, Inc. and its consolidated subsidiary, 1st Security Bank of Washington, unless the context indicates otherwise. 
+ii
+Table of Contents 
+Forward-Looking Statements 
+This Annual Report on Form 10 K contains forward-looking statements, which can be identified by the use of words such as believes, expects, anticipates, estimates, plans, intends, projects, or similar expressions. Forward-looking statements include, but are not limited to: 
+statements regarding our goals, intentions, and expectations; 
+statements regarding our business plans, prospects, growth, and operating strategies; 
+statements regarding the quality of our loan and investment portfolios; and 
+estimates of our risks and future costs and benefits. 
+These forward-looking statements are subject to significant risks and uncertainties. Actual results may differ materially from those contemplated by the forward-looking statements due to, among other things, the following factors: 
+adverse impacts on economic conditions in our local markets or other markets where we have lending relationships, or to other aspects of the Company s business operations; 
+effects of employment levels; labor shortages, persistent inflation, recessionary pressures or slowed economic growth; 
+changes in interest rate levels and volatility, and the timing and pace of such changes, including actions by the Board of Governors of the Federal Reserve System ( Federal Reserve ), which could adversely affect our revenues and expenses, the values of our assets and obligations, and the availability and cost of capital and liquidity; 
+the impact of inflation and related monetary and fiscal policy responses thereto, and their impact on consumer and business behavior; 
+geopolitical developments and international conflicts, or the imposition of new or increased tariffs and trade restrictions that may disrupt financial markets, global supply chains, commodity prices, or economic activity in specific industry sectors; 
+the effects of any government shutdown, debt ceiling standoff, or other fiscal policy uncertainty; 
+credit risks inherent in lending activities, including loan delinquencies, charge-offs, changes in our allowance for credit losses ( ACL ), and provisions for credit losses; 
+secondary market conditions and our ability to originate loans for sale and sell loans in the secondary market; 
+fluctuations in loan demand, unsold homes, and land and property values; 
+staffing fluctuations arising from product demand or corporate strategies; 
+use of estimates in determining the fair value of assets, which may prove incorrect; 
+increased competitive pressures among financial services companies; 
+our ability to execute our plans to grow our residential construction lending, our home lending operations, our warehouse lending, and the geographic expansion of our indirect home improvement lending; 
+our ability to attract and retain deposits; 
+our ability to successfully integrate any assets, liabilities, customers, systems, or management personnel we may acquire in the future into our operations, to realize related revenue synergies and cost savings within expected time frames, and the potential for resulting goodwill impairments; 
+our ability to control operating costs and expenses; 
+expectations regarding key growth initiatives and strategic priorities; 
+retention of key members of our senior management team; 
+1
+Table of Contents 
+changes in consumer spending, borrowing, and savings habits; 
+our ability to successfully manage our growth; 
+bank failures or adverse developments at other banks and related negative publicity about the banking industry in general on investor and depositor sentiment; 
+our ability to adapt to rapid technological changes, including advancements related to artificial intelligence, digital banking platforms, and cybersecurity; 
+legislation or regulatory changes including, but not limited to shifts in capital requirements, banking regulation, tax laws, or consumer protection laws; 
+our ability to pay dividends on our common stock; 
+quality and composition of our securities portfolio and the impact of any adverse changes in the securities markets; 
+changes in accounting policies and practices adopted by the bank regulatory agencies, the Public Company Accounting Oversight Board, or the Financial Accounting Standards Board ( FASB ); 
+costs and effects of litigation, including settlements and judgments; 
+vulnerabilities in our information systems or those of third-party service providers, including disruptions, breaches, or cyberattacks; 
+inability of key third-party vendors to perform their obligations to us; 
+effects of climate change, severe weather events, natural disasters, pandemics, epidemics and other public health crises, acts of war or terrorism, domestic political unrest, and other external events; 
+the potential for new or increased tariffs, trade restrictions or geopolitical tensions that could affect economic activity or specific industry sectors; 
+environmental, social and governance goals and targets; 
+other economic, competitive, governmental, bank regulatory, consumer and technical factors affecting our operations, pricing, products and services; and 
+other risks described elsewhere in this Annual Report on Form 10 K for the year ended December 31, 2025 (the Form 10 K ), and our other reports filed with or furnished to the Securities and Exchange Commission (the SEC ). 
+Any forward-looking statements in this Form 10 K and in other public statements may prove to be inaccurate because of incorrect assumptions, the factors described above, or other factors that we cannot foresee. Forward-looking statements are based on management s beliefs and assumptions as of the time they are made. The Company undertakes no obligation to update or revise any forward-looking statement included in this report or to update the reasons why actual results could differ from those contained in such statements, whether as a result of new information, future events or otherwise. In light of these risks, uncertainties and assumptions, the forward-looking statements in this report might not occur and you should not place undue reliance on any forward-looking statements. 
+Available Information 
+The Company provides a link on its investor information page at www.fsbwa.com to filings with the SEC for purposes of providing copies of its annual report on Form 10 K, quarterly reports on Form 10 Q, current reports on Form 8 K and amendments to these reports, as soon as reasonably practicable after we have electronically filed such material with, or furnished such material to the SEC. Other than an investor s own internet access charges, these filings are free of charge and available through the SEC s website at www.sec.gov. The information contained on the Company s website is not included as part of, or incorporated by reference into, this Annual Report on Form 10 K. 
+2
+Table of Contents 
+PART 1 
+Item 1. Business 
+General 
+FS Bancorp, a Washington corporation, was organized in September 2011 for the purpose of becoming the holding company of 1st Security Bank upon the Bank s conversion from a mutual to a stock savings bank ( Conversion ). The Conversion was completed on July 9, 2012. At December 31, 2025, the Company had consolidated total assets of $3.2 billion, total loans receivable, net of $2.62 billion, total deposits of $2.67 billion, and total stockholders equity of $307.7 million. The Company has not engaged in significant activities other than holding the stock of the Bank and providing capital to it through the debt and equity markets. Accordingly, the information set forth in this Form 10 K, including the consolidated financial statements and related data, relates primarily to the Bank. 
+1st Security Bank is a relationship-focused community bank dedicated to serving local families, regional businesses, and industry niches primarily within distinct Puget Sound and Pacific Northwest communities. The Bank prioritizes long-term relationships, working closely with customers to meet their financial needs while actively participating in community activities and events to further strengthen these connections. 
+1st Security Bank has been serving the Puget Sound area since 1907, including the period during which the predecessor to Anchor Bank, one of its banking acquisitions, was formed. The Bank was originally chartered as a credit union, under the name Washington s Credit Union and primarily served select employment groups. On April 1, 2004, the Bank converted from a credit union to a Washington state-chartered mutual savings bank. Upon completion of the Conversion in July 2012, 1st Security Bank became a Washington state-chartered stock savings bank and a wholly-owned subsidiary of the Company. 
+At December 31, 2025, the Company maintained its headquarters, which produces loans and accepts deposits, in Mountlake Terrace, Washington, and an administrative office in Aberdeen, Washington. The Bank also operates 27 full-service bank branches, of which 22 are located in Washington state and five in Oregon state, and 13 loan production offices in suburban communities in the greater Puget Sound and Pacific Northwest area. Among the 22 full-service branches in Washington, three are in Snohomish County, two in King County, two in Clallam County, two in Jefferson County, two in Pierce County, five in Grays Harbor County, two in Thurston County, two in Kitsap County, and two in Klickitat County. Furthermore, five full-service branches are located in Oregon: two in Lincoln County, two in Tillamook County, and one in Malheur County. Our 13 loan production offices include seven stand-alone offices: two in Pierce County, one in King County, one in Kitsap County, and one in Snohomish County in the Puget Sound region, as well as one in Benton County in Eastern Washington, and our newest office in Clark County, in Southwest Washington. 
+The Company is a diversified lender that specializes in originating various types of loans, including commercial real estate ( CRE ), multi-family, construction, one-to-four-family, and home equity loans, as well as consumer loans, such as indirect home improvement ( fixture secured loans ), and marine loans, along with commercial business loans. The Company s lending strategies aim to capitalize on new lending opportunities, arising from recent market consolidation, and focus on relationship lending. Retail deposits will remain a crucial funding source for the Company. For more detailed information about 1st Security Bank's business and operations, please refer to Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations in this Form 10 K. 
+The Company has strategically pursued acquisitions, including whole bank acquisitions and branch purchases, to expand its customer base and enhance its distribution network. On February 24, 2023, the Company completed its purchase of seven retail bank branches from Columbia State Bank (the Branch Acquisition ), adding approximately $425.5 million in deposits and $66.1 million in loans. The acquired branches are located in Goldendale and White Salmon, Washington, as well as Manzanita, Newport, Ontario, Tillamook, and Waldport, Oregon. The Branch Acquisition expanded our Puget Sound-focused retail footprint into southeastern Washington and Oregon, providing an opportunity to introduce its relationship-focused community banking model to these new markets. 
+1st Security Bank is examined and regulated by the Washington State Department of Financial Institutions ( DFI ), its primary regulator, and by the Federal Deposit Insurance Corporation ( FDIC ). 1st Security Bank is required to have certain reserves set by the Federal Reserve and is a member of the Federal Home Loan Bank of Des Moines ( FHLB or FHLB of Des Moines ), which is one of the 11 regional banks in the Federal Home Loan Bank System. 
+The principal executive offices of the Company are located at 6920 220th Street SW, Mountlake Terrace, Washington 98043 and the main telephone number is (425) 771-5299. 
+3
+Table of Contents 
+Market Area 
+As of December 31, 2025, the Company conducted operations from its headquarters, which provides both loan and deposit services, 13 loan production offices (seven of which were stand-alone), 27 full-service bank branches in the Puget Sound region of Washington, and various locations in Oregon. 
+The primary market area for business operations is the Seattle-Tacoma-Bellevue, Washington Metropolitan Statistical Area (the Seattle MSA ), which includes King and Pierce Counties. The broader Puget Sound region consists of nine counties: King, Pierce, Snohomish, Kitsap, Lewis, Skagit, Island, Thurston, and Mason. 
+The Puget Sound region is the largest business center in both the State of Washington and the Pacific Northwest. It
+
+## GEOGRAPHIC REVENUE
+verageMember 2023-12-31 
+0001530249 fsbw:SubordinatedNotesMember 2025-12-31 
+0001530249 fsbw:SubordinatedNotesMember 2024-12-31 
+0001530249 fsbw:SubordinatedNotesMember 2023-12-31 
+0001530249 us-gaap:DomesticCountryMember 2025-01-01 2025-12-31 
+0001530249 us-gaap:DomesticCountryMember 2024-01-01 2024-12-31 
+0001530249 us-gaap:DomesticCountryMember 2023-01-01 2023-12-31 
+0001530249 fsbw:OregonDepartmentOfRevenueMember 2025-01-01 2025-12-31 
+0001530249 fsbw:OregonDepartmentOfRevenueMember 2024-01-01 2024-12-31 
+0001530249 fsbw:OregonDepartmentOfRevenueMember 2023-01-01 2023-12-31 
+0001530249 fsbw:OtherStateDepartmentsOfRevenueMember 2025-01-01 2025-12-31 
+0001530249 fsbw:OtherStateDepartmentsOfRevenueMember 2024-01-01 2024-12-31 
+0001530249 fsbw:OtherStateDepartmentsOfRevenueMember 2023-01-01 2023-12-31 
+0001530249 us-gaap:RestrictedStockMember 2025-12-31 
+0001530249 us-gaap:RestrictedStockMember 2024-12-31 
+0001530249 us-gaap:EmployeeStockOptionMember 2025-12-31 
+0001530249 us-gaap:EmployeeStockOptionMember 2024-12-31 
+0001530249 us-gaap:StateAndLocalJurisdictionMember 2025-01-01 2025-12-31 
+0001530249 us-gaap:CommitmentsToExtendCreditMember us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:CommercialRealEstateMember 2025-12-31 
+0001530249 us-gaap:CommitmentsToExtendCreditMember us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:CommercialRealEstateMember 2024-12-31 
+0001530249 us-gaap:CommitmentsToExtendCreditMember us-gaap:CommercialRealEstatePortfolioSegmentMember fsbw:CommercialAndSpeculativeConstructionAndDevelopmentMember 2025-12-31 
+0001530249 us-gaap:CommitmentsToExtendCreditMember us-gaap:CommercialRealEstatePortfolioSegmentMember fsbw:CommercialAndSpeculativeConstructionAndDevelopmentMember 2024-12-31 
+0001530249 us-gaap:CommitmentsToExtendCreditMember us-gaap:CommercialRealEstatePortfolioSegmentMember srt:MultifamilyMember 2025-12-31 
+0001530249 us-gaap:CommitmentsToExtendCreditMember us-gaap:CommercialRealEstatePortfolioSegmentMember srt:MultifamilyMember 2024-12-31 
+0001530249 us-gaap:CommitmentsToExtendCreditMember us-gaap:CommercialRealEstatePortfolioSegmentMember 2025-12-31 
+0001530249 us-gaap:CommitmentsToExtendCreditMember us-ga
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the voting stock of a company that solely provides or reinsures directors and officers liability insurance coverage or bankers blanket bond group insurance coverage for insured depository institutions, and (4) acquiring or retaining the voting shares of a depository institution if certain requirements are met. 
+Dividends. Dividends from 1st Security Bank constitute a major source of funds for dividends in future periods that may be paid by FS Bancorp to shareholders. The amount of dividends payable by 1st Security Bank to FS Bancorp depends upon the Bank s earnings and capital position, and is limited by federal and state laws, regulations and policies. According to Washington law, 1st Security Bank may not declare or pay a cash dividend on its capital stock if it would cause its net worth to be reduced below (1) the amount required for liquidation accounts or (2) the net worth requirements, if any, imposed by the Director of the DFI. Dividends on 1st Security Bank s capital stock may not be paid in an aggregate amount greater than the aggregate retained earnings of 1st Security Bank, without the approval of the Director of the DFI. The Bank paid $24.0 million in dividends to the holding company in 2025. 
+29
+Table of Contents 
+The amount of dividends actually paid during any one period will be affected by 1st Security Bank s policy of maintaining a strong capital position. Federal law further limits and can prohibit dividends when an institution does not meet the capital conservation buffer requirement and provides that no insured depository institution may pay a cash dividend if it would cause the institution to be undercapitalized, as defined in the prompt corrective action regulations. Moreover, the federal bank regulatory agencies also have the general authority to limit the dividends paid by insured banks if such payments are deemed to constitute an unsafe and unsound practice. 
+Affiliate Transactions. FS Bancorp and 1st Security Bank are separate and di
+
+---
+Doc size: 2048KB (capped at 2MB)

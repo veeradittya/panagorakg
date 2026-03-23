@@ -1,0 +1,14 @@
+# ALLSTATE CORP — 10-K Annual Report
+# Filed: 2026-02-20
+# CIK: 899051
+# SIC: Fire, Marine & Casualty Insurance
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+21 Item 1B.
+
+## GEOGRAPHIC REVENUE
+segment"> all:segment xbrli:pure all:Segment all:state all:loan all:Contract all:contract all:counter-party all:claim all:reinstatement iso4217:CAD all:director 0000899051 2025-01-01 2025-12-31 0000899051 us-gaap:CommonStockMember exch:XNYS 2025-01-01 2025-12-31 0000899051 us-gaap:CommonStockMember <xbrldi:explicitMemb
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

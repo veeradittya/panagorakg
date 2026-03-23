@@ -1,0 +1,389 @@
+# LIFEWAY FOODS INC — 10-K Annual Report
+# Filed: 2026-03-17
+# CIK: 814586
+# SIC: Dairy Products
+# Source: https://www.sec.gov/Archives/edgar/data/814586/000168316826001886/lifeway_i10k-123125.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+6 
+Item 1B. 
+Unresolved Staff Comments 
+17 
+Item 1C 
+Cybersecurity 
+17 
+Item 2. 
+Properties 
+18 
+Item 3. 
+Legal Proceedings 
+18 
+Item 4. 
+Mine Safety Disclosures 
+18 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+19 
+Item 6. 
+[RESERVED] 
+19 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+1 9 
+Item 7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+28 
+Item 8. 
+Financial Statements and Supplementary Data 
+28 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+29 
+Item 9A. 
+Controls and Procedures 
+29 
+Item 9B. 
+Other Information 
+30 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions That Prevent Inspections 
+30 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+31 
+Item 11. 
+Executive Compensation 
+31 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+31 
+Item 13. 
+Certain Relationships and Related Transactions and Director Independence 
+31 
+Item 14. 
+Principal Accountant Fees and Services 
+31 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+32 
+Item 16. 
+Form 10-K Summary 
+34 
+Signatures 
+35 
+i 
+FORWARD LOOKING STATEMENTS 
+In connection with the safe harbor 
+provisions of the Private Securities Litigation Reform Act of 1995, readers are advised that this document, and any document incorporated
+by reference herein, may contain forward looking statements. Forward looking statements are subject to certain risks and uncertainties,
+which could cause actual results to differ materially from those indicated by the forward looking statements. These statements use words,
+variations of words, and negatives of words such as may, could, believe, future, 
+depend, expect, will, result, can, remain, assurance, 
+subject to, require, limit, impose, guarantee, restrict, 
+continue, become, predict, likely, opportunities, effect, 
+change, and estimate. Examples of forward looking statements include, but are not limited to, (i) projections
+of revenues, income or loss, earnings or losses per share, capital expenditures, dividends, capital structure and other financial items,
+(ii) statements of Lifeway Foods, Inc. s (which, together with its subsidiaries as the context requires, may be referred to as Lifeway ,
+the Company , our , we or us ) plans and objectives, including the introduction of
+new products, or estimates or predictions of actions by customers, suppliers, competitors or regulatory authorities, (iii) statements
+of future economic performance, and (iv) statements of assumptions underlying other statements and statements about the Company or its
+business. 
+Forward looking statements are based on management s
+beliefs, assumptions, estimates and observations of future events based on information available to our management at the time the statements
+are made and include any statements that do not relate to any historical or current fact. These statements are not guarantees of future
+performance and they involve certain risks, uncertainties and assumptions that are difficult to predict. Actual outcomes and results may
+differ materially from what is expressed, implied or forecast by our forward looking statements due in part to the risks, uncertainties,
+and assumptions that include: 
+the actions of our competitors and suppliers, including those related to price competition; 
+the actions and decisions of our customers or consumers; 
+our ability to successfully implement our business strategy; 
+changes in the pricing of commodities; 
+the effects of government regulation; 
+the impact of proposals to acquire the Company or actions taken by stockholders, including actions related to a possible acquisition of the Company; 
+disruptions to our supply chain, or our manufacturing and distribution capabilities, including those due to cybersecurity threats, wars or pandemics; and 
+the other risks and uncertainties that are set forth in Item 1, Business , Item 1A Risk Factors and Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations, and that are described from time to time in our filings with the U.S. Securities and Exchange Commission (the SEC ). 
+These factors are not necessarily all of the important
+factors that could cause actual results to differ materially from those expressed in any of our forward looking statements. Other unknown
+or unpredictable factors could also have material adverse effects on future results. We intend these forward looking statements to speak
+only at the date made. Except as otherwise required to be disclosed in periodic reports required to be filed by us with the SEC, we have
+no duty to update these statements, and we undertake no obligation to publicly update or revise any forward looking statements, whether
+as a result of new information, future events or otherwise. 
+ii 
+PART I 
+ITEM 1. BUSINESS 
+OVERVIEW 
+Lifeway was founded in 1986 by Michael Smolyansky,
+ten years after he and his family emigrated from Eastern Europe to the United States. Lifeway was the first to successfully introduce
+kefir to the U.S. consumer on a commercial scale, initially catering to ethnic consumers in the Chicago, Illinois metropolitan area. Lifeway
+has grown to become the largest producer and marketer of kefir in the U.S. and an important player in the broader market spaces of probiotic-based
+products and natural, better for you foods. 
+Unless otherwise noted herein, all amounts in
+this Form 10-K are in thousands, except per share numbers. 
+PRODUCTS 
+Our primary product is drinkable kefir, a cultured
+dairy product. Lifeway kefir is tart and tangy, high in protein, calcium and vitamin D. 
+We manufacture (directly or through co-packers)
+and market products under the Lifeway, Fresh Made and GlenOaks Farms brand names, as well as under private labels on behalf of certain
+customers. 
+Our product categories are: 
+Drinkable kefir, a cultured dairy product sold in a variety of organic
+and non-organic sizes, flavors, and milk types; 
+European-style soft cheeses, including farmer cheese, white cheese, and Sweet Kiss; 
+Cream and other, which consists primarily of cream, a byproduct of making our kefir; 
+Drinkable yogurt, sold in a variety of sizes and flavors; 
+ProBugs, a line of kefir products designed for children; 
+Other dairy, which consists primarily of Fresh Made butter and sour cream. 
+Net sales of products by category were as follows
+for the years ended December 31: 
+2025 
+2024 
+In thousands 
+$ 
+% 
+$ 
+% 
+Drinkable Kefir other than ProBugs 
+$ 181,423 
+85% 
+$ 153,493 
+82% 
+Cheese 
+16,571 
+8% 
+14,554 
+8% 
+Cream and other 
+8,693 
+4% 
+8,299 
+4% 
+Drinkable Yogurt 
+2,284 
+1% 
+5,619 
+3% 
+Probugs Kefir 
+2,214 
+1% 
+3,421 
+2% 
+Other dairy 
+1,311 
+1% 
+1,434 
+1% 
+Net Sales 
+$ 212,496 
+100% 
+$ 186,820 
+100% 
+1 
+Product innovation and new product development 
+Lifeway is committed to maintaining its position
+as the leading producer of kefir and a recognized leader in the market for probiotic products. We routinely evaluate opportunities for
+new product development, flavors and formulations, improved package design, new product configurations and other innovation avenues. Beyond
+our core drinkable kefir products, we have an ongoing effort to extend the strength of the Lifeway brand and leverage the capabilities
+of the Lifeway organization into fresh categories and into additional channels of trade, such as Convenience; Foodservice; Club; and Drug. 
+Lifeway considers research and development of
+new products to be a significant part of our overall business philosophy. Where possible, we leverage our existing staff and facilities
+to conduct our innovation, research, and development efforts, rather than maintaining a dedicated research and development staff and facilities
+or relying solely on third parties. 
+PRODUCTION 
+Manufacturing 
+During 2025 and 2024, approximately 95% and
+94% of our revenue, respectively, was derived from products manufactured at our own facilities. We currently operate the following
+manufacturing and distribution facilities: 
+Morton Grove, Illinois, which produces drinkable kefir and cheese products; 
+Waukesha, Wisconsin, which produces drinkable kefir products and from which we warehouse and distribute products; 
+Niles, Illinois, which stores and serves as a warehouse and distribution point for products; and 
+Philadelphia, Pennsylvania, which produces drinkable kefir, cheese, and other dairy products, from which we warehouse and distribute products. 
+All our fixed assets associated with manufacturing,
+storage, and distribution of our products are in the United States. 
+Co-Packers 
+In addition to the products manufactured in our
+own facilities, independent manufacturers ( co-packers ) manufacture some of our products. We have a co-packer agreement to
+manufacture drinkable yogurt and a small percentage of our Lifeway kefir product in California. We have a co-packer agreement to manufacture
+drinkable kefir in Ireland, to serve our European markets. During 2025 and 2024, approximately 5% and 6% of our revenue, respectively,
+was derived from products manufactured by co-packers. Our domestic co-packer is Safe Quality Food ( SQF ) certified and follows
+Good Manufacturing Practices ( GMPs ). Additionally, the co-packers are required to ensure our products are manufactured in
+accordance with our quality specifications and that they are compliant with all applicable laws and regulations. 
+SALES AND DISTRIBUTION 
+Sales Organization 
+We sell our products primarily through our direct
+sales force, brokers, and distributors. Our sales organization strives to cultivate strong, collaborative relationships with our customers
+that facilitate favorable shelf placement for our products, which we believe drives sales volumes when combined with our marketing efforts
+and our brand strength. Our relationships with food brokers provide additional customer coverage as a supplement to our direct sales force. 
+2 
+Distribution inside the United States 
+Lifeway s products reach the consumer through
+three primary route-to-market pathways: 
+Retail-direct; 
+Distributor; and 
+Direct store delivery ( DSD ). 
+Under the retail-direct channel, we sell our products
+to retailers and deliver products through either the retailers carriers or third-party carriers that deliver to such retailers 
+distribution centers. In turn, our retailers then deliver the products to their respective stores. Under the retail direct-model, optimal
+product merchandising, assortment and product presentation are attended to by the retailer. Sales to our retail-direct customers represent
+approximately 51% of our total net sales for the year ended 2025. 
+Under the distributor channel, we sell our products
+to distributors and deliver products through either the distributors carriers or third-party carriers that deliver to such distributors 
+designated warehouses. In turn, our distributors then sell and ship our products to their retail customers. Our distributors often use
+a DSD model of their own to make deliveries directly to individual stores, but they also make deliveries to retailers distribution
+centers. The distributor attends to optimal product merchandising, assortment, and product presentations at the retail end of the channel,
+with support from Lifeway s direct sales force and broker network. Sales to our distributor customers represent approximately 47%
+of our total net sales for year ended 2025. 
+Under the direct store delivery ( DSD )
+route to market, we sell our products to retailers and deliver it directly to the store using Company-owned vehicles and a team of Lifeway
+merchandisers who engage face-to-face with store management to ensure optimal product assortments and presentations. We operate our DSD
+model in the Chicago, Illinois metropolitan area only. Sales to our DSD customers represent approximately 2% of our total net sales for
+the year ended 2025. 
+Distribution outside of the U.S .
+Lifeway s primary market is the United States;
+however, certain distributors based in the United States sell our products to retailers in Mexico, portions of Central and South America,
+and the Caribbean. Additionally, Lifeway products reach consumers in France, Ireland, and the Middle East under third party co-manufacturing
+agreements and in-country broker and distributor arrangements. Sales distributed outside the United States represented 7% of net sales
+for the year ended 2025. 
+Channel- and Market-Specific Distribution and Broker Representation
+Arrangements 
+Lifeway s generally standardized agreements
+with independent distributors and food brokers allow us the latitude to establish new relationships as opportunities and needs arise.
+Where appropriate given the relationship, market, and business opportunity, we offer exclusive channels, markets, and/or territories to
+our distributors and brokers. 
+We provide our independent distributors with products
+at wholesale prices for distribution to their retail accounts. Lifeway believes that the prices at which we sell our products to distributors
+are competitive compared with the prices generally paid by distributors for similar products in the markets served. Due to the perishable
+nature of our products and the costs to return, we do not offer return privileges to any of our distributors or channel customers; however,
+from time to time we do provide our customers with allowances for non-saleable product. 
+Lifeway engages independent food brokers generally
+on a commission basis, subject in some cases to a minimum commission guarantee. The commissions vary based on the scope of services provided
+and customers served. Our brokers represent our products to a variety of prospective buyers. These buyers could be specialty stores, retail
+grocery chains, wholesalers, foodservice operators and distributors, drug chains, convenience stores, club stores, mass merchandisers,
+industrial users, schools and universities, or military installations. With support from our direct sales force, brokers may provide other
+value-added services. These may include scheduling and coordinating promotions, merchandising, centralized ordering, and data collection
+services. 
+3 
+MARKETING 
+We use a combination of sales incentives, trade
+promotions, and consumer promotions to market our products. 
+Sales Incentives and Trade Promotion
+Allowances 
+Lifeway offers various sales incentives and trade
+promotional programs to its retailer and distributor customers from time to time in the normal course of business. These sales incentives
+and trade promotion programs include rebates, in-store display and demo allowances, allowances for non-saleable product, every day low
+price ( EDLP ) coupons, and other trade promotional activities. Trade promotions support price features, displays, and other
+merchandising of our products by our retail and distributor c
+
+## GEOGRAPHIC REVENUE
+rmation, future events or otherwise. 
+ii 
+PART I 
+ITEM 1. BUSINESS 
+OVERVIEW 
+Lifeway was founded in 1986 by Michael Smolyansky,
+ten years after he and his family emigrated from Eastern Europe to the United States. Lifeway was the first to successfully introduce
+kefir to the U.S. consumer on a commercial scale, initially catering to ethnic consumers in the Chicago, Illinois metropolitan area. Lifeway
+has grown to become the largest producer and marketer of kefir in the U.S. and an important player in the broader market spaces of probiotic-based
+products and natural, better for you foods. 
+Unless otherwise noted herein, all amounts in
+this Form 10-K are in thousands, except per share numbers. 
+PRODUCTS 
+Our primary product is drinkable kefir, a cultured
+dairy product. Lifeway kefir is tart and tangy, high in protein, calcium and vitamin D. 
+We manufacture (directly or through co-packers)
+and market products under the Lifeway, Fresh Made and GlenOaks Farms brand names, as well as under private labels on behalf of certain
+customers. 
+Our product categories are: 
+Drinkable kefir, a cultured dairy product sold in a variety of organic
+and non-organic sizes, flavors, and milk types; 
+European-style soft cheeses, including farmer cheese, white cheese, and Sweet Kiss; 
+Cream and other, which consists primarily of cream, a byproduct of making our kefir; 
+Drinkable yogurt, sold in a variety of sizes and flavors; 
+ProBugs, a line of kefir products designed for children; 
+Other dairy, which consists primarily of Fresh Made butter and sour cream. 
+Net sales of products by category were as follows
+for the years ended December 31: 
+2025 
+2024 
+In thousands 
+$ 
+% 
+$ 
+% 
+Drinkable Kefir other than ProBugs 
+$ 181,423 
+85% 
+$ 153,493 
+82% 
+Cheese 
+16,571 
+8% 
+14,554 
+8% 
+Cream and other 
+8,693 
+4% 
+8,299 
+4% 
+Drinkable Yogurt 
+2,284 
+1% 
+5,619 
+3% 
+Probugs Kefir 
+2,214 
+1% 
+3,421 
+2% 
+Other dairy 
+1,311 
+1% 
+1,434 
+1% 
+Net Sales 
+$ 212,496 
+100% 
+$ 186,820 
+100% 
+1 
+Product innovation and new product development 
+Lifeway is committed to maintaining its position
+as the leading producer of kefir and a recognized leader in the market for probiotic products. We routinely evaluate oppor
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer, or a significant change in the marketplace including changes in
+the prices paid for its products or changes in the size of the market for its products. If an evaluation of the undiscounted cash flows
+indicates impairment, the asset is written down to its estimated fair value, which is generally based on discounted future cash flows.
+If the estimated remaining useful life of an intangible asset is changed, the remaining carrying amount of the intangible asset is amortized
+prospectively over the revised remaining useful life. 
+F- 8 
+Fair value measurements 
+Fair value is estimated by applying the following
+hierarchy, which prioritizes the inputs used to measure fair value into three levels and bases the categorization within the hierarchy
+upon the lowest level of input that is available and significant to the fair value measurement: 
+Level 1 Quoted prices in
+active markets for identical assets or liabilities. 
+Level 2 Observable inputs
+other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or similar assets or liabilities
+in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term
+of the assets or liabilities. 
+Level 3 Inputs that are
+generally unobservable and typically reflect management s estimate of assumptions that market participants would use in pricing
+the asset or liability. 
+Lifeway s financial assets and liabilities
+that are not carried at fair value on a recurring basis include cash and cash equivalents, accounts receivable, other receivables, accounts
+payable, accrued expenses and revolving line of credit for which carrying value approximates fair value. 
+The Company records its investments in equity
+securities without a readily determinable fair value at cost minus impairment, if any, plus or minus changes resulting from observable
+price changes in orderly transactions for the identical or a similar inv
+
+---
+Doc size: 1021KB (capped at 2MB)

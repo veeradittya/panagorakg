@@ -1,0 +1,20 @@
+# ETSY INC — 10-K Annual Report
+# Filed: 2026-02-19
+# CIK: 1370637
+# SIC: Services-Business Services, NEC
+# Source: https://www.sec.gov/Archives/edgar/data/1370637/000137063726000019/etsy-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors Part I - Financial Information 1 Item 1. Business 18 Item 1A. Risk Factors 47 Item 1B.
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of total revenue. The following table summarizes tangible long-lived assets by geographic area (in thousands): As of December 31, 2025 2024 United States $ 130,718 $ 146,410 All Other 22,939 22,288 Long-lived assets $ 153,657 $ 168,698 With the exception of the United States, no individual country s tangible long-lived assets exceeded 10% of total tangible long-lived assets. 88 Table of Contents Etsy, Inc. Notes to Consolidated Financial Statements Note 8 Fair Value Measurements As of December 31, 2025 and December 31, 2024 the Company s cash equivalents, short-term investments, and long-term investments primarily consisted of available-for-sale debt securities. These debt securities are measured at fair value and classified within Level 1 or Level 2 in the fair value hierarchy as the Company uses unadjusted quoted prices for identical assets in an active market that the Company has the ability to access (Level 1) or quoted market prices in markets that are not active or model derived valuations in which all significant inputs are observable in active markets (Level 2). As of December 31, 2025 and December 31, 2024 the Company s short-term and long-term investments also consisted of investments in loan receivables and in third-party managed funds. The investments in loan receivables are measured on an amortized cost basis and classified in Level 3 of the fair value hierarchy as the fair value is derived from techniques in which one or more significant inputs are unobservable. The investments in third-party managed funds are measured on the net assets value ( NAV ) basis as a practical expedient. NAV is primarily determined based on the information provided by external fund administrators for which the most recent financial information is typically received on a lag within the quarter following the Company s balance sheet date. These investments are intended to further the Company s impact strategy as part of its Impact Investment Fund. 89 Table of Contents Etsy,
+
+---
+Doc size: 2048KB (capped at 2MB)

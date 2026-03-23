@@ -1,0 +1,99 @@
+# SALLY BEAUTY HLDGS INC — 10-K Annual Report
+# Filed: 2025-11-13
+# CIK: 1368458
+# SIC: Retail-Retail Stores, NEC
+# Source: https://www.sec.gov/Archives/edgar/data/1368458/000119312525280122/sbh-20250930.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+BUSINESS 
+1
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+11 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+24 
+ITEM 1C. 
+CYBERSECURITY 
+24 
+ITEM 2. 
+PROPERTIES 
+26 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+28 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+28 
+PART II 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+29 
+ITEM 6. 
+[RESERVED] 
+30 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+31 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+38 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+39 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+39 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+39 
+ITEM 9B. 
+OTHER INFORMATION 
+41 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+41 
+PART III 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+42 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+42 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+42 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+43 
+ITEM 14. 
+PRINCIPAL ACCOUNTING FEES AND SERVICES 
+43 
+PART IV 
+ITEM 15. 
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+44 
+ITEM 16. 
+FORM 10-K SUMMARY 
+47 
+i 
+In this Annual Report, references to the "Company, SBH, our company, we, our, ours and us refer to Sally Beauty Holdings, Inc. and its consolidated subsidiaries unless otherwise indicated or the context otherwise requires. cautionary notice regarding forward-looking statements Statements in this Annual Report on Form 10-K and in the documents incorporated by reference herein that are not purely historical facts or that depend upon future events may constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). Words such as anticipate, believe, estimate, expect, intend, plan, project, target, can, could, may, should, will, would, might, anticipates or similar expressions may also identify such forward-looking statements. Readers are cautioned not to place undue reliance on forward-looking statements as such statements speak only as of the date they were made and involve risks and uncertainties that could cause actual events or results to differ materially from the events or results described in the forward-looking statements. The most important factors that could cause our actual results to differ from our forward-looking statements are set forth in our description of risk factors in Item 1A of this Annual Report on Form 10-K, which should be read in conjunction with the forward-looking statements in this report. Forward-looking statements speak only as of the date they are made, and we do not undertake any obligation to update any forward-looking statement. The events described in the forward-looking statements might not occur or might occur to a different extent or at a different time than we have described. As a result, our actual results may differ materially from the results contemplated by these forward-looking statements. 
+ii 
+PART I ITEM 1. B USINESS Our Company Sally Beauty Holdings, Inc. is a leading international specialty retailer and distributor of professional beauty supplies. As experts in hair color and care, we aim to empower our customers to express themselves through their hair and beyond. We operate two business segments that offer beauty products in key categories, including hair care, hair color, styling tools and nails. Sally Beauty ( Sally ) An omni-channel retailer that offers professional-quality beauty supplies at attractive prices and provides education to retail consumers and salon professionals throughout North America, South America and Europe. Sally operates primarily through retail stores (generally operating under the Sally Beauty banner) and digital platforms, including our www.sallybeauty.com website, a mobile commerce-based app, and third-party digital marketplaces. Beauty Systems Group ( BSG ) A leading full-service omni-channel distributor that offers professional beauty supplies exclusively to salons and licensed beauty professionals throughout the U.S. and Canada. These salon professionals primarily rely on just-in-time inventory due to capital constraints and limited warehouse and shelf space. BSG operates through company-operated stores (generally operating under the Cosmo Prof banner), franchised stores, salon business consultants ( SBCs ) and digital platforms, including our www.cosmoprofbeauty.com website, a mobile commerce-based app and chain portals. The breadth, depth and professional quality of our hair color and care assortment provides us with a differentiated core business in an industry which is otherwise fragmented. Due to our long history, brand heritage, product and process-specific knowledge and training of associates, we provide unmatched hair color and care expertise to consumers. We also have strong positioning with suppliers given our focus and economies of scale of purchasing. By operating in a variety of channels, we are able to reach broad, diversified geographies and customer segments using a variety of product assortments and tactics. Operating and Growth Strategy Our operating and growth strategy is guided by our vision to strengthen our position in our core category of professional hair color and capture growth opportunities across adjacent categories such as care, nails, and styling tools for both do-it-yourself ( DIY ) customers and professional stylists. Sally s differentiation is to offer a vast array of hair color, hair care, and nail solutions for in-home use, supported by the content and education we provide our customers. At BSG, we are the largest North American distributor of professional hair color and care, offering stylists and salons the most extensive portfolio of third-party brands in the market. As we continue to build on our momentum, we are sharpening our focus to further elevate differentiation and enhancing our strategic initiatives to support this, while continuing to drive growth and profitability. Understand and Activate the Customer As part of our strategic focus on deepening our relationships with our current customer base and expanding into new consumer markets, we are placing greater emphasis on personalization and bespoke customer journeys. Our DIY customers and professional stylists value the services, education and innovation we provide. We are focused on expanding our personalization experiences across all customer touchpoints, deepening our customer insights to drive the richness of the personalization decisioning and targeting, and strengthening our omni-channel communication and customer connections. We continue to build customer loyalty and appeal to new customers through our value-added services and concepts, including Licensed Colorist on Demand ( LCOD ) and Happy Beauty Co. Additionally, we are using technology to drive growth through personalization and refining our performance marketing tactics to ensure we remain in lockstep with evolving customer needs. Our current marketing strategy utilizes a variety of media channels to connect directly with customers, including e-mail, text messages, mobile app notifications, and digital and physical advertising, as well as content creators that educate and empower customers to feel confident about DIY hair and nail care. We are focused on elevating our marketing partnerships with brands to enhance reach, relevance, and mutual value creation. Our marketing programs highlight brand partners' products and their competitive promotional offers to excite and empower existing and potential customers. At the same time, we are driving greater marketing effectiveness 
+- 1 - 
+through the application of marketing mix modeling and the continued refinement of our brand messaging, ensuring that our campaigns are both impactful and aligned with our strategic goals. Unlock and Harvest Digital Value We plan to continue leveraging and enhancing our omni-channel business model that allows customers to shop in store, online, or through a hybrid approach such as our buy online, pick up in store ( BOPIS ) or 2-hour delivery options. Our online retail presence has grown to include digital marketplaces such as Amazon, Walmart.com, DoorDash, Uber Eats, and Instacart, and continues to benefit from the existing Sally Beauty app on iOS and Android. For BSG, we are focused on a substantial update to the BSG app and ecommerce platform during fiscal year 2026 that is designed to deliver improved user experience, enhanced personalization and modernized payment methods. We believe this will fuel long-term benefits, including higher conversion, increased retention and engagement, and enhanced brand loyalty. Additionally, we are further driving professional customer engagement via expansion of Cosmo Prof Institute and affiliate partnerships. Cosmo Prof Institute is our online education platform that gives stylists the opportunity to attend professional master classes while earning continuing education credits. Our internal Sally Beauty Associate Affiliate Program empowers our associates to share their unique expertise with customers on social media, fostering a community of inspiring, diverse creators who are using Sally merchandise for their DIY beauty, hair, nails, and self-expression. Differentiate with Product Assortment and Innovation At Sally, we believe our continued investment in owned brand growth and innovation will help us attract new customers and strengthen loyalty. Our owned brands are a key differentiator relative to competitors and we continued to expand our owned brand portfolio during the fiscal year. In addition, we brought to market many innovative products including the Ion 8 in 1 Airstyler and several nail care supplies in our Beauty Secrets brand. We also redesigned and refreshed our Texture ID, Inspired by Nature, and Ion Semi Brights brands. Going into next fiscal year, we are focused on expanding our owned brand offerings in our top categories of hair color, hair care and styling tools. In addition, starting in fiscal year 2026, we are adding a new fragrance category that we will offer in select Sally stores. At BSG, we launched new brands like K18, Goddess, Image Skincare and Unite and we continued testing stylist- and esthetician-focused brands; while expanding our distribution footprint for Color Wow, Amika, Moroccanoil and Verb. Going into next fiscal year, we are focused on increasing our distribution footprint through expanding high-profile brands, and bringing to market innovation across our key categories of hair care and hair color. Accelerate New Growth Pathways This fiscal year, we launched Sally Ignited, a comprehensive initiative encompassing both physical and digital refreshes, category and brand expansion, and immersive experiences focused on discovery and community. As part of the Sally Ignited program, we are pivoting Sally Beauty from a beauty supply house to a modernized specialty beauty retailer. At the end of the fiscal year, 30 stores in various markets throughout the U.S. have been refreshed or opened and we plan to expand Sally Ignited to 50 additional stores during fiscal year 2026. In these locations, we are prioritizing the customer journey and operational execution to deliver a superior in-store experience one that encourages discovery, inspires and engages. We are seeing an improved customer experience in the newly renovated stores as customers are spending more time in-store and cross-shopping categories at an increased rate, as evidenced by basket growth coming from nails, cosmetics and skin care. Additionally, we are seeing key indicators, including units per transaction and average ticket value, all trending above the rest of the fleet. We believe the new look, feel, navigation and merchandising strategy are driving the desired results. During the fiscal year, we continued testing our new Happy Beauty Co. store concept. Happy Beauty Co. is a unique new retail store concept that brings to market an engaging beauty experience with thousands of quality products at sharp price points in an accessible, fun and expressive environment. Leading up to the holiday season, we recently completed key merchandising updates and implemented new marketing tactics, including increased influencer engagement and messaging that highlights "Indie" brands, test-before-you-buy, dupes and value. We believe that coming out of the holiday season, we will be better positioned to understand the trajectory of the concept and the optimal path forward. 
+- 2 - 
+Efficiency and Optimization We are focused on profitability and driving operating efficiencies through our continued progress on our Fuel for Growth program ( FFG ). FFG is a strategic program aimed at optimizing operational efficiency and modernizing core business functions. Key actions under this initiative, such as transitioning to pooled distribution and adjusting store shipping frequencies, have resulted in meaningful transportation cost reductions and enhanced supply chain agility. During fiscal 2025, the work encompassed vendor pricing negotiations, sourcing, supply chain, best cost location and non-trade spend, where we have carried out deep dives and are extracting value. We believe focusing in these areas will position our company for future growth, further enhance our ability to meet our customers where they are and help us attract new customers. Store Design and Locations Sally Beauty Sally has retail stores in the U.S. (including Puerto Rico), Canada, Mexico, the United Kingdom, Ireland, Belgium, France, Germany, the Netherlands, and Chile. Stores are designed to highlight our extensive product offerings and differentiated position in hair color, hair care, styling tools and nails. We apply strong category management processes, including store specific planograms, to maintain consistent merchandise presentation across our store base. In the U.S. and Canada, our average store offers an average of 7,000 beauty products and is approximately 1,700 square feet in size. Stores are typically located in strip shopping centers, which are occupied by other high-traffic retailers such as grocery stores, mass merchants and home improvement centers. Store formats, including average size and product selection, vary by marketplace to meet the needs of the local customer. As part of our strategic initiatives, we launched Sally Ignited, an initiative that includes a refresh of our store base to provide a better customer shopping experience. We calibrate store renewals, remodels and expansions between new and existing geographies. In existing marketplaces, we add stores to provide additional coverage and strategically close or relocate underperforming stores as necessary. In new marketpl
+
+## GEOGRAPHIC REVENUE
+in the event of a large-scale catastrophe or crisis. Currency exchange rate fluctuations could result in higher costs and decreased margins and earnings. Many of our products are sold outside of the United States. As a result, we conduct transactions in various currencies, which increases our exposure to fluctuations in foreign currency exchange rates relative to the U.S. dollar. Recently, 
+- 17 - 
+these foreign currencies have strengthened significantly against the U.S. dollar. Our international revenues and expenses are generally derived from sales and operations in foreign currencies, and these revenues and expenses could be affected by currency fluctuations, including amounts recorded in foreign currencies and translated into U.S. dollars for consolidated financial reporting. Currency exchange rate fluctuations could also disrupt the business of the independent manufacturers that produce our products by making their purchases of raw materials, transportation and freight more expensive and more difficult to finance. Foreign currency fluctuations could similarly have an adverse effect on our results of operations and financial condition. We are subject to risks related to our international operations. We operate on a global basis, and approximately 18% of our net revenues from continuing operations in fiscal year 2025 were generated outside the U.S. Our non-U.S. operations are subject to many risks and uncertainties, including those resulting from ongoing instability or changes in a country s or region s economic, regulatory, or political conditions, including inflation, recession, interest rate fluctuations, sovereign default risk and actual or anticipated military or political conflicts, labor market disruptions, sanctions, boycotts, new or increased tariffs, quotas, exchange or price controls, trade barriers, or other restrictions on foreign businesses, our failure to effectively and timely implement processes and policies across our diverse operations and employee base and difficulties and costs associated with complying with a wide variety of complex and potentially conflicting regulations across multiple jurisdictions. The presence of non-U.S. operation
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

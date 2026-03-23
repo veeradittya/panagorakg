@@ -1,0 +1,146 @@
+# NKARTA INC — 10-K Annual Report
+# Filed: 2025-03-26
+# CIK: 1787400
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1787400/000095017025045262/nktx-20241231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+29 
+Item 1B. 
+Unresolved Staff Comments 
+91 
+Item 1C. 
+Cybersecurity 
+91 
+Item 2. 
+Properties 
+92 
+Item 3. 
+Legal Proceedings 
+92 
+Item 4. 
+Mine Safety Disclosures 
+92 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+93 
+Item 6. 
+[Reserved] 
+93 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+94 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+103 
+Item 8. 
+Financial Statements and Supplementary Data 
+104 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+130 
+Item 9A. 
+Controls and Procedures 
+130 
+Item 9B. 
+Other Information 
+131 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+131 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+132 
+Item 11. 
+Executive Compensation 
+132 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+132 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+132 
+Item 14. 
+Principal Accountant Fees and Services 
+132 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+133 
+Item 16 
+Form 10-K Summary 
+137 
+Signatures 
+138 
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+This Annual Report on Form 10-K, and the information incorporated herein by reference, particularly in the sections captioned Business under Part I, Item 1, Risk Factors under Part I, Item 1A, and Management s Discussion and Analysis of Financial Condition and Results of Operations under Part II, Item 7, contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the "Securities Act"), and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). In some cases, you can identify forward-looking statements by the words anticipate, believe, continue, could, estimate, expect, intend, may, might, objective, ongoing, plan, predict, project, potential, should, will, or would, or the negative of these terms, or other comparable terminology intended to identify statements about the future. Examples of these forward-looking statements include, but are not limited to, statements concerning our financial and business performance, including our future funding requirements, our position, plans, strategies, and timelines (including initiation of further clinical trials and the availability of disclosure of clinical data from our clinical trials) for the continued and future clinical development and commercial potential of our product candidates and the therapeutic potential, accessibility, tolerability, advantages, and safety profile of NK cell therapies, including NKX019 for the treatment of autoimmune diseases. These statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to be materially different from the information expressed or implied by these forward-looking statements. In addition, these statements are based on our management s beliefs and assumptions and on information currently available to our management as of the date of this Annual Report on Form 10-K. While we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. Forward-looking statements are inherently subject to risks and uncertainties, some of which cannot be predicted or quantified. You should read the sections titled Risk Factor Summary below and Risk Factors set forth in Part I, Item 1A of this Annual Report on Form 10-K for a discussion of important factors that may cause our actual results to differ materially from those expressed or implied by our forward-looking statements, which such factors may be updated or supplemented from time to time by subsequent reports we file with the Securities and Exchange Commission (the "SEC"). As a result of these factors, we cannot assure you that the forward-looking statements in this Annual Report on Form 10-K will prove to be accurate. 
+Moreover, we operate in an evolving environment. New risk factors and uncertainties may emerge from time to time, and it is not possible for management to predict all risk factors and uncertainties. All of our forward-looking statements in this report are made only as of the date of this Annual Report on Form 10-K. Except as required by applicable law, we do not plan to publicly update or revise any forward-looking statements contained herein, whether as a result of any new information, future events, changed circumstances or otherwise. 
+You should read this Annual Report on Form 10-K, completely and with the understanding that our actual future results may be materially different from what we expect. We qualify all of our forward-looking statements by these cautionary statements. 
+i 
+RISK FACTOR SUMMARY 
+Below is a summary of material factors that make an investment in our common stock speculative or risky. Importantly, this summary does not address all the risks and uncertainties that we face. Additional discussion of the risks and uncertainties summarized in this risk factor summary, as well as other risks and uncertainties that we face, can be found under Cautionary Note Regarding Forward-Looking Statements and Part I, Item 1A, Risk Factors in this Annual Report on Form 10-K. The below summary is qualified in its entirety by those more complete discussions of such risks and uncertainties. You should consider carefully the risks and uncertainties described under Part I, Item 1A, Risk Factors in this Annual Report on Form 10-K as part of your evaluation of an investment in our common stock. 
+We have a limited operating history and do not have any products approved for sale . 
+We have incurred significant losses since our inception and we expect to continue to incur significant losses for the foreseeable future. 
+We have never generated revenue from product sales and may never achieve or maintain profitability. 
+We will require additional capital, which, if available, may cause dilution to our stockholders, restrict our operations or require us to relinquish rights to our product candidates. 
+Our business depends upon the success of our CAR NK-cell technology platform. 
+Utilizing CAR NK cells represents a novel therapeutic approach, and we must overcome significant challenges in order to develop, commercialize and manufacture our product candidates. 
+Clinical development involves a lengthy and expensive process with an uncertain outcome, and we may encounter substantial delays due to a variety of reasons outside our control. 
+Our business is highly dependent on the clinical success of our product candidates, and on the clinical success of NKX019, in particular, and we may fail to develop NKX019 and/or our other product candidates successfully or be unable to obtain regulatory approval for them. 
+Clinical data supporting the effectiveness of CD19-targeted cell therapies against autoimmune diseases are limited, and CD19-targeted CAR NK-cell therapies, such as NKX019, may not provide the same, or any, therapeutic benefit against B-cell mediated autoimmune diseases, or be competitive with respect to other CD19-targeted therapies for the treatment of autoimmune diseases. 
+Enrollment and retention of patients in clinical trials is an expensive and time-consuming process and could be delayed, made more difficult or rendered impossible by multiple factors outside our control. 
+Certain aspects of the function and production of CAR NK cells are currently unknown or poorly understood, and may only become known through further preclinical testing and clinical trials. Any potential re-engineering required may result in delays and additional expense. 
+The results of preclinical studies and early-stage clinical trials may not be predictive of future results. Interim, topline and preliminary data from our clinical trials may differ materially from the final data. Initial success in any clinical trials may not be indicative of results obtained when these trials are completed or in later stage trials. 
+If any of our product candidates, or any competing product candidates, demonstrate relevant, serious adverse events, we may be required to halt or delay further clinical development. 
+If we fail to compete effectively with academic institutions and other biopharmaceutical companies that develop similar or alternatives to cellular immunotherapy product candidates, our business will be materially adversely affected. 
+Our manufacturing process is novel and complex, and we may encounter difficulties in production, or difficulties with internal manufacturing, which would delay or prevent our ability to provide a sufficient supply of our product candidates for clinical trials or our products for patients, if approved. 
+ii 
+We rely on third parties to manufacture certain materials for use in the production of our product candidates, or may rely on third parties to manufacture certain of our product candidates in the future, which increases the risk that we will not have sufficient quantities of such materials or product candidates, or such quantities at an acceptable cost, which could delay, prevent or impair our development or commercialization efforts. 
+We are reliant on a sole supplier for certain steps of our manufacturing process. 
+Delays in commissioning and receiving regulatory approvals for our manufacturing facilities could delay our development plans and thereby limit our ability to develop our product candidates and generate revenues. 
+The optimal donor and manufacturing parameters for our product candidates have not been definitively established, which may hinder our ability to optimize our product candidates or to address any safety or efficacy issues that may arise. 
+If our license agreement with National University of Singapore and St. Jude Children s Research Hospital, Inc. is terminated, we could lose our rights to key components enabling our NK-cell engineering platform. 
+If any patent protection we obtain is not sufficiently robust, our competitors could develop and commercialize products and technology similar or identical to ours. 
+If any of our product candidates are approved for marketing and commercialization and we have not developed or secured marketing, sales and distribution capabilities, either internally or from third parties, we will be unable to successfully commercialize such products and may not be able to generate product revenue. 
+Our product candidates, including NKX019, could be subject to regulatory limitations following approval, if and when such approval is granted. 
+The market price for our common stock may be volatile, which could contribute to the loss of all or part of your investment. 
+Concentration of ownership of our shares of common stock among our existing executive officers, directors and principal stockholders may prevent new investors from influencing significant corporate decisions. 
+Computer system interruptions or security breaches of our information systems could significantly disrupt our product development programs and our ability to operate our business. 
+WEBSITE REFERENCES 
+In this Annual Report on Form 10-K, we make references to our website at www.nkartatx.com. References to our website through this Annual Report on Form 10-K are provided for convenience only and the content on our website does not constitute a part of, and shall not be deemed incorporated by reference into, this Annual Report on Form 10-K. 
+iii 
+PART I 
+Item 1. B usiness. 
+Overview 
+We are a clinical-stage biopharmaceutical company pioneering the development of allogeneic, off-the-shelf engineered natural killer ("NK") cell therapies. Our company was founded on the belief that engineered NK cell therapies can transform the lives of patients by offering therapies that are clinically meaningful, broadly accessible and unencumbered by the safety concerns often associated with other cell therapy approaches. Our lead pipeline program is NKX019, a chimeric antigen receptor-natural killer ("CAR NK") product candidate targeting the CD19 antigen for the treatment of patients with autoimmune diseases. Our CAR NK platform enables an on-demand, off-the-shelf approach involving scaled manufacturing to broaden patient access. We have developed proprietary technologies that enable us to generate an abundant supply of NK cells, increase NK-cell recognition of target antigens, enhance NK-cell fitness, and freeze, store, and thaw our engineered NK cells for off-the-shelf administration. NKX019 is allogeneic, which means it is produced using cells from a different person than the patient(s) being treated, and it is produced in quantity, then frozen and therefore available for treating patients without delay, unlike autologous cell therapies, which are derived from a patient s own cells and must be manufactured as needed for each patient. We believe that engineered NK cells have the potential to be effective and accessible therapies for autoimmune diseases and other diseases, be well tolerated, and avoid some of the toxicities observed with other cell therapies. 
+NKX019 is currently being studied in an ongoing Phase 1 clinical trial for lupus nephritis ("LN") and a Phase 1 clinical trial for systemic sclerosis ("scleroderma"), idiopathic inflammatory myopathy ("myositis"), and antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis ("AAV"). NKX019 is also being studied in an investigator-sponsored trial ("IST") at Columbia University Irving Medical Center for systemic lupus erythematosus ("SLE") and an IST led by researchers at the University of California, Irvine and the University of Kansas Medical Center in myasthenia gravis ("MG"). NKX019 was initially studied in a Phase 1 clinical trial for certain B-cell malignancies, along with NKX101, a CAR NK product candidate targeting cells that display NKG2D ligands, which was studied in a Phase 1 clinical trial for certain hematologic malignancies. Both oncology studies closed patient enrollment in 2023 and have been deprioritized to direct primary resources to the development of our lead pipeline program, NKX019, for the treatment of autoimmune diseases. 
+Our modular engineering platform builds on the distinctive biology of NK cells and their role in eradicating aberrant and pathologically transformed cells. Our process starts with mature NK cells derived from healthy donors. We build on the intrinsic ability of these immune cells to identify and kill transformed cells with cell engineering to further enhance their activity. This engineering involves inducing the expression of a chimeri
+
+## GEOGRAPHIC REVENUE
+31 0001787400 us-gaap:CommercialPaperMember us-gaap:ShortTermInvestmentsMember 2023-12-31 0001787400 us-gaap:ShortTermInvestmentsMember 2024-01-01 2024-12-31 0001787400 us-gaap:ResearchMember us-gaap:DomesticCountryMember 2024-01-01 2024-12-31 0001787400 us-gaap:ResearchMember us-gaap:StateAndLocalJurisdictionMember 2024-12-31 0001787400 nktx:FollowOnOfferingOfStockMember 2024-03-01 2024-03-31 0001787400 us-gaap:FairValueInputsLevel2Member us-gaap:ShortTermInvestmentsMember 2023-12-31 0001787400 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-01-01 2023-12-31 0001787400 2022-12-31 0001787400 nktx:ComputersAndSoftwareMember 2023-12-31 0001787400 us-gaap:RetainedEarningsMember 2024-01-01 2024-12-31 0001787400 us-gaap:CorporateDebtSecuritiesMember us-gaap:ShortTermInvestmentsMember 2024-12-31 0001787400 us-gaap:FairValueInputsLevel2Member nktx:LongTermInvestmentsMember 2024-12-31 0001787400 nktx:CarryForwardIndefinitelyMember us-gaap:StateAndLocalJurisdictionMember 2024-12-31 0001787400 us-gaap:USGovernmentAgenciesDebtSecuritiesMember us-gaap:ShortTermInvestmentsMember 2024-12-31 0001787400 us-gaap:FairValueInputsLevel2Member us-gaap:CommercialPaperMember us-gaap:ShortTermInvestmentsMember 2024-12-31 0001787400 us-gaap:CashEquivalentsMember us-gaap:FairValueInputsLevel1Member 2024-12-31 0001787400 srt:MinimumMember us-gaap:SubsequentEventMember 2025-03-26 2025-03-26 0001787400 us-gaap:AdditionalPaidInCapitalMember 2022-12-31 0001787400 us-gaap:FairValueInputsLevel2Member 2024-12-31 0001787400 us-gaap:MoneyMarketFundsMember us-gaap:FairValueInputsLevel1Member 2024-12-31 0001787400 srt:MinimumMember nktx:MaxcyteLicenseAgreementMember 2021-10-26 2021-10-26 0001787400 nktx:CommonStockOptionsMember 2024-01-01 2024-12-31 0001787400 srt:MinimumMember us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember 2024-12-31 0001787400 srt:MaximumMember 2024-01-01 2024-12-31 0001787400 us-gaap:EmployeeStockMember 2024-01-01 2024-12-31 0001787400 srt:MaximumMember 2024-12-31 0001787400 us-gaap:FairValueInputsLevel2Member us-gaap:ShortTermInvestmentsMember 2024-12-31 0001787400 nktx:ExpirationYearOneMember us-gaap:DomesticCountryMember 2024-12-31 0001787400 us-gaap:Subseq
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of our common stock can call special meetings of our stockholders; 
+establish an advance notice procedure for stockholder approvals to be brought before an annual meeting of our stockholders, including proposed nominations of persons for election to our board of directors; 
+provide that a majority of directors then in office, even though less than a quorum, may fill vacancies on our board of directors; 
+specify that no stockholder is permitted to cumulate votes at any election of directors; 
+expressly authorize our board of directors to modify, alter or repeal our bylaws; and 
+require supermajority votes of the holders of our common stock to amend specified provisions of our Certificate of Incorporation and bylaws. 
+These provisions, alone or together, could delay or prevent hostile takeovers and changes in control or changes in our management. 
+In addition, because we are incorporated in the State of Delaware, we are governed by the provisions of Section 203 of the Delaware General Corporation Law, which limits the ability of stockholders owning in excess of 15% of our outstanding voting stock to merge or combine with us. 
+Any provision of our certificate of incorporation or bylaws or Delaware law that has the effect of delaying or deterring a change in control could limit your opportunity to receive a premium for your shares of our common stock, and could also affect the price that some investors are willing to pay for our common stock. 
+Our certificate of incorporation includes a forum selection clause, which could limit our stockholders ability to obtain a favorable judicial forum for disputes with us. 
+Our Certificate of Incorporation provides that, subject to limited exceptions, the Court of Chancery of the State of Delaware (or, if no state court located within the State of Delaware has jurisdiction, the federal district court for the District of Delaware) will be the exclusive forum for any: 
+derivative action or proceeding brought on our behalf; 
+action
+
+---
+Doc size: 2048KB (capped at 2MB)

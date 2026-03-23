@@ -1,0 +1,150 @@
+# DOUGLAS DYNAMICS INC — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 1287213
+# SIC: Construction Machinery & Equip
+# Source: https://www.sec.gov/Archives/edgar/data/1287213/000143774926005316/plow20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+12 
+Item 1B. 
+Unresolved Staff Comments 
+23 
+Item 1C. 
+Cybersecurity 
+23 
+Item 2. 
+Properties 
+24 
+Item 3. 
+Legal Proceedings 
+24 
+Item 4. 
+Mine Safety Disclosures 
+24 
+PART II 
+26 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+26 
+Item 6. 
+[Reserved] 
+28 
+Item 7. 
+Management Discussion and Analysis of Financial Condition and Results of Operations 
+28 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+45 
+Item 8 . 
+Financial Statements and Supplementary Data 
+46 
+Item 9. 
+Changes In and Disagreements with Accountants on Accounting and Financial Disclosures 
+46 
+Item 9A. 
+Controls and Procedures 
+46 
+Item 9B. 
+Other Information 
+47 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+47 
+PART III 
+47 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+47 
+Item 11. 
+Executive Compensation 
+48 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+48 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+49 
+Item 14. 
+Principal Accounting Fees and Services 
+49 
+PART IV 
+49 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+49 
+Item 16 
+Form 10-K Summary 
+49 
+Exhibit Index 
+50 
+Signatures 
+53 
+Index to Consolidated Financial Statements 
+F-1 
+1
+Table of Contents 
+PART I 
+Forward Looking Statements 
+This Annual Report on Form 10 K contains forward looking statements made within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as anticipate, believe, intend, estimate, expect, continue, should, could, may, plan, project, predict, will and similar expressions are intended to identify forward looking statements. In addition, statements covering our future sales or financial performance and our plans, performance and other objectives, expectations or intentions are forward looking statements, such as statements regarding our liquidity, debt, planned capital expenditures, and adequacy of capital resources and reserves. Factors that could cause our actual results to differ materially from those expressed or implied in such forward looking statements include, but are not limited to: 
+Weather conditions, particularly lack of or reduced levels of snowfall and the timing of such snowfall, including as a result of global climate change; 
+Our ability to manage general economic, business and geopolitical conditions, including the impacts of natural disasters, labor strikes, global political instability, adverse developments affecting the banking and financial services industries, pandemics and outbreaks of contagious diseases and other adverse public health developments, or other significant decline in economic conditions; 
+Increases in the price of steel or other materials, including as a result of tariffs or inflationary conditions, necessary for the production of our products that cannot be passed on to our distributors; 
+Our inability to maintain good relationships with the original equipment manufacturers ( OEM ) with whom we currently do significant business; 
+The inability of our suppliers and OEM partners to meet our volume or quality requirements; 
+Increases in the price of fuel or freight; 
+The effects of laws and regulations and their interpretations on our business and financial conditions, including policy or regulatory changes related to climate change; 
+A significant decline in economic conditions; 
+Our inability to maintain good relationships with our distributors; 
+Lack of available or favorable financing options for our end users, distributors or customers; 
+Inaccuracies in our estimates of future demand for our products; 
+Our inability to protect or continue to build our intellectual property portfolio; 
+Our inability to develop new products or improve upon existing products in response to end user needs; 
+The effects of laws and regulations and their interpretations on our business and financial condition; 
+Losses due to lawsuits arising out of personal injuries associated with our products; 
+Factors that could impact the future declaration and payment of dividends or our ability to execute repurchases under our stock repurchase program; 
+Our inability to effectively manage the use of artificial intelligence; 
+Disruptions at our manufacturing facilities; 
+Our inability to compete effectively against our competition; and 
+Our inability to achieve the projected financial performance with the business of Venco Venturo Industries LLC and Venturo Truck Equipment Center LLC, (Venco Venturo), which we acquired in 2025, and unexpected costs or liabilities related to such acquisition. 
+We undertake no obligation to revise the forward looking statements included in this Annual Report on Form 10 K to reflect any future events or circumstances. Our actual results, performance or achievements could differ materially from the results expressed in, or implied by, these forward looking statements. Factors in addition to those listed above that could cause or contribute to such differences are discussed in Item 1A, Risk Factors of the Annual Report on Form 10 K. 
+2
+Table of Contents 
+Item 1. Business 
+Overview 
+Home to the best-selling brands in the industry, Douglas Dynamics, Inc. (the Company, we, us, our ) is North America's premier manufacturer and upfitter of commercial work truck attachments and equipment. For more than 75 years, the Company has been innovating products that enable end-users to perform their jobs more efficiently and effectively, providing opportunities for businesses to increase profitability. Our commitment to continuous improvement enables us to consistently produce high quality products and drive shareholder value. The Douglas Dynamics portfolio of products and services is separated into two segments: First, the Work Truck Attachments segment, which includes our operations that manufacture and sell snow and ice control attachments and other products sold under the FISHER , SNOWEX and WESTERN brands, and truck-mounted service cranes and dump hoists under the VENCO and VENTURO brands. Second, the Work Truck Solutions segment, which includes manufactured municipal snow and ice control products under the HENDERSON brand and the upfit of market leading attachments and storage solutions under the HENDERSON brand, and the DEJANA brand and its related sub-brands. For additional financial information regarding our reportable business segments, see Note 16 of the Notes to Consolidated Financial Statements of this report. 
+Within the Commercial Snow & Ice reporting unit in our Work Truck Attachments segment, we offer a broad product line of snowplows and sand and salt spreaders for light trucks that we believe to be the most complete line offered in the U.S. and Canadian markets. We also provide a full range of related parts and accessories, which generates an ancillary revenue stream throughout the lifecycle of our snow and ice control equipment. With the acquisition of Venco Venturo in 2025, we also provide truck-mounted service cranes and dump hoists, and related parts and accessories. For the years ended December 31, 2025, 2024 and 2023, 80%, 82% and 84% of our net sales in our Work Truck Attachments segment were generated from sales of snow and ice control equipment and truck-mounted service cranes and dump hoists, respectively, and 20%, 18% and 16% of our net sales in our Work Truck Attachments segment were generated from sales of parts and accessories, respectively. While we measure sales of parts and accessories separately from equipment, they are integrated with one another and are not separable. 
+We sell our snow and ice control products through a distributor network primarily to professional snowplowers who are contracted to remove snow and ice from commercial and residential areas. We have engendered exceptional customer loyalty for our products because of our ability to satisfy the stringent demands of our customers for a high degree of quality, reliability and service. As a result, we believe our installed base is the largest in the light truck market with over 500,000 snowplows and sand and salt spreaders in service. Because sales of snowplows and sand and salt spreaders are primarily driven by the need of our core end user base to replace worn existing equipment, we believe our substantial installed base provides us with a high degree of predictable sales over any extended period of time. 
+We believe that the Commercial Snow & Ice reporting unit within our Work Truck Attachments segment has the snow and ice control industry s most extensive distribution network worldwide, which consists of approximately 3,000 points of sale. Direct points of shipment are predominantly through North American truck equipment and lawn care equipment distributors. Many of our distributors are located throughout the snow belt regions in North America (primarily the Midwest, East and Northeast regions of the United States as well as all provinces of Canada). We have longstanding relationships with many of our distributors. We continually seek to grow and optimize our network by opportunistically adding high quality, well capitalized distributors in select geographic areas and by cross selling our industry leading brands within our distribution network. 
+3
+Table of Contents 
+Our Work Truck Solutions segment participates in the manufacture of municipal snow and ice control products and offers a complementary line of upfitting services and products. Our Work Truck Solutions products consist of truck and vehicle upfits where we attach component pieces of equipment, truck bodies, racking, and storage solutions with varying levels of complexity to a vehicle chassis, and which are typically used by end-users for work related purposes. Our Work Truck Solutions segment is a premier upfitter of Class 3 - 8 trucks and other commercial work vehicles. We also provide customized turnkey solutions to governmental agencies such as Departments of Transportation ( DOTs ) and municipalities. Additionally, we believe that our Work Truck Solutions segment is a leading specialized manufacturer of storage solutions for trucks and vans and cable pulling equipment for trucks. We believe we are a regional market leader in the truck and vehicle upfitting market. We believe that our Work Truck Solutions business possesses significant customer relationships comprised of approximately 2,700 customers across the truck equipment industry. We have longstanding relationships with many of our Work Truck Solutions customers. We continually seek to grow and strengthen our customer relationships by providing custom solutions to our customers evolving specialty upfit needs. We are able to serve our Work Truck Solutions customers needs through our bailment and floor plan agreements with original equipment vehicle manufacturers who supply truck chassis, on which we perform custom upfits for our customers. 
+We believe we are a leader in operational efficiency in our industries, resulting from our application of lean manufacturing principles, our vertical integration, and a highly variable cost structure. We continually seek to use lean principles to reduce costs and increase the efficiency of our manufacturing operations. During the year ended December 31, 2025 we developed products in one facility that we own in Rockland, Maine. We also lease twenty-four manufacturing, service and upfit facilities, located in Iowa, Illinois, Maine, Maryland, Michigan, Missouri, New Jersey, New York, Ohio, Pennsylvania, Rhode Island and Wisconsin. Furthermore, our manufacturing efficiency allows us to deliver desired products quickly to our customers, especially during times of sudden and unpredictable snowfall events when our customers need our products immediately. During the year ended December 31, 2024, the Company closed on a sale leaseback transaction with an unrelated third party. Under this transaction, the Company sold seven properties with a combined net book value of $21,852 for gross proceeds of $64,150, which was reduced by transaction costs of $5,494 for net cash proceeds of approximately $58,656. The properties in the sale leaseback transaction are comprised of three facilities located in Milwaukee, Wisconsin and four additional facilities located in each of Huntley, Illinois; Manchester, Iowa; Rockland, Maine; and Madison Heights, Michigan, totaling approximately 780,000 square feet of manufacturing and upfitting space. See Note 6 to our audited consolidated financial statements for additional information. 
+Our Industry 
+Work Truck Attachments Segment 
+Our Work Truck Attachments Segment participates in the snow and ice control equipment and work truck equipment industries in North America. These industries consist predominantly of domestic participants that manufacture their products in North America. The annual demand for snow and ice control equipment is driven primarily by the replacement cycle of the existing installed base, which is predominantly a function of the average life of a snowplow or spreader and is driven by usage and maintenance practices of the end user. We believe actively used snowplows are typically replaced, on average, every 9 to 12 years. 
+We believe that sales of both light and heavy duty snow and ice control equipment are driven primarily by the replacement cycle of the existing installed base, which is predominantly a function of the average life of a snowplow or spreader and is driven by usage and maintenance practices of the end user. The primary factor influencing the replacement cycle for snow and ice control equipment for light trucks is the level, timing and location of snowfall and ice events. Sales of snow and ice control equipment in any given year and region are most heavily influenced by local snowfall levels in the prior snow season. Heavy snowfall during a given winter causes equipment usage to increase, resulting in greater wear and tear and shortened life cycles, thereby creating a need for replacement equipment and additional parts and accessories. 
+While snowfall levels vary within a given year and from year to year, snowfall, and the corresponding replacement cycle of snow and ice control equipment, is relatively consistent over multi year periods. The following chart depicts aggregate annual and ten year (based on the typical life of our snowplows) rolling average of the aggregate snowfall levels in cities in snow belt states across the United States where we monitor snowfall levels from 1983 to 2025 (covering 66 cities and 26 states through 2022, and 81 cities and 35 states since 2023). As the chart indicates, since 1984, aggregate snowfall levels in any given rolling ten year period have been fairly consistent, ranging from 2,623 to 3,345 inches. The lowest rolling ten-year period occurred with the snow season ended March 31, 2025. 
+4
+Table of Contents
+
+## GEOGRAPHIC REVENUE
+isk Factors of the Annual Report on Form 10 K. 
+2
+Table of Contents 
+Item 1. Business 
+Overview 
+Home to the best-selling brands in the industry, Douglas Dynamics, Inc. (the Company, we, us, our ) is North America's premier manufacturer and upfitter of commercial work truck attachments and equipment. For more than 75 years, the Company has been innovating products that enable end-users to perform their jobs more efficiently and effectively, providing opportunities for businesses to increase profitability. Our commitment to continuous improvement enables us to consistently produce high quality products and drive shareholder value. The Douglas Dynamics portfolio of products and services is separated into two segments: First, the Work Truck Attachments segment, which includes our operations that manufacture and sell snow and ice control attachments and other products sold under the FISHER , SNOWEX and WESTERN brands, and truck-mounted service cranes and dump hoists under the VENCO and VENTURO brands. Second, the Work Truck Solutions segment, which includes manufactured municipal snow and ice control products under the HENDERSON brand and the upfit of market leading attachments and storage solutions under the HENDERSON brand, and the DEJANA brand and its related sub-brands. For additional financial information regarding our reportable business segments, see Note 16 of the Notes to Consolidated Financial Statements of this report. 
+Within the Commercial Snow & Ice reporting unit in our Work Truck Attachments segment, we offer a broad product line of snowplows and sand and salt spreaders for light trucks that we believe to be the most complete line offered in the U.S. and Canadian markets. We also provide a full range of related parts and accessories, which generates an ancillary revenue stream throughout the lifecycle of our snow and ice control equipment. With the acquisition of Venco Venturo in 2025, we also provide truck-mounted service cranes and dump hoists, and related parts and accessories. For the years ended December 31, 2025, 2024 and 2023, 80%, 82% and 84% of our net sales in our Work Truck Attachments segment were generated from sales of snow and ice cont
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer relationships comprised of approximately 2,700 customers across the truck equipment industry. We have longstanding relationships with many of our Work Truck Solutions customers. We continually seek to grow and strengthen our customer relationships by providing custom solutions to our customers evolving specialty upfit needs. We are able to serve our Work Truck Solutions customers needs through our bailment and floor plan agreements with original equipment vehicle manufacturers who supply truck chassis, on which we perform custom upfits for our customers. 
+We believe we are a leader in operational efficiency in our industries, resulting from our application of lean manufacturing principles, our vertical integration, and a highly variable cost structure. We continually seek to use lean principles to reduce costs and increase the efficiency of our manufacturing operations. During the year ended December 31, 2025 we developed products in one facility that we own in Rockland, Maine. We also lease twenty-four manufacturing, service and upfit facilities, located in Iowa, Illinois, Maine, Maryland, Michigan, Missouri, New Jersey, New York, Ohio, Pennsylvania, Rhode Island and Wisconsin. Furthermore, our manufacturing efficiency allows us to deliver desired products quickly to our customers, especially during times of sudden and unpredictable snowfall events when our customers need our products immediately. During the year ended December 31, 2024, the Company closed on a sale leaseback transaction with an unrelated third party. Under this transaction, the Company sold seven properties with a combined net book value of $21,852 for gross proceeds of $64,150, which was reduced by transaction costs of $5,494 for net cash proceeds of approximately $58,656. The properties in the sale leaseback transaction are comprised of three facilities located in Milwaukee, Wisconsin and four additional facilities located in each of Huntley, Illinois; Manchester, Iowa; Rock
+
+---
+Doc size: 2048KB (capped at 2MB)

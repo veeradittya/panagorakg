@@ -1,0 +1,103 @@
+# KALVISTA PHARMACEUTICALS INC — 10-K Annual Report
+# Filed: 2025-07-10
+# CIK: 1348911
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1348911/000095017025095011/kalv-20250430.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+22 
+Item 1B. 
+Unresolved Staff Comments 
+57 
+Item 1C. 
+Cybersecurity 
+57 
+Item 2. 
+Properties 
+58 
+Item 3. 
+Legal Proceedings 
+59 
+Item 4. 
+Mine Safety Disclosures 
+59 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+60 
+Item 6. 
+Reserved 
+60 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+61 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+67 
+Item 8. 
+Financial Statements and Supplementary Data 
+68 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+68 
+Item 9A. 
+Controls and Procedures 
+68 
+Item 9B. 
+Other Information 
+69 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+70 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+71 
+Item 11. 
+Executive Compensation 
+71 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+71 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+71 
+Item 14. 
+Principal Accounting Fees and Services 
+71 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+72 
+Item 16. 
+Form 10-K Summary 
+74 
+Signatures 
+75 
+Index to Consolidated Financial Statements 
+F- 1 
+2 
+PAR T I SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K contains forward-looking statements. All statements other than statements of historical fact are forward-looking statements for purposes of this Annual Report on Form 10-K. These forward-looking statements may include, but are not limited to, statements regarding our current and future nonclinical, preclinical and clinical development activities, macroeconomic conditions, including rising inflation and fluctuating interest rates, labor shortages, supply chain issues, uncertainty with respect to the federal debt ceiling and budget and potential government shutdowns related thereto and global regional conflicts, our future results of operations and financial position, business strategy, market size, potential growth opportunities, the efficacy and safety profile of our product candidates, expected timing and results of our clinical trials, and receipt and timing of potential regulatory designations, approval and commercialization of product candidates. In some cases, forward-looking statements may be identified by terminology such as believe, may, will, should, predict, goal, strategy, potentially, estimate, continue, anticipate, intend, could, would, project, plan, expect, seek and similar expressions and variations thereof. We have based these forward-looking statements largely on our current expectations and projections about future events and trends that we believe may affect our financial condition, results of operations, business strategy, short-term and long-term business operations and objectives and financial needs. These forward-looking statements are subject to a number of risks, uncertainties and assumptions, including those described in the Risk Factors section and elsewhere in this Annual Report on Form 10-K. Moreover, we operate in a very competitive and rapidly changing environment, and new risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties and assumptions, the forward-looking events and circumstances discussed in this report may not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. You should not rely upon forward-looking statements as predictions of future events. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, levels of activity, performance or events and circumstances reflected in the forward-looking statements will be achieved or occur. We undertake no obligation to update publicly any forward-looking statements for any reason after the date of this report to conform these statements to actual results or to changes in our expectations, except as required by law. As used in this Annual Report on Form 10-K, the terms KalVista, the Company, we, us, and our refer to KalVista Pharmaceuticals, Inc. and, where appropriate, its consolidated subsidiaries, unless the context indicates otherwise. 
+3 
+Item 1. B usiness. Overview Our Company We are a global biopharmaceutical company dedicated to developing and delivering life-changing oral therapies for individuals affected by rare diseases with significant unmet needs. On July 3, 2025, the U.S. Food and Drug Administration (the FDA ) approved our new drug application ( NDA ) for the use of EKTERLY (sebetralstat), a novel, orally delivered, small molecule plasma kallikrein inhibitor, for the treatment of acute attacks of hereditary angioedema ( HAE ) in adult and pediatric patients aged 12 years and older. EKTERLY (sebetralstat) is the first and only oral, on-demand therapy for HAE. The efficacy and safety of EKTERLY was established by the results from the phase 3 KONFIDENT clinical trial, published in the New England Journal of Medicine in May 2024. Based on data from KONFIDENT, together with confirmatory evidence from pharmacokinetic/pharmacodynamic studies, the 600 mg dose of EKTERLY (sebetralstat) was considered by the FDA to be the optimal dose and included in the approved labeling. The KONFIDENT clinical trial met all primary and key secondary endpoints and demonstrated a favorable safety profile. HAE attacks treated with 600 mg of sebetralstat achieved the primary endpoint of beginning of symptom relief significantly faster than placebo (p=0.0013 ) with a median time to beginning of symptom relief of 1.79 hours (CI 1.33, 2.27) as compared to 6.72 hours with placebo (CI 2.33, 12). Consistent with previous studies, sebetralstat was well-tolerated, with a safety profile similar to placebo. There were no patient withdrawals due to any adverse event and no treatment-related serious adverse events (SAEs) were observed. Treatment-related adverse event rates were 2.2% for 600 mg sebetralstat as compared to 4.8% for placebo. Primary and key secondary endpoints were analyzed in a fixed, hierarchical sequence and adjusted for multiplicity. Key secondary endpoints showed: Attacks treated with 600mg of sebetralstat achieved a significantly faster time to a reduction in attack severity from baseline, compared to placebo (p=0.0032); and Attacks treated with 600mg sebetralstat demonstrated a significantly faster time to complete attack resolution as compared to placebo (p 0.0001). Prior to the approval of EKTERLY (sebetralstat), all on-demand treatment options approved in the U.S. for HAE required intravenous or subcutaneous administration, which carries a significant treatment burden. Even with the use of long-term prophylaxis as a preventative therapy, most people living with HAE continue to have unpredictable attacks and require ready access to on-demand medication. We believe EKTERLY (sebetralstat) has the potential to fundamentally shift the manner in which HAE is managed, based upon extensive and continuing research conducted with patients, physicians and payers. Key Updates In August 2024, the European Medicines Agency ( EMA ) validated the submission of our Marketing Authorization Application ( MAA ) for sebetralstat. This application is currently being reviewed by the EMA s Committee for Medicinal Products for Human Use under the centralized licensing procedure for all 27 Member States of the European Union, as well as the European Economic Area ("EEA") countries Norway, Iceland and Liechtenstein. In September 2024, we announced MAA submissions to the regulatory authorities in the United Kingdom, Switzerland, Australia, and Singapore via the Access Consortium framework for which we have obtained a four-way sharing agreement by the Medicines and Healthcare product Regulatory Agency ("MHRA"), Swissmedic, the Therapeutic Goods Administration and Health Sciences Authority. The Access Consortium is designed to maximize regulatory collaboration across countries and support a timely review process. In January 2025, we announced that Japan s Ministry of Health, Labour and Welfare ( MHLW ) had granted sebetralstat orphan drug designation, and we also submitted an NDA for sebetralstat to that agency. To enable the broadest possible global availability of sebetralstat, if approved, we intend to engage commercial partners in certain international markets. Sebetralstat has received fast track and orphan drug designations from the FDA, orphan drug Designation from Japan s MHLW, as well as orphan drug designation and an approved Pediatric Investigational Plan from the EMA. In November 2023, sebetralstat was granted orphan drug status in Switzerland. In February 2024, the U.K. MHRA awarded the Innovation Passport for sebetralstat. 
+4 
+In November 2024, we, as guarantor, and KalVista Pharmaceuticals Limited, our wholly owned subsidiary (the Subsidiary ), entered into a Purchase and Sale Agreement the ( PSA ) with DRI Healthcare Acquisitions LP (the Purchaser ), an affiliate of DRI Healthcare Trust, pursuant to which the Subsidiary sold to the Purchaser the right to receive payments from the Subsidiary at a tiered percentage of future worldwide net sales of sebetralstat. Under the terms of the PSA, the Subsidiary received an upfront payment of $100.0 million in exchange for tiered payments on worldwide net sales of sebetralstat, as follows: 5.00% on annual net sales up to and including $500.0 million; 1.10% on annual net sales above $500.0 million and up to and including $750.0 million; and 0.25% on annual net sales above $750.0 million. The Subsidiary is entitled to a potential one-time sales-based milestone payment of $50.0 million if annual global net sales of sebetralstat meet or exceed $550.0 million in any calendar year before January 1, 2031. If sebetralstat is approved prior to October 1, 2025, the Subsidiary will have the option to receive a one-time payment of $22.0 million. If the Subsidiary chooses to receive this optional payment, the royalty rate on net sales up to and including $500 million will increase from 5.00% to 6.00%, and the sales-based milestone amount will increase from $50.0 million to $57.0 million. In April 2025, KalVista Pharmaceuticals Limited licensed commercialization rights in Japan to Kaken Pharmaceutical, Co., Ltd. for sebetralstat. We received an upfront payment of $11.0 million on June 20, 2025, with an additional payment of up to $11.0 million upon achievement of a regulatory milestone anticipated in early 2026. Beyond these payments, we are eligible for commercial milestone payments of up to $2.0 million, plus royalties based on the Japan National Health Insurance (NHI) price, with the royalty rate as a percentage of sales approximately in the mid-twenties. Our Strategy We are committed to developing better solutions for the unmet needs of patients. The key elements of our strategy include: Position EKTERLY (sebetralstat) to become a foundational therapy for HAE. We launched EKTERLY (sebetralstat) for the treatment of acute attacks of HAE after receiving FDA approval in July 2025. With clinical experience encompassing over 2,000 attacks spanning all locations and severity, EKTERLY (sebetralstat) is indicated for use at the earliest recognition of an HAE attack for patients 12 years and older. As the first oral on-demand treatment for HAE attacks, we believe EKTERLY (sebetralstat) with its effectiveness as a tablet compared to injectable treatment options, its ability to treat all attacks and to enable early treatment, provides a new and unique opportunity for patients and healthcare providers to revise their approach to HAE disease management. Through our present and future patient and healthcare provider outreach, we anticipate that awareness of EKTERLY s (sebetralstat) utility will create sustained and long-lasting demand. Provide access to sebetralstat globally through focused direct efforts and by entering commercialization agreements in certain locations. Outside the US, we intend to commercialize sebetralstat with internal sales and marketing capabilities in major markets within Europe and leverage the capabilities of partners to provide market access in other geographies, if approved. For example, in anticipation of receiving a decision on our marketing application in Germany and the UK in the second half of 2025, we are preparing internal sales and marketing teams. Similarly, we have recently announced commercialization partnerships for sebetralstat in Japan, where we anticipate a decision on our NDA in early 2026, and in Canada, through the efforts of our commercial partner. Develop a sustainable pipeline by employing our internal scientific expertise while also planning for growth by evaluating strategic opportunities to in-license or acquire best-in-class assets that complement our core strategy. Our scientific team has demonstrated the ability to design and formulate multiple drug candidate programs from a broad variety of chemical classes. Our initial focus is specifically on the development of oral plasma kallikrein inhibitors for HAE and Factor XIIa inhibitors for other indications. However, we believe our scientific capabilities also can be applied to develop other therapies for diseases with high unmet need. In addition, we seek to augment our internally developed pipeline projects by selectively and strategically acquiring pipeline assets that will add value to our portfolio. Our management team has decades of deep and expansive strategic expertise building new markets across rare disease, including HAE. We believe that this team, leveraging their experience, strong execution capabilities, and financial discipline, will enable the Company to continue to innovate and grow. 
+5 
+Plasma Kallikrein in HAE Plasma kallikrein is a serine protease enzyme that is a key mediator of inflammation and edema. The body modulates the downstream inflammatory effects of plasma kallikrein through a circulating inhibitor protein called C1-esterase inhibitor ( C1-INH ). Most patients with HAE have a genetic mutation that leads to C1-INH deficiency, which results in an inability to control activated plasma kallikrein in affected tissues. This excessive activation leads to inflammation, edema, and pain. The majority of the approved therapies in HAE today inhibit plasma kallikrein in some manner. Hereditary Angioedema Disease Overview HAE is a rare and potentially life-threatening genetic condition that occurs in about 1 in 35,000
+
+## GEOGRAPHIC REVENUE
+ructure, including, marketing infrastructure, market access capabilities, and a sales field force to reach the allergists and immunologists that account for approximately 90% of all HAE claims in the United States. Following approval of EKTERLY (sebetralstat) by the FDA in July 2025, we began active promotional and other commercial operations in the U.S. We believe that there are significant market opportunities for sebetralstat outside of the United States. In order to capitalize on such opportunities, we may build a commercial operations infrastructure, including, marketing infrastructure, market access capabilities, and a sales field force, where appropriate, and/or to otherwise seek collaborations with other companies. For example, and as described below in further detail, in April 2025, we entered into a License, Supply and Distribution Agreement (the Kaken Agreement ) with Kaken Pharmaceutical, Co., Ltd. ( Kaken ) pursuant to which we licensed exclusive commercialization rights in Japan to Kaken for sebetralstat (the Licensed Product ). In addition, on June 26, 2025, the Company entered into a Licensing Agreement with Pendopharm, a division of Pharmascience, Inc., pursuant to which we licensed the exclusive rights to manage the regulatory approval process and commercialization of sebetralstat in Canada. License, Supply and Distribution Agreement Kaken Agreement In April 2025, we entered into the Kaken Agreement with Kaken pursuant to which we have licensed exclusive commercialization rights in Japan to Kaken for the Licensed Product in exchange for a non-refundable upfront payment of $11.0 million, potential regulatory and sales milestone payments totaling approximately $13.0 million, and effective royalty payments in the mid-twenties that shall be payable for each unit of Licensed Product, which will reflect a percentage of the Japanese National Health Insurance price of the Licensed Product. 
+8 
+We are responsible for obtaining and maintaining all regulatory approvals, performing regulatory submissions for the Licensed Product in Japan and supplying the Licensed Product to Kaken. We retain manufacturing rights for the Licensed Product and are responsible
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of Part D enrollees prescription costs for brand drugs below the out-of-pocket limit, and 20% once the out-of-pocket limit has been reached. The IRA also extends enhanced subsidies for individuals purchasing health insurance coverage in ACA marketplaces through plan year 2025. The IRA permits the Secretary of HHS to implement many of these provisions through guidance, as opposed to regulation, for the initial years. Manufacturers that fail to comply with the IRA may be subject to various penalties, including significant civil monetary penalties. These provisions may be subject to legal challenges. For example, the provisions related to the negotiation of selling prices of high-expenditure single-source drugs and biologics have been challenged in multiple lawsuits brought by pharmaceutical manufacturers. Thus, while it is unclear how the IRA will be implemented, it will likely have a significant impact on the pharmaceutical industry and the pricing of EKTERLY (sebetralstat) or any future product candidates, if approved. On May 12, 2025, an Executive Order was issued that, among other things, required HHS, within 30 days, to establish and communicate to drug manufacturers most-favored-nation ( MFN ) price targets designed to bring drug prices for American patients in line with those in comparably developed nations. If significant progress towards MFN pricing is not achieved, the Executive Order requires HHS to propose a rulemaking to implement MFN pricing. It is uncertain what HHS will consider significant progress toward MFN pricing, or when that determination will be made. If HHS issues and finalizes a rule to implement MFN pricing, the rule is likely to mandate reduced prices in the U.S. of drugs, including our drugs, if approved, if they are also sold in comparator countries. Even if we do not market drugs in such countries, we would be indirectly affected if our drugs competed with drugs that were reduced by MFN pricing. At the state level, legislatures are i
+
+---
+Doc size: 2043KB (capped at 2MB)

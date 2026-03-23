@@ -1,0 +1,220 @@
+# PUMA BIOTECHNOLOGY INC — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 1401667
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/1401667/000143774926005891/pbyi20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+31 
+Item 1B. 
+Unresolved Staff Comments 
+58 
+Item 1C. 
+Cybersecurity 
+58 
+Item 2. 
+Properties 
+59 
+Item 3. 
+Legal Proceedings 
+59 
+Item 4. 
+Mine Safety Disclosure 
+62 
+Part II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+62 
+Item 6. 
+[Reserved] 
+63 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+64 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+73 
+Item 8. 
+Financial Statements and Supplementary Data 
+73 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+73 
+Item 9A. 
+Controls and Procedures 
+73 
+Item 9B. 
+Other Information 
+74 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+74 
+Part III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+74 
+Item 11. 
+Executive Compensation 
+74 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+74 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+74 
+Item 14. 
+Principal Accounting Fees and Services 
+74 
+Part IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+75 
+Item 16. 
+Form 10-K Summary 
+75 
+Exhibit Index 
+76 
+Signatures 
+80 
+Index to Consolidated Financial Statements 
+F-1 
+Table of Contents 
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS 
+This Annual Report contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). Any statements about our expectations, beliefs, plans, objectives, assumptions, future events or performance are not historical facts and may be forward looking. These forward-looking statements include, but are not limited to, statements about: 
+the commercialization of NERLYNX (neratinib) tablets ( NERLYNX ); 
+the development of our drug candidates, including when we expect to undertake, initiate and complete clinical trials of our drug candidates; 
+the anticipated timing of regulatory filings; 
+the regulatory approval of our drug candidates; 
+our use of clinical research organizations ( CRO ) and other contractors; 
+our ability to find collaborative partners for research, development and commercialization of potential products; 
+efforts of our sub-licensees to obtain regulatory approval and commercialize NERLYNX in areas outside the United States; 
+our ability to market any of our products; 
+our expectations regarding our costs and expenses; 
+our anticipated capital requirements and estimates regarding our needs for additional financing; 
+our ability to compete against other companies and research institutions; 
+our ability to secure adequate protection for our intellectual property; 
+our intention and ability to vigorously defend against any litigation to which we are or may become party; 
+our ability to in-license additional drugs; 
+our ability to attract and retain key personnel; and 
+our ability to obtain adequate financing on favorable terms or at all. 
+These statements are often, but not always, made through the use of words or phrases such as anticipate, estimate, plan, project, continuing, ongoing, expect, believe, intend and similar words or phrases. Accordingly, these statements involve estimates, assumptions and uncertainties that could cause actual results to differ materially from those expressed in them. Discussions containing these forward-looking statements may be found throughout this Annual Report, including the sections entitled Item 1. Business in Part I and Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations in Part II of this Annual Report. These forward-looking statements involve risks and uncertainties, including the risks discussed in the section entitled Item 1A. Risk Factors in Part I of this Annual Report that could cause our actual results to differ materially from those in the forward-looking statements. We undertake no obligation to update the forward-looking statements or to reflect events or circumstances after the date of this document, except as required by law. The risks discussed in this Annual Report should be considered in evaluating our prospects and future financial performance. 
+1
+Table of Contents 
+SUMMARY OF RISK FACTORS 
+Our business is subject to a number of risks of which you should be aware before making a decision to invest in our common stock, including those described in the section entitled Item 1A. Risk Factors in Part I of this Annual Report. These risks include, among others, the following: 
+While we have reported net income in recent years, we cannot assure that we will continue to do so and may not be able to maintain profitability. 
+We are currently a single product company with limited commercial sales experience. 
+We may not be able to successfully commercialize NERLYNX in the future. 
+We may not be able to secure additional financing on favorable terms, or at all, to meet our future capital needs and our failure to obtain additional financing when needed on acceptable terms, or at all, could force us to delay, limit, reduce or terminate our product development or commercialization efforts or other operations. 
+The terms of our Note Purchase Agreement place restrictions on our ability to operate our business and on our financial flexibility, and we may be unable to achieve the revenue necessary for us to incur additional borrowings under the Note Purchase Agreement or to satisfy the minimum revenue and cash balance covenants. 
+We have in-licensed alisertib, a drug candidate for which we have assumed all responsibility for global development and commercialization. Our development of alisertib will be expensive, lengthy and unpredictable, and any failure to successfully develop alisertib will have a material adverse effect on our business and financial position. 
+Interim, topline and preliminary data from our clinical trials that we announce or publish from time to time may change as more patient data become available and are subject to audit and verification procedures that could result in material changes in the final data. 
+NERLYNX, alisertib or other drug candidates may cause undesirable side effects or have other properties when used alone or in combination with other approved products or investigational new drugs that could delay or prevent their regulatory approval, limit the commercial profile of an approved label, or result in significant negative consequences following marketing approval, if any, as applicable. 
+We are in the early stages of development of alisertib, and we cannot be certain that we will be successful if we seek regulatory approvals for our drug candidates. 
+We have limited experience as a company in marketing or distributing pharmaceutical products. If we are unable to expand our marketing and sales capabilities in the commercialization of NERLYNX, our business, results of operations and financial condition may be materially adversely affected. 
+We are exposed to the risks associated with reliance on a direct sales force to commercialize NERLYNX in the United States. 
+Our NERLYNX commercialization efforts may fail to achieve the degree of market acceptance by patients and physicians necessary for commercial success. 
+We depe nd on a limited number of customers for a sig nificant amount of our total revenue, and if we lose any of our significant customers, our business could be harmed. 
+Even though the U.S. Food and Drug Administration ( FDA ) and the European Commission ( EC ) have granted approval of NERLYNX for the extended adjuvant treatment of certain patients with early stage, HER2-positive breast cancer and the FDA has granted approval for NERLYNX for the treatment of certain patients with metastatic HER2-positive breast cancer, the terms of the approvals may limit its commercial potential. 
+We are dependent on international third-party sub-licensees for the development and commercialization of NERLYNX in several countries outside the United States. The failure of these sub-licensees to meet their contractual, regulatory or other obligations could adversely affect our business. 
+We have no experience in drug formulation or manufacturing and rely exclusively on third parties to formulate and manufacture NERLYNX, alisertib and our other drug candidates, and any disruption or loss of these relationships could delay our development and commercialization efforts. 
+Our business, financial condition, results of operations and ongoing clinical trials have been, and could continue to be, harmed by the effects of public health emergencies or outbreaks of epidemics, pandemics or contagious diseases. 
+We rely significantly on information technology and any failure, inadequacy, interruption or security lapse of that technology, including any cybersecurity incidents, could harm us. 
+We depend significantly on in-licensed intellectual property, and the termination of these licenses would significantly harm our business and future prospects. 
+Our proprietary rights may not adequately protect our intellectual property and potential products, and if we cannot obtain adequate protection of our intellectual property and potential products, we may not be able to successfully market our potential products. 
+2
+Table of Contents 
+PART I 
+ITEM 1. 
+BUSINESS 
+Company Overview 
+Unless otherwise provided in this Annual Report, references to the Company, we, us, and our refer to Puma Biotechnology, Inc. and our wholly owned subsidiary. 
+We are a biopharmaceutical company that develops and commercializes innovative products to enhance cancer care and improve treatment outcomes for patients. We are currently commercializing NERLYNX, an oral version of neratinib, for the treatment of certain HER2-positive breast cancers. Additionally, we have in-licensed, and are responsible for global development and commercialization of, alisertib. Alisertib is a selective, small-molecule inhibitor of Aurora Kinase A that is designed to disrupt mitosis leading to apoptosis of rapidly proliferating tumor cells that are dependent on Aurora Kinase A. Prior to our licensing alisertib from a subsidiary of Takeda Pharmaceutical Company Limited ( Takeda ), alisertib was tested in over 1,300 patients who were treated across 22 company-sponsored trials resulting in a large, well-characterized clinical safety database. Based on information in this database, we believe alisertib has potential application in the treatment of a range of different cancer types, including hormone receptor-positive breast cancer, triple negative breast cancer and small cell lung cancer. We intend to pursue development of alisertib initially in small cell lung cancer and hormone receptor-positive breast cancer. 
+The following figure provides an overview of our commercial product and drug candidates. 
+* 
+EBC: Early breast cancer 
+** 
+MBC: Metastatic breast cancer 
+*** 
+HRc+: Hormone receptor-positive 
+**** 
+NSCLC: Non-small cell lung cancer 
+Neratinib 
+Breast cancer is the leading cause of cancer death among women worldwide, with approximately 2.3 million new cases reported each year and more than 670,000 deaths globally per year. Up to 20% of breast cancer tumors show over-expression of the HER2 protein. Women with breast cancer that over-expresses HER2, referred to as HER2-positive breast cancer, are at greater risk for disease progression and death than women whose tumors do not over-express HER2. Therapeutic strategies have been developed to block HER2 in order to improve the treatment of this type of breast cancer. Trastuzumab, pertuzumab, lapatinib, T-DM1, fam trastuzumab deruxtecan and tucatinib are all drugs that are used as single agents, in combination with other drugs and in combination with chemotherapy to treat patients with HER2-positive breast cancer at various stages. 
+3
+Table of Contents 
+Neratinib is a potent irreversible tyrosine kinase inhibitor ( TKI ) that blocks signal transduction through the epidermal growth factor receptors, HER1, HER2 and HER4. Based on pre-clinical studies and clinical trials to date, we believe that neratinib may offer an advantage over existing treatments that are used in the treatment of patients with HER2-positive breast cancer. We believe that by more potently inhibiting HER2 at a different site and acting via a mechanism different from other agents, neratinib may have therapeutic benefits in breast cancer patients who have been previously treated with these existing treatments, most notably due to its irreversible inhibition of the HER2 target enzyme. 
+NERLYNX, the commercial name for neratinib, is currently approved in the United States for two indications: the extended adjuvant treatment of adult patients with early stage HER2-overexpressed/amplified breast cancer following adjuvant trastuzumab-based therapy and for use in combination with capecitabine for the treatment of adult patients with advanced or metastatic HER2-positive breast cancer who have received two or more prior anti-HER2-based regimens in the metastatic setting. We also believe neratinib has potential clinical application in the treatment of several other cancers as well, including other tumor types that over-express or have a mutation in HER2 or epidermal growth factor receptor ( EGFR ), such as cervical cancer, lung cancer or other solid tumors. 
+We currently market NERLYNX in the United States using our direct specialty sales force consisting of approxima tely 35 sales specialists as of December 31, 2025. Our sales specialists are supported by an experienced sales leadership team consisting of regional managers and directors, as well as a commercial team of experienced professionals in marketing, access and reimbursement, managed markets, marketing research, commercial operations and sales force planning and management. Outside the United States, we have entered into exclusive sub-license agreements with third parties to pursue regulatory approval, if necessary, and commercialize NERLYNX, if approved. As of December 31, 2025, NERLYNX has received approval for the treatment of certain patients with extended adjuvant and/or metastatic HER2-positive breast cancer in more than 40 countries outside the United States, including the European Union ( EU ), China, Latin America, Australia, Canada, and Hong Kong. We are currently party to several sub-licenses in various regions outside the United States, including Europe (excluding Ukraine), Australia, Canada, China, Southeast Asia, Israel, South Korea, Russia and various countries and territories in Central America, South America, Africa and the Middle East. 
+Alisertib 
+In September 2022, we entered into an exclusive license agreement with Takeda to license the worldwide research and development and commercial rights to alisertib. Alisertib is an investigational, reversible, ATP-competitive inhibitor that is de
+
+## GEOGRAPHIC REVENUE
+tionsMember 2025-01-01 2025-12-31 
+0001401667 pbyi:ForecastedEarningsInUpcomingYearMember 2025-01-01 2025-12-31 
+0001401667 pbyi:StockBasedCompensationMember 2025-01-01 2025-12-31 
+0001401667 us-gaap:DomesticCountryMember 2025-12-31 
+0001401667 us-gaap:StateAndLocalJurisdictionMember 2025-12-31 
+0001401667 us-gaap:DomesticCountryMember us-gaap:ResearchMember 2025-12-31 
+0001401667 us-gaap:StateAndLocalJurisdictionMember us-gaap:ResearchMember 2025-12-31 
+0001401667 pbyi:AlabamaDepartmentOfRevenueMember 2025-01-01 2025-12-31 
+0001401667 us-gaap:CaliforniaFranchiseTaxBoardMember 2025-01-01 2025-12-31 
+0001401667 pbyi:IndianaDepartmentOfRevenueMember 2025-01-01 2025-12-31 
+0001401667 pbyi:KentuckyDepartmentOfRevenueMember 2025-01-01 2025-12-31 
+0001401667 us-gaap:NewYorkStateDivisionOfTaxationAndFinanceMember 2025-01-01 2025-12-31 
+0001401667 pbyi:PennsylvaniaDepartmentOfRevenueMember 2025-01-01 2025-12-31 
+0001401667 pbyi:SouthKoreanNationalTaxServiceMember 2025-01-01 2025-12-31 
+0001401667 2014-07-18 
+0001401667 2020-06-01 2020-06-30 
+0001401667 2021-09-01 2021-09-30 
+0001401667 pbyi:PfizerLicenseAgreementMember 2022-01-01 2022-12-31 
+0001401667 pbyi:PfizerLicenseAgreementMember 2023-03-31 
+0001401667 pbyi:TakedaMember 2022-10-31 
+0001401667 pbyi:TakedaMember 2022-01-01 2022-12-31 
+utr:D 
+0001401667 srt:MinimumMember pbyi:ClinicalTrialContractsMember 2025-01-01 2025-12-31 
+0001401667 srt:MaximumMember pbyi:ClinicalTrialContractsMember 2025-01-01 2025-12-31 
+0001401667 pbyi:ClinicalTrialContractsMember 2025-12-31 
+0001401667 pbyi:AstrazenecaLitigationMember us-gaap:SubsidiaryOfCommonParentMember 2021-09-22 2023-12-31 
+Table of Contents 
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+WASHINGTON, D.C. 20549 
+FORM 10-K 
+(Mark One) 
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+For the fiscal year ended December 31, 2025 
+or 
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+For the transition period from to 
+Commission File Number: 001-35703 
+PUMA BIOTECHNOLOGY, INC. 
+(Exact name of registrant as specified in its charter) 
+Delaware 77-0683487 
+(State or other jurisdiction of incorpora
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers, our business could be harmed. 
+Even though the U.S. Food and Drug Administration ( FDA ) and the European Commission ( EC ) have granted approval of NERLYNX for the extended adjuvant treatment of certain patients with early stage, HER2-positive breast cancer and the FDA has granted approval for NERLYNX for the treatment of certain patients with metastatic HER2-positive breast cancer, the terms of the approvals may limit its commercial potential. 
+We are dependent on international third-party sub-licensees for the development and commercialization of NERLYNX in several countries outside the United States. The failure of these sub-licensees to meet their contractual, regulatory or other obligations could adversely affect our business. 
+We have no experience in drug formulation or manufacturing and rely exclusively on third parties to formulate and manufacture NERLYNX, alisertib and our other drug candidates, and any disruption or loss of these relationships could delay our development and commercialization efforts. 
+Our business, financial condition, results of operations and ongoing clinical trials have been, and could continue to be, harmed by the effects of public health emergencies or outbreaks of epidemics, pandemics or contagious diseases. 
+We rely significantly on information technology and any failure, inadequacy, interruption or security lapse of that technology, including any cybersecurity incidents, could harm us. 
+We depend significantly on in-licensed intellectual property, and the termination of these licenses would significantly harm our business and future prospects. 
+Our proprietary rights may not adequately protect our intellectual property and potential products, and if we cannot obtain adequate protection of our intellectual property and potential products, we may not be able to successfully market our potential products. 
+2
+Table of Contents 
+PART I 
+ITEM 1. 
+BUSINESS 
+Company Overview 
+Unless otherwise provided in this Annu
+
+---
+Doc size: 2048KB (capped at 2MB)

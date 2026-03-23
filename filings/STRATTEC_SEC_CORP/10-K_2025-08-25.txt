@@ -1,0 +1,98 @@
+# STRATTEC SEC CORP — 10-K Annual Report
+# Filed: 2025-08-25
+# CIK: 933034
+# SIC: Motor Vehicle Parts & Accessories
+# Source: https://www.sec.gov/Archives/edgar/data/933034/000095017025111218/strt-20250629.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+2
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+8 
+Item 1B. 
+U nresolved Staff Comments 
+14 
+ITEM 1C. 
+C ybersecurity 
+14 
+Item 2. 
+Properties 
+14 
+Item 3. 
+Legal Proceedings 
+14 
+Item 4. 
+M ine Safety Disclosures 
+15 
+PART II 
+Item 5. 
+M arket for Registrant's Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities 
+16 
+Item 6. 
+[R eserved ] 
+16 
+Item 7. 
+M anagement's Discussion and Analysis of Financial Condition and Results of Operations 
+17 
+Item 7A. 
+Q uantitative and Qualitative Disclosures about Market Risk 
+21 
+Item 8. 
+F inancial Statements and Supplementary Data 
+22 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+45 
+Item 9A. 
+Controls and Procedures 
+45 
+Item 9B. 
+Other Information 
+47 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+47 
+PART III 
+Item 10. 
+Directors, Executive Officers, and Corporate Governance 
+48 
+Item 11. 
+Executive Compensation 
+48 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+48 
+Item 13. 
+Certain Relationships and Related Transactions and Director Independence 
+48 
+Item 14. 
+Principal Accounting Fees and Services 
+48 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+49 
+ITEM 16. 
+Form 10-K Summary 
+52 
+Signatures 
+53 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS In this Annual Report on Form 10-K for Strattec Security Corporation ("Strattec," "the Company," "we," "us," or "our"), statements that are not reported financial results or other historic information are "forward-looking statements." These forward-looking statements relate to, among other things, the Company's future financial position, business strategy, targets, projected sales, costs, income, capital expenditures, debt levels and cash flows, and plans and objectives of management for future operations. The use of words such as "may," "will," "expect," "intend," "estimate," "anticipate," "believe," "should," "project" or "plan" or similar terminology are generally intended to identify forward-looking statements. These forward-looking statements by their nature address matters that are, to different degrees, uncertain and are subject to risks, assumptions, and other factors, some of which are beyond the Company's control, that could cause actual results to differ materially from those expressed or implied by such forward-looking statements. The Company s operations and financial performance are subject to certain risks and uncertainties, including: an uncertain economic environment and inflationary conditions coupled with the cyclical nature of the automotive industry may adversely affect global vehicle production and demand for our products; we operate in a highly competitive market and technological developments within our sphere of offerings are rapidly evolving; changes in customer purchasing actions, warranty provisions and product recall policies could adversely affect our business, results of operations and financial condition; work stoppages within our operations or at the location of our key customers as a result of labor disputes could adversely impact our business, results of operations and financial condition; labor cost inflation or unionization efforts in Mexico, coupled with a shortage of skilled laborers in the United States, could increase our manufacturing expenses and impact production efficiency; changes in tariffs or international trade policies could adversely affect our results, particularly with respect to goods imported into the United States or produced under U.S. trade agreements such as the USMCA; delays and restrictions impacting the import of goods and components stemming from heightened security procedures or changes in policies implemented by the U.S. Government related to U.S.-Mexico border crossings could have a negative effect on our business; an increase in the volume and scope of product returns or customer cost reimbursement actions could adversely impact our business, results of operations and financial condition; our ability to manage changes in the costs of operations, warranty claims, adverse business and operational issues could be affected by a material global supply chain and logistics disruption; future shortages in the supply of semiconductor chips and other matters adversely impacting the timing, availability and costs of material component parts and raw materials for the production of our products could adversely affect our business, results of operations and financial condition; macroeconomic and geopolitical conditions, including regional conflicts, could adversely affect our business, results of operations and financial condition; interruptions to our information security management systems and cybersecurity incidents could adversely affect our business, results of operations and financial condition; and other matters including, but not limited to, the factors listed in the Risk Factors in Part I, Item 1A of this Annual Report on Form 10-K. Shareholders, potential investors and other readers are urged to consider these factors carefully in evaluating the forward-looking statements and are cautioned not to place undue reliance on such forward-looking statements. The forward-looking statements made herein are only made as of the date of this Form 10-K and the Company undertakes no obligation to update such forward-looking statements. 
+1 
+PAR T I I TEM 1. BUSINESS Overview Strattec, which has a history serving the automotive industry for over 100 years, was incorporated as a stand-alone company in 1995. Our Milwaukee, Wisconsin headquarters oversees operations in the United States and Mexico for a global customer base. Since the Company s inception, we have partnered with our customers to design and manufacture highly engineered products and solutions creating a broad range of innovative automotive access products. While primarily focused on key North American automotive original equipment manufacturers ( OEM ), we also provide our products globally to customers in both OEM and aftermarket channels. We believe that our engineering expertise, ability to deliver customized solutions and our quality and delivery performance are key advantages that differentiate the Company from its competitors and allow us to be a premier partner to our customers. Products As automotive vehicle security and safety demands continue to strengthen, our product portfolio is well positioned to meet our customers evolving needs. Our product offerings primarily relate to security and authorization solutions, as well as vehicle access systems. Security and authorization products include mechanical and electronically enhanced locks and keys, fobs, passive entry passive start systems, digital key, steering column and instrument panel ignition lock housings and related solutions. We established our leading market position with North American automotive customers initially with our legacy mechanical locks and keys. Our flexible and responsive service and our deep relationships with our customers have allowed us to deliver these products both directly to our OEM customers and through our differentiated service in the aftermarket channel. Our vehicle access product portfolio was derived from an acquisition in fiscal 2009 and includes power sliding doors, power tailgates and lift gate systems, as well as power deck lid systems. The products included in these highly-engineered systems include drivetrain mechanisms, complex latching mechanisms and electronic control units. These system offerings work together to provide our customers optimal performance through a deep understanding of mechanical, electrical and software architectures. We have leveraged our know-how between our lock and key products and our vehicle access solutions to also develop user-interface control products, which include steering wheel switches, controllers, e-shifters and paddle switches. We also provide door handles through our joint venture. These products leverage our deep manufacturing knowledge and understanding of automotive requirements to deliver high quality components, bringing together world-class injection mold and assembly capability with high quality paint processes. All of our products are safety critical, powertrain agnostic and are applicable for internal combustion, plug-in/hybrid or electric vehicles. Applications we serve require robust engineering partnership during the vehicle design cycle, which is typically three to five years ahead of start of production. Our engineering team works closely with our customers during the design phase to ensure our products meet specific vehicle platform requirements. Once our products are designed into an application, we are well positioned as the incumbent supplier for the life of the vehicle due to the high degree of customization and vehicle platform certification. We believe this is one of the reasons our products are rarely changed during a platform lifecycle which, in the case of the North American automotive industry, typically lasts five to seven years. Across our product lines, we have built strong platform and system competencies, including software development. This approach enables us to leverage our software and component technical capabilities to move with speed and agility and provide better package flexibility for easier integration into a variety of platforms for our customers. For example, we have elevated our key fob business with our digital key product which leverages our system and software capability to meet increasing security, software and packaging architecture needs. Our power access solutions products are designed from a core platform approach that allows us to leverage carry-over components within a system to move faster through the design phase and provide optimal package flexibility while meeting increasing vehicle safety and security needs. We believe we are at the forefront of emerging technology, collaborating with OEM product development and purchasing groups to provide cost-effective innovative solutions to the challenges facing our customers. 
+2 
+Customers We are a direct supplier to automotive and light truck OEMs, as well as other transportation industry OEMs. Our product mix varies by customer, with most customers sourcing multiple product categories from us. Direct sales to various OEMs (including Tier 1 suppliers) represented approximately 90% of our total sales for both fiscal 2025 and 2024. The remainder of our sales are to the OEM service channels, the aftermarket and sales of certain products to non-automotive customers. A significant portion of our annual sales are to General Motors Company, Ford Motor Company, and Stellantis. The products sold to these customers are model specific, fitting only certain defined applications. As such, we are highly dependent on these customers' ability to produce and sell vehicles which utilize our products. Sales to our customers are coordinated through direct sales personnel and supported by our program managers, application engineers and other product engineering personnel. In addition, we distribute our components and security products to the automotive aftermarket through authorized wholesale distributors, as well as other marketers and users of component parts. Our sales are generally based upon purchase orders issued by the OEMs and updated for volume adjustments through production releases. As such, we do not have a firm and definitive backlog of orders. Once awarded to supply products for a particular platform, we typically support those products for the life of the vehicle, which is normally five to seven years, though this term is not guaranteed. When we are the incumbent supplier for a given platform, we believe we have a competitive advantage in winning the replacement platform, although, future awards are not guaranteed. Product Engineering Focus Our product engineering activities, including research and development, are an essential part of our efforts to develop new or improved innovative products. Our product engineering, including the development of customized customer solutions, is accomplished in both the United States and Mexico. The development of new products, or enhancements to existing products, are the result of collaboration with customers. Our engineers and program managers follow a formalized product development process to streamline development and identify market requirements. Our advanced design and engineering capabilities contribute to the development of innovative and highly engineered products, maintain our technological leadership and enhance our ability to provide customers with unique customized solutions and products. We specialize in system, mechanical, electrical and software engineering and have advanced modeling and testing capabilities that allow us to meet the design and timing requirements from our customers. Patents, Tradename and Other Intellectual Property The development of new or improved technologies is critical to the execution of our business strategy. Currently-owned patents and patents obtained for new or improved technologies form an important basis for the Company's success and underpin the success of our research and development efforts. We have a policy of seeking patents on new products and improvements when appropriate. We also rely upon trade secret protection for our confidential and proprietary information. We maintain confidentiality agreements with our customers and key executives. In addition, we enter into confidentiality agreements with select suppliers, consultants and employees as appropriate to evaluate new products or business relationships relevant to our success. Intellectual property is of considerable importance to the manufacturing, marketing and sale of our products. However, we do not consider any single patent, trademark or other intellectual property to be material to our business as a whole, except for the Strattec tradename. Operations Substantially all of our products are manufactured at the facilities we own in the United States and Mexico. Many of the components used in our products are manufactured in our facility in Milwaukee, Wisconsin, which specializes in die casting, stamping and plating operations. We also operate in three production facilities in Juarez, Mexico. These facilities assemble finished products and have plastic injection molding capabilities, as well as printed circuit board manufacturing capability. Finally, our operations in our Leon, Mexico facility include plastic injection molding operations, a custom paint system and assembly operations. 
+3 
+Seasonal Nature of the Business Our principal operations are directly related to the automotive industry. Consequently, we have historically experienced seasonal fluctuations to the extent that automotive vehicle production slows, such as in the summer months when many customer plants close for m
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Significant Customers, Vehicle Content, Vehicle Models and Market Share In fiscal 2025, our three largest customers, General Motors Company, Ford Motor Company and Stellantis, accounted for 29%, 23% and 12%, respectively, of our annual sales, compared to 30%, 21% and 14%, respectively, in fiscal 2024. The contracts with these customers provide for meeting the customer s requirements for a particular vehicle model with our products. The contracts do not specify a quantity of parts to be supplied over the life of the vehicle, which averages approximately four to five years. Components for certain customer models may also be market tested annually. Therefore, the loss of any one of these customers, the early cancellation or breach by either party of a contract for a specific vehicle model, a reduction in vehicle content, the early cancellation of a specific vehicle model, technological changes or a significant reduction in demand for certain models could occur, and if so, could have a material adverse effect on our existing and future revenue, operating results, financial condition and cash flows. We also make investments in machinery and equipment used exclusively to manufacture products for specific customer programs. This machinery and equipment is capitalized and depreciated over the expected useful life of each respective asset. Therefore, the loss of any one of our major customers, the loss of specific vehicle models or the early cancellation of a vehicle model could result in impairment in the value of these assets. Production Slowdowns by Customers Our business depends on, and is directly affected by, the global automobile industry. Our major customers and many of their suppliers can be significantly impacted by unfavorable global economic and industry conditions. In the past, many of our major customers have instituted production cuts and shuttered plants in light of these unfavorable conditions which adversely impacts demand for our products during these slow
+
+---
+Doc size: 2048KB (capped at 2MB)

@@ -1,0 +1,36 @@
+# MKS INC. — 10-K Annual Report
+# Filed: 2026-02-24
+# CIK: 1049502
+# SIC: Industrial Instruments For Measurement, Display, and Control
+# Source: https://www.sec.gov/Archives/edgar/data/1049502/000119312526066820/mksi-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+3 
+PART I 
+Item 1. 
+Business 
+5 
+Item 1A. 
+Risk Factors 
+12 
+Item 1B. 
+Unresolved Staff Comments 
+35 
+Item 1C. 
+Cybersecurity 
+36
+
+## GEOGRAPHIC REVENUE
+ing operations, and product defects; risks associated with doing business internationally, including geopolitical conflicts, trade compliance, trade protection measures, such as import tariffs by the United States and/or retaliatory actions taken by other countries, regulatory restrictions on our products, components or markets, particularly the semiconductor market, and unfavorable currency exchange and tax rate fluctuations; conditions affecting the markets in which we operate, including intense competition, rapid technological and market changes, dependence on new product development, the ability to anticipate and meet customer demand, fluctuations in capital spending in the semiconductor, electronics manufacturing and automotive industries, and fluctuations in sales to our major customers; disruptions or delays from third-party service providers upon which our operations may rely; risks associated with the attraction and retention of key personnel; potential fluctuations in quarterly results; volatility of stock price; risks associated with chemical manufacturing and environmental regulation compliance; risks associated with artificial intelligence ( AI ); financial and legal risk management; and the other important factors described in Part I, Item 1A of this Annual Report on Form 10-K. We are under no obligation to, and expressly disclaim any obligation to, update or alter these forward-looking statements, whether as a result of new information, future events or otherwise, even if subsequent events cause our views to change. 
+2 
+SUM MARY OF RISK FACTORS Below is a summary of the principal factors that make an investment in MKS speculative or risky. This summary does not contain all of the information that may be important to you, and you should read the below summary in conjunction with the more detailed discussion of risks set forth under the heading Risk Factors in Part I, Item 1A of this Annual Report on Form 10-K. Strategic Transaction Risks As part of our business strategy, we have consummated and may continue to pursue acquisitions and other strategic transactions, which may be challenging and costly to identify and complete, disruptive to our busine
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer base and manufacturing presence, are comparatively less robust and may favor locally headquartered companies over foreign entities, potentially limiting our ability to enforce our IP rights there. The infringement, misappropriation, invalidation, circumvention, loss or expiration of any of our key patents could lead to a significant loss of sales of certain of our products and could materially affect our operating results. Seeking patent protection can be time consuming and expensive. There is no guarantee patents will be issued to us or be sufficient in scope or strength to provide meaningful protection or a commercial advantage to us. We may initiate claims, enforcement actions or litigation for infringement of our proprietary rights in order to determine the scope and validity of our proprietary rights or the proprietary rights of our competitors. We may also be subject to similar claims, enforcement actions or litigation, including counterclaims asserting the invalidity of our patents. In either case, these claims could result in costly litigation and the diversion of management and our technical personnel. Further, governments and courts are considering new issues in IP law with respect to work created by AI technology, which could result in different IP rights in development processes, procedures and technologies we may create with AI technology, which could have a material adverse effect on our business. Risks Related to Our Operations Supply chain disruptions and other manufacturing interruptions or delays have affected our ability to meet customer demand and have led to higher costs, while the failure to estimate customer demand accurately has resulted in excess or obsolete inventory, all of which has negatively impacted, and could in the future negatively impact, our business. Our business depends on the timely supply of products and services that meet the rapidly changing technical and volume requirements of our customers, which depen
+
+---
+Doc size: 2048KB (capped at 2MB)

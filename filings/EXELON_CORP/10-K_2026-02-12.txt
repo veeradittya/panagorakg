@@ -1,0 +1,14 @@
+# EXELON CORP — 10-K Annual Report
+# Filed: 2026-02-12
+# CIK: 1109357
+# SIC: Electric & Other Services Combined
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1109357/000110935726000018/exc-20251231.htm)
+
+## RISK FACTORS (Item 1A)
+20 ITEM&#160;1B.
+
+## GEOGRAPHIC REVENUE
+segment"> exc:Reportable_segment utr:mi utr:V exc:servicePeriod utr:MWh exc:day exc:mGPSite 0001109357 exc:PotomacElectricPowerCompanyMember 2025-01-01 2025-12-31 0001109357 2025-01-01 2025-12-31 0001109357 exc:AtlanticCityElectricCompanyMember 2025-01-01 2025-12-31 0001109357 exc:DelmarvaPowerandLightCompanyMember 2025-01-01 2025-12-31 </xbrli:
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

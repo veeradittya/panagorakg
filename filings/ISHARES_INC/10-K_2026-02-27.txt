@@ -1,0 +1,43 @@
+# ISHARES INC — 10-K Annual Report
+# Filed: 2026-02-27
+# CIK: 1278680
+# SIC: Commodity Contracts Brokers & Dealers
+# Source: https://www.sec.gov/Archives/edgar/data/1278680/000143774926006055/iau20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1A. Risk Factors. Consequently, all the forward-looking statements made in this report are qualified by these cautionary statements, and there can be no assurance that the actual results or developments the Sponsor anticipates will be realized or, even if substantially realized, will result in the expected consequences to, or have the expected effects on, the Trust s operations or the value of the shares issued by the Trust. Although the Sponsor does not make forward looking statements unless it believes it has a reasonable basis for doing so, the Sponsor cannot guarantee their accuracy. Neither the Trust nor the Sponsor is under any duty to update any of the forward-looking statements to conform such statements to actual results or to a change in the expectations or predictions. 
+Table of Contents 
+Table of Contents 
+Page 
+PART I 
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors. Consequently, all the forward-looking statements made in this report are qualified by these cautionary statements, and there can be no assurance that the actual results or developments the Sponsor anticipates will be realized or, even if substantially realized, will result in the expected consequences to, or have the expected effects on, the Trust s operations or the value of the shares issued by the Trust. Although the Sponsor does not make forward looking statements unless it believes it has a reasonable basis for doing so, the Sponsor cannot guarantee their accuracy. Neither the Trust nor the Sponsor is under any duty to update any of the forward-looking statements to conform such statements to actual results or to a change in the expectations or predictions. 
+Table of Contents 
+Table of Contents 
+Page 
+PART I 
+Item 1. 
+Business 
+1 
+Item 1A. 
+Risk Factors 
+8
+
+## GEOGRAPHIC REVENUE
+of the Trust s expenses will not bear any interest. 
+The Sponsor earned $124,023,218 for the year ended December 31, 2025. Each sale of gold by the Trust will be a taxable event to Shareholders. See United States Federal Income Tax Consequences --Taxation of U.S. Shareholders. 
+Deposit of Gold Issuance of Baskets 
+The Trust issues and redeems Shares on a continuous basis but only in Baskets of 50,000 Shares. Only registered broker-dealers who have entered into written agreements with the Sponsor and the Trustee (each, an Authorized Participant ) can deposit gold and receive Baskets in exchange. Upon the deposit of the corresponding amount of gold with the Custodian, and the payment of the Trustee s applicable fee and of any expenses, taxes or charges (such as stamp taxes or stock transfer taxes or fees), the Trustee will deliver the appropriate number of Baskets to the Depository Trust Company account of the depositing Authorized Participant. As of the date of this report, ABN AMRO Clearing USA LLC, Citigroup Global Markets, Inc., Deutsche Bank Securities Inc., Goldman Sachs & Co. LLC, HSBC Securities (USA), Inc., J.P. Morgan Securities LLC, Merrill Lynch Professional Clearing Corp., Morgan Stanley & Co. LLC, Scotia Capital (USA) Inc., SG Americas Securities, LLC, UBS Securities LLC and Virtu Americas LLC are the only Authorized Participants. The Sponsor and the Trustee maintain a current list of Authorized Participants. Gold deposited with the Custodian must meet the specifications for weight, dimensions, fineness (or purity), identifying marks and appearance of gold bars and as of January 1, 2020, must be produced by refiners that meet certain throughput and tangible net worth requirements as set forth in Good Delivery List Rules Conditions for Listing for Good Delivery Refiners published by the LBMA. 
+3
+Table of Contents 
+Before making a deposit, the Authorized Participant must deliver to the Trustee a written purchase order, or submit a purchase order through the Trustee s electronic order entry system, indicating the number of Baskets it intends to acquire and the location or locations where it expects to make the corresponding deposit of gold with the Cus
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 824KB (capped at 2MB)

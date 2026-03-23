@@ -1,0 +1,20 @@
+# WILLIAMS SONOMA INC — 10-K Annual Report
+# Filed: 2025-03-27
+# CIK: 719955
+# SIC: Retail-Home Furniture, Furnishings & Equipment Stores
+# Source: https://www.sec.gov/Archives/edgar/data/719955/000162828025015037/wsm-20250202.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors in Part I, Item 1A hereto and the risks, uncertainties and assumptions discussed from time to time in our other public filings with the SEC, which are available on the SEC s web site at www.sec.gov. All forward-looking statements included in this Annual Report on Form 10-K are based on information available to us as of the date hereof, and we assume no obligation to update these forward-looking statements. 2 Table of Contents WILLIAMS-SONOMA, INC. ANNUAL REPORT ON FORM 10-K FISCAL YEAR ENDED FEBRUARY 2, 2025 TABLE OF CONTENTS PAGE PART I Item 1. Business 4 Item 1A. Risk Factors 10
+
+## GEOGRAPHIC REVENUE
+please see Risk Factors in Part I, Item 1A . CRITICAL ACCOUNTING ESTIMATES The preparation of our Consolidated Financial Statements in conformity with accounting principles generally accepted in the United States requires us to make estimates that affect the reported amounts of assets, liabilities, 42 Table of Contents revenues and expenses as well as the related disclosures of contingent assets and liabilities. These estimates are evaluated on an ongoing basis and are based on historical experience and various other factors that we believe to be reasonable under the circumstances. Actual results could differ from these estimates. Merchandise Inventories The significant estimates used in our inventory valuation are obsolescence (including excess and slow-moving inventory and lower of cost or net realizable value reserves) and estimates of inventory shrinkage. We reserve for obsolescence based on historical trends of inventory sold below cost and specific identification. The reserves for shrinkage are recorded throughout the year based on historical shrinkage results, cycle count results within our distribution centers, expectations of future shrinkage and current inventory levels, and are therefore subject to uncertainty. Actual shrinkage is recorded at year-end based on the results of our cycle counts and year-end physical inventory counts, and can vary from our estimates recorded throughout the year due to such factors as changes in operations, the mix of our inventory (which ranges from large furniture to small tabletop items), transaction processing errors, changes in our technology systems, and execution against loss prevention initiatives in our stores, distribution facilities and off-site storage locations, and with our third-party warehouse and transportation providers. Accordingly, there is no material shrinkage reserve at year-end. Historically, actual shrinkage has not differed materially from our estimates. Our obsolescence and shrinkage reserve calculations contain estimates that require management to make assumptions and to apply judgment regarding a number of factors, including market conditions, the selling environment, historical results and cu
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 1463KB (capped at 2MB)

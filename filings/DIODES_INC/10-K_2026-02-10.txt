@@ -1,0 +1,96 @@
+# DIODES INC — 10-K Annual Report
+# Filed: 2026-02-10
+# CIK: 29002
+# SIC: Semiconductors & Related Devices
+# Source: https://www.sec.gov/Archives/edgar/data/29002/000119312526044918/diod-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+ITEM 1. 
+BUSINESS 
+1
+
+## RISK FACTORS (Item 1A)
+RISK FACTORS 
+11 
+ITEM 1B. 
+UNRESOLVED STAFF COMMENTS 
+25 
+ITEM 1C. 
+CYBERSECURITY 
+25 
+ITEM 2. 
+PROPERTIES 
+27 
+ITEM 3. 
+LEGAL PROCEEDINGS 
+29 
+ITEM 4. 
+MINE SAFETY DISCLOSURES 
+29 
+PART II 
+ITEM 5. 
+MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES 
+30 
+ITEM 6. 
+RESERVED 
+31 
+ITEM 7. 
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+32 
+ITEM 7A. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+40 
+ITEM 8. 
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+41 
+ITEM 9. 
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+41 
+ITEM 9A. 
+CONTROLS AND PROCEDURES 
+41 
+ITEM 9B. 
+OTHER INFORMATION 
+42 
+ITEM 9C. 
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+42 
+PART III 
+ITEM 10. 
+DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+43 
+ITEM 11. 
+EXECUTIVE COMPENSATION 
+43 
+ITEM 12. 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+43 
+ITEM 13. 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+43 
+ITEM 14. 
+PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+43 
+PART IV 
+ITEM 15. 
+EXHIBIT AND FINANCIAL STATEMENT SCHEDULES 
+44 
+ITEM 16. 
+FORM 10-K SUMMARY 
+44 
+P ART I Ite m 1. Business. GENERAL Diodes Incorporated, together with its subsidiaries (collectively the Company, we, or our (Nasdaq: DIOD)), delivers high-quality semiconductor products to the world s leading companies in the automotive, industrial, computing, consumer electronics, and communications markets. We leverage our expanded product portfolio of analog and power solutions combined with a flexible hybrid manufacturing model that meet customers needs. Our broad range of application-specific products, delivered through a total solutions sales approach and supported by global operations including engineering, testing, manufacturing, and customer service, enable us to be a premier provider for high-growth markets. For more information, visit www.diodes.com. We operate from the following locations, with additional support offices throughout the world: Corporate Headquarters Plano, Texas, United States Design, Engineering, and Marketing Shanghai, Yangzhou, Shenzhen, and Hong Kong, China Oldham, England Greenock, Scotland Bratislava, Slovakia New Taipei City, Hsinchu, and Tainan, Taiwan Milpitas, California, and Plano, Texas, United States Wafer Fabrication Shanghai and Wuxi, China Oldham, England Greenock, Scotland Hsinchu, Taiwan South Portland, Maine, United States Assembly and Test Shanghai, Chengdu, and Wuxi, China Neuhaus am Rennweg, Germany Chongli, Taiwan Sales, Warehouse, and Logistics Hong Kong, Shanghai, Beijing, Shenzhen, Wuhan, Qingdao, and Xiamen, China Oldham, England Frankfurt and Munich, Germany Milan, Italy Tokyo, Japan Singapore Seongnam-si, South Korea New Taipei City, Taiwan Milpitas, California and Plano, Texas, United States The Company s manufacturing facilities have achieved certifications in the internationally recognized standards of ISO 9001:2015, ISO 14001:2015, and, for automotive products, IATF 16949:2016 and the Company is also C-TPAT certified. We believe these quality awards reflect the superior quality-control techniques established at the Company and further enhance our credibility as a vendor-of-choice to original equipment manufacturers ( OEMs ) increasingly concerned with quality and consistency. 
+1 
+Our market focus is on high-growth, end-user applications in the following areas: Automotive: connected driving, comfort/style/safety, electrification/powertrain; Industrial: embedded systems, industrial automation, medical, energy management, smart buildings; Computing: Artificial Intelligence ( AI ) data center including AI server, storage, and edge AI; Consumer: Internet of things ( IoT ): wearables, home automation, home appliances, and charging solutions; and Communications: smart phones, telecom, enterprise networking, smart infrastructure including space-based connectivity. From 2021 to 2025, our annual net sales ranged from $1.8 billion to $1.5 billion. Our product line includes over 28,000 products, and we shipped approximately 45 billion units in 2025, 39 billion units in 2024, and 42 billion units in 2023. The increase in units shipped in 2025 was driven by the improvement in overall demand in the semiconductor industry. 2025 SUMMARY AND BUSINESS OUTLOOK In 2025 the Company s net sales increased 13.0% compared to 2024, which is the highest level of annual growth since 2021. Additionally, the fourth quarter of 2025 represented the fourth consecutive quarter of double-digit growth year-over-year, further highlighting the success of the Company s design win initiatives and content expansion over the past year. The Company has continued to see demand improvements across all target markets and geographies, with the most significant growth for the full year driven by strength in the computing market for AI server-related applications as well as increases in our automotive and industrial end markets. More recently, we have been strategically supporting key customers on new opportunities and orders specifically in the automotive and communications markets, while also further extending our design-in momentum across all end markets. We continue to work towards our previously stated goal of $1.0 billion in gross profit based upon $2.5 billion in net sales and a gross margin of 40%. As part of achieving this goal, the Company has set 3-year interim financial targets, which include achieving $2.0 billion in annual net sales with approximately $700 million in gross profit, or 35% plus, in gross margin. At a high level, tactics we intend to use to accomplish these goals include: Offering total systems solutions, in which we provide a wide range of products that work together in a system which drives growth by simplifying the design process for our customers, the sales approach, and content expansion driving growth: Increasing focus on high margin market segments (i.e. automotive and industrial) and analog & power discrete product lines which are included in all the market segments that we serve; Investing in technology leadership in target products, fab processes, and advanced packaging; and Pursuing selective strategic acquisitions of technologies, product lines, or companies to enhance our product portfolio and accelerate our new product offerings. We have a solid pipeline of designs and expanded customer relationships across all regions and product lines. The success of our business depends on, among other factors, the strength of the global economy and the stability of the financial markets, our customers demand for our products, the ability of our customers to meet their payment obligations, the likelihood of customers not canceling or deferring existing orders, and the strength of consumers demand for items containing our products in the end-markets we serve. We believe the long-term outlook for our business remains generally favorable, despite the uncertainties in the global economy, as we continue to execute on the strategy that has proven successful for us over the years. See Management s Discussion and Analysis of Financial Condition and Results of Operations Business Outlook in Part II, Item 7 and Risk Factors The success of our business depends on the strength of the global economy and the stability of the financial markets, and any weaknesses in these areas may have a material adverse effect on our net sales, operating results and financial condition. in Part I, Item 1A of this Annual Report for additional information. SEGMENT INFORMATION AND ENTERPRISE-WIDE DISCLOSURES The Company s operations are managed and reported on a consolidated basis to our President and Chief Executive Officer ( CEO ) who is also our chief operating decision maker ( CODM ). For financial reporting purposes, we operate in a single segment, standard semiconductor products, through our various design, manufacturing, and distribution facilities. which reflects the way in which our CODM executes operating decisions, allocates resources, and manages the growth and profitability of the Company. We sell product primarily through our operations in Asia, the Americas, and Europe. See Note 16 of Notes to Consolidated Financial Statements of this Annual Report for additional information. 
+2 
+OUR INDUSTRY Semiconductors are critical components used to manufacture a broad range of electronic products and systems. Since the invention of the transistor in 1948, continuous improvements in semiconductor processes and design technologies have led to smaller, more complex, and more reliable devices at a lower cost per function. The availability of low-cost semiconductors, together with increased consumer demand for sophisticated electronic systems, has led to the proliferation of semiconductors in diverse end-use applications. OUR COMPETITIVE STRENGTHS We believe our competitive strengths include the following: Flexible, scalable, and cost-effective manufacturing Our manufacturing operations are a core element of our success, and we have designed our manufacturing base to allow us to respond quickly to changes in demand trends in the end-markets we serve. For example, we have structured our assembly and test facilities to enable us to rapidly and efficiently add capacity and adjust product mix to meet shifts in customer demand and overall market trends. Our manufacturing facilities provide us with access to a workforce at a relatively low overall cost base while enabling us to better serve our leading customers, many of which are located in Asia. See Risk Factors During times of difficult market conditions, our fixed costs combined with lower net sales and lower profit margins may have a negative impact on our business, operating results, and financial condition. in Part I, Item 1A of this Annual Report for additional information. Integrated packaging expertise Our expertise in designing and manufacturing innovative and proprietary packaging solutions enables us to package a variety of different device functions into an assortment of packages ranging from miniature chip-scale packaging to packages that integrate multiple separate discrete and/or analog chips into a single semiconductor product called an array. Our ability to design and manufacture multi-chip semiconductor solutions as well as advanced integrated devices provides our customers with products of equivalent functionality with fewer individual parts, and at lower overall cost, than alternative products. This combination of integration, functionality and miniaturization makes our products well suited for the industrial, automotive, computing, communications, and consumer markets. Broad customer base and diverse end-markets Our customers are comprised of leading direct sales customers as well as major electronic manufacturing services ( EMS ) providers. We serve over 50,000 customers worldwide. The majority or our customers are served through our distribution network and some are direct customers who purchase directly from the Company. Our products are ultimately used in end-products in a number of markets served by our broad customer base, which we believe makes us less susceptible to market fluctuations driven by either specific customers or specific end-user applications. Customer-focused product development Effective collaboration with our customers and a commitment to customer service are essential elements of our business. We believe focusing on dependable delivery and support tailored to specific end-user applications and solution-selling approach has fostered deep customer relationships and created a key competitive advantage for us in the highly fragmented discrete, logic, analog, and mixed-signal semiconductor marketplace. We believe our close relationships with our customers have provided us with keener insight into our customers product needs. This results in a stronger demand for our product designs and often provides us with insight into additional opportunities for new design wins in our customers products. See Risk Factors We are and will continue to be under continuous pressure from our customers and competitors to reduce the price of our products, which could adversely affect our growth, and profit margins. in Part I, Item 1A of this Annual Report for additional information. Management experience The experience possessed by each member of the Company s executive team has created significant institutional insight into our markets, customers and operations. See Risk Factors We may fail to attract or retain the qualified technical, sales, marketing, finance and management/executive personnel required to operate our business successfully, which could adversely affect our business, operating results, and financial condition. in Part I, Item 1A of this Annual Report for additional information. OUR STRATEGY Our next key goal is to reach $1.0 billion in gross profit based upon $2.5 billion in net sales and a gross margin of 40%. As part of achieving this goal, the Company has set 3-year interim financial targets, which include achieving $2.0 billion in annual net sales with approximately $700 million in gross profit, or 35% plus, in gross margin. At a high level, we intend to accomplish this goal by continuing to enhance our position as a leading global designer, manufacturer, and supplier of high-quality application-specific standard semiconductor products, using our innovative and cost-effective assembly (packaging) and test technology and leveraging our process expertise and design excellence to achieve above-market growth in profitability. 
+3 
+The principal elements of our strategy include the following: Continue to rapidly introduce innovative analog and discrete power solutions semiconductor products We intend to maintain our rapid pace of new product introductions across all our markets with continued emphasis in AI applications for computer market, the industrial market, and the automotive market. We will also continue to focus on the high-volume, high-growth applications with short design cycles, such as: IoT, wearables, home automation, and smart infrastructure; portables such as smartphones, tablets, notebooks, and edge AI devices; other consumer electronics and computing devices. During 2025 and 2024, we continued to achieve many significant new design wins with our direct sales customers. Although a design win from a customer does not necessarily guarantee future sales to that customer, we believe that continued introduction of new and well-defined product solutions is critically important in maintaining and extending our market share in the highly competitive semiconductor marketplace. See Risk Factors Obsolete inventories as a result of changes in demand for our products and change in life cycles of our products could adversely affect our business, opera
+
+## GEOGRAPHIC REVENUE
+ember diod:ChinaTrustBankMember 2025-01-01 2025-12-31 0000029002 diod:SoftwareLicenseAndOtherMember srt:MaximumMember 2024-12-31 0000029002 us-gaap:TreasuryStockCommonMember 2024-12-31 0000029002 srt:AmericasMember us-gaap:IntersegmentEliminationMember 2023-01-01 2023-12-31 0000029002 us-gaap:DesignatedAsHedgingInstrumentMember diod:CollaredForwardsMember 2025-01-01 2025-12-31 0000029002 diod:CustomerTwoMember 2024-01-01 2024-12-31 0000029002 diod:NuvotonMember 2025-12-31 0000029002 diod:AlternativeCurrencySublimitFacilityMember us-gaap:LongTermDebtMember 2025-12-31 0000029002 diod:VariousDuringTwoThousandAndTwentySixMember 2024-12-31 0000029002 us-gaap:DevelopedTechnologyRightsMember 2025-12-31 0000029002 diod:YangzhouChinaMember 2025-12-31 0000029002 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-12-31 0000029002 us-gaap:ContractTerminationMember 2024-12-31 0000029002 us-gaap:EmployeeSeveranceMember 2024-01-01 2024-12-31 0000029002 us-gaap:NotesPayableToBanksMember diod:ESunBankMember diod:MayTwoThousandAndTwentyEightMember 2025-01-01 2025-12-31 0000029002 us-gaap:EmployeeSeveranceMember 2023-01-01 2023-12-31 0000029002 srt:AmericasMember 2025-01-01 2025-12-31 0000029002 us-gaap:OperatingSegmentsMember srt:EuropeMember 2024-01-01 2024-12-31 0000029002 us-gaap:CustomerRelationshipsMember srt:MaximumMember 2025-12-31 0000029002 diod:AccountingStandardsUpdate201311Member 2024-12-31 0000029002 diod:AmericasCustomersMember 2025-01-01 2025-12-31 0000029002 diod:JulyTwoThousandThirtyMember us-gaap:NotesPayableToBanksMember diod:ESunBankMember 2025-12-31 0000029002 us-gaap:ParentMember 2023-12-31 0000029002 us-gaap:CommonStockMember 2023-12-31 0000029002 us-gaap:ParentMember 2024-01-01 2024-12-31 0000029002 diod:CustomerOneMember us-gaap:AccountsReceivableMember us-gaap:GeographicConcentrationRiskMember 2024-01-01 2024-12-31 0000029002 country:CN 2025-12-31 0000029002 diod:LiabilityDrivenInvestmentsMember us-gaap:FairValueInputsLevel2Member 2025-12-31 0000029002 us-gaap:FairValueInputsLevel2Member us-gaap:DefinedBenefitPlanEquitySecuritiesMidCapMember 2025-12-31 0000029002 us-gaap:NotesPayableToBanksMember diod:AprilTwoThousandAndTwentySevenMember diod:ChinaTr
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not extracted)
+
+---
+Doc size: 2048KB (capped at 2MB)

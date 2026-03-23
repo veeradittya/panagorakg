@@ -1,0 +1,393 @@
+# CHATHAM LODGING TR — 10-K Annual Report
+# Filed: 2026-02-27
+# CIK: 1476045
+# SIC: Real Estate Investment Trusts
+# Source: https://www.sec.gov/Archives/edgar/data/1476045/000143774926006103/cldt20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+5
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+14 
+Item 1B. 
+Unresolved Staff Comments 
+33 
+Item 1C. 
+Cybersecurity 
+33 
+Item 2. 
+Properties 
+35 
+Item 3. 
+Legal Proceedings 
+36 
+Item 4. 
+Mine Safety Disclosures 
+36 
+PART II. 
+Item 5. 
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+37 
+Item 6. 
+[Reserved] 
+39 
+Item 7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+40 
+Item 7A. 
+Quantitative and Qualitative Disclosures about Market Risk 
+53 
+Item 8. 
+Consolidated Financial Statements and Supplementary Data 
+54 
+Item 9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+54 
+Item 9A 
+Controls and Procedures 
+54 
+Item 9B. 
+Other Information 
+54 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+54 
+PART III. 
+Item 10. 
+Trustees, Executive Officers and Corporate Governance 
+55 
+Item 11. 
+Executive Compensation 
+55 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+55 
+Item 13. 
+Certain Relationships and Related Transactions, and Trustee Independence 
+55 
+Item 14. 
+Principal Accountant Fees and Services 
+55 
+PART IV. 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+56 
+2
+Table of Contents 
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+This report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the "Securities Act") and Section 21E of the Securities Exchange Act of 1934 as amended (the "Exchange Act"), and as such may involve known and unknown risks, uncertainties, assumptions and other factors which may cause our actual results, performance or achievements to be materially different from future results, performance or achievements expressed or implied by such forward-looking statements. Forward-looking statements, which are based on certain assumptions and describe our future plans, strategies and expectations, are generally identified by our use of words, such as "intend," "plan," "may," "should," "will," "project," "estimate," "anticipate," "believe," "expect," "continue," "potential," "opportunity," or similar expressions, whether in the negative or affirmative. These forward-looking statements include information about possible or assumed future results of our business, financial condition, liquidity, results of operations, plans and objectives. Statements regarding the following subjects, among others, are forward-looking by their nature: 
+our business and investment strategy; 
+our forecasted operating results; 
+completion of hotel acquisitions and dispositions; 
+completion of hotel developments; 
+our ability to obtain future financing arrangements; 
+our expected leverage levels; 
+our understanding of our competition; 
+market and lodging industry trends and expectations; 
+our investment in joint ventures; 
+anticipated capital expenditures; and 
+our ability to maintain our qualification as a real estate investment trust ("REIT") for U.S. federal income tax purposes. 
+The forward-looking statements are based on our beliefs, assumptions and expectations of our future performance, taking into account all information available to us at the time the forward-looking statements are made. These beliefs, assumptions and expectations can change as a result of many possible events or factors, not all of which are known to us. If a change occurs, our business, prospects, financial condition, liquidity and results of operations may vary materially from those expressed in our forward-looking statements. You should carefully consider these risks when you make an investment decision concerning our common shares. Additionally, the following factors could cause actual results to vary from our forward-looking statements: 
+the factors included in this report, including those set forth under the sections titled Business, Risk Factors and Management s Discussion and Analysis of Financial Condition and Results of Operations and in other reports that we file with the United States Securities and Exchange Commission ("SEC"), or in other documents that we publicly disseminate; 
+general volatility of the financial markets and the market price of our securities; 
+performance of the lodging industry in general; 
+business interruptions due to cyber-attacks; 
+impacts on our business of a prolonged government shutdown; 
+decreased travel because of geopolitical events, including terrorism, outbreaks of disease like COVID-19 and current U.S. government policies; 
+the ultimate geographic spread, severity and duration of pandemics such as COVID-19, actions that may be taken by governmental authorities to contain or address the impact of such pandemics, and the potential negative impacts of such pandemics on the global economy and our financial condition and results of operations; 
+changes in our business or investment strategy; 
+3
+Table of Contents 
+availability, terms and deployment of capital; 
+availability of and our ability to attract and retain qualified personnel; 
+our leverage levels; 
+our capital expenditures; 
+changes in our industry and the markets in which we operate, interest rates or the general U.S. or international economy; 
+our ability to maintain our qualification as a REIT for U.S. federal income tax purposes; and 
+the degree and nature of our competition. 
+All forward-looking statements speak only as of the date of this report or, in the case of any document incorporated by reference, the date of that document. All subsequent written and oral forward-looking statements attributable to us or any person acting on our behalf are qualified by the cautionary statements in this section. New risks and uncertainties arise over time and it is not possible to predict those events or how they may affect us. We undertake no obligation to update or publicly release any revisions to forward-looking statements to reflect events, circumstances or changes in expectations after the date of this report, except as required by law. Such forward-looking statements should be read in light of the risk factors identified in the "Risk Factors" section of this Annual Report on Form 10-K. 
+4
+Table of Contents 
+PART I 
+Item 1. Business 
+Dollar amounts presented in this Item 1 are in thousands, except per share data. 
+Overview 
+Chatham Lodging Trust ( we, us or the Company ) was formed as a Maryland real estate investment trust on October 26, 2009. We elected to be taxed as a REIT for federal income tax purposes commencing with our 2010 taxable year. The Company is internally-managed and invests primarily in upscale extended-stay and premium-branded select-service hotels. 
+We had no operations prior to the consummation of our initial public offering ("IPO") in April 2010. The net proceeds from our share offerings are contributed to Chatham Lodging, L.P., our operating partnership (the Operating Partnership ), in exchange for partnership interests. Substantially all of the Company s assets are held by, and all of its operations are conducted through, the Operating Partnership. Chatham Lodging Trust is the sole general partner of the Operating Partnership and owns 100% of the common units of limited partnership interest in the Operating Partnership ("common units"). Certain of the Company's executive officers hold vested and unvested long-term incentive plan units in the Operating Partnership ("LTIP Units"), which are presented as non-controlling interests on our consolidated balance sheets. 
+As of December 31, 2025, the Company owned 33 hotels with an aggregate of 5,021 rooms located in 15 states and the District of Columbia. 
+To maintain our qualification as a REIT, the Company cannot operate its hotels. Therefore, the Operating Partnership and its subsidiaries lease our wholly owned hotels to taxable REIT subsidiary lessees ( TRS Lessees ), which are wholly owned by the Company s taxable REIT subsidiary ( TRS ) holding company. Each hotel is leased to a TRS Lessee under a percentage lease that provides for rental payments equal to the greater of (i) a fixed base rent amount or (ii) a percentage rent based on hotel room revenue. Lease revenue from each TRS Lessee is eliminated in consolidation. The TRS Lessees have entered into management agreements with third-party management companies that provide day-to-day management for the hotels. 
+As of December 31, 2025, Island Hospitality Management, LLC ( IHM ), which is 100% owned by Jeffrey H. Fisher, the Company's Chairman, President and Chief Executive Officer, managed all of the Company s hotels. 
+As of December 31, 2025, our hotels include upscale extended-stay hotels that operate under the Residence Inn by Marriott brand (sixteen hotels), the Homewood Suites by Hilton brand (two hotels), the Home2 Suites by Hilton brand (two hotels) and the TownePlace Suites by Marriott brand (one hotel), as well as premium-branded select-service hotels that operate under the Courtyard by Marriott brand (three hotels), the Hampton Inn or Hampton Inn and Suites by Hilton brand (two hotels), the Hilton Garden Inn by Hilton brand (three hotels), the SpringHill Suites by Marriott brand (one hotel), the Hyatt Place brand (two hotels), and all-suite hotels that operate under the upper upscale Embassy Suites brand (one hotel). 
+We primarily invest in upscale extended-stay hotels such as Homewood Suites by Hilton , Residence Inn by Marriott , Home2 Suites by Hilton , and TownePlace Suites by Marriott . We also invest in upscale or upper upscale all-suite hotels such as SpringHill Suites by Marriott and Embassy Suites . Extended-stay and all-suite hotels typically have the following characteristics: 
+principal customer base includes business travelers, whether short-term transient travelers or those on extended assignments and corporate relocations; 
+services and amenities include complimentary breakfast, high-speed internet access, in-room movie channels, limited meeting space, linen and room cleaning service, 24-hour front desk, guest grocery services, and an on-site maintenance staff; and 
+physical facilities include large suites, quality construction, full separate kitchens in each guest suite or suites that include a wet bar, refrigerator and microwave, quality room furnishings, pool, and exercise facilities. 
+Additionally, we invest in premium-branded select-service hotels such as Courtyard by Marriott , Hampton Inn , Hampton Inn and Suites by Hilton , Hyatt Place and Hilton Garden Inn by Hilton . The service and amenity offerings of these hotels typically include complimentary breakfast or a smaller for pay breakfast or evening dining option, high-speed internet access, local calls, in-room movie channels, and linen and room cleaning service. 
+5
+Table of Contents 
+Financial Information About Industry Segments 
+We evaluate all of our hotels as a single industry segment because all of our hotels have similar economic characteristics and provide similar services to similar types of customers. Accordingly, we do not report segment information. 
+Business Strategy 
+Our primary objective is to generate attractive returns for our shareholders through investing in hotel properties (whether wholly owned or through a joint venture) at prices that provide strong returns on invested capital, paying dividends and generating long-term value appreciation. We believe we can create long-term value by pursuing the following strategies: 
+Disciplined acquisition of hotel properties: We invest primarily in premium-branded upscale extended-stay and select-service hotels with a focus on the 25 largest metropolitan markets in the United States. We focus on acquiring hotel properties at prices below replacement cost in markets that have strong demand generators and where we expect demand growth will outpace new supply. We also seek to acquire properties that we believe are undermanaged or undercapitalized. 
+Opportunistic hotel repositioning: We employ value-added strategies, such as re-branding, renovating, expanding or changing management, when we believe such strategies will increase the operating results and values of the hotels we acquire. 
+Aggressive asset management: Although as a REIT we cannot operate our hotels, we proactively manage our third-party hotel manager in seeking to maximize hotel operating performance. Our asset management activities seek to ensure that our third-party hotel manager effectively utilizes franchise brands' marketing programs, develops effective sales management policies and plans, operates properties efficiently, controls costs, and develops operational initiatives for our hotels that increase guest satisfaction. As part of our asset management activities, we regularly review opportunities to reinvest in our hotels to maintain quality, increase long-term value and generate attractive returns on invested capital. 
+Selective hotel development: We may consider developing a limited number of hotels in cases where we believe newly developed hotels will generate attractive returns and enhance the quality of our hotel portfolio. 
+Flexible selection of hotel management companies : We are flexible in our selection of hotel management companies and select managers that we believe will maximize the performance of our hotels. We utilize independent management companies, including IHM, a hotel management company 100% owned by Mr. Fisher that as of December 31, 2025, managed all of our hotels. We believe this strategy increases the universe of potential acquisition opportunities we can consider because many hotel properties are encumbered by long-term management contracts. 
+Selective investment in hotel debt: We may consider selectively investing in debt collateralized by hotel property if we believe we can foreclose on or acquire ownership of the underlying hotel property in the relative near term. We do not intend to invest in any debt where we do not expect to gain ownership of the underlying property or to originate any debt financing. 
+We plan to maintain a prudent capital structure and intend to maintain our leverage over the long term at a ratio of net debt to investment in hotels at cost (defined as our initial acquisition price plus the gross amount of any subsequent capital investment) at a level that will be similar to the levels at which we have operated in the past. We have maintained a leverage ratio between the low 20s and the low 50s. A subsequent decrease in hotel property values will not necessarily cause us to repay debt to comply with this target. At December 31, 2025, our leverage ratio was approximately 20.1 percent, which decreased from 23.1 percent at December 31, 2024. Over time, we intend to finance our growth with free cash flow, debt and issuances of common shares and/or preferred shares. Our debt may include mortgage debt collateralized by our hotel properties and unsecured debt. 
+When purchasing hotel properties, we may issue common unit
+
+## GEOGRAPHIC REVENUE
+g those set forth under the sections titled Business, Risk Factors and Management s Discussion and Analysis of Financial Condition and Results of Operations and in other reports that we file with the United States Securities and Exchange Commission ("SEC"), or in other documents that we publicly disseminate; 
+general volatility of the financial markets and the market price of our securities; 
+performance of the lodging industry in general; 
+business interruptions due to cyber-attacks; 
+impacts on our business of a prolonged government shutdown; 
+decreased travel because of geopolitical events, including terrorism, outbreaks of disease like COVID-19 and current U.S. government policies; 
+the ultimate geographic spread, severity and duration of pandemics such as COVID-19, actions that may be taken by governmental authorities to contain or address the impact of such pandemics, and the potential negative impacts of such pandemics on the global economy and our financial condition and results of operations; 
+changes in our business or investment strategy; 
+3
+Table of Contents 
+availability, terms and deployment of capital; 
+availability of and our ability to attract and retain qualified personnel; 
+our leverage levels; 
+our capital expenditures; 
+changes in our industry and the markets in which we operate, interest rates or the general U.S. or international economy; 
+our ability to maintain our qualification as a REIT for U.S. federal income tax purposes; and 
+the degree and nature of our competition. 
+All forward-looking statements speak only as of the date of this report or, in the case of any document incorporated by reference, the date of that document. All subsequent written and oral forward-looking statements attributable to us or any person acting on our behalf are qualified by the cautionary statements in this section. New risks and uncertainties arise over time and it is not possible to predict those events or how they may affect us. We undertake no obligation to update or publicly release any revisions to forward-looking statements to reflect events, circumstances or changes in expectations after the date of this report, except as required by law. Such forwa
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+10% of the hotel's net operating income less fixed costs, base management fees and a specified return threshold. The incentive management fee is capped at 1% of gross hotel revenues for the applicable calculation. 
+As of December 31, 2025, certain key terms of our management agreements for our 33 hotels were as follows (dollars are not in thousands): 
+Monthly 
+Base 
+Monthly 
+Revenue 
+Incentive 
+Management 
+Management 
+Accounting 
+Management 
+Management 
+Property 
+Company 
+Fee 
+Fee 
+Fee 
+Fee Cap 
+Homewood Suites by Hilton Hartford-Farmington 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn Long Island Holtsville 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn White Plains 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn New Rochelle 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn Garden Grove 
+IHM 
+3.0 
+% 
+$ 
+1,500 
+$ 
+1,000 
+1.0 
+% 
+Homewood Suites by Hilton San Antonio River Walk 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn Washington DC 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn Tysons Corner 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Hampton Inn Portland Downtown 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Hyatt Place Pittsburgh North Shore 
+IHM 
+3.0 
+% 
+$ 
+1,500 
+$ 
+1,000 
+1.0 
+% 
+Hampton Inn Exeter 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn Bellevue 
+IHM 
+3.0 
+% 
+$ 
+1,500 
+$ 
+1,000 
+1.0 
+% 
+SpringHill Suites Savannah 
+IHM 
+3.0 
+% 
+$ 
+1,500 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn Silicon Valley I 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn Silicon Valley II 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn San Mateo 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn Mountain View 
+IHM 
+3.0 
+% 
+$ 
+1,200 
+$ 
+1,000 
+1.0 
+% 
+Hyatt Place Cherry Creek 
+IHM 
+3.0 
+% 
+$ 
+1,500 
+$ 
+1,000 
+1.0 
+% 
+Courtyard Addison 
+IHM 
+3.0 
+% 
+$ 
+1,500 
+$ 
+1,000 
+1.0 
+% 
+Residence Inn San Diego Gaslamp 
+IHM 
+3.0 
+% 
+$ 
+1,500 
+$ 
+1,000 
+1.0 
+% 
+Hilton Garden Inn Marina del Rey 
+IHM 
+3.0 
+% 
+$ 
+1,500 
+$ 
+1,000
+
+---
+Doc size: 2048KB (capped at 2MB)

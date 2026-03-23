@@ -1,0 +1,206 @@
+# ROCKY BRANDS INC — 10-K Annual Report
+# Filed: 2026-03-11
+# CIK: 895456
+# SIC: Footwear, (No Rubber)
+# Source: https://www.sec.gov/Archives/edgar/data/895456/000143774926007634/rcky20251231_10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+2
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+8 
+Item 1B. 
+Unresolved Staff Comments 
+14 
+Item 1C. 
+Cybersecurity 
+14 
+Item 2. 
+Properties 
+15 
+Item 3. 
+Legal Proceedings 
+15 
+Item 4. 
+Mine Safety Disclosures 
+15 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+16 
+Item 6. 
+[ Reserved ] 
+16 
+Item 7. 
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+16 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+23 
+Item 8. 
+Financial Statements and Supplementary Data 
+24 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+45 
+Item 9A. 
+Controls and Procedures 
+45 
+Item 9B. 
+Other Information 
+47 
+Item 9C. 
+Disclosures Regarding Foreign Jurisdictions that Prevent Inspections 
+47 
+PART III 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+47 
+Item 11. 
+Executive Compensation 
+47 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters 
+47 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+47 
+Item 14. 
+Principal Accounting Fees and Services 
+47 
+PART IV 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+48 
+Item 16. 
+Form 10-K Summary 
+49 
+SIGNATURES 
+50 
+1
+Table of Contents 
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, and Section 27A of the Securities Act of 1933, as amended. The words "anticipate," "believe," "expect," "estimate," and "project" and similar words and expressions identify forward-looking statements which speak only as of the date hereof. Investors are cautioned that such statements involve risks and uncertainties that could cause actual results to differ materially from historical or anticipated results due to many factors, including, but not limited to, the factors discussed in "Item 1A. Risk Factors." The Company undertakes no obligation to publicly update or revise any forward-looking statements. 
+PART I 
+ITEM 1. BUSINESS. 
+All references to "we," "us," "our," "Rocky Brands," or the "Company" in this Annual Report on Form 10-K mean Rocky Brands, Inc. and our subsidiaries. 
+We are a leading designer, manufacturer and marketer of premium quality footwear and apparel marketed under a portfolio of well recognized brand names, including The Original Muck Boot Company ("Muck"), XTRATUF, Rocky, Durango, Georgia Boot, Lehigh CustomFit ("Lehigh"), Ranger, and the licensed brand Michelin. Our brands have a long history of representing high quality, comfortable, functional, and durable footwear and our products are organized around six target markets: work, outdoor, western, commercial military, duty, and military. Our footwear products incorporate varying features and are positioned across a range of suggested retail price points from $45.00 for our value priced products to $680.00 for our premium products. In addition, as part of our strategy of outfitting consumers from head-to-toe, we market complementary branded apparel and accessories that we believe leverage the strength and positioning of each of our brands. 
+The Company's portfolio of brands is organized into the following reportable segments, in which our products are distributed: 
+Wholesale 
+Retail 
+Contract Manufacturing 
+Wholesale 
+We distribute Muck, XTRATUF, Rocky, Durango, Georgia Boot, Lehigh, Ranger, and Michelin products through a wide range of Wholesale distribution channels throughout the world. Our Wholesale channels vary by product line and include sporting goods stores, outdoor retailers, independent shoe retailers, hardware stores, mass merchants, uniform stores, farm store chains, specialty safety stores, specialty retailers, and online retailers. As of 
+December 31, 2025
+, our products were offered for sale in thousands of 
+retail locations across the U.S. and Canada as well as several international markets, such as Europe. 
+We sell to wholesale accounts in the U.S. through a dedicated in-house sales team, and exclusive, as well as independent, sales representatives who carry our branded products and other non-competing products. Our sales force is organized around major accounts, including Amazon, Boot Barn, Tractor Supply Company, and Bass Pro, and around our target markets: work, outdoor, western, commercial military, duty, and military. Our sales force is also organized around brands, regions and customers to target a broad range of distribution channels. All our salespeople actively call on their retail customer base to educate them on the quality, comfort, technical features, and breadth of our product lines and to ensure that our products are displayed effectively at retail locations. 
+Our Wholesale distribution channels vary by market: 
+Our work-related products are sold primarily through work-related retailers, farm and ranch stores, specialty safety stores, independent shoe stores, hardware stores, and online retailers; 
+Our outdoor products are sold primarily through sporting goods stores, outdoor specialty stores, online retailers, and mass merchants; 
+Our western products are sold through western stores, work stores, specialty farm and ranch stores, online retailers, and fashion-oriented footwear retailers; 
+Our commercial military products are sold primarily through base exchanges, such as the Army Air Force Exchange Store (AAFES) and consumer e-commerce websites; and 
+Our duty products are sold primarily through uniform stores, and online retailers. 
+Retail 
+We market products directly to consumers through three retail strategies: 
+Lehigh business-to-business including direct sales and through our CustomFit websites; 
+Consumer e-commerce websites (B2C) and third-party marketplaces; and 
+Our Rocky Outdoor Gear Store. 
+2
+Table of Contents 
+Lehigh 
+We sell our Lehigh brand of safety shoes along with in-house and third-party branded work product to our business customers directly through our CustomFit websites, which are tailored to the specific needs of our customers. Our customers' employees order directly through their employers established CustomFit website, and the footwear is delivered directly to the customer via a common freight carrier. 
+Websites 
+We sell our product lines on our websites at muckbootcompany.com, xtratuf.com, rockyboots.com, durangoboot.com, georgiaboot.com, lehighoutfitters.com, lehighsafetyshoes.com, and slipgrips.com , a s well as through online third-party marketplaces. We believe that our internet presence allows us to showcase the breadth and depth of our product lines in each of our target markets and enables us to educate our consumers about the unique technical features of our products. 
+Outdoor Gear Store 
+We operate the Rocky Outdoor Gear Store in Nelsonville, Ohio. Our outdoor gear store primarily sells first quality current and discontinued products in addition to a limited amount of factory damaged goods. Related products from other manufacturers are also sold in the store. Our outdoor gear store allows us to showcase the breadth of our product lines as well as to cost-effectively sell slow-moving inventory. Our outdoor gear store also provides an opportunity to interact with consumers to better understand their needs. 
+Contract Manufacturing 
+While we are focused on continuing to build our Wholesale and Retail business, we also actively bid, from time to time, on eligible footwear contracts with the U.S. Military. In addition to contracts with the U.S. Military, we bid on private label contracts. Our sales under such contracts are dependent on us winning the bids for these contracts. 
+Brands and Product Lines 
+Our products are marketed under eight well-recognized, proprietary brands: Muck, XTRATUF, Rocky, Durango, Georgia Boot, Lehigh, and Ranger, in addition to the licensed brand Michelin. 
+Muck 
+Muck was founded in 1999 and has pioneered the premium rubber and neoprene boot category by delivering high quality, innovative, weatherproof, and comfortable products. Our current line of Muck footwear products is offered at suggested U.S. retail price points ranging from 
+$65.00
+to 
+$250.00
+. Through widespread consumer validation in the farm, agriculture, hunt, and equestrian markets, Muck has been able to expand to new markets such as outdoor, gardening, industrial, and general work, as well as to new international regions such as the U.K., Norway, and Germany to reach new consumers. Both new and existing consumer groups have welcomed line extensions from the brand as the total catalog expands beyond its core offering into premium leather and other new footwear categories. 
+XTRATUF 
+Since the early 1950s, XTRATUF has been a leading outfitter in the commercial, sport, and recreational fishing market, having provided fishermen with capable, comfortable, and reliable footwear for use in the harshest conditions. With roots in Alaska and continued widespread use by those who live there, the XTRATUF brand has been able to expand to other regions throughout North America and most recently in the U.K. and Japan. Fueled by the strong growth in the outdoor market, particularly white boat lifestyle and sport fishing, the brand has been adopted by non-fishermen seeking quality, functional footwear. Our current line of XTRATUF footwear products is offered at suggested U.S. retail price points ranging from 
+$45.00
+to 
+$205.00
+. 
+Rocky 
+Rocky, established in 1979, is our premium priced line of branded footwear, apparel, and accessories. We currently design Rocky products for each of our six target markets and offer our products at a range of suggested U.S. retail price points: $85.00 to $439.00 for our footwear products; and $18.00 to $160.00 for our apparel and accessory lines. 
+The Rocky brand originally targeted outdoor enthusiasts, particularly hunters, and has since become a market leader in the hunting and rugged casual category. In 2002, we also extended into hunting apparel, including jackets, pants, gloves, and caps. Our Rocky products for hunters and other outdoor enthusiasts are designed for specific weather conditions and the diverse terrains of North America. These products incorporate a range of technical features and designs such as waterproof breathable fabric, 3M Thinsulate insulation, nylon Cordura fabric and camouflaged uppers featuring either Venator, Mossy Oak or Realtree patterns. We use rugged outsoles made by industry leaders like Vibram, as well as our own proprietary design features, to make the products durable and easy to wear. 
+In 2002, we introduced Rocky work footwear designed for varying weather conditions or difficult terrain, particularly for people who make their living outdoors such as those in lumber, forestry, construction, and oil & gas occupations. These products typically include many of the proprietary features and technologies that we incorporate in our hunting and outdoor products. 
+We have introduced western influenced work boots for farmers and ranchers. Most of these products are waterproof, come in soft toe and safety toe options, and utilize our proprietary comfort systems. 
+We also produce Rocky duty and commercial military, public service footwear targeting law enforcement professionals, military, security workers, fire industry professionals, and postal service employees, and we have established leading market share positions in these categories. 
+Durango 
+Durango Boots was established in 1966 and manufactures premium western footwear for men, women, and kids. For over half a century, Durango has earned a reputation for building authentic western boots using exceptional materials and innovative constructions. Our current line of Durango products is offered at suggested U.S. retail price points ranging from 
+$90.00
+to 
+$680.00
+. Our brand portfolio categories include work-western, farm and ranch, western-performance, premium exotics, fashion-forward, and casual wear. 
+Many of our western products are marketed to core western and aspirational western consumers who have an affinity and loyalty to the western lifestyle. Such products include high-performance technologies that include our patented Dually Shank System, which provides twice the torsion stability and midfoot support, and various footbeds that offer flexibility, comfort, and support for immediate gratification. 
+Georgia Boot 
+Georgia Boot was launched in 1937 and is our moderately priced, high-quality line of work and rugged lifestyle footwear. Georgia Boot footwear is sold at suggested U.S. retail price points ranging from 
+$115.00
+to 
+$285.00
+. This line of products primarily targets blue collar workers across various trades, including construction, logging, warehousing, landscaping and farming. Many of our boots incorporate safety toes and non-slip outsoles to prevent injuries in the workplace. We also offer other more specialized protective features, such as puncture resistance, as well as metatarsal guards that protect wearers feet from heavy objects. Each boot is designed to meet the demands of specific trades while also integrating cutting-edge technology and materials to create the most comfortable and durable footwear that is tough enough to handle the rigors found on job sites across America. 
+3
+Table of Contents 
+Lehigh 
+The Lehigh brand was established in 1922 as a high-quality line of occupational safety footwear that later expanded into a full-service program offering. While still manufacturing and selling branded core product, the brand primarily focuses on providing managed employee programs to companies that require and provide subsidies to their employees to wear safety footwear and prescription safety eyewear. Most of the footwear incorporates a protective toe and can include a metatarsal guard, puncture-resistant, slip-resistant outsole and special materials to combat caustic substances. Lehigh offers an extensive selection of footwear styles to fit any work environment and also offers prescription safety eyewear that meets OSHA safety standards. Lehigh s unique business model provides companies with customizations to fit their needs and digital tools for greater visibility and control of their program. As the established leader in the industry, Lehigh introduced and utilizes 3DFit technology and wellness foot products as a way to elevate safety and improve productivity and employee satisfaction. By providing an accurate fit, body aligning orthotics and anti-fatigue compression, Lehigh helps companies go beyond accident protection to full body wellness protection. Lehigh provides and improves safety and health to a wide range of customer accounts in the industrial, distribution, hospitality, and healthcare industries. 
+The Lehigh brand line of safety shoes has suggested U.S. retail price points ranging from 
+$91.00
+to 
+$295.00
+. Prescription safety eyewear has suggested retail price points of $225.00 to $315.00. 
+Range
+
+## GEOGRAPHIC REVENUE
+er 2025-01-01 2025-12-31 
+0000895456 us-gaap:StateAdministrationOfTaxationChinaMember 2025-01-01 2025-12-31 
+0000895456 rcky:OtherCountryTaxAuthoritiesMember 2025-01-01 2025-12-31 
+0000895456 us-gaap:DomesticCountryMember 2025-01-01 2025-12-31 
+0000895456 us-gaap:StateAndLocalJurisdictionMember 2025-01-01 2025-12-31 
+0000895456 us-gaap:ForeignCountryMember us-gaap:CanadaRevenueAgencyMember 2025-01-01 2025-12-31 
+0000895456 us-gaap:ForeignCountryMember us-gaap:StateAdministrationOfTaxationChinaMember 2025-01-01 2025-12-31 
+0000895456 us-gaap:ForeignCountryMember us-gaap:MexicanTaxAuthorityMember 2025-01-01 2025-12-31 
+0000895456 us-gaap:ForeignCountryMember rcky:UnitedKingdomTaxAuthorityMember 2025-01-01 2025-12-31 
+0000895456 us-gaap:ForeignCountryMember us-gaap:AustralianTaxationOfficeMember 2025-01-01 2025-12-31 
+0000895456 2025-02-24 
+0000895456 rcky:NonvotingPreferredStockMember 2025-12-31 
+0000895456 rcky:SeriesANonvotingConvertiblePreferredStockMember 2025-12-31 
+0000895456 rcky:SeriesANonvotingConvertiblePreferredStockMember 2024-12-31 
+0000895456 rcky:The2014PlanMember 2021-05-01 2021-05-31 
+0000895456 rcky:The2014PlanMember 2021-05-31 
+0000895456 rcky:The2014PlanMember 2024-12-31 
+0000895456 rcky:The2014PlanMember 2024-06-05 
+0000895456 rcky:The2024PlanMember 2024-06-05 2024-06-05 
+0000895456 rcky:The2024PlanMember 2024-06-05 
+0000895456 rcky:The2024PlanMember 2025-12-31 
+0000895456 us-gaap:RestrictedStockUnitsRSUMember rcky:The2024PlanMember 2025-01-01 2025-12-31 
+0000895456 us-gaap:RestrictedStockUnitsRSUMember 2024-12-31 
+0000895456 us-gaap:RestrictedStockUnitsRSUMember 2025-01-01 2025-12-31 
+0000895456 us-gaap:RestrictedStockUnitsRSUMember 2025-12-31 
+0000895456 rcky:NonvestedStockOptionsAndRestrictedStockUnitsRsusMember 2025-12-31 
+0000895456 rcky:NonvestedStockOptionsAndRestrictedStockUnitsRsusMember 2025-01-01 2025-12-31 
+0000895456 us-gaap:RestrictedStockUnitsRSUMember 2024-01-01 2024-12-31 
+0000895456 us-gaap:EmployeeStockOptionMember 2025-01-01 2025-12-31 
+0000895456 us-gaap:EmployeeStockOptionMember 2024-01-01 2024-12-31 
+0000895456 us-gaap:SalesRevenueNetMember us-gaap:ProductConcentrationRiskMember us-gaap:GeographicDistributionForeignMembe
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+major customers experience a significant downturn in business or fail to remain committed to our products or brands, these customers could postpone, reduce, or discontinue purchases from us, which could result in us failing to meet our forecasted results. These risks have been exacerbated recently as our key retail customers are operating within a retail industry that continues to undergo significant structural changes fueled by technology and the internet, changes in consumer purchasing behavior and a shrinking retail footprint. We may lose key retail and wholesale customers if they fail to manage the impact of the rapidly changing retail environment. Any loss of one of these key customers, the financial collapse or bankruptcy of one of these customers, or a significant reduction in purchases from one of these customers could result in a significant decline in sales, write-downs of excess inventory, or increased discounts to our customers, any of which could have a material adverse effect on our financial condition or results of operations. 
+Certain of our larger wholesale customers may develop and manufacture competing products under their own brands and reduce purchases of our branded products . 
+Certain of our larger wholesale customers may develop, and in certain cases have developed, products under their own brands that compete with our branded products. Wholesale customers who increase the concentration of their own brands may result in a reduction or elimination of purchases of our branded products, which could have a material adverse effect on our business, financial condition, results of operations and cash flows. 
+We currently manufacture a portion of our products, and we may not be able to do so in the future at costs that are competitive with those of competitors who source their goods. 
+We currently plan to retain our internal manufacturing capability in order to continue benefiting from expertise we have gained with respect to footwear manufacturing m
+
+---
+Doc size: 1590KB (capped at 2MB)

@@ -1,0 +1,14 @@
+# SIMON PPTY GROUP INC NEW — 10-K Annual Report
+# Filed: 2026-02-25
+# CIK: 1063761
+# SIC: Real Estate Investment Trusts
+# Source: SEC EDGAR (https://www.sec.gov/Archives/edgar/data/1063761/000110465926019419/spg-20251231x10k.htm)
+
+## RISK FACTORS (Item 1A)
+_593847"> 1A . &#8203; Risk Factors 11 <a style="font-size:9pt;" href="#
+
+## GEOGRAPHIC REVENUE
+segment> spg:SimonPropertyGroupLimitedPartnershipMember spg:OtherNonControllingRedeemableInterestMember 2025-12-31 0001063761 spg:OtherNonControllingRedeemableInterestMember 2025-12-31 0001063761 spg:SimonPropertyGroupLimitedPartnershipMember spg:OtherNonControllingRedeemableInterestMember 2024-12-31 0001063761 spg:OtherNonControllingRedeemableInterestMember </xbrli:segmen
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+(Not available)

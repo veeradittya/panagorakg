@@ -1,0 +1,119 @@
+# RAMBUS INC DEL — 10-K Annual Report
+# Filed: 2026-02-18
+# CIK: 917273
+# SIC: Semiconductors & Related Devices
+# Source: https://www.sec.gov/Archives/edgar/data/917273/000119312526057101/rmbs-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+11 
+Item 1B. 
+Unresolved Staff Comments 
+36 
+Item 1C. 
+Cybersecurity 
+36 
+Item 2. 
+Properties 
+37 
+Item 3. 
+Legal Proceedings 
+37 
+Item 4. 
+Mine Safety Disclosures 
+37 
+PART II 
+38 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+38 
+Item 6. 
+Reserved 
+39 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+40 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+55 
+Item 8. 
+Financial Statements and Supplementary Data 
+56 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+56 
+Item 9A. 
+Controls and Procedures 
+56 
+Item 9B. 
+Other Information 
+57 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+57 
+PART III 
+58 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+58 
+Item 11. 
+Executive Compensation 
+58 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+58 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+58 
+Item 14. 
+Principal Accountant Fees and Services 
+58 
+PART IV 
+59 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+59 
+INDEX TO EXHIBITS 
+99 
+SIGNATURES 
+101 
+Table of Contents 
+NOTE REGARDI NG FORWARD-LOOKING STATEMENTS This Annual Report on Form 10-K ( Annual Report on Form 10-K ) contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. These forward-looking statements include, without limitation, predictions regarding the following aspects of our future: Success in the markets of our products and services or our customers products; Sources of competition; Research and development costs and improvements in technology; Sources, amounts and concentration of revenue, including royalties; Success in signing and renewing customer agreements, including license agreements; The timing of completing engineering deliverables and the changes to work required; Success in adding and maintaining new customers; Success in obtaining orders from our customers and our ability to accurately anticipate and meet our customers demands; Success in entering and growth in new markets; Levels of variation in our customers shipment volumes, sales prices and product mix; Variation in contract and other revenue, based on varying revenue recognized from contract and other revenue; Implications of short-term or long-term increases in our research and development expenses; Short-term increases in cost of product revenue; Variation in our sales, general and administrative expenses; Terms of our licenses and amounts owed under license agreements; Technology product development; Perceived or actual changes in the quality of our products; Dispositions, acquisitions, mergers or strategic transactions and our related integration efforts; Impairment of goodwill and long-lived assets; Pricing policies of our customers; Changes in our strategy and business model, including the expansion of our portfolio of products, software, services, inventions and solutions to address additional markets in memory, chip and security; Deterioration of financial health of commercial counterparties and their ability to meet their obligations to us; Effects of security breaches or failures in our or our customers products, system and services on our business; Engineering, sales, legal, advertising, marketing, general and administration, and other expenses; Continued product revenue growth, specifically in connection with the growth in sales of our memory interface chips; International licenses, operations and expansion; Effects of changes in the economy and credit market on our industry and business; Effects of natural disasters, climate change and extreme weather events on our supply chain; Ability to identify, attract, motivate and retain qualified personnel; Effects of government regulations on our industry and business; Manufacturing, shipping and supply partners, supply chain availability and/or sale and distribution channels; Methods, estimates and judgments in existing and new accounting policies; Effective tax rates, including as a result of recent U.S. tax legislation; 
+2 
+Table of Contents 
+Restructurings and plans of termination; Realization of deferred tax assets/release of deferred tax valuation allowance; Trading price of our common stock; Internal control environment; Protection of intellectual property ( IP ); Outcome and effect of potential future IP litigation and other significant litigation. Any changes in laws, agency actions and judicial rulings that may impact the ability to enforce our IP rights; Indemnification and technical support obligations; Equity repurchase programs; Issuances of debt or equity securities, which could involve restrictive covenants or be dilutive to our existing stockholders; Effects of fluctuations in inflation, interest rates and currency exchange rates; Effects of U.S. government restrictions on exports, including with China; Effects of current and future uncertainty in the worldwide economy, including major central bank policies and worldwide changes in credit markets; Effects of changes in macroeconomic conditions, increased risk of recession and geopolitical issues; Management of supply chain risks; and You can identify these and other forward-looking statements by the use of words such as may, future, shall, should, expects, plans, anticipates, believes, estimates, predicts, intends, potential, continue, projecting or the negative of such terms, or other comparable terminology. Forward-looking statements also include the assumptions underlying or relating to any of the foregoing statements. Actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under Item 1A, Risk Factors. All forward-looking statements included in this document are based on our assessment of information available to us at this time. We assume no obligation to update any forward-looking statements. 
+3 
+Table of Contents 
+PA RT I Rambus is a trademark of Rambus Inc. Other trademarks or copyrights that may be mentioned in this Annual Report on Form 10-K are the property of their respective owners. Item 1. Business Overview Rambus is a global semiconductor company providing industry-leading chips and silicon IP for data-intensive computing systems, focusing on data center and artificial intelligence ( AI ) infrastructure. As a pioneer with over three decades of advanced semiconductor design experience, Rambus is at the forefront of enabling the next era of AI-driven computing, addressing the critical challenges of signal and power integrity at increasingly extreme data rates in the data center, edge and client markets. We are a leader in high-performance memory subsystems, offering a balanced and diverse portfolio of products, IP and patents that maximize performance and security in computationally intensive systems. The ongoing proliferation of AI is placing unprecedented demands on computing infrastructure, requiring massive amounts of processor performance and extremely high memory bandwidth. As workloads grow in size and diversity, system performance becomes memory bound, making the memory interface technology a critical determinant of overall throughput. This persistent gap between processor performance and memory subsystem capabilities remains one of the largest bottlenecks in high performance compute systems. In addition, power management is increasingly important to optimize system efficiency and thermal performance as the power-performance demands continue to rise. Rambus is well positioned to address these challenges. Leveraging our deep expertise in memory technology and innovative architectures, we provide industry-leading memory interface chips that enable the highest bandwidth, capacity and power efficient server memory modules, maximizing memory performance and reliability for the most demanding data-intensive workloads. Beyond the data center, server-class technologies are migrating into client devices to bring these same benefits to end-user systems, such as AI personal computers ( PCs ). Furthermore, the growing adoption of AI and heterogenous computing across diverse applications is creating significant opportunities for our silicon IP portfolio. Our high-performance digital controller cores are increasingly vital components in accelerated computing chips, including custom silicon, which are the workhorses of AI processing. The expanding attack surface in today s accelerated computing environments also necessitates robust security solutions. Our industry-leading security IP plays a crucial role in safeguarding both data at rest and data in motion, protecting against evolving cyber threats. Rambus is committed to the sustained investment in our technology development and product roadmap to stay at the forefront of the innovation cycle and advance our product leadership. In 2025, Rambus delivered strong execution across our memory and interface portfolio. We strengthened our leadership in DDR5 Registering Clock Drivers ( RCD ) and expanded the adoption of our new products, contributing to revenue growth. We expanded into high-performance and AI PCs with the launch of our complete client chipset, giving Rambus a comprehensive portfolio that supports all JEDEC-standard DDR5 and LPDDR5 modules across server and client systems. We also achieved strong customer momentum across our HBM4, GDDR7 and PCIe 7.0 digital IP families, along with our security IP, reinforcing our position as a key enabler of next-generation data center and AI architectures. Finally, further fueling our continuous technology investment, we successfully secured and extended key patent licensing agreements, providing a strong foundation for sustained cash generation and consistent return of value to our stockholders. Memory Interface Chips Rambus provides complete chipset solutions for industry-standard DDR5 and LPDDR5 memory modules for server and client systems, including Registered Dual Inline Memory Modules ( RDIMM ) and next-generation Multiplexed Rank Dual Inline Memory Modules ( MRDIMM ), enabling high memory subsystem performance, capacity, reliability and power efficiency. 
+4 
+Table of Contents 
+The Company s leading-edge chipset offerings include: Registering Clock Drivers ( RCD ) Multiplexed Registering Clock Driver ( MRCD ) Multiplexed Data Buffer ( MDB ) Client Clock Driver ( CKD ) Power Management Integrated Circuits ( PMIC ) Serial Presence Detect Hubs ( SPD Hub ) Temperature Sensors ( TS ) We sell memory interface chips directly and indirectly to memory module manufacturers, OEMs and hyperscalers worldwide through multiple channels, including our direct sales force and distributors, and we employ global sales personnel to support such operations. We operate a fabless business model and use third-party foundries and manufacturing contractors to fabricate, assemble and test our memory interface chips. We also inspect and test parts in our U.S.-based facilities. This outsourced manufacturing approach allows us to focus our investment and resources on the research, development, design, sale and marketing of our products. Outsourcing also allows us the flexibility needed to respond to new market opportunities, simplifies our operations and significantly reduces our capital requirements. Silicon IP Rambus Silicon IP includes high-performance interface and security IP solutions that move and protect data in advanced AI, data center, government and automotive applications. Our interface IP solutions feature both high-speed memory and chip-to-chip digital controller IP, including: HBM Memory Controller IP GDDR Memory Controller IP PCIe Controllers, Retimer and Switch IP CXL Controller IP Our security IP offerings comprise one of the industry s most comprehensive portfolio of solutions, including: Hardware Roots of Trust High-speed Protocol Engines Crypto Cores Chip Provisioning Technologies We sell Silicon IP solutions to leading chip makers worldwide for integration into their custom silicon, Application Specific Standard Products ( ASSP ) and Field Programmable Gate Array ( FPGA ) designs. Rambus Silicon IP is sold primarily through our direct global sales force. Patent Licenses Our patented inventions are foundational to the semiconductor industry and are licensed to leading semiconductor and system companies around the world. Rambus continues to innovate and invent, thereby advancing semiconductor technology. With a broad worldwide portfolio of patents covering memory architecture, high-speed serial links and security, we enhance our value and relevance in our target markets and create a platform for investment in product development. Our patent licenses enable our customers to use specified portions of our portfolio of patented inventions in the customer s own digital electronics products, systems or services. These licenses may also define the specific field of use where our 
+5 
+Table of Contents 
+customers may use or employ our inventions in their products. License agreements are structured with fixed or variable, or a hybrid of fixed and variable royalty payments over certain periods typically ranging up to ten years. Leading semiconductor and electronic system companies, such as AMD, Amlogic, Broadcom, CXMT, IBM, Infineon, Kioxia, Marvell, MediaTek, Micron, Nanya, Nuvoton, NVIDIA, Phison, Qualcomm, Samsung, Silicon Motion, SK hynix, Socionext, STMicroelectronics, Toshiba, Western Digital and Winbond have licensed our patents. Additionally, from time to time, we enter into agreements to sell certain patent assets under agreements which may also include subsequent profit-sharing. The sale of these patents, as well as the subsequent profit-sharing, are included as part of our royalties revenue. Competition The semiconductor industry is intensely competitive and is characterized by rapid technological change, short product life cycles, cyclical market patterns, price erosion, increasing foreign and domestic competition, market consolidation and geopolitical developments that increasingly impact business. Rambus competes with product offerings from various companies depending upon the particular Rambus product line. In the memory interface chip market, we compete with international semiconductor companies, including but not limited to Monolithic Power Systems, Montage Technology, Renesas and Texas Instruments. In the Silicon IP market, Rambus competes with the in-house design teams at our potential customers, as well as with third-party IP suppliers, such as Cadence and Synopsys. Many of our competitors are larger and may have better access to financial, technical, sales and marketing resources than we possess. To the extent that
+
+## GEOGRAPHIC REVENUE
+n of our total engineering costs are allocated to the cost of contract and other revenue. Human Capital Resources As of December 31, 2025, we had 791 employees, of which approximately 47% were in the United States and 53% in other global regions, including but not limited to Bulgaria, Canada, China, Finland, France, India, the Netherlands, South Korea and Taiwan. Additionally, approximately 71% of our employees were engineers with the remaining employees in sales, general and administrative positions. None of our employees are covered by collective bargaining agreements. 
+6 
+Table of Contents 
+We believe that our future success largely depends upon our continued ability to identify, attract, motivate and retain qualified personnel. We provide our employees with competitive compensation, as well as opportunities for equity ownership and developmental programs that enable continued learning and growth. We also offer employees benefits such as life and health insurance, paid time off, paid parental leave and retirement savings plans. We utilize successful recruiting practices that yield qualified and dedicated employees who are driven to achieve our vision. The employment market in the United States can be competitive, especially for technology companies in the San Francisco Bay Area and elsewhere. Our human capital resources objectives, as described above, help us retain and motivate our existing employees, advisors and consultants, which is a key component of increasing stockholder value and the success of Rambus. We are an equal opportunity employer and are committed to maintaining an inclusive work environment. Our commitment to inclusion helps us attract and retain the best talent, enables employees to realize their full potential and drives high performance through innovation and collaboration. We strive to maintain a best-in-class work environment that fosters respect for all individuals, their ideas and contributions. Intellectual Property We maintain and support an active program to protect our IP, primarily through the filing of patent applications and the defense of issued patents against potential infringement. As of December 31, 2025, our semiconductor
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+Major Customers, of Notes to Consolidated Financial Statements of this Form 10-K, all of which are incorporated herein by reference. Information concerning identifiable assets and segment reporting is also set forth in Note 7, Segments and Major Customers, of Notes to Consolidated Financial Statements of this Form 10-K. Information on customers that comprise 10% or more of our consolidated revenue and risks attendant to our foreign operations is set forth below in Item 1A, Risk Factors. 
+8 
+Table of Contents 
+Our Executive Officers Information regarding our current executive officers and their ages and positions is contained in the table below. Our executive officers are appointed by, and serve at the discretion of, our Board of Directors. There is no family relationship between any of our executive officers. 
+Name 
+Age 
+Position and Business Experience 
+Luc Seraphin 
+62 
+President & Chief Executive Officer. Mr. Seraphin has served as President & Chief Executive Officer since October 2018 and was interim Chief Executive Officer from June 2018 to October 2018. With over 30 years of experience managing global businesses, Mr. Seraphin brings the overall vision and leadership necessary to drive future growth for the company. Prior to this role, Mr. Seraphin was the Senior Vice President and General Manager of the Memory and Interface Division, leading the development of the company s innovative memory architectures and high-speed serial link solutions. Mr. Seraphin also served as the Senior Vice President of Worldwide Sales and Operations where he oversaw sales, business development, customer support and operations across the various business units within Rambus. Mr. Seraphin started his career as a field application engineer at NEC and later joined AT&T Bell Labs, which became Lucent Technologies and Agere Systems (now Broadcom Inc.). During his 18 years at Agere, Mr. Seraphin held several senior positions in sales, marketing and general management, culminating in his
+
+---
+Doc size: 2048KB (capped at 2MB)

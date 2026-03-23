@@ -1,0 +1,20 @@
+# EQT CORP — 10-K Annual Report
+# Filed: 2026-02-18
+# CIK: 33213
+# SIC: Crude Petroleum & Natural Gas
+# Source: https://www.sec.gov/Archives/edgar/data/33213/000003321326000018/eqt-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 6 Cautionary Statements 7 PART I Item 1. Business 8 Item 1A. Risk Factors 34 Item 1B. Unresolved Staff Comments 59 Item 1C. Cybersecurity 59
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+single customer and believe that the loss of any one customer would not have an adverse effect on our ability to sell our natural gas, NGLs and oil. We have access to approximately 4.3 Bcf per day of firm pipeline takeaway capacity, including 1.29 Bcf per day of firm pipeline takeaway capacity on MVP Mainline that we have contracted through June 30, 2044. In addition, we are committed to an additional 0.55 Bcf per day of firm pipeline takeaway capacity on MVP Southgate (defined below) once placed into service. We have access to approximately 1.0 Bcf per day of firm processing capacity, including 0.2 Bcf per day of firm processing capacity on the processing facility owned by our Gathering segment. These firm transportation and processing agreements may require minimum volume delivery commitments, which we expect to principally fulfill with production from existing reserves. Natural Gas Marketing. EQT Energy, LLC, our indirect, wholly owned marketing subsidiary, provides marketing services and contractual pipeline capacity management services primarily for our benefit. EQT Energy, LLC also engages in risk management and hedging activities to limit our exposure to shifts in market prices. 15 Table of Contents Average Sales Price. The following table presents our average sales price per unit of natural gas, NGLs and oil, with and without the effects of cash settled derivatives, as applicable. Years Ended December 31, 2025 2024 2023 Natural gas ($/Mcf): Average sales price, excluding cash settled derivatives $ 3.13 $ 2.02 $ 2.37 Average sales price, including cash settled derivatives 3.08 2.59 2.68 NGLs, excluding ethane ($/Bbl): Average sales price, excluding cash settled derivatives $ 38.04 $ 39.13 $ 36.39 Average sales price, including cash settled derivatives 38.19 38.83 35.12 Ethane ($/Bbl): Average sales price $ 8.01 $ 6.03 $ 6.00 Oil ($/Bbl): Average sales price $ 49.08 $ 58.67 $ 59.93 Natural gas, NGLs and oil ($/Mcfe): Average sales price, excluding cash settled
+
+---
+Doc size: 2048KB (capped at 2MB)

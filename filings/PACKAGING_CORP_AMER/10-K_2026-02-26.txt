@@ -1,0 +1,233 @@
+# PACKAGING CORP AMER — 10-K Annual Report
+# Filed: 2026-02-26
+# CIK: 75677
+# SIC: Paperboard Containers & Boxes
+# Source: https://www.sec.gov/Archives/edgar/data/75677/000119312526074129/pkg-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+3 
+Packaging 
+4 
+Paper 
+7 
+Corporate and Other 
+8 
+Human Capital 
+8 
+Regulatory and Environmental Matters 
+9 
+Executive Officers of the Registrant 
+9
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+10 
+Item 1B. 
+Unresolved Staff Comments 
+15 
+Item 1C. 
+Cybersecurity 
+15 
+Item 2. 
+Properties 
+16 
+Item 3. 
+Legal Proceedings 
+16 
+Item 4. 
+Mine Safety Disclosure 
+16 
+PART II 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities 
+17 
+Item 6. 
+Selected Financial Data 
+19 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+20 
+Overview 
+20 
+Executive Summary 
+20 
+Industry and Business Conditions 
+21 
+Results of Operations 
+22 
+Liquidity and Capital Resources 
+24 
+Commitments 
+26 
+Off-Balance Sheet Arrangements 
+26 
+Inflation and Other General Cost Increases 
+26 
+Regulatory and Environmental Matters 
+27 
+Critical Accounting Policies and Estimates 
+29 
+New and Recently Adopted Accounting Standards 
+30 
+Non-GAAP Financial Measures 
+31 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+33 
+Item 8. 
+Financial Statements and Supplementary Data 
+34 
+Item 9. 
+Changes In and Disagreements With Accountants on Accounting and Financial Disclosure 
+76 
+Item 9A. 
+Controls and Procedures 
+76 
+Item 9B. 
+Other Information 
+77 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions That Prevent Inspections 
+77 
+PART III 
+Item 10. 
+Directors, Executive Officers, and Corporate Governance 
+78 
+Item 11. 
+Executive Compensation 
+78 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+78 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+79 
+Item 14. 
+Principal Accounting Fees and Services 
+79 
+PART IV 
+Item 15. 
+Exhibits, Financial Statement Schedules 
+80 
+Signatures 
+84 
+2 
+PART I Item 1. B USINESS Packaging Corporation of America ( we, us, our, PCA, or the Company ) is the third largest producer of containerboard products and a leading producer of uncoated freesheet (UFS) paper in North America. We operate ten mills and 91 corrugated products plants and related facilities. We are headquartered in Lake Forest, Illinois and operate in the United States. We report in three reportable segments: Packaging, Paper and Corporate and Other. For segment financial information see Note 19, Segment Information, of the Notes to Consolidated Financial Statements in Part II, Item 8, Financial Statements and Supplementary Data of this Form 10-K. On September 2, 2025, we completed the acquisition of the containerboard business of Greif, Inc. ( Greif or Greif Acquisition ) for $1.8 billion in cash. The Greif containerboard business includes two containerboard mills with approximately 800,000 tons of production capacity and eight sheet feeder and corrugated plants located across the United States. The operating results of Greif Acquisition are included in PCA s results in the Packaging segment after the date of acquisition. Production and Shipments The following table summarizes the Packaging segment s containerboard production and corrugated products shipments and the Paper segment s UFS production. 
+First Quarter 
+Second Quarter 
+Third Quarter 
+Fourth Quarter 
+Full Year 
+Containerboard Production (billion square feet) 
+2025 
+72.5 
+69.2 
+77.4 
+85.8 
+304.9 
+2024 
+67.3 
+73.7 
+76.0 
+76.8 
+293.8 
+2023 
+64.1 
+65.3 
+65.8 
+70.2 
+265.4 
+Containerboard Production (thousand tons) 
+2025 
+1,250 
+1,195 
+1,302 
+1,407 
+5,154 
+2024 
+1,162 
+1,281 
+1,293 
+1,310 
+5,046 
+2023 
+1,086 
+1,112 
+1,118 
+1,213 
+4,529 
+Corrugated Products Shipments (billion square feet) 
+2025 
+16.4 
+16.5 
+18.1 
+20.1 
+71.1 
+2024 
+16.1 
+16.5 
+17.2 
+17.1 
+66.9 
+2023 
+14.7 
+14.9 
+15.2 
+15.7 
+60.5 
+UFS Production (thousand tons) 
+2025 
+124 
+115 
+124 
+121 
+484 
+2024 
+124 
+120 
+127 
+128 
+499 
+2023 
+126 
+116 
+109 
+121 
+472 
+3 
+Below is a map of our locations: Packa ging Packaging Products Our containerboard mills produce linerboard and corrugating medium, which are papers primarily used in the production of corrugated products. Our corrugated products manufacturing plants produce a wide variety of corrugated packaging products, including conventional shipping containers used to protect and transport manufactured goods, multi-color boxes and displays with strong visual appeal that help to merchandise the packaged product in retail locations, and honeycomb protective packaging. In addition, we are a large producer of packaging for meat, fresh fruit and vegetables, processed food, beverages, and other industrial and consumer products. Our products are sustainable and are produced from renewable raw materials, predominately using energy derived from biogenic fuels in our production processes and are recyclable at end-of-life. During the year ended December 31, 2025, our Packaging segment produced 5.2 million tons (305 billion square feet (BSF)) of containerboard at our mills. Our corrugated products manufacturing plants sold 71 BSF of corrugated products. 
+4 
+Facilities We manufacture containerboard, which includes a variety of performance and specialty grades, at our containerboard mills. Total annual containerboard capacity was approximately 5.8 million tons (358 BSF) as of December 31, 2025. The following provides more details of our containerboard mills: Counce. Our Counce, Tennessee mill produces kraft linerboard on two machines. The mill can produce basis weights from 26 lb. to 90 lb. DeRidder. Our DeRidder, Louisiana mill produces kraft linerboard on its No. 1 machine and kraft linerboard and corrugating medium on its No. 3 machine. The mill can produce linerboard in basis weights of 26 lb. to 69 lb. and medium in basis weights of 23 lb. to 33 lb. Filer City. Our Filer City, Michigan mill produces corrugating medium on three machines. The mill can produce basis weights from 20 lb. to 47 lb. Jackson. Our Jackson, Alabama mill produces kraft linerboard on its No. 3 machine and kraft linerboard and corrugating medium on its No. 1 machine. The mill can produce linerboard in basis weights from 22 lb. to 34 lb. and medium in basis weights from 23 lb. to 33 lb. Massillon. We acquired the Massillon, Ohio mill with the Greif acquisition. The mill produces recycled corrugating medium on two machines. The mill can produce basis weights from 20 lb. to 40 lb. Riverville. We acquired the Riverville, Virginia mill with the Greif acquisition. The mill produces corrugating medium on its No. 1 machine and corrugating medium and kraft linerboard and on its No. 2 machine. The mill can produce medium in basis weights from 23 lb. to 40 lb. and linerboard in basis weights from 26 lb. to 42 lb. Tomahawk. Our Tomahawk, Wisconsin mill produces corrugating medium on two machines. The mill can produce basis weights from 23 lb. to 47 lb. Valdosta. Our Valdosta, Georgia mill produces kraft linerboard on one machine. The mill can produce basis weights from 35 lb. to 96 lb. Wallula. Our Wallula, Washington mill produces kraft linerboard and corrugating medium on its No. 3 machine. The mill can produce basis weights from 23 lb. to 26 lb. During the fourth quarter of 2025, the Company announced that it will permanently shut down the No. 2 paper machine and kraft pulping facilities at the Wallula mill. These activities were completed during the first quarter of 2026. The Company continues to operate the No. 3 paper machine and recycled pulping facilities at the mill. As of December 31, 2025, we produced corrugated and protective packaging products at 91 facilities, and operated a technical and development center, six regional design centers, a rotogravure printing operation, and a complement of packaging supplies and distribution centers. Of the 91 manufacturing facilities, 56 are combining operations, commonly called corrugated plants, which manufacture corrugated sheets and finished corrugated packaging products, 28 are sheet plants, which procure combined sheets and manufacture finished corrugated packaging products, and seven are corrugated sheet-only manufacturers. Corrugated products plants tend to be located in close proximity to customers to minimize freight costs. Each of our plants serves a market radius of approximately 150 miles. Our sheet plants are generally located in close proximity to our larger corrugated plants, which enables us to offer additional services and converting capabilities such as small volume and quick turnaround items. Major Raw Materials Used Fiber supply. Fiber is the largest raw material cost to manufacture containerboard. We consume both virgin wood fiber and recycled fiber in our containerboard mills, and all of our fiber comes from renewable resources. Our mill system has the capability to shift a portion of its fiber consumption between softwood, hardwood, and recycled sources. All of our mills, other than the Massillon mill and the Wallula mill, can utilize virgin wood fiber and all of our mills, other than the Valdosta mill, can utilize some recycled fiber in their containerboard production. Our corrugated manufacturing operations generate recycled fiber as a by-product from the manufacturing process, which is consumed by our mills. In 2025, our usage of recycled fiber, net of internal generation, represents 22% of our containerboard production, which is expected to increase in 2026 and future periods. We procure wood fiber through leases of cutting rights, long-term supply agreements, and market purchases and believe we have adequate sources of fiber supply for the foreseeable future. 
+5 
+As part of our renewable virgin fiber sourcing efforts, we participate in the Sustainable Forestry Initiative (SFI), the Programme for the Endorsement of Forest Certification (PEFC), as well as the Forest Stewardship Council (FSC ) voluntary certification programs, and are certified under their chain of custody and fiber sourcing standards. These standards are aimed at ensuring the long-term health and conservation of forests. Our operations are committed to environmentally conscious, socially responsible, and economically sustainable fiber sourcing practices that prioritize stewardship of forest resources. Energy supply. Energy at our packaging mills is obtained through self-generated or purchased fuels and electricity. Fuel sources include by-products of the containerboard manufacturing and pulping process (including black liquor and wood waste), natural gas, purchased wood waste, and other purchased fuels. Each of our mills self-generates process steam requirements from by-products (black liquor and wood waste), as well as from the various purchased fuels. The process steam is used throughout the production process and also to generate electricity. In 2025, our packaging mills consumed about 89 million MMBTUs of fuel to produce both steam and electricity. Of the 89 million MMBTUs consumed, about 62% was from mill-generated biogenic fuels that are by-products of our containerboard manufacturing and pulping process and 38% was from purchased fuels. Of the purchased fuels, 76% was from natural gas, 23% was from purchased wood waste and 1% was from other purchased fuels. Chemical supply. We consume various chemicals in the production of containerboard, including caustic soda, starch, sulfuric acid, soda ash, and lime. Most of our chemicals are purchased under contracts, which are bid or negotiated periodically. Sales, Marketing, and Distribution Our corrugated products are primarily sold directly through our sales and marketing organization. We have local sales teams led by a sales manager at most of our corrugated manufacturing facilities to support our local customers. We also have national account managers who serve customers with a national presence. In addition to our direct sales and marketing personnel, we utilize design and structural engineers to support our sales efforts. These individuals are located at both our corrugated plants and regional design centers. Marketing support is provided at our corporate headquarters. Our containerboard sales group is responsible for linerboard and corrugating medium order processing and supply to our corrugated plants, to outside domestic customers, and to export customers. These personnel also coordinate and execute all containerboard trade agreements with other containerboard manufacturers. Containerboard produced in our mills is primarily shipped by rail or truck. Our corrugated products are delivered by truck due to proximity of our corrugated manufacturing operations to customers and load size. Our corrugated manufacturing operations typically serve customers within a 150-mile radius. Customers We sell containerboard and corrugated products to approximately 12,000 customers in approximately 27,000 locations. About 70% of our corrugated products sales are to regional and local accounts, which are broadly diversified across industries and geographic locations. The remaining 30% of our corrugated products customer base consists primarily of national accounts that have multiple locations and are served by a number of PCA plants. No single customer exceeds 10% of segment sales. The primary end-use markets in the United States for corrugated products are shown below as reported in the 2024 Fibre Box Association annual report: 
+Food, beverages, and agricultural products 
+40 
+% 
+Retail and wholesale trade 
+29 
+% 
+Chemical, plastic, and rubber products 
+11 
+% 
+Paper and other products 
+10 
+% 
+Miscellaneous manufacturing 
+10 
+% 
+Competition As of December 31, 2025, we were the third largest producer of containerboard products in North America, according to industry sources and our own estimates. According to industry sources, corrugated products are produced by about 370 U.S. companies operating approximately 1,080 plants. The primary basis for competition for most of our packaging products includes quality, service, price, product design, and innovation. Most corrugated products are manufactured to the customer s specifications. Corrugated producers generally sell within a 150-mile radius of their plants and compete with other corrugated producers in their local region. Competition in our corrugated products operations tends to be regional, although we also face competition from competitors with significant national account presence. 
+6 
+On a national level, our primary competitors are International Paper, Smurfit WestRock, Georgia-Pacific LLC, and Pratt Industries. However, with our strategic focus on regional and local accounts, we also compete with many smaller, independent producers. Pap er We are a leading producer of UFS in North America, according to industry sources and our own estimates. We manufacture and sell papers, including both commodity and specialty papers, which may have custom or specialized features such as colors, coatings, high brightness, and recycled content. Our papers consist of communication papers, including cut-size office papers, and printing and converting papers. Our products are sustainable and are produced from renewable raw materials, predominately using energy derived from biogenic fuels in our production
+
+## GEOGRAPHIC REVENUE
+-01 2025-12-31 0000075677 pkg:PaperMember 2023-12-31 0000075677 2025-09-30 0000075677 us-gaap:CargoAndFreightMember pkg:PackagingMember 2024-01-01 2024-12-31 0000075677 pkg:Years11through20Member pkg:DomesticAndForeignTaxAuthorityMember 2025-12-31 0000075677 us-gaap:PensionPlansDefinedBenefitMember us-gaap:FairValueInputsLevel1Member us-gaap:DefinedBenefitPlanEquitySecuritiesNonUsMember 2024-12-31 0000075677 pkg:BuildingsMachineryAndEquipmentMember 2024-12-31 0000075677 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31 0000075677 us-gaap:CorporateAndOtherMember pkg:TradeMember 2023-01-01 2023-12-31 0000075677 us-gaap:FairValueInputsLevel1Member 2024-12-31 0000075677 us-gaap:CargoAndFreightMember 2024-01-01 2024-12-31 0000075677 us-gaap:VariableInterestEntityPrimaryBeneficiaryMember 2025-12-31 0000075677 us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2024-01-01 2024-12-31 0000075677 us-gaap:OperatingSegmentsMember pkg:TradeMember 2025-01-01 2025-12-31 0000075677 us-gaap:CoVenturerMember pkg:FiberMember 2025-01-01 2025-12-31 0000075677 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-12-31 0000075677 us-gaap:FairValueInputsLevel3Member us-gaap:PensionPlansDefinedBenefitMember us-gaap:CorporateDebtSecuritiesMember 2025-12-31 0000075677 pkg:BoiseIncMember 2025-01-01 2025-12-31 0000075677 us-gaap:PensionPlansDefinedBenefitMember us-gaap:FairValueInputsLevel1Member us-gaap:CorporateDebtSecuritiesMember 2025-12-31 0000075677 us-gaap:PensionPlansDefinedBenefitMember 2023-01-01 2023-12-31 0000075677 us-gaap:PensionPlansDefinedBenefitMember us-gaap:DefinedBenefitPlanEquitySecuritiesUsMember 2024-12-31 0000075677 us-gaap:VehiclesMember srt:MinimumMember 2025-12-31 0000075677 us-gaap:AdditionalPaidInCapitalMember 2024-12-31 0000075677 pkg:PaperMember 2024-01-01 2024-12-31 0000075677 pkg:Years11through20Member us-gaap:DomesticCountryMember 2025-12-31 0000075677 us-gaap:USTreasurySecuritiesMember 2024-12-31 0000075677 us-gaap:USGovernmentAgenciesDebtSecuritiesMember us-gaap:FairValueInputsLevel2Member 2024-12-31 0000075677 us-gaap:SeniorNotesMember pkg:FivePointSevenZeroPercentageS
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+largest customer in the Paper segment. Effective March 1, 2025, we have amended the agreement with ODP in which we will continue to supply commodity and non-commodity office papers through December 31, 2026. If the agreement is not renewed by the parties, ODP's obligation to purchase paper would phase down over a two-year period beginning January 1, 2027. In 2025, our sales revenue to ODP represented 58% of our Paper segment sales revenue and 4% of our consolidated sales revenue. 
+7 
+Competition The markets in which our Paper segment competes are large and highly competitive. Commodity grades of UFS paper are globally traded, with numerous worldwide manufacturers, and as a result, these products compete primarily on the basis of price. Our paper manufacturing facility is located in the United States, and although we compete primarily in the domestic market, we do face competition from foreign producers. In 2016, as a result of a case brought by us and other domestic producers before United States international trade authorities, antidumping and countervailing duties at various levels were imposed on producers of uncoated freesheet papers produced in Australia, Brazil, China, Indonesia, and Portugal. These duties remain in effect after sunset review of duty orders by the U.S. International Trade Commission in January 2022. Other factors influencing competition from overseas producers include domestic and foreign demand and foreign currency exchange rates. Our largest competitors include Domtar Corporation, a division of Paper Excellence, and Sylvamo Corporation. We also face competition from foreign producers and smaller North American producers. Although price is the primary basis for competition in most of our paper grades, quality and service are also important competitive determinants. Our papers compete with electronic data transmission, e-readers, electronic document storage alternatives, and paper grades we do not produce. Increasing shifts to these alternativ
+
+---
+Doc size: 2048KB (capped at 2MB)

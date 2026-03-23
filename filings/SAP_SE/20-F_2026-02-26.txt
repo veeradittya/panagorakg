@@ -1,0 +1,14 @@
+# SAP SE — 20-F Annual Report
+# Filed: 2026-02-26
+# CIK: 1000184
+# SIC: Services-Prepackaged Software
+# Source: https://www.sec.gov/Archives/edgar/data/1000184/000110465926020058/sap-20251231x20f.htm
+
+## BUSINESS DESCRIPTION
+(Not extracted)
+
+## RISK FACTORS
+(Not extracted)
+
+---
+Document size: 12511 KB

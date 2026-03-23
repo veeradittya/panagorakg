@@ -1,0 +1,101 @@
+# FULGENT GENETICS INC — 10-K Annual Report
+# Filed: 2026-02-27
+# CIK: 1674930
+# SIC: Services-Medical Laboratories
+# Source: https://www.sec.gov/Archives/edgar/data/1674930/000119312526079169/flgt-20251231.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1. 
+Business 
+1
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+29 
+Item 1B. 
+Unresolved Staff Comments 
+71 
+Item 1C. 
+Cybersecurity 
+71 
+Item 2. 
+Properties 
+73 
+Item 3. 
+Legal Proceedings 
+73 
+Item 4. 
+Mine Safety Disclosures 
+74 
+PART II 
+75 
+Item 5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+75 
+Item 6. 
+[Reserved] 
+76 
+Item 7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+77 
+Item 7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+89 
+Item 8. 
+Financial Statements and Supplementary Data 
+91 
+Item 9. 
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+91 
+Item 9A. 
+Controls and Procedures 
+91 
+Item 9B. 
+Other Information 
+93 
+Item 9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+93 
+PART III 
+94 
+Item 10. 
+Directors, Executive Officers and Corporate Governance 
+94 
+Item 11. 
+Executive Compensation 
+94 
+Item 12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+94 
+Item 13. 
+Certain Relationships and Related Transactions, and Director Independence 
+94 
+Item 14. 
+Principal Accountant Fees and Services 
+94 
+PART IV 
+95 
+Item 15. 
+Exhibits and Financial Statement Schedules 
+95 
+Item 16. 
+Form 10-K Summary 
+95 
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS This report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act. Forward-looking statements are statements other than historical facts and relate to future events or circumstances or our future performance, and they are based on our current assumptions, expectations and beliefs concerning future developments and their potential effect on our business. The words believe, may, will, potentially, estimate, continue, anticipate, intend, could, would, project, plan, expect, possible, likely, probable, and similar expressions that convey uncertainty of future events or outcomes identify forward-looking statements. The forward-looking statements in this report include statements about, among other things: developments, projections, and trends relating to us, our competitors, and our industry; our plans for our business; our ability to integrate any acquired businesses and technologies and to realize the value of any acquired entities and assets, joint ventures, or investments; our operating performance, including our ability to stabilize the historical fluctuations in our performance and to achieve, maintain, or grow profitability; the rate and degree of market acceptance and adoption of our tests and testing services and other anticipated trends in our industry; our competitive advantages and our ability to remain competitive; our ability to continue to expand our test menu and introduce other improvements to our tests; our continued ability to offer affordable pricing for our tests, to maintain the low internal costs of our business model, and to record acceptable margins on our sales; the timing and our ability to develop our product candidates, to satisfy the U.S. Food and Drug Administration s, or FDA s, regulatory requirements, and to commercialize our product candidates; the anticipated progress of our product candidate development programs, including whether our ongoing and potential future clinical trials will achieve clinically relevant results; our ability to generate data and conduct analyses to support the regulatory approval of our product candidates and our plans to pursue discussions with regulatory authorities, and the anticipated timing, scope and outcome of related regulatory actions or guidance; the success of our competitors research and development efforts for product candidates seeking to treat similar or the same indication as our product candidates; our ability to strengthen our existing base of customers by maintaining or increasing demand from these customers, grow and diversify our customer base, and replace any loss of demand or revenue from our largest customer; our reliance on a limited number of suppliers and their ability to adapt to possible disruptions in their operations; our use of our laboratory facilities and our ability to adapt in the event we need to relocate or in the event any of our facilities are damaged or rendered inoperable; our expectations regarding the receipt of tax credit payments and the timing of such payments; our plans for future sales and marketing efforts; advancements in technology by us and our competitors; our use of technology and ability to prevent security breaches; unauthorized use or disclosure of health information, personal information, or sensitive personal information; loss of data; and other disruptions; our ability to effectively manage any growth we may experience, including expanding our infrastructure, developing increased efficiencies in our operations, and hiring additional skilled personnel in order to support any such growth; developments with respect to U.S. and foreign laws and regulations applicable to our business, and our ability to comply with these regulations; our ability to effectively respond to the results of payor audits and government audits and investigations, such as our currently ongoing U.S. Department of Health Resources and Services Administration, or HRSA, audit and Civil Investigative Demands, or CIDs; our ability to prevent errors in interpreting the results of our tests so as to avoid product liability and professional liability claims; our ability to obtain and maintain coverage and adequate reimbursement for our tests and to manage the complexity of billing and collecting such reimbursement; our beliefs that our tests marketed in the United States are, and will continue to be, laboratory developed tests; changes to the state of the U.S. and foreign healthcare markets, including the role of governments in the healthcare industry, and the impact of general uncertainty in the U.S. healthcare regulatory environment; our ability to attract, retain, and motivate key scientific and management personnel; 
+i 
+our ability to obtain and maintain protection of our trade secrets, intellectual property, and patents, and to not infringe upon the rights of others; our expectations regarding inflation and our future expense levels and our ability to appropriately forecast and plan our expenses; our expectations regarding our future capital requirements and our ability to obtain additional capital if and when needed; and the impact of the above factors and other future events on the market price of our common stock. These forward-looking statements are subject to a number of risks and uncertainties, including, among others, those described under Item 1A, Risk Factors and elsewhere in this report. Moreover, we operate in a competitive and rapidly evolving industry, and new risks emerge from time to time. It is not possible for us to predict all of the risks we may face, nor can we assess the impact of all factors on our business or the extent to which any factor or combination of factors could cause actual results to differ from our expectations. In light of these risks and uncertainties, the forward-looking events and circumstances described in this report may not occur, and actual results could differ materially and adversely from those described in or implied by any forward-looking statements we make. Although we have based our forward-looking statements on assumptions and expectations that we believe are reasonable, we cannot guarantee future results, levels of activity, performance or achievements, or other future events. As a result, forward-looking statements should not be relied on or viewed as predictions of future events, and this report should be read with the understanding that our actual future results, levels of activity, performance and achievements, or other future events may be materially different than what we currently expect. The forward-looking statements in this report speak only as of the date of this document, and except as required by law, we undertake no obligation to update publicly any forward-looking statements for any reason after the date of this report to conform these statements to actual results or to changes in our expectations. We qualify all of our forward-looking statements by this cautionary note. * * * * * * * We own registered or unregistered trademark rights to Fulgent , Picture Genetics , Picture , BEACON , INFORMDX , LUMERA , KNOVA TM , and our company name and logo. Any other service marks, trademarks and trade names appearing in this report are the property of their respective owners. We do not use the or symbol in each instance in which one of our trademarks appears in this report, but this should not be construed as any indication that we will not assert our rights thereto to the fullest extent under applicable law. Fulgent Genetics, Inc., together with its subsidiaries and affiliated professional corporations with which the Company has a management services arrangement, are collectively referred to in this Annual Report on Form 10-K as the Company, Fulgent, we, us, and our. 
+ii 
+PART I Item 1. Business. Overview We are a technology-based company with a well-established laboratory services business and a therapeutic development business. Our laboratory services business includes technical laboratory and testing services and professional interpretation of laboratory results by licensed physicians. Our therapeutic development business is focused on developing product candidates for treating a broad range of cancers using a novel nanoencapsulation and targeted therapy platform designed to improve the therapeutic window and pharmacokinetic profile, or PK profile, of new and existing cancer drugs. Mission and Vision Founded in 2011, Fulgent began with two simple ideas: flexibility and affordability. We offer and develop flexible and affordable diagnostic and genetic tests and laboratory services designed to improve patient care and quality of life. We strive to provide the most effective and wide-ranging genetic and diagnostic testing menu on the market. Our long-term vision is to transform from a diagnostic business into a fully integrated precision medicine company. Our Laboratory Services Business We have broad testing capabilities with a testing services menu that is scalable and affordable for our customers. Our testing services include: Comprehensive anatomic pathology testing services, including gastrointestinal pathology, dermatopathology, urologic pathology, breast pathology, neuropathology, and hematopathology. These services are supported by our expansive geographic presence with the Clinical Laboratory Improvement Amendments of 1988, or CLIA, licensed laboratories in the United States. We have also made significant investment in digital pathology using artificial intelligence, or AI, technology, which allows us to digitize specimen slides instead of the traditional method of microscopy. Precision diagnostics testing services, including next-generation sequencing, or NGS, tests for biopharma research and clinical tests for rare disease, hereditary cancer, reproductive health, and many other disease subtypes. Our precision diagnostic testing also includes specialized oncology services that utilize a wide array of technologies. These services include flow cytometry; cytogenetic analysis; fluorescence in-situ, or FISH; immunohistochemistry; molecular genetics; NGS; and consultations in hematopathology and surgical pathology. We also offer testing services and licensing to pharmaceutical or biotech companies, contract research organizations, or CROs, or sponsored testing programs, which we call BioPharma services. Picture is a patient-centric telemedicine platform that prioritizes patient convenience and education, giving consumers the power to initiate testing and access to clinical support. Picture tests help individuals identify important health markers to empower their personal health journey. 
+1 
+Our Laboratory Services Technology Platform Our proprietary technology platform for our laboratory services business includes proprietary gene probes, data suppression and comparison algorithms, AI learning software, and proprietary laboratory information management systems. Additionally, we have developed our own image management system, which was created to address the growing demand for custom features necessitated by our high daily case throughput, to support all lines of business and to enable the deployment and integration of AI tools to assist pathologists in their diagnoses. These platforms provide a broad test menu, the ability to rapidly develop and launch new tests, customizable test offerings, lower cost per test, and high efficiency. Our Therapeutic Development Business - Fulgent Pharma In 2022, we completed our acquisition of Fulgent Pharma Holdings, Inc., or Fulgent Pharma. Our efforts at Fulgent Pharma are based on a novel nano-drug delivery platform technology capable of delivering various water insoluble or poorly soluble drugs. Nano-drug delivery, or nanoencapsulation, refers to a technology where active pharmaceuticals are encapsulated within miniature capsules to protect and control the release of these pharmaceuticals in a targeted manner. Unlike other nano drug delivery materials such as Human Serum Albumin, which is only soluble in water, our nano-drug delivery materials used for our product candidates in development are soluble not only in water, but also in various organic solvents, as well as capable of hot melt mixing with active pharmaceutical ingredients, or APIs. We believe these advantages will allow us to generate a much broader range of product candidate formulations, particularly amorphous product candidate formulations, which can be used for both intravenous, or IV, and oral formulations with a goal to improve the PK profile, as well as safety and efficacy, for encapsulated drugs and therapeutics. The goal of our nano-drug delivery platform is to develop product candidates to treat various diseases for which we believe the current standard of care is inadequate or may be improved. The target markets for these product candidates are large and well-established, as shown in the figures below: Note: U.S. opportunity shown Sources: Evaluate Pharma, Wall Street research, and management pricing expectations 1. Head & Neck, or H&N, market opportunity for both 2 nd line and 3 rd line therapy 2. Non-small-cell lung cancer, or NSCLC 
+2 
+Our current research and development progress for certain of our candidates and assets is shown in the pipeline chart below. Our Laboratory Services Customers We currently classify our customers in our laboratory services business by their payor types: (i) Insurance; (ii) Institutional, including hospitals, medical institutio
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer. We plan to continue to focus on developing other customers and capturing new customers. If these efforts are successful, we may be able to offset, or partially offset, this decrease in revenue. We currently classify our customers into three payor types: (i) Insurance, (ii) Institutional, including hospitals, medical institutions, other laboratories, governmental bodies, and large corporations or (iii) Patients who pay directly. Typically, we bill our Institutional customers for our tests, and they are responsible for paying us directly and billing their patients separately or obtaining reimbursement from insurance payors in connection with a patient s diagnosis related group. A small percentage of our customers are patients, who elect to pay for tests themselves with out-of-pocket payments after their physicians have ordered our tests. We continue to make efforts to diversify our customer market, including building relationships with hospitals and affiliated specialties related to our service offerings. We are also pursuing relationships with payors, including Medicare, some state Medicaid programs, and commercial payors, in an effort to obtain coverage and reimbursement for our tests to make them accessible to more individual physicians. Generally, when we establish these new customer relationships, we agree with the applicable payor, laboratory, or other customer to provide certain of our tests at negotiated rates, but, subject to limited exceptions, most of these relationships do not obligate any party to order our tests at any agreed volume or frequency or at all. Further, any relationships we may or have developed with any government agencies are subject to unique risks associated with government contracts, including cancellation if adequate appropriations for subsequent performance periods are not made and modification or termination at the government s convenience without prior notice. These efforts may not lead to meaningful or any incr
+
+---
+Doc size: 2048KB (capped at 2MB)

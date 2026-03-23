@@ -1,0 +1,130 @@
+# SUNOPTA INC — 10-K Annual Report
+# Filed: 2026-03-04
+# CIK: 351834
+# SIC: Beverages
+# Source: https://www.sec.gov/Archives/edgar/data/351834/000106299326001270/form10k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+Item 1 
+Business 
+4
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+9 
+Item 1B 
+Unresolved Staff Comments 
+21 
+Item 1C 
+Cybersecurity 
+21 
+Item 2 
+Properties 
+22 
+Item 3 
+Legal Proceedings 
+22 
+Item 4 
+Mine Safety Disclosures 
+22 
+PART II 
+Item 5 
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+22 
+Item 6 
+[Reserved] 
+23 
+Item 7 
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+24 
+Item 7A 
+Quantitative and Qualitative Disclosures About Market Risk 
+38 
+Item 8 
+Financial Statements and Supplementary Data 
+39 
+Item 9 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+39 
+Item 9A 
+Controls and Procedures 
+39 
+Item 9B 
+Other Information 
+42 
+Item 9C 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+42 
+PART III 
+Item 10 
+Directors, Executive Officers and Corporate Governance 
+42 
+Item 11 
+Executive Compensation 
+42 
+Item 12 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+42 
+Item 13 
+Certain Relationships and Related Transactions, and Director Independence 
+43 
+Item 14 
+Principal Accounting Fees and Services 
+43 
+PART IV 
+Item 15 
+Exhibits, Financial Statement Schedules 
+43 
+Item 16 
+Form 10-K Summary 
+48 
+SUNOPTA INC. 
+1 
+January 3, 2026 Form 10-K 
+Basis of Presentation 
+Except where the context otherwise requires, all references in this Annual Report on Form 10-K for the fiscal year ended January 3, 2026 ("Form 10-K") to "SunOpta," the "Company," "we," "us," "our" or similar words and phrases are to SunOpta Inc. and its subsidiaries, taken together. 
+In this report, all currency amounts presented are expressed in United States ("U.S.") dollars ("$"), unless otherwise stated. 
+Forward-Looking Statements 
+This Form 10-K contains forward-looking statements that are based on management's current expectations and assumptions and involve a number of risks and uncertainties. Generally, forward-looking statements do not relate strictly to historical or current facts and are typically accompanied by words such as "anticipate," "estimate," "target," "intend," "project," "potential," "predict," "continue," "believe," "expect," "can," "could," "would," "should," "may," "might," "plan," "will," "budget," "forecast," the negatives of such terms, and words and phrases of similar impact and include, but are not limited to, statements regarding the proposed Arrangement (as defined below under Part I, Item 1, Business - Arrangement Agreement ), including the anticipated timing and the various steps to be completed in connection with the Arrangement, including receipt of shareholder, court and regulatory approvals, the anticipated timing for closing of the Arrangement, and the anticipated delisting of the shares from The Nasdaq Stock Market and the Toronto Stock Exchange; references to future financial and operating results, plans, objectives, expectations, and intentions; our expectations regarding the future profitability of our business, including anticipated results of operations, revenue trends, and gross margin profile; our expectations regarding customer demand, consumer preferences, competition, sales pricing, and availability and pricing of raw material inputs; the expected cost and timing to complete planned capital expenditures; the uncertainty of the tariff environment and the potential effects on our business; ability and timing to achieve the expected benefits from our margin improvement investments; the adequacy of internally generated funds and existing sources of liquidity, such as the availability of bank financing; the anticipated sufficiency of future cash flows to enable the payments of interest and repayment of debt, working capital needs, and planned capital expenditures; our ability to obtain additional financing or issue additional debt or equity securities; our estimate of insurance recoveries associated with the withdrawal of certain batches of aseptically-packaged products in 2024; the outcome of litigation to which we may, from time to time, be a party; and other statements that are not historical facts. These forward-looking statements are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements are based on certain assumptions, expectations and analyses we make in light of our experience and our interpretation of current conditions, historical trends and expected future developments, as well as other factors that we believe are appropriate in the circumstances. 
+Whether actual results and developments will be consistent with and meet our expectations and predictions is subject to many risks and uncertainties. Accordingly, there are important factors that could cause our actual results to differ materially from our expectations and predictions. We believe these factors include, but are not limited to, the risk that the closing of the Arrangement might be delayed or not occur at all, due to the failure of one or more conditions to closing, or due to other factors; potential litigation against us in respect of the Arrangement; disruption and uncertainty from the Arrangement making it more difficult to maintain customer, supplier, key personnel and other strategic relationships; the effects that any termination of the Arrangement Agreement may have on us and our business, including the risk that our share price may decline significantly if the proposed transaction is not completed or the risk that we may be required to pay a termination fee; the fact that our management's or employees' attention may be diverted from other important matters while the Arrangement is pending; the effect of limitations that the Arrangement Agreement places on our ability to operate our business, return capital to shareholders or engage in alternative transactions; the impact of global economic conditions, including inflation, interest rates, and energy availability on our business; the potential for economic disruption due to geopolitical events and health crises; our ability to increase pricing to offset, or partially offset, inflationary pressures on the cost of our products; issues affecting our supply chain and procurement of raw materials, including fluctuations in the cost and availability of raw and packaging materials; our ability to increase pricing or absorb additional expenses in response to the potential impact of new or increased tariffs; labor shortages, employee turnover, and labor cost increases; business interruptions due to weather events, natural disasters, other unexpected events or public health crises; the potential loss of one or more of our key customers; our ability to identify, interpret and react to changes in consumer preferences and demand; our ability to effectively respond to competitive factors, including product innovations of our competitors; a failure to realize some or all of the anticipated benefits from our capital investment plans; a failure to successfully integrate or divest businesses, operations, or assets; impairments of long-lived assets or goodwill; a failure of our internal control over financial reporting; occurrence of product recall and withdrawal events; results of litigation and other legal proceedings; changes in government regulations and policies; infringements of our intellectual property; risks associated with our information technology systems, including the threat of data breaches and cyber-attacks; the impacts of severe weather events, natural disasters, and climate change on the supply and cost of raw and packaging materials, as well as energy, fuel and water; the availability and pricing of non-GMO and organic ingredients; global economic and financial conditions on availability of financing and interest rates; the effects of increased debt levels and service obligations on our ability to borrow or the cost of any such additional borrowing on our ability to react to certain economic and industry conditions; and other risks described herein under Part I, Item 1A, Risk Factors . 
+SUNOPTA INC. 
+2 
+January 3, 2026 Form 10-K 
+All forward-looking statements made herein are qualified by these cautionary statements, and our actual results or the developments we anticipate may not be realized. Our forward-looking statements are based only on information currently available to us and speak only as of the date on which they are made. We do not undertake any obligation to publicly update our forward-looking statements, whether written or oral, after the date of this report for any reason, even if new information becomes available or other events occur in the future, except as may be required under applicable securities laws. The foregoing factors should not be construed as exhaustive and should be read in conjunction with the other cautionary statements that are included in this report. 
+SUNOPTA INC. 
+3 
+January 3, 2026 Form 10-K 
+PART I 
+Item 1. Business 
+The Company 
+SunOpta Inc. was organized under the laws of Canada in 1973. We deliver customized supply chain solutions and innovation for top brands, retailers, and foodservice providers across a broad portfolio of beverages, broths, and better-for-you snacks. Our plant-based beverage offerings include oat, almond, soy, coconut and rice milks, which have a favorable climate profile relative to traditional dairy milks in terms of lower carbon emissions and water usage. Our portfolio includes non-genetically modified ("non-GMO"), organic, and gluten-free products. We distribute our products through retail, club, foodservice and e-commerce channels. We also produce liquid ingredients for internal use and for sale to other food and beverage manufacturers. 
+Our employees and production facilities are principally located in the U.S., as well as Canada. Our corporate headquarters is located in Eden Prairie, Minnesota, together with our innovation center and pilot plant. 
+Arrangement Agreement 
+On February 6, 2026, we entered into an Arrangement Agreement (the "Arrangement Agreement") with Pegasus BidCo B.V. ("Parent"), a private company with limited liability incorporated under the laws of the Netherlands, and 2786694 Alberta Ltd., a corporation formed under the laws of the Province of Alberta and a wholly-owned subsidiary of Parent ("Purchaser" and together with Parent, "Refresco"), pursuant to which, on the terms and subject to the conditions set forth therein, Purchaser has agreed to acquire all of our issued and outstanding common shares, including the common shares issuable on the exchange of our issued and outstanding shares of Series B-1 Preferred Stock, by way of a court-approved statutory plan of arrangement under the Canada Business Corporations Act (the "Arrangement"). Pursuant to the Arrangement, at the closing, each of our issued and outstanding common shares (other than shares held by dissenting shareholders, if any) will be transferred to Purchaser for consideration of $6.50 per share in cash, less applicable withholdings. The Arrangement is expected to close in the second quarter of 2026, subject to satisfaction or waiver of the closing conditions, including receipt of court and regulatory approvals, and subject to the approval of our shareholders. Upon completion of the transaction, we will become a wholly-owned subsidiary of Refresco, and our common shares will be delisted from The Nasdaq Stock Market and the Toronto Stock Exchange. 
+Customers and Competition 
+We sell our products through various distribution channels, including grocery retailers and club stores, foodservice operators, branded food companies, and food manufacturers, located principally in the U.S., as well as e-commerce channels. We generally conduct our business with customers based on purchase orders or pursuant to contracts that are terminable by either party following a designated notice period. However, some of our contracts may extend for several years and/or include volume purchase commitments. A relatively limited number of customers account for a large percentage of our revenues. In 2025, our ten largest customers accounted for approximately 84% of our revenues. 
+We compete with major branded and private-label food manufacturers that may have significantly greater resources and brand recognition than we do. However, we believe that the strategic locations of our manufacturing and distribution facilities, our in-house processing and packaging capabilities, and our innovation center and pilot plant, allows us to compete effectively. For sales of private label and co-manufactured products, the principal competitive factors are product quality, reliability of service, innovation, and price. For sales of our own branded products, the principal competitive factors are consumer brand recognition and loyalty, product quality, promotion, and price. 
+Raw Materials 
+Our raw materials primarily consist of ingredients and packaging materials. Principal ingredients used in our products include oats, almonds, soybeans, coconut, apple, and sugar. For critical raw materials, we identify and qualify alternate sources of supply, where possible. Ingredients are subject to fluctuations in market price caused by weather, growing and harvesting conditions, inflation, tariffs, commodity speculation, and other factors beyond our control. Where possible, we mitigate market price volatility by entering into annual purchase arrangements with our suppliers and by incorporating pass-through pricing adjustment clauses into our contracts with customers. The costs of raw materials used in our products also fluctuate due to energy costs, fuel prices, labor availability, and freight and storage demand. Additionally, certain jurisdictions have either enacted or are considering enacting extended producer responsibility ("EPR") laws and regulations that require manufacturers to be responsible for the collection, recycling, and disposal of the packaging materials they introduce into the market. Volatility in the cost of our raw materials can adversely affect our performance, as price changes may lag behind changes in costs, and we are not always able to adjust our pricing to reflect changes in raw material costs. 
+SUNOPTA INC. 
+4 
+January 3, 2026 Form 10-K 
+We rely on our packaging suppliers to ensure delivery of often unique, portable, and convenient consumer packaging formats. In our plant-based beverage processing facilities, we specialize in the use of Tetra Pak processing and packaging equipment in a variety of package sizes, and an array of opening types and extended shelf-life options. Over 95% of our packaging by weight is recyclable, and we are committed to working with our suppliers to innovate and develop new packaging technologies to further reduce the impact on the environment, while maintaining the quality a
+
+## GEOGRAPHIC REVENUE
+to "SunOpta," the "Company," "we," "us," "our" or similar words and phrases are to SunOpta Inc. and its subsidiaries, taken together. 
+In this report, all currency amounts presented are expressed in United States ("U.S.") dollars ("$"), unless otherwise stated. 
+Forward-Looking Statements 
+This Form 10-K contains forward-looking statements that are based on management's current expectations and assumptions and involve a number of risks and uncertainties. Generally, forward-looking statements do not relate strictly to historical or current facts and are typically accompanied by words such as "anticipate," "estimate," "target," "intend," "project," "potential," "predict," "continue," "believe," "expect," "can," "could," "would," "should," "may," "might," "plan," "will," "budget," "forecast," the negatives of such terms, and words and phrases of similar impact and include, but are not limited to, statements regarding the proposed Arrangement (as defined below under Part I, Item 1, Business - Arrangement Agreement ), including the anticipated timing and the various steps to be completed in connection with the Arrangement, including receipt of shareholder, court and regulatory approvals, the anticipated timing for closing of the Arrangement, and the anticipated delisting of the shares from The Nasdaq Stock Market and the Toronto Stock Exchange; references to future financial and operating results, plans, objectives, expectations, and intentions; our expectations regarding the future profitability of our business, including anticipated results of operations, revenue trends, and gross margin profile; our expectations regarding customer demand, consumer preferences, competition, sales pricing, and availability and pricing of raw material inputs; the expected cost and timing to complete planned capital expenditures; the uncertainty of the tariff environment and the potential effects on our business; ability and timing to achieve the expected benefits from our margin improvement investments; the adequacy of internally generated funds and existing sources of liquidity, such as the availability of bank financing; the anticipated sufficiency of future cash flows to enable t
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customer or market share, or a current expectation that, more likely than not, a long-lived asset may be disposed of before the end of its previously estimated useful life. 
+We perform an annual impairment test for goodwill, or at any time when events occur that could indicate that more likely than not the carrying value of a reporting unit exceeds its fair value. Indicators of goodwill impairment include, but are not limited to, a decline in general economic conditions, an increased competitive environment in which a reporting unit operates, a negative trend in the financial performance and cash flows of the reporting unit, and a more-likely-than-not expectation of selling or disposing of all, or a portion, of a reporting unit. 
+For the year ended January 3, 2026, we did not recognize any material impairment charges related to our long-lived assets or goodwill. However, future impairments of long-lived assets and/or goodwill could materially and adversely impact our business, financial condition and results of operations. 
+If we lose the services of our key executives, our business could suffer 
+Our prospects depend to a significant extent on the continued service of our key executives, and our continued growth depends on our ability to identify, recruit, and retain key management personnel. We do not typically carry key person life insurance on our executive officers. If we lose the services of our key executives or fail to identify, recruit, and retain key management personnel, our business, financial condition, and results of operations may be materially and adversely impacted. 
+Failure of our internal control over financial reporting could harm our business and financial results 
+Our management is responsible for establishing and maintaining effective internal control over financial reporting. Internal control over financial reporting is a process to provide reasonable assurance regarding the reliability of financial reporting for external purposes
+
+---
+Doc size: 2048KB (capped at 2MB)

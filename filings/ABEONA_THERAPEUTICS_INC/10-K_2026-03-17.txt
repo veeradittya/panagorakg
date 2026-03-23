@@ -1,0 +1,301 @@
+# ABEONA THERAPEUTICS INC — 10-K Annual Report
+# Filed: 2026-03-17
+# CIK: 318306
+# SIC: Pharmaceutical Preparations
+# Source: https://www.sec.gov/Archives/edgar/data/318306/000149315226010413/form10-k.htm
+
+## BUSINESS DESCRIPTION (Item 1)
+(Not extracted)
+
+## RISK FACTORS (Item 1A)
+Risk Factors 
+27 
+Item
+1B. 
+Unresolved Staff Comments 
+55 
+Item
+1C. 
+Cybersecurity 
+55 
+Item
+2. 
+Properties 
+56 
+Item
+3. 
+Legal Proceedings 
+56 
+Item
+4. 
+Mine Safety Disclosures 
+56 
+Part II 
+Item
+5. 
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+57 
+Item
+7. 
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+57 
+Item
+7A. 
+Quantitative and Qualitative Disclosures About Market Risk 
+66 
+Item
+8. 
+Financial Statements and Supplementary Data 
+66 
+Item
+9. 
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+66 
+Item
+9A. 
+Controls and Procedures 
+66 
+Item
+9B. 
+Other Information 
+67 
+Item
+9C. 
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+67 
+Part III 
+Item
+10. 
+Directors, Executive Officers and Corporate Governance 
+68 
+Item
+11. 
+Executive Compensation 
+68 
+Item
+12. 
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+68 
+Item
+13. 
+Certain Relationships and Related Transactions, and Director Independence 
+68 
+Item
+14. 
+Principal Accounting Fees and Services 
+68 
+Part IV 
+Item
+15. 
+Exhibits, Financial Statement Schedules 
+69 
+Item
+16. 
+Form 10-K Summary 
+71 
+Signatures 
+72 
+1 
+FORWARD-LOOKING
+STATEMENTS 
+This
+Form 10-K (including information incorporated by reference) contains statements that express management s opinions, expectations,
+beliefs, plans, objectives, assumptions or projections regarding future events or future results and therefore are, or may be deemed
+to be, forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section
+21E of the Securities Exchange Act of 1934, as amended. Words such as expects, anticipates, intends, 
+plans, believes, could, would, seeks, estimates, 
+and variations of such words and similar expressions, and the negatives thereof, are intended to identify such forward-looking statements.
+Such forward-looking statements speak only as of the date made and are not guarantees of future performance and involve
+certain risks, uncertainties, estimates, and assumptions by management that are difficult to predict. Various factors, some of which
+are beyond the Company s control, could cause actual results to differ materially from those expressed in, or implied by, such
+forward-looking statements. In addition, we disclaim any obligation to update any forward-looking statements to reflect events or circumstances
+after the date of this report, except as may otherwise be required by the federal securities laws. 
+Forward-looking
+statements necessarily involve risks and uncertainties, and our actual results could differ materially from those anticipated in forward-looking
+statements due to a number of factors. These statements include statements about: our ability to successfully commercialize ZEVASKYN 
+and generate future revenue; our plans to continue development of AAV-based gene therapies designed to treat ophthalmic diseases;
+our pipeline of product candidates, including the achievement of or expected timing, progress and results of clinical development, clinical
+trials and potential regulatory approvals; our dependence upon our third-party customers and vendors and their compliance with applicable
+regulations; our estimates regarding expenses, capital requirements, and needs for additional financing; our intellectual property position
+and our ability to obtain, maintain and enforce intellectual property protection and exclusivity for our proprietary assets; our estimates
+regarding the size of the potential markets for ZEVASKYN and our product candidates, the strength of our commercialization
+strategies and our ability to serve and supply those markets; and future economic conditions or performance. 
+Important
+factors that could affect performance and cause results to differ materially from management s expectations are described in the
+sections entitled Risk Factors and Management s Discussion and Analysis of Financial Condition and Results
+of Operations in this Form 10-K. These factors include: our ability to maintain existing and obtain additional regulatory approvals
+of ZEVASKYN and any future product candidates; our ability to successfully commercialize and market ZEVASKYN 
+and any future product candidates, if approved, and the timing of any commercialization and marketing efforts; our ability to manufacture
+sufficient batches of ZEVASKYN to meet demand; our ability to activate additional qualified treatment centers to administer
+ZEVASKYN on patients; our ability to access our existing at-the-market sale agreement; our ability to access additional
+financial resources and/or our financial flexibility to reduce operating expenses if required; our ability to obtain additional equity
+funding from current or new stockholders; the potential impact of unpredicted changes in the structure and/or administration of the United
+States government or its agencies; our ability to out-license technology and/or other assets, deferring and/or eliminating planned expenditures,
+restructuring operations and/or reducing headcount, and sales of assets; the dilutive effect that raising additional funds by selling
+additional equity securities would have on the relative equity ownership of our existing investors, including under our existing at-the-market
+sale agreement; the outcome of any interactions with the FDA or other regulatory agencies relating to any of our products or product
+candidates; our ability to continue to secure and maintain regulatory designations for our product candidates; our ability to develop
+manufacturing capabilities compliant with current good manufacturing practices for our product candidates; our ability to manufacture
+cell and gene therapy products and produce an adequate product supply to support clinical trials and potentially future commercialization;
+the rate and degree of market acceptance of our product candidates for any indication once approved; our ability to meet our obligations
+contained in license agreements to which we are party; and macroeconomic uncertainty resulting from changes to U.S. trade policy, including
+current or future tariffs or other trade restrictions. 
+This
+Form 10-K includes our trademarks, trade names and service marks, such as ZEVASKYN and AIM , 
+which are protected under applicable intellectual property laws and are the property of Abeona Therapeutics Inc. or its subsidiaries.
+Solely for convenience, trademarks, trade names and service marks referred to in this report appear without the and symbols,
+but such references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our
+rights or the right of the applicable licensor to these trademarks, trade names and service marks. We do not intend our use or display
+of other parties trademarks, trade names or service marks to imply, and such use or display should not be construed to imply,
+a relationship with, or endorsement or sponsorship of us by, these other parties. 
+2 
+PART
+I 
+ITEM
+1. BUSINESS 
+Business 
+Abeona
+Therapeutics Inc., a Delaware corporation (together with our subsidiaries, we, our, Abeona 
+or the Company ), is a commercial-stage biopharmaceutical company developing cell and gene therapies for life-threatening
+diseases. On April 28, 2025, the U.S. Food and Drug Administration ( FDA ) approved ZEVASKYN (prademagene
+zamikeracel) gene-modified cellular sheets, also known as ZEVASKYN , as the first and only autologous cell-based gene
+therapy for the treatment of wounds in adult and pediatric patients with recessive dystrophic epidermolysis bullosa ( RDEB ),
+a serious and debilitating genetic skin disease. There is no cure for RDEB, and ZEVASKYN is the only FDA-approved product to treat RDEB wounds with
+a single surgical application. ZEVASKYN was granted Orphan Drug and Rare Pediatric Disease designations by the FDA 
+ZEVASKYN is manufactured at our current
+Good Manufacturing Practices ( cGMP ) manufacturing facility in Cleveland, Ohio. Treatments are available through ZEVASKYN 
+qualified treatment centers, a network of centers that are selected based on their expertise in cell and gene therapy and trained to administer
+ZEVASKYN . As of March 2026, we have activated 4 qualified treatment centers and are in discussions with additional centers
+as we continue to expand the ZEVASKYN qualified treatment network. 
+The Company s development portfolio also features adeno-associated virus ( AAV )-based
+gene therapies designed to treat ophthalmic diseases with high unmet need using novel AIM capsids. Abeona s novel AAV capsids are being evaluated to improve tropism profiles for a variety of devastating diseases. 
+We partner with leading academic researchers, patient
+advocacy organizations, caregivers and other biotechnology companies to develop and deliver therapies that address the underlying cause
+of a broad spectrum of rare genetic diseases for which no effective treatment options exist today. 
+Our
+Mission and Strategy 
+Our
+strategy consists of: 
+Commercializing
+ZEVASKYN and Advancing and Commercializing our Cell and Gene Therapy Programs. 
+Through
+our cell and gene therapy expertise in research and development, we believe we are positioned to introduce efficacious and safe
+therapeutics to transform the standard of care in devastating diseases and establish our leadership position in the field. We are
+commercializing ZEVASKYN by ourselves and may develop future strategic partnerships for ZEVASKYN and
+we intend to commercialize our other assets either by ourselves or through strategic partnerships, subject to FDA
+approval. 
+Developing
+Novel In-Vivo Gene Therapies Using AIM Capsid Technology. 
+We
+are researching and developing AAV-based gene therapies using novel AAV capsids both derived from the licensed AIM Capsid Technology
+Platform and invented by the Company. We plan to continue to develop chimeric AAV capsids capable of improved tissue targeting for various
+indications and that can potentially evade immunity to wild-type AAV vectors. 
+3 
+Leveraging
+our Leadership Position in Commercial-Scale Cell and Gene Therapy Manufacturing. 
+We
+established cGMP, commercial and clinical-scale manufacturing capabilities for engineered cell and gene therapies in our state-of-the-art Cleveland, Ohio facility. We believe that our manufacturing platform provides us with
+distinct advantages, including flexibility, scale, reliability, and the potential for reduced development risk, reduced cost, and
+faster times to market. We have focused on establishing internal Chemistry Manufacturing and Controls ( CMC ) capabilities that drive value for our organization through
+process development, assay development and manufacturing. We have also deployed robust quality systems governing all aspects of
+product lifecycle from preclinical through commercial stage. 
+Establishing
+Additional Cell and Gene Therapy Franchises and Adjacencies through In-Licensing and Strategic Partnerships. 
+We
+seek to be the partner of choice in cell and gene therapy treatments and have closely collaborated with leading academic institutions,
+key opinion leaders, patient foundations, and industry partners to accelerate research and development, understand the needs of patients
+and their families, and generate novel intellectual property. 
+Maintaining
+and Growing our IP Portfolio. 
+We
+seek patent rights for various aspects of our programs, including vector engineering and construct design, our production process, and
+all features of our clinical products, including compositions of matter and methods of manufacture, administration, and delivery. We expect
+to continue to expand our intellectual property portfolio by aggressively seeking patent rights for promising aspects of our product
+engine and product candidates. 
+ZEVASKYN 
+for the Treatment of RDEB 
+Disease
+Overview 
+RDEB
+belongs to a broad group of genetic skin disorders known as epidermolysis bullosa. Patients with RDEB have a defect in the COL7A1 gene,
+resulting in the inability to produce Type VII collagen, which plays a vital role in skin functioning by anchoring the skin s dermal
+and epidermal layers to one another. 
+As
+a result of the genetic defect, RDEB patients have fragile skin, which can easily damage to produce open and blistering wounds,
+disfiguring scars throughout the body, fused fingers and toes, limits in range of motion at joints (e.g., arms and legs), corneal
+abrasions, and an abnormal narrowing of the esophagus. Long-term RDEB patients can suffer from anemia, infections and are at high
+risk of developing aggressive squamous cell carcinomas, infections, and premature death. The most severe patients are approximately
+20 times more likely to die by 30 years of age than the general population. 
+Similar
+to other rare diseases, the incidence and prevalence of RDEB are not well defined. Incidence of 0.2 to 3.05 per million births and prevalence
+of 0.14 to 1.35 per million people have been observed across different geographies, primarily estimated by limited population analyses
+of clinical databases or registries (Eichstadt et al.; Clinical, Cosmetic and Investigational Dermatology, 2019). Using genetic modeling
+of COL7A1 variants, Stanford University estimated the incidence of RDEB to be approximately 63 per million births, and prevalence could
+be up to 3,850 patients in the U.S., whose wounds may benefit from COL7A1-mediated treatments such as ZEVASKYN . Based
+on claims analysis, we estimate that approximately 750 moderate to severe RDEB patients in the U.S. would be ZEVASKYN 
+eligible patients (Clearview Claims Analysis, 2024). 
+RDEB
+patients have active disease, with the majority of their wounds typically greater than 20 cm 2 in size (Stanford University;
+Solis, D., et al., 2017). In 2020, a survey of RDEB patients reported that approximately 60% have active wounds covering greater than
+30% of their bodies (Bruckner et al.; Orphanet Journal of Rare Diseases, 2020). Wounds covering up to approximately 80% of body surface
+area have been recorded in some EB patients (Hirsch et al.; Nature Research, 2017). 
+4 
+In
+our VIITAL TM phase 3 and phase 1/2a clinical trials, ZEVASKYN was applied as a one-time surgical
+procedure onto RDEB wounds and has shown up to 12 years of durable wound healing and associated pain reduction even in the
+tough-to-treat large, chronic RDEB wounds. Patients evaluated in the VIITAL TM phase 3 trial had some of the worst wounds.
+These wounds were large ( 20cm 2 ) and, on average, had remained open for 6.2 years, and in some
+cases up to 21 years, prior to ZEVASKYN treatment. Most RDEB patients have large and chronic wounds that carry the
+highest burden, including the need for frequent lengthy dressing changes, pain, pruritus (itch), risk of infection, and developing
+skin cancer. 
+Current
+Management of RDEB 
+RDEB wound management currently consists of lengthy and labor
+
+## GEOGRAPHIC REVENUE
+(Not extracted)
+
+## SUPPLY CHAIN / KEY CUSTOMERS
+significant customers, the current economic
+environment/macroeconomic trends, supportable forecasts, and other relevant factors. The Company reviews the credit quality of its accounts
+receivables by monitoring the aging of its accounts receivable, the history of write offs for uncollectible accounts, and the credit
+quality of its significant customers, the current economic environment/macroeconomic trends, supportable forecasts, and other relevant
+factors. The Company has no historical write-offs of its accounts receivable and the Company has determined that an allowance for credit
+losses is not required as of December 31, 2025. 
+Accounts
+receivable, net comprises the following categories (in thousands): 
+SCHEDULE
+OF ACCOUNTS RECEIVABLE 
+2025 
+2024 
+For the year ended December 31, 
+2025 
+2024 
+Product sales 
+$ 3,147 
+$ 
+License revenues 
+3,000 
+Total accounts receivable, net 
+$ 6,147 
+$ 
+Other
+Receivables 
+Other
+receivables include employee retention credits ( ERC ), sublease rent receivables and other miscellaneous receivables that
+are expected to be collected within the next twelve months. As of December 31, 2025 and 2024, the Company had ERC receivables of $ 0.5 
+million and $ 1.6 
+million, respectively, which was recorded in other receivables
+and as a component of other income, net in the consolidated statements of operations and comprehensive income (loss). 
+F- 8 
+Concentration
+of Credit Risk and Off-Balance Sheet Risk 
+Financial
+instruments that subject the Company to credit risk primarily consist of cash and cash equivalents, short-term investments, accounts
+receivable, net and other receivables. The Company maintains its cash and cash equivalent balances with high-quality financial institutions
+and, consequently, the Company believes that such funds are subject to minimal credit risk. The Company is exposed to credit risk in
+the event of default by the financial institutions to the extent amounts recorded on the consolidated balance sheets are in excess of
+i
+
+---
+Doc size: 2048KB (capped at 2MB)
