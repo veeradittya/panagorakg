@@ -1,0 +1,4 @@
+node_modules/
+.env
+proprietary/*
+!proprietary/.gitkeep
