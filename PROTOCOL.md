@@ -484,6 +484,39 @@ CREATE TABLE kg_edges (
 );
 ```
 
+### Label Consistency (IMPORTANT)
+
+This knowledge graph may be merged with an existing geopolitical KG that already has nodes. To avoid duplicates, use these canonical labels for common entities:
+
+| Correct Label | DO NOT USE |
+|---------------|-----------|
+| `United States` | US, USA, America, United States of America |
+| `China` | PRC, People's Republic of China, Chinese |
+| `European Union` | EU |
+| `United Kingdom` | UK, Britain, Great Britain |
+| `Russia` | Russian Federation |
+| `Federal Reserve` | The Fed, US Fed, Federal Reserve Board |
+| `Donald Trump` | Trump, President Trump |
+| `Republican Party` | GOP, Republicans |
+| `Democratic Party` | Democrats, Dems |
+| `Alphabet Inc` | Google (use Alphabet for the parent company, Google for the subsidiary) |
+| `Meta Platforms Inc` | Facebook, Meta |
+| `JPMorgan Chase & Co` | JPMorgan, JP Morgan, Chase |
+
+For company nodes from the 13F, use the **official SEC issuer name** from the CSV as the label. For non-holding entities (people, policies, locations), use the canonical forms above.
+
+### Ticker Lookup
+
+The CSV does not include stock tickers. For the top 50 holdings, look up the ticker from the CUSIP or company name. Include it in the `metadata.ticker` field. For holdings outside the top 50, the ticker is optional — the CUSIP is sufficient for identification.
+
+### Sector Classification
+
+The CSV does not include GICS sector/industry. Classify each holding into:
+- **Sector**: One of: Technology, Healthcare, Financials, Consumer Discretionary, Consumer Staples, Industrials, Energy, Materials, Utilities, Real Estate, Communication Services
+- **Industry**: More specific (e.g., "Semiconductors", "Biotechnology", "Regional Banks")
+
+Include both in `metadata.sector` and `metadata.industry`. For the top 50, this is required. For others, use your best judgment from the company name.
+
 ---
 
 ## 9. Execution Checklist
@@ -527,3 +560,66 @@ User-Agent: YourApp/1.0 your@email.com
 PanAgora's CIK: **0000883677**
 
 For each portfolio company, look up the company's CIK on EDGAR and pull their filings.
+
+---
+
+## 11. Fund-Level Context (for the extracting Claude)
+
+### About PanAgora Asset Management
+
+PanAgora is a **systematic/quantitative** investment manager — they use mathematical models, not fundamental stock-picking. This means:
+- Their portfolio changes are driven by **factor exposures** (value, momentum, quality, volatility) not individual stock opinions
+- Position sizing is algorithmic — they hold 1,176 stocks because their models optimize across a broad universe
+- They are **not activists** — they don't take large concentrated positions or push for board changes
+- Their risk management is **portfolio-level**, not stock-level — correlations and factor tilts matter more than individual company analysis
+
+### Ownership Structure
+- 50% owned by employees
+- 50% owned by **Great-West Lifeco Inc** (TSX: GWO), a Canadian financial services company
+- Great-West Lifeco is controlled by **Power Corporation of Canada** (TSX: POW), controlled by the **Desmarais family**
+- This ownership chain matters — create nodes for Great-West Lifeco, Power Corporation, and the Desmarais family
+
+### Key People (create person nodes)
+- **Eric Sorensen** — Founder and former CEO (1989-2013), pioneer in quantitative investing
+- **Edward Qian** — Chief Investment Officer, creator of Risk Parity strategy
+- **Bryan Belton** — Director of Quantitative Research
+- **George Mussalli** — CIO of Equity, runs stock selection models
+- The firm has ~132 employees, mostly PhDs in mathematics, physics, and engineering
+
+### Investment Strategies (create concept nodes)
+- **Risk Parity**: Equal risk contribution across asset classes (their signature strategy)
+- **Multi-Alpha Equity**: Stock selection using multiple alpha signals
+- **Dynamic Equity**: Factor rotation strategies
+- **ESG Integration**: They incorporate ESG factors into quantitative models
+- **Alternative Risk Premia**: Harvesting risk premiums across asset classes
+
+### Current Date Context
+Today is **March 22, 2026**. Key ongoing events affecting the portfolio:
+- **US-Iran War** (started March 1, 2026): Oil at $126/barrel, Strait of Hormuz 95% blocked, defense stocks surging, airlines hammered
+- **2028 Presidential Race**: Both primaries actively trading on Polymarket/Kalshi
+- **Fed Policy**: 2 rate cuts expected in 2026, inflation elevated due to oil shock
+- **AI Bubble Debate**: NVIDIA at all-time highs, concentration risk in Mag-7
+- **Hungary Election** (April 12, 2026): EU stability implications
+- **Trump tariffs**: Ongoing trade policy uncertainty affecting multinationals
+
+### Historical 13F Filing Accession Numbers (for quarter-over-quarter comparison)
+| Period | Accession | Filed |
+|--------|-----------|-------|
+| Q4 2025 | 0001172661-26-000738 | 2026-02-13 |
+| Q3 2025 | 0001172661-25-004745 | 2025-11-13 |
+| Q2 2025 | 0001172661-25-003130 | 2025-08-13 |
+| Q1 2025 | 0001172661-25-002054 | 2025-05-15 |
+| Q4 2024 | 0001172661-25-000751 | 2025-02-13 |
+
+Use these to identify **new positions** (not in prior quarter) and **closed positions** (in prior quarter but not current). New and closed positions are high-signal for the KG — they indicate the quant models detected something.
+
+### Portfolio Concentration Risk
+The top 10 holdings = 35% of the portfolio. The top 6 are all mega-cap tech:
+1. NVIDIA — $2.1B (7.5%)
+2. Apple — $1.7B (6.1%)
+3. Microsoft — $1.4B (5.1%)
+4. Amazon — $0.9B (3.1%)
+5. Alphabet — $1.4B (5.0%, combined A+C shares)
+6. Meta — $0.7B (2.5%)
+
+**Total Mag-7 exposure: ~29% of portfolio** — this is the single biggest risk factor. Create a `panagora_mag7_concentration` thematic cluster for this.
