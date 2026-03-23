@@ -298,6 +298,79 @@ If proprietary documents are placed in the `proprietary/` directory:
 3. Mark these with `"source": "proprietary"` in edge metadata
 4. Do NOT include the raw proprietary text in any output
 
+### Phase 7: Active Market Event Mapping (CRITICAL)
+
+This phase connects portfolio holdings to **live prediction market events** from Polymarket and Kalshi. This is what makes the knowledge graph actionable — it links fundamental analysis to real-time market pricing.
+
+**Input file**: `active_market_events.json` — contains 187 active events with IDs, titles, volumes, and sources.
+
+For each market event, determine which portfolio holdings are **materially affected** by the event's outcome. Create edges with `causal_type: "causal"` or `"correlative"`.
+
+**Mapping rules:**
+
+1. **Direct exposure**: If an event names a specific company held by PanAgora, create a direct edge.
+   - "Will NVIDIA stock hit $200?" → edge to NVIDIA Corporation node
+   - Weight: 8-10 (high)
+
+2. **Sector exposure**: If an event affects a sector PanAgora is exposed to, create edges to the top 5 holdings in that sector.
+   - "How many Fed rate cuts in 2026?" → edges to banks (JPMorgan, BofA), REITs, utilities
+   - "Will Crude Oil hit $150?" → edges to energy holdings (Exxon, Chevron, ConocoPhillips)
+   - Weight: 5-7 (medium)
+
+3. **Geopolitical exposure**: If an event creates country/region risk for holdings with revenue there.
+   - "Will China invade Taiwan by 2026?" → edges to TSMC, NVIDIA (supply chain), Apple (China revenue)
+   - "US x Iran ceasefire by...?" → edges to oil companies, defense contractors, airlines
+   - Weight: 4-6 (medium)
+
+4. **Macro exposure**: If an event affects the broad market, create edges to the portfolio-level node.
+   - "US GDP growth in Q2 2026?" → edge to "PanAgora Portfolio" concept node
+   - "Bitcoin above $100K?" → edges to crypto-exposed holdings (if any)
+   - Weight: 3-5 (lower)
+
+**For each mapping, the edge metadata must include:**
+```json
+{
+  "market_event_id": "event_id_from_active_market_events.json",
+  "market_event_title": "Will Crude Oil hit $150?",
+  "market_event_source": "polymarket",
+  "impact_channel": "Oil price surge increases revenue for energy holdings",
+  "direction": "positive|negative|mixed",
+  "magnitude": "high|medium|low",
+  "confidence": "high|medium|low"
+}
+```
+
+**Key market events to map (by volume):**
+
+| Volume | Event | Affected Holdings |
+|--------|-------|-------------------|
+| $13.5M | Democratic Presidential Nominee 2028 | All (policy uncertainty) |
+| $10.1M | Republican Presidential Nominee 2028 | All (policy uncertainty) |
+| $4.3M | Bitcoin price in March | Crypto-adjacent (if held) |
+| $2.7M | US x Iran ceasefire | Energy, defense, airlines, shipping |
+| $2.4M | Crude Oil price targets | Energy sector, airlines, chemicals |
+| $1.0M | US forces enter Iran | Defense (Lockheed, RTX, Northrop), energy, gold |
+| $0.5M | Fed rate cuts in 2026 | Banks, REITs, growth tech, utilities |
+| $0.3M | China invade Taiwan | TSMC, NVIDIA, Apple, Broadcom, AMD |
+| $0.3M | Trump visit China | Trade-exposed companies |
+
+**Create a `market_event` type node** for each mapped event:
+```json
+{
+  "label": "Will Crude Oil hit $150?",
+  "type": "market_event",
+  "description": "Polymarket prediction market on crude oil prices. $2.4M in 24hr volume.",
+  "metadata": {
+    "event_id": "...",
+    "source": "polymarket",
+    "volume_24hr": 2400000,
+    "current_probability": null
+  },
+  "event_ids": ["panagora_portfolio", "panagora_energy_exposure"],
+  "causal_role": "market_signal"
+}
+```
+
 ---
 
 ## 6. Quality Requirements
@@ -332,10 +405,12 @@ Before finalizing `kg_output.json`, verify:
 3. **All edge endpoints exist** — every `source_label` and `target_label` matches a node
 4. **No empty fields** — all required fields have values
 5. **Reasonable counts**:
-   - Expect 1,200-2,000 nodes total
-   - Expect 3,000-8,000 edges total
+   - Expect 1,500-2,500 nodes total (1,176 holdings + executives + sectors + market events + policies)
+   - Expect 4,000-10,000 edges total (supply chain + competitive + regulatory + market event mappings)
    - Top 50 holdings should have 5+ edges each
    - At least 8 thematic event clusters
+   - At least 30 `market_event` nodes mapped to portfolio holdings
+   - Every market event with >$500K volume should be mapped
 
 ---
 
@@ -396,6 +471,9 @@ CREATE TABLE kg_edges (
 - [ ] Identify regulatory and geopolitical risks
 - [ ] Create thematic event clusters
 - [ ] Process any proprietary documents in `proprietary/`
+- [ ] Map portfolio holdings to active market events (Phase 7) using `active_market_events.json`
+- [ ] Create `market_event` nodes for each mapped prediction market event
+- [ ] Create causal/correlative edges between market events and affected holdings
 - [ ] Cross-verify all claims
 - [ ] Validate output JSON
 - [ ] Write `kg_output.json`
