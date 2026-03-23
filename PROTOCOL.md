@@ -302,7 +302,7 @@ If proprietary documents are placed in the `proprietary/` directory:
 
 This phase connects portfolio holdings to **live prediction market events** from Polymarket and Kalshi. This is what makes the knowledge graph actionable — it links fundamental analysis to real-time market pricing.
 
-**Input file**: `active_market_events.json` — contains 187 active events with IDs, titles, volumes, and sources.
+**Input file**: `active_market_events.json` — contains 515 active prediction market events (>$10K 24hr volume, sports excluded) with IDs, titles, volumes, categories, and sources. Total 24hr volume: $96.3M.
 
 For each market event, determine which portfolio holdings are **materially affected** by the event's outcome. Create edges with `causal_type: "causal"` or `"correlative"`.
 
